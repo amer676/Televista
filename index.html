@@ -88,7 +88,10 @@
       rel="stylesheet"
       href="assets/web/assets/mobirise-icons/mobirise-icons.css"
     />
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.purged.min.css" />
+    <!-- Restore full Bootstrap to fix responsive grid and components -->
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css" />
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css" />
     <link rel="stylesheet" href="assets/dropdown/css/style.css" />
     <link rel="stylesheet" href="assets/socicon/css/styles.css" />
     <link rel="stylesheet" href="assets/theme/css/style.css" />
@@ -1107,14 +1110,26 @@
     >
       <div class="container">
         <nav class="row align-center mbr-white" aria-label="Footer">
-          <ul class="list-unstyled d-flex flex-wrap justify-content-center gap-3 mb-4">
+          <ul
+            class="list-unstyled d-flex flex-wrap justify-content-center gap-3 mb-4"
+          >
             <li><a class="text-white" href="#header14-1f">Home</a></li>
             <li><a class="text-white" href="#features1-1i">Services</a></li>
-            <li><a class="text-white" href="#testimonials-section">Testimonials</a></li>
+            <li>
+              <a class="text-white" href="#testimonials-section"
+                >Testimonials</a
+              >
+            </li>
             <li><a class="text-white" href="#features11-5">Pricing</a></li>
             <li><a class="text-white" href="#aboutus-section">About</a></li>
             <li><a class="text-white" href="#contacts2-1r">Contact</a></li>
-            <li><a class="text-white" href="https://ppl.televistaleadgeneration.com/">Pay Per Lead</a></li>
+            <li>
+              <a
+                class="text-white"
+                href="https://ppl.televistaleadgeneration.com/"
+                >Pay Per Lead</a
+              >
+            </li>
           </ul>
         </nav>
         <div class="row align-center mbr-white">
