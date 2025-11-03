@@ -91,7 +91,10 @@
     <!-- Restore full Bootstrap to fix responsive grid and components -->
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css" />
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css" />
+    <link
+      rel="stylesheet"
+      href="assets/bootstrap/css/bootstrap-reboot.min.css"
+    />
     <link rel="stylesheet" href="assets/dropdown/css/style.css" />
     <link rel="stylesheet" href="assets/socicon/css/styles.css" />
     <link rel="stylesheet" href="assets/theme/css/style.css" />
@@ -134,6 +137,20 @@
 
       .gallery-image {
         margin-bottom: 20px;
+      }
+
+      /* Responsive image sizing for hero and pricing */
+      .hero-image img {
+        width: 100%;
+        height: auto;
+        max-height: 520px;
+        object-fit: contain;
+      }
+      .pricing-image img {
+        width: 100%;
+        height: auto;
+        max-height: 320px;
+        object-fit: contain;
       }
     </style>
     <!-- Soft redirect: prefer apex domain (best is DNS/server 301; JS is fallback for GitHub Pages) -->
@@ -318,7 +335,7 @@
       >
         <div class="container">
           <div class="row justify-content-center align-items-center">
-            <div class="col-12 col-md-6 image-wrapper">
+            <div class="col-12 col-md-6 image-wrapper hero-image">
               <link
                 rel="preload"
                 as="image"
@@ -331,7 +348,7 @@
                     assets/images/0e988dfc6bf3a5ea5a94b631635225e2-1256x1205.webp
                   "
                 />
-                <img
+                <img class="img-fluid"
                   src="assets/images/0e988dfc6bf3a5ea5a94b631635225e2-1256x1205.png"
                   alt="TeleVista real estate lead generation"
                   width="1256"
@@ -717,7 +734,7 @@
             <div class="item-wrapper">
               <div class="row align-items-center">
                 <div class="col-12 col-md-3">
-                  <div class="image-wrapper">
+                  <div class="image-wrapper pricing-image">
                     <picture>
                       <source
                         type="image/webp"
@@ -725,7 +742,7 @@
                           assets/images/4103d08b2f5e08ad91b107ccd45ebb12-596x556.webp
                         "
                       />
-                      <img
+                      <img class="img-fluid"
                         src="assets/images/4103d08b2f5e08ad91b107ccd45ebb12-596x556.png"
                         alt="Lead packages illustration"
                         title="Lead Packages"
@@ -769,7 +786,7 @@
             <div class="item-wrapper">
               <div class="row align-items-center">
                 <div class="col-12 col-md-3">
-                  <div class="image-wrapper">
+                  <div class="image-wrapper pricing-image">
                     <picture>
                       <source
                         type="image/webp"
@@ -777,7 +794,7 @@
                           assets/images/7b3bd96d1a589fb8f07f59e4dd783dca-596x569.webp
                         "
                       />
-                      <img
+                      <img class="img-fluid"
                         src="assets/images/7b3bd96d1a589fb8f07f59e4dd783dca-596x569.png"
                         alt="VAs and Appointment Setters illustration"
                         title="VAs and Appointment Setters"
