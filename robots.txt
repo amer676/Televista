@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://televistaleadgeneration.com/sitemap.xml
