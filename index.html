@@ -119,6 +119,11 @@
       type="text/css"
     />
     <style>
+      /* Smooth anchor scrolling */
+      html {
+        scroll-behavior: smooth;
+      }
+
       /* Custom CSS for square testimonials */
       .gallery-image .item-wrapper img {
         width: 100% !important;
@@ -150,6 +155,60 @@
         height: auto;
         max-height: 320px;
         object-fit: contain;
+      }
+
+      /* Trustpilot CTA styles */
+      .btn-trustpilot {
+        background-color: #00b67a;
+        border-color: #00a76a;
+        color: #fff;
+      }
+      .btn-trustpilot:hover,
+      .btn-trustpilot:focus {
+        background-color: #019f6b;
+        border-color: #018e61;
+        color: #fff;
+      }
+      .trustpilot-rating {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        font-size: 0.95rem;
+        color: #333;
+      }
+      .trustpilot-rating .rating-value {
+        font-weight: 600;
+      }
+      .trustpilot-rating .stars {
+        color: #f5c518; /* gold */
+        letter-spacing: 1px;
+        font-size: 1rem;
+        line-height: 1;
+      }
+
+      /* Reveal-on-scroll animations */
+      .will-animate {
+        opacity: 0;
+        transform: translateY(16px);
+        transition: opacity 600ms ease-out, transform 600ms ease-out;
+        will-change: opacity, transform;
+      }
+      .animate-in {
+        opacity: 1;
+        transform: none;
+      }
+
+      /* Respect reduced motion */
+      @media (prefers-reduced-motion: reduce) {
+        html {
+          scroll-behavior: auto;
+        }
+        .will-animate,
+        .animate-in {
+          transition: none !important;
+          transform: none !important;
+          opacity: 1 !important;
+        }
       }
     </style>
     <!-- Soft redirect: prefer apex domain (best is DNS/server 301; JS is fallback for GitHub Pages) -->
@@ -376,9 +435,26 @@
                   >.
                 </p>
                 <div class="mbr-section-btn mt-3">
-                  <a class="btn btn-primary display-4" href="#contacts2-1r"
-                    >Book a free appointment<br
-                  /></a>
+                  <div class="d-flex align-items-center flex-wrap gap-2">
+                    <a class="btn btn-primary display-4" href="#contacts2-1r"
+                      >Book a free appointment</a
+                    >
+                    <a
+                      class="btn btn-trustpilot display-4"
+                      href="https://www.trustpilot.com/review/televista.online"
+                      target="_blank"
+                      rel="noopener"
+                      aria-label="View TeleVista reviews on Trustpilot"
+                      >Trustpilot</a
+                    >
+                    <span
+                      class="trustpilot-rating"
+                      aria-label="Rated 4.8 out of 5 on Trustpilot"
+                    >
+                      <span class="rating-value">4.8</span>
+                      <span class="stars" aria-hidden="true">★★★★★</span>
+                    </span>
+                  </div>
                 </div>
               </div>
             </div>
@@ -1222,5 +1298,68 @@
     <script src="assets/dropdown/js/navbar-dropdown.js" defer></script>
     <script src="assets/sociallikes/social-likes.js" defer></script>
     <script src="assets/theme/js/script.js" defer></script>
+    <script>
+      (function () {
+        try {
+          if (
+            window.matchMedia &&
+            window.matchMedia("(prefers-reduced-motion: reduce)").matches
+          ) {
+            return; // Respect reduced motion
+          }
+
+          var selectors = [
+            "section .card",
+            "section .mbr-section-title",
+            "section .mbr-text",
+            ".image-wrapper",
+            ".pricing-image",
+            ".hero-image",
+            ".testimonial-rectangle",
+            ".weworkwith-rectangle",
+            ".icons a",
+          ].join(",");
+
+          var items = Array.prototype.slice.call(
+            document.querySelectorAll(selectors)
+          );
+          if (!("IntersectionObserver" in window) || items.length === 0) {
+            // Fallback: reveal immediately
+            items.forEach(function (el) {
+              el.classList.add("animate-in");
+            });
+            return;
+          }
+
+          // Mark items as animatable
+          items.forEach(function (el) {
+            el.classList.add("will-animate");
+          });
+
+          var io = new IntersectionObserver(
+            function (entries) {
+              entries.forEach(function (entry) {
+                if (entry.isIntersecting) {
+                  var el = entry.target;
+                  // Small, bounded stagger for nicer feel
+                  var idx = items.indexOf(el);
+                  var delay = (idx % 5) * 60; // in ms
+                  el.style.transitionDelay = delay + "ms";
+                  el.classList.add("animate-in");
+                  io.unobserve(el);
+                }
+              });
+            },
+            { root: null, rootMargin: "0px 0px -10% 0px", threshold: 0.15 }
+          );
+
+          items.forEach(function (el) {
+            io.observe(el);
+          });
+        } catch (e) {
+          // In case of any runtime issue, fail gracefully
+        }
+      })();
+    </script>
   </body>
 </html>
