@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -101,7 +101,10 @@
       rel="preload"
       href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"
       as="style"
-      onload="this.onload=null;this.rel='stylesheet'"
+      onload="
+        this.onload = null;
+        this.rel = 'stylesheet';
+      "
     />
     <noscript
       ><link
@@ -203,7 +206,9 @@
       .will-animate {
         opacity: 0;
         transform: translateY(16px);
-        transition: opacity 600ms ease-out, transform 600ms ease-out;
+        transition:
+          opacity 600ms ease-out,
+          transform 600ms ease-out;
         will-change: opacity, transform;
       }
       .animate-in {
@@ -269,7 +274,7 @@
                 location.hostname.replace(/^www\./, "") +
                 location.pathname +
                 location.search +
-                location.hash
+                location.hash,
             );
           }
         } catch (e) {}
@@ -279,7 +284,7 @@
       function initApollo() {
         var n = Math.random().toString(36).substring(7),
           o = document.createElement("script");
-        (o.src =
+        ((o.src =
           "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=" +
           n),
           (o.async = !0),
@@ -289,7 +294,7 @@
               appId: "68cc88fcf378fa001941fc8f",
             });
           }),
-          document.head.appendChild(o);
+          document.head.appendChild(o));
       }
       initApollo();
     </script>
@@ -873,6 +878,8 @@
                           </p>
                           <p class="mbr-text mbr-fonts-style mt-3 display-7">
                             <strong>What's Included:</strong><br />
+                            ✓ Full-Time Caller<br />
+                            ✓ Dialer Included<br />
                             ✓ Weekly Reports<br />
                             ✓ Quality Assurance (QA)<br />
                             ✓ AI-Powered Automations<br />
@@ -1262,7 +1269,7 @@
           ].join(",");
 
           var items = Array.prototype.slice.call(
-            document.querySelectorAll(selectors)
+            document.querySelectorAll(selectors),
           );
           if (!("IntersectionObserver" in window) || items.length === 0) {
             // Fallback: reveal immediately
@@ -1291,7 +1298,7 @@
                 }
               });
             },
-            { root: null, rootMargin: "0px 0px -10% 0px", threshold: 0.15 }
+            { root: null, rootMargin: "0px 0px -10% 0px", threshold: 0.15 },
           );
 
           items.forEach(function (el) {
