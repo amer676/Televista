@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Page Not Found | Televista</title>
+    <meta
+      name="description"
+      content="The page you're looking for doesn't exist. Return to Televista's homepage."
+    />
+
+    <!-- Favicon -->
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/images/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images/favicon-16x16.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/apple-touch-icon.png"
+    />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#004643" />
+
+    <!-- Preconnects -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <style>
+      .error-page {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: var(--space-8);
+        background: var(--color-bg-secondary);
+      }
+
+      .error-code {
+        font-family: var(--font-display);
+        font-size: clamp(6rem, 20vw, 12rem);
+        font-weight: 800;
+        color: var(--color-accent-primary);
+        line-height: 1;
+        margin-bottom: var(--space-4);
+      }
+
+      .error-title {
+        font-size: clamp(1.5rem, 4vw, 2.5rem);
+        margin-bottom: var(--space-4);
+        color: var(--color-text-primary);
+      }
+
+      .error-description {
+        font-size: var(--text-lg);
+        color: var(--color-text-secondary);
+        max-width: 500px;
+        margin-bottom: var(--space-8);
+      }
+
+      .error-actions {
+        display: flex;
+        gap: var(--space-4);
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+      .error-illustration {
+        margin-bottom: var(--space-6);
+      }
+
+      .error-illustration svg {
+        width: 120px;
+        height: 120px;
+        color: var(--color-accent-primary);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="error-page">
+      <div class="error-illustration">
+        <svg
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+        >
+          <circle cx="12" cy="12" r="10" />
+          <path d="M16 16s-1.5-2-4-2-4 2-4 2" />
+          <line x1="9" y1="9" x2="9.01" y2="9" stroke-width="2" />
+          <line x1="15" y1="9" x2="15.01" y2="9" stroke-width="2" />
+        </svg>
+      </div>
+      <div class="error-code">404</div>
+      <h1 class="error-title">Page Not Found</h1>
+      <p class="error-description">
+        Oops! The page you're looking for doesn't exist or has been moved. Let's
+        get you back on track.
+      </p>
+      <div class="error-actions">
+        <a href="index.html" class="btn btn-primary">Go to Homepage</a>
+        <a href="contact.html" class="btn btn-secondary">Contact Us</a>
+      </div>
+    </div>
+  </body>
+</html>

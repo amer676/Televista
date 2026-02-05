@@ -107,6 +107,27 @@ body {
   overflow-x: hidden;
 }
 
+/* Skip to Content - Accessibility */
+.skip-to-content {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: var(--space-3) var(--space-6);
+  background: var(--color-accent-primary);
+  color: var(--color-text-inverse);
+  font-weight: 600;
+  border-radius: var(--radius-md);
+  z-index: 10000;
+  transition: top var(--transition-fast);
+}
+
+.skip-to-content:focus {
+  top: var(--space-4);
+  outline: 2px solid var(--color-accent-secondary);
+  outline-offset: 2px;
+}
+
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);

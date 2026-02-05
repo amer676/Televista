@@ -14,13 +14,60 @@
       content="Professional cold calling, appointment setting, and lead qualification services. 2-3 appointments per day, full management, CRM integration."
     />
 
+    <!-- Open Graph -->
+    <meta
+      property="og:title"
+      content="Our Services | Televista - Cold Calling & Lead Generation"
+    />
+    <meta
+      property="og:description"
+      content="Professional cold calling, appointment setting, and lead qualification services. 2-3 appointments per day, full management, CRM integration."
+    />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:url"
+      content="https://televistaleadgeneration.com/services.html"
+    />
+    <meta
+      property="og:image"
+      content="https://televistaleadgeneration.com/assets/images/og-image.png"
+    />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Our Services | Televista" />
+    <meta
+      name="twitter:description"
+      content="Professional cold calling, appointment setting, and lead qualification. 2-3 appointments per day."
+    />
+    <meta
+      name="twitter:image"
+      content="https://televistaleadgeneration.com/assets/images/og-image.png"
+    />
+
     <!-- Favicon -->
+    <link rel="icon" href="assets/images/favicon.ico" sizes="any" />
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
       href="assets/images/favicon-32x32.png"
     />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/images/favicon-16x16.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/images/apple-touch-icon.png"
+    />
+    <link rel="manifest" href="manifest.json" />
+
+    <!-- Theme Color -->
+    <meta name="theme-color" content="#004643" />
 
     <!-- Preconnects -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -45,7 +92,12 @@
       gtag("config", "G-ZJN951WF3R");
     </script>
 
-    <!-- Fonts -->
+    <!-- Fonts with preload -->
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+    />
     <link
       href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
       rel="stylesheet"
@@ -53,8 +105,65 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.css" />
+
+    <!-- Structured Data: Service -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Cold Calling & Lead Generation",
+        "name": "Televista Lead Generation Services",
+        "description": "Professional cold calling, appointment setting, and lead qualification services with 2-3 appointments per day.",
+        "url": "https://televistaleadgeneration.com/services.html",
+        "provider": {
+          "@type": "Organization",
+          "name": "Televista",
+          "url": "https://televistaleadgeneration.com/"
+        },
+        "areaServed": "United States",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Lead Generation Packages",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Starter Package",
+                "description": "1 Full-Time Caller, 2-3 appointments per day"
+              },
+              "price": "900",
+              "priceCurrency": "USD"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Growth Package",
+                "description": "2 Full-Time Callers, 4-6 appointments per day"
+              },
+              "price": "1700",
+              "priceCurrency": "USD"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Scale Package",
+                "description": "3 Full-Time Callers, 6-9 appointments per day"
+              },
+              "price": "2500",
+              "priceCurrency": "USD"
+            }
+          ]
+        }
+      }
+    </script>
   </head>
   <body>
+    <!-- Skip to main content for accessibility -->
+    <a href="#main-content" class="skip-to-content">Skip to main content</a>
+
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
       <div class="container navbar-container">
@@ -83,7 +192,7 @@
       </div>
     </nav>
 
-    <main>
+    <main id="main-content">
       <!-- Hero Section -->
       <section class="hero section" style="padding-bottom: var(--space-12)">
         <div class="container">
@@ -1074,7 +1183,10 @@
             <h4>Connect</h4>
             <ul class="footer-links">
               <li>
-                <a href="https://www.instagram.com/tele_vista1/" target="_blank"
+                <a
+                  href="https://www.instagram.com/tele_vista1/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   >Instagram</a
                 >
               </li>
@@ -1082,6 +1194,7 @@
                 <a
                   href="https://www.facebook.com/profile.php?id=61579256489139"
                   target="_blank"
+                  rel="noopener noreferrer"
                   >Facebook</a
                 >
               </li>
@@ -1089,6 +1202,7 @@
                 <a
                   href="https://www.trustpilot.com/review/televista.online"
                   target="_blank"
+                  rel="noopener noreferrer"
                   >Trustpilot</a
                 >
               </li>
@@ -1096,6 +1210,7 @@
                 <a
                   href="https://www.linkedin.com/company/televistaagency/"
                   target="_blank"
+                  rel="noopener noreferrer"
                   >LinkedIn</a
                 >
               </li>
