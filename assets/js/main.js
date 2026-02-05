@@ -430,16 +430,309 @@
   document.head.appendChild(keyboardStyles);
 
   // ============================================
+  // Audio Player for Call Recording
+  // ============================================
+
+  const callerAudio = document.getElementById('callerAudio');
+  const audioPlayBtn = document.getElementById('audioPlayBtn');
+  const audioVisualizer = document.getElementById('audioVisualizer');
+  const audioProgress = document.getElementById('audioProgress');
+  const audioCurrentTime = document.getElementById('audioCurrentTime');
+  const audioDuration = document.getElementById('audioDuration');
+  const audioProgressContainer = document.querySelector('.audio-progress-container');
+
+  if (callerAudio && audioPlayBtn) {
+    // Format time in MM:SS
+    function formatTime(seconds) {
+      if (isNaN(seconds)) return '0:00';
+      const mins = Math.floor(seconds / 60);
+      const secs = Math.floor(seconds % 60);
+      return `${mins}:${secs.toString().padStart(2, '0')}`;
+    }
+
+    // Update duration when metadata loads
+    callerAudio.addEventListener('loadedmetadata', () => {
+      audioDuration.textContent = formatTime(callerAudio.duration);
+    });
+
+    // Toggle play/pause
+    audioPlayBtn.addEventListener('click', () => {
+      if (callerAudio.paused) {
+        callerAudio.play();
+      } else {
+        callerAudio.pause();
+      }
+    });
+
+    // Update UI on play
+    callerAudio.addEventListener('play', () => {
+      audioPlayBtn.querySelector('.play-icon').style.display = 'none';
+      audioPlayBtn.querySelector('.pause-icon').style.display = 'block';
+      audioVisualizer.classList.add('playing');
+    });
+
+    // Update UI on pause
+    callerAudio.addEventListener('pause', () => {
+      audioPlayBtn.querySelector('.play-icon').style.display = 'block';
+      audioPlayBtn.querySelector('.pause-icon').style.display = 'none';
+      audioVisualizer.classList.remove('playing');
+    });
+
+    // Update progress bar
+    callerAudio.addEventListener('timeupdate', () => {
+      const progress = (callerAudio.currentTime / callerAudio.duration) * 100;
+      audioProgress.style.width = `${progress}%`;
+      audioCurrentTime.textContent = formatTime(callerAudio.currentTime);
+    });
+
+    // Reset on end
+    callerAudio.addEventListener('ended', () => {
+      audioPlayBtn.querySelector('.play-icon').style.display = 'block';
+      audioPlayBtn.querySelector('.pause-icon').style.display = 'none';
+      audioVisualizer.classList.remove('playing');
+      audioProgress.style.width = '0%';
+      audioCurrentTime.textContent = '0:00';
+    });
+
+    // Seek on progress bar click
+    if (audioProgressContainer) {
+      audioProgressContainer.addEventListener('click', (e) => {
+        const rect = audioProgressContainer.getBoundingClientRect();
+        const clickX = e.clientX - rect.left;
+        const width = rect.width;
+        const seekTime = (clickX / width) * callerAudio.duration;
+        callerAudio.currentTime = seekTime;
+      });
+    }
+
+    // Keyboard controls
+    audioPlayBtn.addEventListener('keydown', (e) => {
+      if (e.key === ' ' || e.key === 'Enter') {
+        e.preventDefault();
+        audioPlayBtn.click();
+      }
+    });
+  }
+
+  // ============================================
+  // Testimonials Carousel
+  // ============================================
+
+  const testimonialsTrack = document.getElementById('testimonialsTrack');
+  const testimonialPrev = document.getElementById('testimonialPrev');
+  const testimonialNext = document.getElementById('testimonialNext');
+  const testimonialsDots = document.getElementById('testimonialsDots');
+
+  if (testimonialsTrack) {
+    const slides = testimonialsTrack.querySelectorAll('.testimonial-slide');
+    let currentSlide = 0;
+    const totalSlides = slides.length;
+    let autoSlideInterval;
+
+    // Create dots
+    slides.forEach((_, index) => {
+      const dot = document.createElement('button');
+      dot.classList.add('dot');
+      dot.setAttribute('aria-label', `Go to testimonial ${index + 1}`);
+      if (index === 0) dot.classList.add('active');
+      dot.addEventListener('click', () => goToSlide(index));
+      testimonialsDots.appendChild(dot);
+    });
+
+    const dots = testimonialsDots.querySelectorAll('.dot');
+
+    function goToSlide(index) {
+      currentSlide = index;
+      testimonialsTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
+      dots.forEach((dot, i) => {
+        dot.classList.toggle('active', i === currentSlide);
+      });
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      goToSlide(currentSlide);
+    }
+
+    function prevSlide() {
+      currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+      goToSlide(currentSlide);
+    }
+
+    testimonialNext.addEventListener('click', () => {
+      nextSlide();
+      resetAutoSlide();
+    });
+
+    testimonialPrev.addEventListener('click', () => {
+      prevSlide();
+      resetAutoSlide();
+    });
+
+    function startAutoSlide() {
+      autoSlideInterval = setInterval(nextSlide, 5000);
+    }
+
+    function resetAutoSlide() {
+      clearInterval(autoSlideInterval);
+      startAutoSlide();
+    }
+
+    startAutoSlide();
+
+    // Pause on hover
+    testimonialsTrack.addEventListener('mouseenter', () => clearInterval(autoSlideInterval));
+    testimonialsTrack.addEventListener('mouseleave', startAutoSlide);
+  }
+
+  // ============================================
+  // ROI Calculator
+  // ============================================
+
+  const calcIndustry = document.getElementById('calcIndustry');
+  const calcCallers = document.getElementById('calcCallers');
+  const calcLeadsPerCaller = document.getElementById('calcLeadsPerCaller');
+  const calcCloseRate = document.getElementById('calcCloseRate');
+  const calcDealValue = document.getElementById('calcDealValue');
+  const industryHint = document.getElementById('industryHint');
+
+  if (calcCallers && calcLeadsPerCaller && calcCloseRate && calcDealValue) {
+    const calcCallersValue = document.getElementById('calcCallersValue');
+    const calcLeadsValue = document.getElementById('calcLeadsValue');
+    const calcCloseRateValue = document.getElementById('calcCloseRateValue');
+    const calcInvestment = document.getElementById('calcInvestment');
+    const calcTotalLeads = document.getElementById('calcTotalLeads');
+    const calcClosings = document.getElementById('calcClosings');
+    const calcRevenue = document.getElementById('calcRevenue');
+    const calcROI = document.getElementById('calcROI');
+
+    // Industry presets
+    const industryPresets = {
+      'real-estate': {
+        leads: 40,
+        closeRate: 5,
+        dealValue: 7000,
+        hintLeads: '~40 leads/caller/month',
+        hintClose: '3-10% close rate typical'
+      },
+      'roofing': {
+        leads: 22,
+        closeRate: 12,
+        dealValue: 3500,
+        hintLeads: '~22 appointments/month',
+        hintClose: '10-15% close rate typical'
+      },
+      'home-renovation': {
+        leads: 18,
+        closeRate: 14,
+        dealValue: 2500,
+        hintLeads: '~18 appointments/month',
+        hintClose: '12-18% close rate typical'
+      },
+      'custom': {
+        leads: 25,
+        closeRate: 5,
+        dealValue: 5000,
+        hintLeads: 'Adjust to your business',
+        hintClose: 'Set your own close rate'
+      }
+    };
+
+    // Apply industry preset
+    function applyIndustryPreset(industry) {
+      const preset = industryPresets[industry];
+      if (!preset) return;
+
+      // Update sliders
+      calcLeadsPerCaller.value = preset.leads;
+      calcCloseRate.value = preset.closeRate;
+      calcDealValue.value = preset.dealValue;
+
+      // Update hint text
+      if (industryHint) {
+        const hintLeadsEl = industryHint.querySelector('.hint-leads');
+        const hintCloseEl = industryHint.querySelector('.hint-close');
+        if (hintLeadsEl) hintLeadsEl.textContent = preset.hintLeads;
+        if (hintCloseEl) hintCloseEl.textContent = preset.hintClose;
+      }
+
+      // Recalculate
+      updateCalculator();
+    }
+
+    // Pricing tiers
+    function getMonthlyInvestment(callers) {
+      if (callers === 1) return 900;
+      if (callers === 2) return 1700;
+      if (callers === 3) return 2500;
+      // For 4+ callers, use a linear model
+      return 2500 + (callers - 3) * 800;
+    }
+
+    function updateCalculator() {
+      const callers = parseInt(calcCallers.value);
+      const leadsPerCaller = parseInt(calcLeadsPerCaller.value);
+      const closeRate = parseInt(calcCloseRate.value) / 100;
+      const dealValue = parseFloat(calcDealValue.value) || 0;
+
+      // Update display values
+      calcCallersValue.textContent = callers;
+      calcLeadsValue.textContent = leadsPerCaller;
+      calcCloseRateValue.textContent = calcCloseRate.value;
+
+      // Calculate results
+      const investment = getMonthlyInvestment(callers);
+      const totalLeads = callers * leadsPerCaller;
+      const closings = totalLeads * closeRate;
+      const revenue = closings * dealValue;
+      const netProfit = revenue - investment;
+      const roi = investment > 0 ? ((revenue - investment) / investment) * 100 : 0;
+
+      // Update results
+      calcInvestment.textContent = `$${investment.toLocaleString()}`;
+      calcTotalLeads.textContent = totalLeads;
+      calcClosings.textContent = closings.toFixed(1);
+      calcRevenue.textContent = `$${revenue.toLocaleString()}`;
+      
+      // Update net profit display
+      const calcNetProfit = document.getElementById('calcNetProfit');
+      if (calcNetProfit) {
+        calcNetProfit.textContent = `$${netProfit.toLocaleString()}`;
+      }
+      
+      calcROI.textContent = `${Math.round(roi)}%`;
+    }
+
+    // Event listeners
+    if (calcIndustry) {
+      calcIndustry.addEventListener('change', function() {
+        applyIndustryPreset(this.value);
+      });
+    }
+    calcCallers.addEventListener('input', updateCalculator);
+    calcLeadsPerCaller.addEventListener('input', updateCalculator);
+    calcCloseRate.addEventListener('input', updateCalculator);
+    calcDealValue.addEventListener('input', updateCalculator);
+
+    // Initialize
+    if (calcIndustry) {
+      applyIndustryPreset(calcIndustry.value);
+    } else {
+      updateCalculator();
+    }
+  }
+
+  // ============================================
   // Console Easter Egg
   // ============================================
 
   console.log(
-    '%c� Televista',
-    'font-size: 24px; font-weight: bold; color: #722f37;'
+    '%c📞 Televista',
+    'font-size: 24px; font-weight: bold; color: #004643;'
   );
   console.log(
     '%cCold Calling & Lead Generation That Actually Works',
-    'font-size: 14px; color: #ff8c61;'
+    'font-size: 14px; color: #006663;'
   );
   console.log(
     '%cInterested in working with us? Visit: https://televistaleadgeneration.com/contact.html',

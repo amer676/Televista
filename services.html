@@ -456,6 +456,188 @@
         </div>
       </section>
 
+      <!-- ROI Case Study & Calculator Section -->
+      <section class="roi-section section" id="roi-calculator">
+        <div class="container">
+          <div class="roi-layout">
+            <!-- Case Study -->
+            <div class="roi-case-study fade-in">
+              <div class="case-study-badge">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
+                  <polyline points="22,4 12,14.01 9,11.01" />
+                </svg>
+                Real Client Results
+              </div>
+              <h2>Tampa, FL Success Story</h2>
+              <p class="case-study-subtitle">
+                See how one client transformed their business with Televista
+              </p>
+
+              <div class="case-study-stats">
+                <div class="case-stat">
+                  <div class="case-stat-number">2</div>
+                  <div class="case-stat-label">Callers</div>
+                </div>
+                <div class="case-stat">
+                  <div class="case-stat-number">$1,800</div>
+                  <div class="case-stat-label">/month Investment</div>
+                </div>
+                <div class="case-stat highlight">
+                  <div class="case-stat-number">90</div>
+                  <div class="case-stat-label">Avg Leads/Month</div>
+                </div>
+              </div>
+
+              <div class="case-study-results">
+                <div class="result-row">
+                  <span class="result-label">Monthly Closings</span>
+                  <span class="result-value">3-5 deals</span>
+                </div>
+                <div class="result-row">
+                  <span class="result-label">Average Monthly Revenue</span>
+                  <span class="result-value highlight">$12,000 - $15,000</span>
+                </div>
+                <div class="result-row">
+                  <span class="result-label">ROI</span>
+                  <span class="result-value highlight">567% - 733%</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Interactive Calculator -->
+            <div class="roi-calculator fade-in">
+              <h3>Calculate Your Potential ROI</h3>
+              <p class="calculator-subtitle">
+                See what Televista could do for your business
+              </p>
+
+              <div class="calculator-form">
+                <div class="calc-field">
+                  <label for="calcIndustry">Select Your Industry</label>
+                  <select id="calcIndustry" class="calc-select">
+                    <option value="real-estate">
+                      Real Estate / Wholesaling
+                    </option>
+                    <option value="roofing">Roofing</option>
+                    <option value="home-renovation">Home Renovation</option>
+                    <option value="custom">Custom</option>
+                  </select>
+                  <div class="industry-hint" id="industryHint">
+                    <span class="hint-leads">~40 leads/caller/month</span>
+                    <span class="hint-close">3-10% close rate typical</span>
+                  </div>
+                </div>
+
+                <div class="calc-field">
+                  <label for="calcCallers">Number of Callers</label>
+                  <input
+                    type="range"
+                    id="calcCallers"
+                    min="1"
+                    max="10"
+                    value="2"
+                    class="calc-slider"
+                  />
+                  <div class="calc-value-display">
+                    <span id="calcCallersValue">2</span> callers
+                  </div>
+                </div>
+
+                <div class="calc-field">
+                  <label for="calcLeadsPerCaller">Leads per Caller/Month</label>
+                  <input
+                    type="range"
+                    id="calcLeadsPerCaller"
+                    min="15"
+                    max="50"
+                    value="40"
+                    class="calc-slider"
+                  />
+                  <div class="calc-value-display">
+                    <span id="calcLeadsValue">40</span> leads
+                  </div>
+                </div>
+
+                <div class="calc-field">
+                  <label for="calcCloseRate">Your Close Rate (%)</label>
+                  <input
+                    type="range"
+                    id="calcCloseRate"
+                    min="1"
+                    max="20"
+                    value="5"
+                    class="calc-slider"
+                  />
+                  <div class="calc-value-display">
+                    <span id="calcCloseRateValue">5</span>%
+                  </div>
+                </div>
+
+                <div class="calc-field">
+                  <label for="calcDealValue">Average Deal Value ($)</label>
+                  <input
+                    type="number"
+                    id="calcDealValue"
+                    min="1000"
+                    max="100000"
+                    value="7000"
+                    class="calc-input"
+                  />
+                </div>
+              </div>
+
+              <div class="calculator-results">
+                <div class="calc-result-row">
+                  <span>Monthly Investment</span>
+                  <span class="calc-result-value" id="calcInvestment"
+                    >$1,700</span
+                  >
+                </div>
+                <div class="calc-result-row">
+                  <span>Total Leads/Month</span>
+                  <span class="calc-result-value" id="calcTotalLeads">80</span>
+                </div>
+                <div class="calc-result-row">
+                  <span>Estimated Closings</span>
+                  <span class="calc-result-value" id="calcClosings">4</span>
+                </div>
+                <div class="calc-result-row">
+                  <span>Potential Revenue</span>
+                  <span class="calc-result-value" id="calcRevenue"
+                    >$16,000</span
+                  >
+                </div>
+                <div class="calc-result-row highlight profit">
+                  <span>Net Profit</span>
+                  <span class="calc-result-value" id="calcNetProfit"
+                    >$14,300</span
+                  >
+                </div>
+                <div class="calc-result-row roi">
+                  <span>Return on Investment</span>
+                  <span class="calc-result-value" id="calcROI">841%</span>
+                </div>
+              </div>
+
+              <p class="calculator-disclaimer">
+                * Results vary based on your specific business, market, and
+                sales process.
+              </p>
+
+              <a href="contact.html" class="btn btn-primary btn-full"
+                >Get Your Custom Quote</a
+              >
+            </div>
+          </div>
+        </div>
+      </section>
+
       <!-- Additional Services -->
       <section class="section">
         <div class="container">

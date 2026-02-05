@@ -90,23 +90,130 @@
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.css" />
 
-    <!-- Structured Data -->
+    <!-- Structured Data: Organization -->
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "Televista",
         "url": "https://televistaleadgeneration.com/",
+        "logo": "https://televistaleadgeneration.com/assets/images/logo.png",
         "description": "Cold calling and lead generation services for real estate and home services",
         "sameAs": [
           "https://www.instagram.com/tele_vista1/",
-          "https://www.facebook.com/profile.php?id=61579256489139"
+          "https://www.facebook.com/profile.php?id=61579256489139",
+          "https://www.linkedin.com/company/televistaagency/"
         ],
         "contactPoint": {
           "@type": "ContactPoint",
           "telephone": "+1-934-245-7155",
-          "contactType": "customer service"
+          "contactType": "customer service",
+          "availableLanguage": "English"
         }
+      }
+    </script>
+
+    <!-- Structured Data: LocalBusiness -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "Televista Lead Generation",
+        "description": "Expert cold calling and lead generation services for real estate, solar, roofing, and insurance industries.",
+        "url": "https://televistaleadgeneration.com/",
+        "telephone": "+1-934-245-7155",
+        "email": "team@televistaleadgeneration.com",
+        "priceRange": "$$",
+        "openingHours": "Mo-Fr 09:00-18:30",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "16"
+        }
+      }
+    </script>
+
+    <!-- Structured Data: Service -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "serviceType": "Cold Calling & Lead Generation",
+        "provider": {
+          "@type": "Organization",
+          "name": "Televista"
+        },
+        "areaServed": "United States",
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Lead Generation Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Starter Package",
+                "description": "1 Full-Time Caller, 2-3 appointments per day"
+              },
+              "price": "900",
+              "priceCurrency": "USD"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Growth Package",
+                "description": "2 Full-Time Callers, 4-6 appointments per day"
+              },
+              "price": "1700",
+              "priceCurrency": "USD"
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Scale Package",
+                "description": "3 Full-Time Callers, 6-9 appointments per day"
+              },
+              "price": "2500",
+              "priceCurrency": "USD"
+            }
+          ]
+        }
+      }
+    </script>
+
+    <!-- Structured Data: FAQ -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What makes Televista different?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We combine fully trained, fluent callers with advanced analytics and full management. Our agents aren't script-readers—they're trained dynamically to improvise and connect with people. Plus, we have 25 active callers and 10 on standby, so we can scale with you instantly."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How many appointments can I expect per month?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Our system delivers 2-3 appointments per full-time caller per day. With our Starter package, that's roughly 40-60 appointments per month. Scale up with more callers for more results."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What industries do you work with?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "We specialize in real estate, but also serve solar, roofing, insurance, and home renovations. If you're in a B2B or high-ticket space, we can likely help."
+            }
+          }
+        ]
       }
     </script>
   </head>
@@ -179,7 +286,7 @@
               <div class="stat-number">1,500<span>+</span></div>
               <div class="stat-label">Leads Per Month</div>
               <p class="stat-description">
-                High-quality leads delivered to your CRM every month.
+                High-quality leads delivered to CRMs every month.
               </p>
             </div>
             <div class="stat-card fade-in">
@@ -241,6 +348,168 @@
               Rated <strong>Excellent</strong> on Trustpilot
             </div>
           </a>
+        </div>
+      </section>
+
+      <!-- Testimonials Carousel Section -->
+      <section class="testimonials-carousel-section" id="testimonials">
+        <div class="container">
+          <div class="testimonials-header">
+            <h2>What Our Clients Say</h2>
+          </div>
+          <div class="testimonials-carousel-wrapper">
+            <div class="testimonials-track" id="testimonialsTrack">
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "Absolutely great! They value your time and money, great
+                  communication, absolutely top tier. 10/10, 5 stars."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Cody Heuer</strong>
+                  <span>Realtor at eXp Realty</span>
+                </div>
+              </div>
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "Great company, excellent quality and consistency. Definitely
+                  a great ROI if you're looking to expand your business."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Ian Daugherty</strong>
+                  <span>Virginia Investor</span>
+                </div>
+              </div>
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "Awesome leads, solid company, they get the job done."
+                </p>
+                <div class="testimonial-author">
+                  <strong>William Johnson</strong>
+                  <span>Nationwide Wholesaler</span>
+                </div>
+              </div>
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "Solid leads! Closed with them 4 deals in 2 months."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Travis Rhodes</strong>
+                  <span>Michigan Wholesaler</span>
+                </div>
+              </div>
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "We've tried many VAs and different companies. Mohamed and his
+                  team are by far the best we've ever had—quality leads every
+                  day. We have nothing but praise for him and his team."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Cam Klein</strong>
+                  <span>Illinois Wholesaler</span>
+                </div>
+              </div>
+              <div class="testimonial-slide">
+                <p class="testimonial-quote">
+                  "I give your team 5 stars. Excellent quality service."
+                </p>
+                <div class="testimonial-author">
+                  <strong>Christian Hair</strong>
+                  <span>Realtor</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="testimonials-nav">
+            <button
+              class="testimonial-nav-btn"
+              id="testimonialPrev"
+              aria-label="Previous testimonial"
+            >
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M15 18l-6-6 6-6" />
+              </svg>
+            </button>
+            <div class="testimonials-dots" id="testimonialsDots"></div>
+            <button
+              class="testimonial-nav-btn"
+              id="testimonialNext"
+              aria-label="Next testimonial"
+            >
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M9 18l6-6-6-6" />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ROI Calculator CTA -->
+      <section class="roi-cta-section section" id="roi-cta">
+        <div class="container">
+          <div class="roi-cta-content">
+            <div class="roi-cta-text">
+              <div class="section-badge">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <rect x="4" y="2" width="16" height="20" rx="2" ry="2" />
+                  <line x1="8" y1="6" x2="16" y2="6" />
+                  <line x1="8" y1="10" x2="16" y2="10" />
+                  <line x1="8" y1="14" x2="12" y2="14" />
+                </svg>
+                <span>ROI Calculator</span>
+              </div>
+              <h2>Want to Calculate Your ROI?</h2>
+              <p>
+                Use our interactive calculator to see your potential returns.
+                With industry-specific presets for real estate, roofing, and
+                home renovation.
+              </p>
+              <div class="roi-cta-stats">
+                <div class="roi-cta-stat">
+                  <strong>567%+</strong>
+                  <span>Average ROI</span>
+                </div>
+                <div class="roi-cta-stat">
+                  <strong>90</strong>
+                  <span>Leads/Month</span>
+                </div>
+                <div class="roi-cta-stat">
+                  <strong>3-5</strong>
+                  <span>Deals Closed</span>
+                </div>
+              </div>
+              <a
+                href="services.html#roi-calculator"
+                class="btn btn-primary btn-lg"
+              >
+                Calculate Your ROI
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  width="20"
+                  height="20"
+                >
+                  <path d="M5 12h14M12 5l7 7-7 7" />
+                </svg>
+              </a>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -1186,6 +1455,12 @@
                 >Contact us for custom enterprise packages</a
               >
             </p>
+            <a
+              href="services.html#roi-calculator"
+              class="btn btn-secondary mt-4"
+              style="display: inline-flex; align-items: center; gap: 0.5rem"
+              >📊 Calculate Your Potential ROI</a
+            >
           </div>
         </div>
       </section>
@@ -1292,6 +1567,33 @@
         </div>
       </section>
 
+      <!-- Official Partner Banner -->
+      <section class="official-partner-banner">
+        <div class="container">
+          <div class="official-partner-inline">
+            <div class="official-partner-badge-inline">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                <polyline points="9,12 12,15 16,10" />
+              </svg>
+              Official Partner
+            </div>
+            <img
+              src="assets/images/partners/ispeedtolead.png"
+              alt="ISpeedToLead"
+              loading="lazy"
+              class="official-partner-logo-inline"
+            />
+            <span class="official-partner-name-inline">ISpeedToLead</span>
+          </div>
+        </div>
+      </section>
+
       <!-- Why Choose Televista -->
       <section class="why-choose-section section">
         <div class="container">
@@ -1374,10 +1676,215 @@
               trained, fluent agents firsthand.
             </p>
             <div class="call-recording-player">
-              <div class="call-recording-placeholder">
-                <!-- Add your audio/video player here -->
-                Server Pending
+              <div class="audio-player-container">
+                <!-- Audio Visualizer -->
+                <div class="audio-visualizer" id="audioVisualizer">
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                  <div class="visualizer-bar"></div>
+                </div>
+
+                <!-- Play Button Overlay -->
+                <button
+                  class="audio-play-btn"
+                  id="audioPlayBtn"
+                  aria-label="Play audio"
+                >
+                  <svg
+                    class="play-icon"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                  >
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                  <svg
+                    class="pause-icon"
+                    viewBox="0 0 24 24"
+                    fill="currentColor"
+                    style="display: none"
+                  >
+                    <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z" />
+                  </svg>
+                </button>
+
+                <!-- Audio Controls -->
+                <div class="audio-controls">
+                  <div class="audio-progress-container">
+                    <div class="audio-progress" id="audioProgress"></div>
+                  </div>
+                  <div class="audio-time">
+                    <span id="audioCurrentTime">0:00</span> /
+                    <span id="audioDuration">0:00</span>
+                  </div>
+                </div>
+
+                <!-- Hidden Audio Element -->
+                <audio id="callerAudio" preload="metadata">
+                  <source src="assets/audio/caller.mp3" type="audio/mpeg" />
+                  Your browser does not support the audio element.
+                </audio>
               </div>
+
+              <!-- Authenticity Badge -->
+              <div class="audio-authenticity-badge">
+                <div class="badge-icon">
+                  <svg
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                  >
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
+                    <polyline points="9,12 12,15 16,10" />
+                  </svg>
+                </div>
+                <div class="badge-text">
+                  <strong>100% Authentic Call</strong>
+                  <span
+                    >All personal information has been removed for privacy. Our
+                    caller demonstrates professionalism, attentiveness, and
+                    genuine respect for the property owner throughout the
+                    conversation.</span
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Partners & Tools Section -->
+      <section class="partners-section section" id="partners">
+        <div class="container">
+          <div class="text-center mb-6">
+            <h3 class="partners-title">
+              Powered by Industry-Leading Platforms
+            </h3>
+          </div>
+          <div class="partners-logos" style="max-width: 900px; margin: 0 auto">
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/gohighlevel.png"
+                alt="GoHighLevel"
+                loading="lazy"
+              />
+              <span class="partner-name">GoHighLevel</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/hubspot.png"
+                alt="HubSpot"
+                loading="lazy"
+              />
+              <span class="partner-name">HubSpot</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/salesforce.png"
+                alt="Salesforce"
+                loading="lazy"
+              />
+              <span class="partner-name">Salesforce</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/calltools.png"
+                alt="CallTools"
+                loading="lazy"
+              />
+              <span class="partner-name">CallTools</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/readymode.png"
+                alt="ReadyMode"
+                loading="lazy"
+              />
+              <span class="partner-name">ReadyMode</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/vicidial.png"
+                alt="ViciDial"
+                loading="lazy"
+              />
+              <span class="partner-name">ViciDial</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/propwire.png"
+                alt="PropWire"
+                loading="lazy"
+              />
+              <span class="partner-name">PropWire</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/batchleads.png"
+                alt="BatchLeads"
+                loading="lazy"
+              />
+              <span class="partner-name">BatchLeads</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/propstream.png"
+                alt="PropStream"
+                loading="lazy"
+              />
+              <span class="partner-name">PropStream</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/dealmachine.png"
+                alt="DealMachine"
+                loading="lazy"
+              />
+              <span class="partner-name">DealMachine</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/zillow.png"
+                alt="Zillow"
+                loading="lazy"
+              />
+              <span class="partner-name">Zillow</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/python.png"
+                alt="Python"
+                loading="lazy"
+              />
+              <span class="partner-name">Python</span>
+            </div>
+            <div class="partner-logo-card">
+              <img
+                src="assets/images/partners/matlab.png"
+                alt="MATLAB"
+                loading="lazy"
+              />
+              <span class="partner-name">MATLAB</span>
+            </div>
+            <div class="partner-logo-card more-partners">
+              <span>+ More</span>
             </div>
           </div>
         </div>
