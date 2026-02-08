@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling Compliance for Real Estate Investors (TCPA Explained)"
 date: 2025-12-26
-description: "**Disclaimer:** *The following information is for educational purposes only and does not constitute legal advice. You should consult with a qualified attorney t"
+description: "Disclaimer: The following information is for educational purposes only and does not constitute legal advice."
 ---
 
 **Disclaimer:** *The following information is for educational purposes only and does not constitute legal advice. You should consult with a qualified attorney to ensure your business practices are in compliance with all applicable laws and regulations.*

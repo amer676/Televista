@@ -7,11 +7,30 @@ permalink: /blog/
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page.title }} | Televista</title>
+    {% assign meta_title = page.title | append: " | Televista" %}
+    {% assign meta_description = "Insights, guides, and updates from the Televista team." %}
+    {% assign canonical_url = page.url | absolute_url %}
+    {% assign og_image = "/assets/images/og-image.png" | absolute_url %}
+    <meta name="robots" content="index,follow" />
+    <link rel="canonical" href="{{ canonical_url }}" />
+    <title>{{ meta_title }}</title>
     <meta
       name="description"
-      content="Insights, guides, and updates from the Televista team."
+      content="{{ meta_description }}"
     />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ meta_title }}" />
+    <meta property="og:description" content="{{ meta_description }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ canonical_url }}" />
+    <meta property="og:image" content="{{ og_image }}" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ meta_title }}" />
+    <meta name="twitter:description" content="{{ meta_description }}" />
+    <meta name="twitter:image" content="{{ og_image }}" />
 
     <!-- Favicon -->
     <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="48x48" />
@@ -57,6 +76,25 @@ permalink: /blog/
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+
+    <!-- Structured Data: Blog -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "Televista Blog",
+        "description": "{{ meta_description | escape }}",
+        "url": "{{ canonical_url }}",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Televista",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ '/assets/images/logo.png' | absolute_url }}"
+          }
+        }
+      }
+    </script>
   </head>
   <body>
     <a href="#main-content" class="skip-to-content">Skip to main content</a>

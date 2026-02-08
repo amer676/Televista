@@ -2,7 +2,7 @@
 layout: post
 title: "Real Estate Cold Calling Scripts That Actually Convert (Updated for 2026)"
 date: 2025-08-15
-description: "In the world of real estate investing, a good cold calling script is like a secret weapon. It's the key to unlocking off-market deals, to building rapport with"
+description: "In the world of real estate investing, a good cold calling script is like a secret weapon."
 ---
 
 In the world of real estate investing, a good cold calling script is like a secret weapon. It's the key to unlocking off-market deals, to building rapport with homeowners, and to closing more deals. But not all scripts are created equal. This guide will provide you with a collection of **real estate cold calling scripts** that are proven to convert, helping you to turn your cold calls into a consistent source of profitable deals.

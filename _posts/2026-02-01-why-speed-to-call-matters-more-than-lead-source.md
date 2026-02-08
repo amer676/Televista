@@ -2,7 +2,7 @@
 layout: post
 title: "Why Speed to Call Matters More Than Lead Source in Real Estate"
 date: 2026-02-01
-description: "In the fast-paced world of real estate, a new lead is a golden opportunity. But what is the single most important factor in converting that lead into a closed d"
+description: "In the fast-paced world of real estate, a new lead is a golden opportunity."
 ---
 
 In the fast-paced world of real estate, a new lead is a golden opportunity. But what is the single most important factor in converting that lead into a closed deal? Is it the source of the lead? Is it the quality of the lead? Or is it something else entirely? This guide will make the case that **speed to lead** is the most important factor in real estate lead conversion, and why it matters more than any other metric.

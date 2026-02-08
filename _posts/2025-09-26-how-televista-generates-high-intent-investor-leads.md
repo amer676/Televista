@@ -2,7 +2,7 @@
 layout: post
 title: "How Televista Generates High-Intent Real Estate Investor Leads"
 date: 2025-09-26
-description: "At Televista, we're not just another lead generation company. We're a team of dedicated professionals who are passionate about helping real estate investors to"
+description: "At Televista, we're not just another lead generation company."
 ---
 
 At Televista, we're not just another lead generation company. We're a team of dedicated professionals who are passionate about helping real estate investors to succeed. We understand that the quality of your leads is just as important as the quantity, and that's why we've developed a proprietary process for generating **high-intent real estate investor leads** that are exclusive to you. This guide will provide a transparent look at our process, helping you to understand what sets us apart from the competition.

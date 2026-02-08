@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors: The Complete 2026 Guide"
 date: 2025-12-19
-description: "In the fast-paced world of real estate investing, securing a steady stream of leads is paramount. While digital marketing and social media have their place, one"
+description: "In the fast-paced world of real estate investing, securing a steady stream of leads is paramount."
 ---
 
 In the fast-paced world of real estate investing, securing a steady stream of leads is paramount. While digital marketing and social media have their place, one of the most enduring and effective methods for finding motivated sellers is cold calling. This comprehensive guide will walk you through everything you need to know to build a successful real estate cold calling strategy in 2026.

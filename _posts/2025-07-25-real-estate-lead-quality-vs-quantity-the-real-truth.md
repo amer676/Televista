@@ -2,7 +2,7 @@
 layout: post
 title: "Real Estate Lead Quality vs Quantity: The Real Truth"
 date: 2025-07-25
-description: "In the world of real estate investing, there is an ongoing debate about what is more important: the quality of your leads or the quantity of your leads. Some in"
+description: "In the world of real estate investing, there is an ongoing debate about what is more important: the quality of your leads or the quantity of your leads."
 ---
 
 In the world of real estate investing, there is an ongoing debate about what is more important: the quality of your leads or the quantity of your leads. Some investors argue that it's all a numbers game, and that the more leads you have, the more deals you will close. Others argue that it's better to have a smaller number of high-quality leads than a large number of low-quality leads. This guide will explore the real truth about **real estate lead quality** vs quantity, using real-world scenarios to help you to decide which is the right focus for your business.

@@ -2,7 +2,7 @@
 layout: post
 title: "How Real Estate Investors Should Build a Lead Funnel from Scratch"
 date: 2025-10-10
-description: "For real estate investors, a steady stream of qualified leads is the cornerstone of a successful business. But where do those leads come from? And how do you tu"
+description: "For real estate investors, a steady stream of qualified leads is the cornerstone of a successful business."
 ---
 
 For real estate investors, a steady stream of qualified leads is the cornerstone of a successful business. But where do those leads come from? And how do you turn a casual inquiry into a closed deal? The answer lies in building a well-defined **real estate lead funnel**. This guide will provide a step-by-step roadmap for building an effective **investor lead funnel** from scratch, helping you to attract, nurture, and convert more leads into profitable deals.

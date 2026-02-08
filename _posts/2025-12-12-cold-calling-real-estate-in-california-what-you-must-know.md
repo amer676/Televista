@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling Real Estate in California: What You Must Know"
 date: 2025-12-12
-description: "**Disclaimer:** *The following information is for educational purposes only and does not constitute legal advice. You should consult with a qualified attorney t"
+description: "Disclaimer: The following information is for educational purposes only and does not constitute legal advice."
 ---
 
 **Disclaimer:** *The following information is for educational purposes only and does not constitute legal advice. You should consult with a qualified attorney to ensure your business practices are in compliance with all applicable laws and regulations in California.*

@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Guide to Real Estate Lead Follow-Up: Timing, Scripts, and Strategy"
 date: 2025-08-08
-description: "In the world of real estate investing, the old adage is true: the fortune is in the follow-up. A lead that is not followed up with is a lead that is lost. This"
+description: "In the world of real estate investing, the old adage is true: the fortune is in the follow-up."
 ---
 
 In the world of real estate investing, the old adage is true: the fortune is in the follow-up. A lead that is not followed up with is a lead that is lost. This guide will provide you with a comprehensive framework for **real estate lead follow up**, covering the timing, the scripts, and the strategy you need to turn your leads into deals.

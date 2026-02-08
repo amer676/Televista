@@ -2,7 +2,7 @@
 layout: post
 title: "How Real Estate Investors Should Qualify Leads Properly: A Step-by-Step Guide"
 date: 2025-10-03
-description: "In the world of real estate investing, not all leads are created equal. Some are hot prospects who are ready to sell now, while others are just kicking the tire"
+description: "In the world of real estate investing, not all leads are created equal."
 ---
 
 In the world of real estate investing, not all leads are created equal. Some are hot prospects who are ready to sell now, while others are just kicking the tires. The key to building a successful and efficient business is to have a systematic process for **real estate lead qualification**. This guide will provide a step-by-step framework for qualifying your leads properly, helping you to focus your time and energy on the most promising opportunities.
