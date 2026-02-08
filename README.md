@@ -12,6 +12,23 @@ Cold calling and lead generation services for real estate and home services.
 - **Services** (`services.html`) - Detailed breakdown of cold calling, partnerships, and add-on services
 - **About** (`about.html`) - Team structure, company story, and founders' note
 - **Contact** (`contact.html`) - Cal.com scheduling widget and Tally question form
+- **Blog** (`/blog/`) - Jekyll-powered blog index and posts in `_posts/`
+
+## 🧪 Local Jekyll
+
+Go Live serves static files only, so `/blog/` will not exist unless Jekyll builds it.
+
+From the `Televista/` folder:
+
+```bash
+bundle install
+bundle exec jekyll serve --livereload
+```
+
+Then open:
+
+- `http://localhost:4000/`
+- `http://localhost:4000/blog/`
 
 ## 🎨 Design
 

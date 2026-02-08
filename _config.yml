@@ -1,0 +1,5 @@
+title: Televista
+description: Cold calling and lead generation for real estate and home services
+baseurl: ""
+permalink: /blog/:year/:month/:day/:title/
+markdown: kramdown

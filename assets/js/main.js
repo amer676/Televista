@@ -151,22 +151,57 @@
   // Active Navigation Link
   // ============================================
 
+  function normalizePath(rawPath) {
+    if (!rawPath) return '';
+    let path = rawPath.split('?')[0].split('#')[0];
+
+    if (path.startsWith('http://') || path.startsWith('https://')) {
+      try {
+        path = new URL(path).pathname;
+      } catch (e) {
+        // ignore invalid URLs
+      }
+    }
+
+    if (path === '') return '/';
+    if (!path.startsWith('/')) path = `/${path}`;
+
+    if (path === '/index.html') return '/';
+    if (path.endsWith('/index.html')) {
+      path = path.slice(0, -'/index.html'.length) || '/';
+    }
+
+    if (path.endsWith('.html')) {
+      path = path.slice(0, -5);
+    }
+
+    if (path.length > 1 && path.endsWith('/')) {
+      path = path.slice(0, -1);
+    }
+
+    return path;
+  }
+
   function setActiveNavLink() {
-    const currentPath = window.location.pathname;
-    const navLinks = document.querySelectorAll('.nav-link');
-    
+    const currentPath = normalizePath(window.location.pathname);
+    const navLinks = Array.from(document.querySelectorAll('.nav-link'));
+    let matchedLink = null;
+
     navLinks.forEach(link => {
-      const linkPath = link.getAttribute('href');
-      
-      // Check if the link matches the current page
-      if (currentPath.endsWith(linkPath) || 
-          (currentPath === '/' && linkPath === 'index.html') ||
-          (currentPath.endsWith('/') && linkPath === 'index.html')) {
-        link.classList.add('active');
-      } else if (!link.classList.contains('active')) {
-        // Don't remove active class if it was set in HTML
+      const href = link.getAttribute('href') || '';
+      if (href.startsWith('#')) return;
+
+      const linkPath = normalizePath(href);
+      if (linkPath && currentPath === linkPath) {
+        matchedLink = link;
       }
     });
+
+    if (matchedLink) {
+      navLinks.forEach(link => {
+        link.classList.toggle('active', link === matchedLink);
+      });
+    }
   }
 
   setActiveNavLink();
