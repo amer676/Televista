@@ -3,6 +3,7 @@ layout: post
 title: "Real Estate Cold Calling Playbook 2026: Scripts, Autodialing, and Follow‑Up"
 date: 2026-02-02
 description: "The complete real estate cold calling playbook for 2026: list building, autodialing, scripts, objections, follow‑ups, and how to turn calls into contracts."
+og_image: "/assets/images/og/real-estate-cold-calling-playbook-2026.png"
 ---
 
 Real estate cold calling is still the fastest way to create conversations with motivated sellers. In 2026, the rules have evolved, the tools are better, and competition is stronger—but the fundamentals remain the same. If you want a reliable pipeline, you need a system that turns calls into real appointments, and appointments into contracts.

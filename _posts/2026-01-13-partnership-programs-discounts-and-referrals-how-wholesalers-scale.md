@@ -3,6 +3,7 @@ layout: post
 title: "Partnership Programs, Discounts, and Referrals: How Wholesalers Scale Without Hiring"
 date: 2026-01-13
 description: "A complete guide to wholesaler partnership programs, referral structures, and acquisition manager collaborations that scale pipeline without heavy overhead."
+og_image: "/assets/images/og/partnership-programs-discounts-and-referrals-how-wholesalers-scale.png"
 ---
 
 Most wholesalers hit the same ceiling: they can close deals, but scaling the pipeline feels like hiring a full in‑house team, adding payroll, and managing chaos. The alternative is partnerships. In 2026, the smartest wholesalers scale by partnering with specialized teams and referral networks while keeping their fixed costs low.

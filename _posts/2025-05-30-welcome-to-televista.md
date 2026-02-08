@@ -3,6 +3,7 @@ layout: post
 title: "Welcome to the Televista Blog"
 date: 2025-05-30
 description: "We are launching this blog to share the tactics, frameworks, and real-world lessons we use every day to book qualified appointments."
+og_image: "/assets/images/og/welcome-to-televista.png"
 ---
 
 We are launching this blog to share the tactics, frameworks, and real-world

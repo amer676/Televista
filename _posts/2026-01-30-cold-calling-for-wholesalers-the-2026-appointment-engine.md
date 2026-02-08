@@ -3,6 +3,7 @@ layout: post
 title: "Cold Calling for Wholesalers: The 2026 Appointment Engine"
 date: 2026-01-30
 description: "Why cold calling still produces the most controllable wholesaling pipeline in 2026, plus a step-by-step playbook that drives consistent appointments."
+og_image: "/assets/images/og/cold-calling-for-wholesalers-the-2026-appointment-engine.png"
 ---
 
 Cold calling is the only lead generation channel where you control the volume, the timing, and the conversation. In 2026, that control is more valuable than ever. Algorithms change. Ad costs swing. But a well-built cold calling system still lets wholesalers create conversations on demand, gather seller motivation in real time, and turn those conversations into predictable appointments. This guide is a full playbook for wholesalers who want cold calling to be the king of their pipeline, not just another tactic in the mix.

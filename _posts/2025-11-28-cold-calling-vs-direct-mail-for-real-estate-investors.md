@@ -3,6 +3,7 @@ layout: post
 title: "Cold Calling vs Direct Mail for Real Estate Investors: Which is the Clear Winner?"
 date: 2025-11-28
 description: "For real estate investors, the quest for high-quality, off-market leads is a never-ending journey."
+og_image: "/assets/images/og/cold-calling-vs-direct-mail-for-real-estate-investors.png"
 ---
 
 For real estate investors, the quest for high-quality, off-market leads is a never-ending journey. Two of the most time-tested and effective methods for finding motivated sellers are cold calling and direct mail. But in the digital age, which of these traditional marketing channels is the clear winner? This guide will provide an in-depth comparison of cold calling and direct mail, helping you to decide which strategy is the right fit for your real estate investment business.

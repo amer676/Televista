@@ -2,7 +2,8 @@
 layout: post
 title: "Motivated Seller Leads: What They Are & How to Find Them"
 date: 2025-08-22
-description: "In the world of real estate investing, motivated seller leads are the holy grail."
+description: "In the world of real estate investing, motivated seller leads are the holy grail. This could be due to a variety of factors, such as:."
+og_image: "/assets/images/og/motivated-seller-leads-what-they-are-how-to-find-them.png"
 ---
 
 In the world of real estate investing, **motivated seller leads** are the holy grail. These are homeowners who are not just thinking about selling; they are actively looking for a way to sell their property quickly and easily. This guide will provide a comprehensive overview of what motivated seller leads are, why they are so valuable, and how you can find them.

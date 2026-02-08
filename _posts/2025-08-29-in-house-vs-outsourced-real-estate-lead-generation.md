@@ -3,6 +3,7 @@ layout: post
 title: "In-House vs Outsourced Real Estate Lead Generation: Which is Right for You?"
 date: 2025-08-29
 description: "One of the most critical decisions a real estate investor will make is how to handle their lead generation."
+og_image: "/assets/images/og/in-house-vs-outsourced-real-estate-lead-generation.png"
 ---
 
 One of the most critical decisions a real estate investor will make is how to handle their lead generation. Should you build an in-house team of lead generation specialists, or should you partner with an **outsourced real estate lead generation** company? This guide will provide a balanced and in-depth comparison of these two models, helping you to make an informed decision about which is the right fit for your business.

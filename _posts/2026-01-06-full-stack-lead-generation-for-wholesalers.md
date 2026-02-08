@@ -3,6 +3,7 @@ layout: post
 title: "Full‑Stack Lead Generation for Wholesalers: Cold Calling, CRM, and Automations"
 date: 2026-01-06
 description: "A step‑by‑step system for wholesalers who want consistent appointments by combining cold calling, CRM discipline, and AI automation."
+og_image: "/assets/images/og/full-stack-lead-generation-for-wholesalers.png"
 ---
 
 Wholesaling success in 2026 is less about one “hack” and more about systems. The wholesalers who win consistently operate a full‑stack lead generation engine: cold calling at the front, CRM discipline in the middle, and automation at the back. This guide shows you how to build that full stack, why each layer matters, and how Televista integrates all three into a reliable pipeline.

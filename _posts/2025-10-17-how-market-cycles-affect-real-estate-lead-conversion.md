@@ -3,6 +3,7 @@ layout: post
 title: "How Market Cycles Affect Real Estate Lead Conversion: An Evergreen Guide"
 date: 2025-10-17
 description: "The real estate market is in a constant state of flux, moving through a series of predictable cycles."
+og_image: "/assets/images/og/how-market-cycles-affect-real-estate-lead-conversion.png"
 ---
 
 The real estate market is in a constant state of flux, moving through a series of predictable cycles. These cycles have a profound impact on everything from property values to inventory levels, and they also have a significant effect on real estate lead conversion. This evergreen guide will provide a deep dive into the four phases of the real estate market cycle and how they affect your lead conversion, helping you to adapt your strategy and to thrive in any market.

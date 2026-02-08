@@ -3,6 +3,7 @@ layout: post
 title: "How to Track ROI on Real Estate Lead Generation: The Ultimate Guide"
 date: 2025-09-05
 description: "In the world of real estate investing, it's easy to get caught up in the latest marketing trends and to lose sight of what really matters: your return on..."
+og_image: "/assets/images/og/how-to-track-roi-on-real-estate-lead-generation.png"
 ---
 
 In the world of real estate investing, it's easy to get caught up in the latest marketing trends and to lose sight of what really matters: your return on investment (ROI). Tracking the ROI of your **real estate lead generation** efforts is essential for making informed decisions about your marketing budget and for building a profitable and sustainable business. This guide will provide you with a step-by-step framework for tracking your ROI, complete with math examples, clear metrics, and the formulas you need to succeed.

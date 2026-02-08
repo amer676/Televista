@@ -13,6 +13,12 @@ permalink: /blog/
     {% assign og_image = "/assets/images/og-image.png" | absolute_url %}
     <meta name="robots" content="index,follow" />
     <link rel="canonical" href="{{ canonical_url }}" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Televista Blog"
+      href="{{ '/feed.xml' | absolute_url }}"
+    />
     <title>{{ meta_title }}</title>
     <meta
       name="description"

@@ -3,6 +3,7 @@ layout: post
 title: "How to Build a Real Estate Lead Generation System From Scratch: A Step-by-Step Guide"
 date: 2025-09-19
 description: "A successful real estate investment business is built on a foundation of a consistent and predictable flow of leads."
+og_image: "/assets/images/og/how-to-build-a-real-estate-lead-gen-system-from-scratch.png"
 ---
 
 A successful real estate investment business is built on a foundation of a consistent and predictable flow of leads. But how do you create a **real estate lead generation system** that can deliver those leads day in and day out? This guide will provide a step-by-step framework for building a powerful and efficient lead generation system from scratch, helping you to attract, nurture, and convert more leads into profitable deals.

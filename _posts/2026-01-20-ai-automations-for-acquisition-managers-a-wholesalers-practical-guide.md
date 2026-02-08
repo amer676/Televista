@@ -3,6 +3,7 @@ layout: post
 title: "AI Automations for Acquisition Managers: A Wholesaler’s Practical Guide"
 date: 2026-01-20
 description: "A hands‑on guide to using AI in wholesaling—lead intake, call analysis, follow‑ups, and CRM workflows that keep the human touch."
+og_image: "/assets/images/og/ai-automations-for-acquisition-managers-a-wholesalers-practical-guide.png"
 ---
 
 AI is everywhere in 2026, but most wholesalers still struggle to use it in a way that produces real revenue. The reason is simple: AI does not close deals. Acquisition managers do. AI should make acquisition managers faster, more consistent, and more focused. If it is not doing that, it is just a shiny distraction.

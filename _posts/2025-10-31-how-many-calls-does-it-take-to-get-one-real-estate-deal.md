@@ -3,6 +3,7 @@ layout: post
 title: "How Many Calls Does It Take to Get One Real Estate Deal? A Deep Dive into the Numbers"
 date: 2025-10-31
 description: "It's one of the most frequently asked questions in the world of real estate investing: how many calls does it take to get one real estate deal?"
+og_image: "/assets/images/og/how-many-calls-does-it-take-to-get-one-real-estate-deal.png"
 ---
 
 It's one of the most frequently asked questions in the world of real estate investing: **how many calls does it take to get one real estate deal?** The answer, of course, is that it depends. There are a wide variety of factors that can influence your success rate, from the quality of your list to the skill of your callers. However, by understanding the key metrics and the industry benchmarks, you can get a realistic idea of what to expect and how to improve your results.

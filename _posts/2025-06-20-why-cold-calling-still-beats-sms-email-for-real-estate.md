@@ -3,6 +3,7 @@ layout: post
 title: "Why Cold Calling Still Beats SMS & Email for Real Estate (And It's Not Even Close)"
 date: 2025-06-20
 description: "In the digital age, it's easy to get seduced by the latest and the greatest marketing trends."
+og_image: "/assets/images/og/why-cold-calling-still-beats-sms-email-for-real-estate.png"
 ---
 
 In the digital age, it's easy to get seduced by the latest and the greatest marketing trends. SMS and email marketing are all the rage, and they certainly have their place in a well-rounded lead generation strategy. But when it comes to finding off-market real estate deals, there is still one undisputed champion: cold calling. This guide will take a controversial and an unapologetic look at why cold calling still beats SMS and email for real estate, and why it's not even close.

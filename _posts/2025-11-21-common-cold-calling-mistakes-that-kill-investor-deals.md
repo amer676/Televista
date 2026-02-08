@@ -3,6 +3,7 @@ layout: post
 title: "15 Common Cold Calling Mistakes That Kill Investor Deals"
 date: 2025-11-21
 description: "Cold calling can be a goldmine for real estate investors, but it's also a minefield of potential mistakes."
+og_image: "/assets/images/og/common-cold-calling-mistakes-that-kill-investor-deals.png"
 ---
 
 Cold calling can be a goldmine for real estate investors, but it's also a minefield of potential mistakes. A single misstep can be the difference between a closed deal and a missed opportunity. This guide will highlight 15 of the most common **real estate cold calling mistakes** and provide you with the knowledge you need to avoid them, helping you to turn your cold calls into profitable deals.

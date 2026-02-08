@@ -3,6 +3,7 @@ layout: post
 title: "CRM Integrations That Make Wholesaling Scalable in 2026"
 date: 2026-01-27
 description: "A practical CRM blueprint for wholesalers: pipeline stages, integrations, automations, and dashboards that turn leads into contracts at scale."
+og_image: "/assets/images/og/crm-integrations-that-make-wholesaling-scalable-in-2026.png"
 ---
 
 Most wholesalers don’t have a lead generation problem. They have a lead management problem. Leads come in, notes are scattered, follow‑ups are inconsistent, and deals get lost between “I’ll call them back” and “what happened to that seller?” The fix is not more leads. The fix is a CRM that actually works for wholesaling.

@@ -2,7 +2,8 @@
 layout: post
 title: "Cold Calling Real Estate in North Carolina: Investor Guide"
 date: 2025-12-05
-description: "Disclaimer: The following information is for educational purposes only and does not constitute legal advice."
+description: "North Carolina, the Tar Heel State, has become a hotbed for real estate investors in recent years."
+og_image: "/assets/images/og/cold-calling-real-estate-in-north-carolina-investor-guide.png"
 ---
 
 **Disclaimer:** *The following information is for educational purposes only and does not constitute legal advice. You should consult with a qualified attorney to ensure your business practices are in compliance with all applicable laws and regulations in North Carolina.*

@@ -3,6 +3,7 @@ layout: post
 title: "How Many Leads Does a Real Estate Investor Need Per Month? A Data-Driven Answer"
 date: 2025-10-24
 description: "It's a question that every real estate investor asks at some point in their career: how many real estate leads do I need per month?"
+og_image: "/assets/images/og/how-many-leads-does-a-real-estate-investor-need-per-month.png"
 ---
 
 It's a question that every real estate investor asks at some point in their career: **how many real estate leads do I need per month?** The answer, like so many things in real estate, is that it depends. The number of leads you need is directly tied to your income goals, your conversion rates, and the average profit you make on each deal. This guide will walk you through the calculations and scenarios you need to determine the right number of leads for your business.

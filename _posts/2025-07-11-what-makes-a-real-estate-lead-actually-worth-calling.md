@@ -2,7 +2,8 @@
 layout: post
 title: "What Makes a Real Estate Lead Actually Worth Calling: A Guide to Qualified Real Estate Leads"
 date: 2025-07-11
-description: "In the world of real estate investing, your time is your most valuable asset."
+description: "Your time is valuable, so unqualified leads are costly. This guide defines a qualified real estate lead and the signals that show which ones are worth calling."
+og_image: "/assets/images/og/what-makes-a-real-estate-lead-actually-worth-calling.png"
 ---
 
 In the world of real estate investing, your time is your most valuable asset. You can't afford to waste it on unqualified leads who are not a good fit for your business. This guide will provide you with a clear definition of what a **qualified real estate lead** is, the key signals to look for, and a framework for determining which leads are actually worth calling.

@@ -2,7 +2,8 @@
 layout: post
 title: "Real Estate Lead Generation: Paid vs Organic (What Actually Works)"
 date: 2025-08-01
-description: "In the world of real estate, there are two primary approaches to lead generation: paid and organic."
+description: "Paid and organic lead generation each have tradeoffs in speed, cost, and sustainability. This guide compares both approaches and helps you choose the right mix."
+og_image: "/assets/images/og/real-estate-lead-generation-paid-vs-organic-what-actually-works.png"
 ---
 
 In the world of real estate, there are two primary approaches to lead generation: paid and organic. Paid lead generation involves paying for advertising to get your message in front of a targeted audience, while organic lead generation involves attracting leads through non-paid channels, such as SEO and content marketing. This guide will provide an in-depth comparison of these two **real estate lead generation strategies**, helping you to decide which is the right fit for your business.

@@ -2,7 +2,8 @@
 layout: post
 title: "How AI Is Changing Real Estate Lead Generation: A Look into the Future"
 date: 2025-11-07
-description: "Artificial intelligence (AI) is no longer the stuff of science fiction."
+description: "Artificial intelligence (AI) is no longer the stuff of science fiction. AI is already being used in a variety of ways in the real estate industry."
+og_image: "/assets/images/og/how-ai-is-changing-real-estate-lead-generation.png"
 ---
 
 Artificial intelligence (AI) is no longer the stuff of science fiction. It's a transformative technology that is reshaping industries across the globe, and real estate is no exception. From automating repetitive tasks to providing deep insights into market trends, AI is changing the way real estate professionals do business. This guide will provide a forward-looking and authoritative look at how AI is changing real estate lead generation, helping you to understand the opportunities and challenges that lie ahead.
