@@ -170,8 +170,8 @@ permalink: /blog/
                   <p class="blog-excerpt">
                     {{ post.excerpt | strip_html | truncate: 180 }}
                   </p>
-                  <a class="blog-read-more" href="{{ post.url | relative_url }}"
-                    >Read more</a
+                  <a class="blog-read-more" href="{{ post.url | relative_url }}" aria-label="Read more about {{ post.title }}"
+                    >Read more &rarr;</a
                   >
                 </article>
               {% endfor %}
@@ -183,6 +183,131 @@ permalink: /blog/
       </section>
     </main>
 
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="footer-top">
+          <div>
+            <div class="footer-brand">TELEVISTA</div>
+            <p class="footer-description">
+              Helping businesses book more sales meetings through trained
+              outbound callers and smart systems. Your pipeline: handled.
+            </p>
+          </div>
+          <div class="footer-nav">
+            <h4>Pages</h4>
+            <ul class="footer-links">
+              <li><a href="{{ '/' | relative_url }}">Home</a></li>
+              <li><a href="{{ '/services.html' | relative_url }}">Services</a></li>
+              <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
+              <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+              <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+            </ul>
+          </div>
+          <div class="footer-nav">
+            <h4>Connect</h4>
+            <ul class="footer-links">
+              <li>
+                <a
+                  href="https://www.instagram.com/tele_vista1/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Instagram</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/profile.php?id=61579256489139"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Facebook</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.trustpilot.com/review/televista.online"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >Trustpilot</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/company/televistaagency/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >LinkedIn</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="footer-contact">
+          <div class="footer-contact-item">
+            <span class="footer-contact-label">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path
+                  d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07"
+                />
+              </svg>
+              Phone
+            </span>
+            <a href="tel:+19342457155" class="footer-contact-value"
+              >(934) 245-7155</a
+            >
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-label">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <path
+                  d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"
+                />
+                <polyline points="22,6 12,13 2,6" />
+              </svg>
+              Email
+            </span>
+            <a
+              href="mailto:team@televistaleadgeneration.com"
+              class="footer-contact-value"
+              >team@televistaleadgeneration.com</a
+            >
+          </div>
+          <div class="footer-contact-item">
+            <span class="footer-contact-label">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+              >
+                <circle cx="12" cy="12" r="10" />
+                <polyline points="12,6 12,12 16,14" />
+              </svg>
+              Hours
+            </span>
+            <span class="footer-contact-value"
+              >Mon-Fri: 9:00am - 6:30pm EST</span
+            >
+          </div>
+        </div>
+
+        <div class="footer-bottom">
+          <p class="footer-copyright">&copy; 2026 TELEVISTA. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
   </body>
 </html>
