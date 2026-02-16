@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maximize Your Cold Calling Success in Texas Real Estate"
-date: 2023-01-02
+date: 2026-01-02
 description: "Unlock effective cold calling strategies for real estate in Texas to boost your sales."
 og_image: "/assets/images/og/maximize-cold-calling-texas-real-estate.png"
 ---
