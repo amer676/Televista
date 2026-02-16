@@ -697,11 +697,11 @@
 
     // Pricing tiers
     function getMonthlyInvestment(callers) {
-      if (callers === 1) return 900;
-      if (callers === 2) return 1700;
-      if (callers === 3) return 2500;
+      if (callers === 1) return 1250;
+      if (callers === 2) return 2050;
+      if (callers === 3) return 2850;
       // For 4+ callers, use a linear model
-      return 2500 + (callers - 3) * 800;
+      return 2850 + (callers - 3) * 800;
     }
 
     function updateCalculator() {
