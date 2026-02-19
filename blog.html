@@ -118,6 +118,7 @@ permalink: /blog/
           >
           <a href="{{ '/about.html' | relative_url }}" class="nav-link">About</a>
           <a href="{{ '/blog/' | relative_url }}" class="nav-link active">Blog</a>
+          <a href="{{ '/case-studies.html' | relative_url }}" class="nav-link">Case Studies</a>
           <a href="{{ '/contact.html' | relative_url }}" class="nav-link"
             >Contact</a
           >
@@ -175,7 +176,17 @@ permalink: /blog/
           {% if site.posts.size > 0 %}
             <div class="blog-list">
               {% for post in site.posts %}
+                {% assign words = post.content | number_of_words %}
+                {% assign read_time = words | divided_by: 200 | plus: 1 %}
                 <article class="blog-card">
+                  <div class="blog-meta-row">
+                    {% if post.categories.size > 0 %}
+                      <span class="blog-tag">{{ post.categories | first }}</span>
+                    {% elsif post.tags.size > 0 %}
+                      <span class="blog-tag">{{ post.tags | first }}</span>
+                    {% endif %}
+                    <span class="blog-read-time">{{ read_time }} min read</span>
+                  </div>
                   <p class="blog-date">
                     {{ post.date | date: "%B %-d, %Y" }}
                   </p>
@@ -217,6 +228,17 @@ permalink: /blog/
               <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
               <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
               <li><a href="{{ '/contact.html' | relative_url }}">Contact</a></li>
+              <li><a href="{{ '/case-studies.html' | relative_url }}">Case Studies</a></li>
+              <li><a href="{{ '/compliance.html' | relative_url }}">Compliance</a></li>
+              <li><a href="{{ '/privacy-policy.html' | relative_url }}">Privacy Policy</a></li>
+            </ul>
+          </div>
+          <div class="footer-nav">
+            <h4>Industries</h4>
+            <ul class="footer-links">
+              <li><a href="{{ '/real-estate.html' | relative_url }}">Real Estate</a></li>
+              <li><a href="{{ '/roofing-solar.html' | relative_url }}">Roofing &amp; Solar</a></li>
+              <li><a href="{{ '/b2b-saas.html' | relative_url }}">B2B &amp; SaaS</a></li>
             </ul>
           </div>
           <div class="footer-nav">
