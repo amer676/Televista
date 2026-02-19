@@ -799,6 +799,12 @@ img {
   gap: var(--space-6);
 }
 
+.process-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-6);
+}
+
 .process-card {
   background: var(--color-bg-dark);
   border-radius: var(--radius-2xl);
@@ -2500,6 +2506,10 @@ a.footer-contact-value:hover {
   .process-track {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .process-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
   
   .process-number {
     font-size: 5rem;
@@ -2605,6 +2615,10 @@ a.footer-contact-value:hover {
   }
   
   .process-track {
+    grid-template-columns: 1fr;
+  }
+
+  .process-grid {
     grid-template-columns: 1fr;
   }
   
