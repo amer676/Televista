@@ -62,7 +62,7 @@ permalink: /blog/
       crossorigin
     />
     <link
-      href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
 
@@ -81,7 +81,7 @@ permalink: /blog/
     </script>
 
     <!-- Styles -->
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/main.min.css' | relative_url }}" />
 
     <!-- Structured Data: Blog -->
     <script type="application/ld+json">
@@ -174,8 +174,12 @@ permalink: /blog/
       <section class="section" style="padding-top: var(--space-12)">
         <div class="container">
           {% if site.posts.size > 0 %}
+            {% assign posts_per_page = 12 %}
+            {% assign paged_posts = site.posts | slice: 0, posts_per_page %}
+            {% assign total_pages = site.posts.size | divided_by: posts_per_page | ceil %}
+
             <div class="blog-list">
-              {% for post in site.posts %}
+              {% for post in paged_posts %}
                 {% assign words = post.content | number_of_words %}
                 {% assign read_time = words | divided_by: 200 | plus: 1 %}
                 <article class="blog-card">
@@ -202,6 +206,18 @@ permalink: /blog/
                 </article>
               {% endfor %}
             </div>
+
+            {% if total_pages > 1 %}
+            <nav class="blog-pagination" aria-label="Blog pagination" style="display:flex;justify-content:center;gap:var(--space-2);margin-top:var(--space-12);flex-wrap:wrap;">
+              <span class="btn btn-primary btn-sm" aria-current="page">1</span>
+              {% for i in (2..total_pages) %}
+                <a href="{{ '/blog/page' | append: i | append: '/' | relative_url }}" class="btn btn-secondary btn-sm">{{ i }}</a>
+              {% endfor %}
+              {% if total_pages > 1 %}
+                <a href="{{ '/blog/page2/' | relative_url }}" class="btn btn-secondary btn-sm">Older &rarr;</a>
+              {% endif %}
+            </nav>
+            {% endif %}
           {% else %}
             <p>No posts yet. Check back soon.</p>
           {% endif %}
@@ -262,7 +278,7 @@ permalink: /blog/
               </li>
               <li>
                 <a
-                  href="https://www.trustpilot.com/review/televista.online"
+                  href="https://www.trustpilot.com/review/televistaleadgeneration.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   >Trustpilot</a
@@ -345,6 +361,33 @@ permalink: /blog/
       </div>
     </footer>
 
-    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
-  </body>
+    <script src="{{ '/assets/js/main.min.js' | relative_url }}" defer></script>
+  
+  <!-- Cookie Consent Banner -->
+  <div id="cookie-banner" role="dialog" aria-label="Cookie consent">
+    <p>We use cookies (including Google Analytics) to improve your experience and analyze site traffic. By clicking "Accept", you consent to our use of cookies. See our <a href="privacy-policy.html">Privacy Policy</a> for details.</p>
+    <div class="cookie-actions">
+      <button class="cookie-btn-accept" id="cookie-accept">Accept</button>
+      <button class="cookie-btn-decline" id="cookie-decline">Decline</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var banner = document.getElementById('cookie-banner');
+      if (!banner) return;
+      if (localStorage.getItem('cookie-consent')) return;
+      setTimeout(function(){ banner.classList.add('visible'); }, 600);
+      document.getElementById('cookie-accept').addEventListener('click', function(){
+        localStorage.setItem('cookie-consent', 'accepted');
+        banner.classList.remove('visible');
+      });
+      document.getElementById('cookie-decline').addEventListener('click', function(){
+        localStorage.setItem('cookie-consent', 'declined');
+        banner.classList.remove('visible');
+        // Disable GA if declined
+        window['ga-disable-G-ZJN951WF3R'] = true;
+      });
+    })();
+  </script>
+</body>
 </html>

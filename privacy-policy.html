@@ -44,12 +44,12 @@
 
     <!-- Fonts -->
     <link
-      href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
 
     <!-- Styles -->
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/main.min.css" />
 
     <!-- Structured Data -->
     <script type="application/ld+json">
@@ -322,6 +322,8 @@
               <li><a href="real-estate.html">Real Estate</a></li>
               <li><a href="roofing-solar.html">Roofing &amp; Solar</a></li>
               <li><a href="b2b-saas.html">B2B &amp; SaaS</a></li>
+              <li><a href="insurance.html">Insurance</a></li>
+              <li><a href="home-improvement.html">Home Improvement</a></li>
             </ul>
           </div>
           <div class="footer-nav">
@@ -329,7 +331,7 @@
             <ul class="footer-links">
               <li><a href="https://www.instagram.com/tele_vista1/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
               <li><a href="https://www.facebook.com/profile.php?id=61579256489139" target="_blank" rel="noopener noreferrer">Facebook</a></li>
-              <li><a href="https://www.trustpilot.com/review/televista.online" target="_blank" rel="noopener noreferrer">Trustpilot</a></li>
+              <li><a href="https://www.trustpilot.com/review/televistaleadgeneration.com" target="_blank" rel="noopener noreferrer">Trustpilot</a></li>
               <li><a href="https://www.linkedin.com/company/televistaagency/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
             </ul>
           </div>
@@ -372,6 +374,33 @@
       </div>
     </footer>
 
-    <script src="assets/js/main.js" defer></script>
-  </body>
+    <script src="assets/js/main.min.js" defer></script>
+  
+  <!-- Cookie Consent Banner -->
+  <div id="cookie-banner" role="dialog" aria-label="Cookie consent">
+    <p>We use cookies (including Google Analytics) to improve your experience and analyze site traffic. By clicking "Accept", you consent to our use of cookies. See our <a href="privacy-policy.html">Privacy Policy</a> for details.</p>
+    <div class="cookie-actions">
+      <button class="cookie-btn-accept" id="cookie-accept">Accept</button>
+      <button class="cookie-btn-decline" id="cookie-decline">Decline</button>
+    </div>
+  </div>
+  <script>
+    (function(){
+      var banner = document.getElementById('cookie-banner');
+      if (!banner) return;
+      if (localStorage.getItem('cookie-consent')) return;
+      setTimeout(function(){ banner.classList.add('visible'); }, 600);
+      document.getElementById('cookie-accept').addEventListener('click', function(){
+        localStorage.setItem('cookie-consent', 'accepted');
+        banner.classList.remove('visible');
+      });
+      document.getElementById('cookie-decline').addEventListener('click', function(){
+        localStorage.setItem('cookie-consent', 'declined');
+        banner.classList.remove('visible');
+        // Disable GA if declined
+        window['ga-disable-G-ZJN951WF3R'] = true;
+      });
+    })();
+  </script>
+</body>
 </html>
