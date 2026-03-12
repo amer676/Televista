@@ -11,7 +11,7 @@ author: "Televista Team"
 
 ## The Real Cost of 'Free' CRMs for Real Estate Investors
 
-![Bar chart illustrating that 72% of real estate investors abandon free CRMs within six months, while 28% continue using them, highlighting the high abandonment rate.](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Abandon%20Free%20CRMs%22%2C%22Continue%20Using%20Free%20CRMs%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Percentage%20of%20Investors%22%2C%22data%22%3A%5B72%2C28%5D%2C%22backgroundColor%22%3A%5B%22%23FF6384%22%2C%22%2336A2EB%22%5D%2C%22borderColor%22%3A%22%232563eb%22%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Real%20Estate%20Investor%20Free%20CRM%20Abandonment%20Rate%20(Within%206%20Months)%22%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22max%22%3A100%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Percentage%20(%25)%22%7D%7D%7D%7D%7D&w=800&h=400&backgroundColor=white)
+![Bar chart illustrating that 72% of real estate investors abandon free CRMs within six months, while 28% continue using them, highlighting the high abandonment rate.](/assets/images/charts/crm-abandonment-rate.png)
 
 
 A staggering 72% of real estate investors abandon free CRMs within six months, not because they stop working, but because these tools were never tailored for investor workflows. 
