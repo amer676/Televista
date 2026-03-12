@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Cities for Investor Lead Generation in the US"
-date: 2026-01-16
+date: 2026-01-27
 description: "For real estate investors, success is often a matter of location. A \"best\" city for real estate investors is one that offers a combination of the following:."
 og_image: "/assets/images/og/best-cities-for-investor-lead-generation-in-the-us.png"
 ---

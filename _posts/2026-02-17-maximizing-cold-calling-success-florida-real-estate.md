@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maximizing Cold Calling Success in Florida’s Real Estate Market"
-date: 2026-02-16
+date: 2026-02-17
 description: "Learn how to leverage cold calling for real estate success in Florida!"
 og_image: "/assets/images/og/maximizing-cold-calling-success-florida-real-estate.png"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Goliath Data vs. BatchLeads vs. DealMachine vs. PropertyRadar: A Tactical Comparison"
-date: 2026-02-19
+date: 2026-02-20
 description: "Dive into a hands-on comparison of Goliath Data, BatchLeads, DealMachine, and PropertyRadar for cold calling efficiency."
 og_image: "/assets/images/og/goliath-data-batchleads-dealmachine-propertyradar-comparison.png"
 ---

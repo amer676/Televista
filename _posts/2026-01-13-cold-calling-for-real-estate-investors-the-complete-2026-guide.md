@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cold Calling for Real Estate Investors: The Complete 2026 Guide"
-date: 2025-12-19
+date: 2026-01-13
 description: "In the fast-paced world of real estate investing, securing a steady stream of leads is paramount."
 og_image: "/assets/images/og/cold-calling-for-real-estate-investors-the-complete-2026-guide.png"
 ---

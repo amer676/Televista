@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cold Calling for Wholesalers: How to Do It Right in 2026"
-date: 2026-02-08
+date: 2026-02-14
 description: "A complete wholesaler guide to real estate cold calling: lead lists, autodialing, scripts, objections, follow‑ups, and why Televista does it better for fair pricing."
 og_image: "/assets/images/og/cold-calling-for-wholesalers-how-to-do-it-right.png"
 ---

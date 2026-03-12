@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In-House Cold Calling vs. Televista: A Tactical Comparison"
-date: 2026-02-19
+date: 2026-02-23
 description: "Explore the tactical differences between in-house cold calling and Televista’s services for better lead generation."
 og_image: "/assets/images/og/in-house-cold-calling-vs-televista.png"
 ---

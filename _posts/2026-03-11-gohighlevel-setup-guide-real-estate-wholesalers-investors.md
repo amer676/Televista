@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GoHighLevel Setup Guide for Real Estate Wholesalers"
-date: 2026-03-12
+date: 2026-03-11
 description: "Complete GoHighLevel setup guide for real estate wholesalers and investors. Master CRM workflows, automate deals, and scale your business."
 target_keyword: "GoHighLevel Setup Guide for Real Estate Wholesalers and Investors"
 categories: [blog]

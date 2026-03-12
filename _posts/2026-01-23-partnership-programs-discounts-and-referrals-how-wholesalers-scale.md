@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Partnership Programs, Discounts, and Referrals: How Wholesalers Scale Without Hiring"
-date: 2026-01-13
+date: 2026-01-23
 description: "A complete guide to wholesaler partnership programs, referral structures, and acquisition manager collaborations that scale pipeline without heavy overhead."
 og_image: "/assets/images/og/partnership-programs-discounts-and-referrals-how-wholesalers-scale.png"
 ---

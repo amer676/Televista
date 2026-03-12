@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Real Estate Cold Calling Playbook 2026: Scripts, Autodialing, and Follow‑Up"
-date: 2026-02-02
+date: 2026-02-11
 description: "The complete real estate cold calling playbook for 2026: list building, autodialing, scripts, objections, follow‑ups, and how to turn calls into contracts."
 og_image: "/assets/images/og/real-estate-cold-calling-playbook-2026.png"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Maximizing Cold Calling Efficiency for Wholesalers in Texas"
-date: 2026-03-02
+date: 2026-02-26
 description: "Discover strategies to optimize cold calling for real estate wholesalers in Texas, boosting leads and closing deals."
 og_image: "/assets/images/og/maximizing-cold-calling-efficiency-wholesalers-texas.png"
 ---

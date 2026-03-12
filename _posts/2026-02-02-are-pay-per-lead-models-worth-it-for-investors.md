@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Are Pay-Per-Lead Models Worth It for Investors?"
-date: 2026-01-23
+date: 2026-02-02
 description: "For real estate investors, a consistent flow of high-quality leads is the lifeblood of their business."
 og_image: "/assets/images/og/are-pay-per-lead-models-worth-it-for-investors.png"
 ---

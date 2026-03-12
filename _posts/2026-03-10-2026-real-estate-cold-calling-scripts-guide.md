@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026 Real Estate Cold Calling Scripts Guide - 14.3% Success"
-date: 2026-03-12
+date: 2026-03-10
 description: "Master the 2026 Real Estate Cold Calling Scripts Guide with psychology-first approaches that convert 14.3% vs 1.2% generic scripts. Proven results."
 target_keyword: "2026 Real Estate Cold Calling Scripts Guide"
 categories: [blog]

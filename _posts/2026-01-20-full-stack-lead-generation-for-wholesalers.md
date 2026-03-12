@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Full‑Stack Lead Generation for Wholesalers: Cold Calling, CRM, and Automations"
-date: 2026-01-06
+date: 2026-01-20
 description: "A step‑by‑step system for wholesalers who want consistent appointments by combining cold calling, CRM discipline, and AI automation."
 og_image: "/assets/images/og/full-stack-lead-generation-for-wholesalers.png"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CRM Integrations That Make Wholesaling Scalable in 2026"
-date: 2026-01-27
+date: 2026-02-05
 description: "A practical CRM blueprint for wholesalers: pipeline stages, integrations, automations, and dashboards that turn leads into contracts at scale."
 og_image: "/assets/images/og/crm-integrations-that-make-wholesaling-scalable-in-2026.png"
 ---

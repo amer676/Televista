@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cold Calling for Wholesalers: The 2026 Appointment Engine"
-date: 2026-01-30
+date: 2026-02-08
 description: "Why cold calling still produces the most controllable wholesaling pipeline in 2026, plus a step-by-step playbook that drives consistent appointments."
 og_image: "/assets/images/og/cold-calling-for-wholesalers-the-2026-appointment-engine.png"
 ---

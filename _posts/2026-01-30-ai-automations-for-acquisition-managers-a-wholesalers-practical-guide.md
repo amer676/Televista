@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Automations for Acquisition Managers: A Wholesaler’s Practical Guide"
-date: 2026-01-20
+date: 2026-01-30
 description: "A hands‑on guide to using AI in wholesaling—lead intake, call analysis, follow‑ups, and CRM workflows that keep the human touch."
 og_image: "/assets/images/og/ai-automations-for-acquisition-managers-a-wholesalers-practical-guide.png"
 ---
