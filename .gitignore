@@ -2,3 +2,6 @@ _site/
 .jekyll-cache/
 .bundle/
 .sass-cache/
+*.docx
+*.pdf
+*.doc
