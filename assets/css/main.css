@@ -1132,6 +1132,7 @@ img {
   color: var(--color-accent-primary);
 }
 
+.industry-card h3,
 .industry-card h4 {
   font-size: var(--text-sm);
   font-weight: 600;
@@ -1194,6 +1195,59 @@ a.industry-card {
 
 .feature-card p {
   font-size: var(--text-sm);
+  margin: 0;
+}
+
+/* ===================================
+   Services Grid (vertical landing pages)
+   =================================== */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+}
+
+.service-card {
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  padding: var(--space-6);
+  transition: all var(--transition-base);
+}
+
+.service-card:hover {
+  border-color: var(--color-accent-primary);
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.service-icon {
+  width: 52px;
+  height: 52px;
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: var(--space-4);
+}
+
+.service-icon svg {
+  width: 24px;
+  height: 24px;
+  color: var(--color-accent-primary);
+  flex-shrink: 0;
+}
+
+.service-card h3 {
+  font-size: var(--text-base);
+  font-weight: 700;
+  margin-bottom: var(--space-2);
+}
+
+.service-card p {
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
   margin: 0;
 }
 
@@ -2442,6 +2496,10 @@ a.footer-contact-value:hover {
    Responsive Styles
    =================================== */
 @media (max-width: 1024px) {
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .pricing-grid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -2630,10 +2688,14 @@ a.footer-contact-value:hover {
     grid-template-columns: repeat(2, 1fr);
   }
 
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+
   .features-grid {
     grid-template-columns: 1fr;
   }
-  
+
   .why-choose-grid {
     grid-template-columns: 1fr;
   }
