@@ -1,6 +1,5 @@
 ---
 title: Blog
-permalink: /blog/
 ---
 <!doctype html>
 <html lang="en">
@@ -173,13 +172,9 @@ permalink: /blog/
 
       <section class="section" style="padding-top: var(--space-12)">
         <div class="container">
-          {% if site.posts.size > 0 %}
-            {% assign posts_per_page = 12 %}
-            {% assign paged_posts = site.posts | slice: 0, posts_per_page %}
-            {% assign total_pages = site.posts.size | divided_by: posts_per_page | ceil %}
-
+          {% if paginator.posts.size > 0 %}
             <div class="blog-list">
-              {% for post in paged_posts %}
+              {% for post in paginator.posts %}
                 {% assign words = post.content | number_of_words %}
                 {% assign read_time = words | divided_by: 200 | plus: 1 %}
                 <article class="blog-card">
@@ -207,14 +202,24 @@ permalink: /blog/
               {% endfor %}
             </div>
 
-            {% if total_pages > 1 %}
+            {% if paginator.total_pages > 1 %}
             <nav class="blog-pagination" aria-label="Blog pagination" style="display:flex;justify-content:center;gap:var(--space-2);margin-top:var(--space-12);flex-wrap:wrap;">
-              <span class="btn btn-primary btn-sm" aria-current="page">1</span>
-              {% for i in (2..total_pages) %}
-                <a href="{{ '/blog/page' | append: i | append: '/' | relative_url }}" class="btn btn-secondary btn-sm">{{ i }}</a>
+              {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path | relative_url }}" class="btn btn-secondary btn-sm">&larr; Newer</a>
+              {% endif %}
+
+              {% for page_num in (1..paginator.total_pages) %}
+                {% if page_num == paginator.page %}
+                  <span class="btn btn-primary btn-sm" aria-current="page">{{ page_num }}</span>
+                {% elsif page_num == 1 %}
+                  <a href="{{ '/blog/' | relative_url }}" class="btn btn-secondary btn-sm">1</a>
+                {% else %}
+                  <a href="{{ '/blog/page' | append: page_num | append: '/' | relative_url }}" class="btn btn-secondary btn-sm">{{ page_num }}</a>
+                {% endif %}
               {% endfor %}
-              {% if total_pages > 1 %}
-                <a href="{{ '/blog/page2/' | relative_url }}" class="btn btn-secondary btn-sm">Older &rarr;</a>
+
+              {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path | relative_url }}" class="btn btn-secondary btn-sm">Older &rarr;</a>
               {% endif %}
             </nav>
             {% endif %}
@@ -362,7 +367,7 @@ permalink: /blog/
     </footer>
 
     <script src="{{ '/assets/js/main.min.js' | relative_url }}" defer></script>
-  
+
   <!-- Cookie Consent Banner -->
   <div id="cookie-banner" role="dialog" aria-label="Cookie consent">
     <p>We use cookies (including Google Analytics) to improve your experience and analyze site traffic. By clicking "Accept", you consent to our use of cookies. See our <a href="privacy-policy.html">Privacy Policy</a> for details.</p>
