@@ -7,9 +7,9 @@ target_keyword: "How to Protect Caller ID Reputation and Avoid Spam Flags in Col
 categories: [blog]
 tags: ["caller-id-reputation", "cold-calling-strategies", "spam-flag-prevention", "stir-shaken-compliance", "lead-generation-2026"]
 author: "Televista Team"
+image: "/assets/images/posts/2026-03-23-protect-caller-id-reputation-2026/featured.png"
 ---
 
-```markdown
 ## The $12M Problem Nobody's Talking About: When Your Numbers Go Dark
 
 His phone rang at 3am. "Our entire outbound just went dark," the VP of Sales whispered into the phone. "Every number's getting flagged as spam."
@@ -303,7 +303,6 @@ Stop reading. Start doing.
 **Timeline reality check:** Full implementation takes 60-90 days. But you'll see connect rate improvements within 2-3 weeks if you're consistent.
 
 Need help navigating all this? Our [Televista team](/services.html) handles the entire caller ID reputation management process — so you can focus on closing deals instead of babysitting phone numbers. [Book a strategy call](/contact.html) and we'll show you exactly how we'd protect your numbers.
-```
 
 ---
 
