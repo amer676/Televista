@@ -7,6 +7,7 @@ target_keyword: "Best Free CRM for Real Estate Investors in 2026"
 categories: [blog]
 tags: ["real estate CRM", "investor tools", "free CRM software", "property management", "lead generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The Real Cost of 'Free' CRMs for Real Estate Investors

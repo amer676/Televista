@@ -7,6 +7,7 @@ target_keyword: "The Complete Cold Calling Guide For Real Estate 2026"
 categories: [blog]
 tags: ["real estate cold calling", "cold calling scripts", "real estate lead generation", "real estate sales", "cold calling strategies"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 2026 Changes Everything for Real Estate Cold Calling

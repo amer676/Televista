@@ -7,6 +7,7 @@ target_keyword: "CallTools vs ReadyMode Power Dialer Comparison 2026"
 categories: [blog]
 tags: ["power dialer", "calltools", "readymode", "sales software", "cold calling"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The Power Dialer Reality Check

@@ -7,6 +7,7 @@ target_keyword: "TCPA One-to-One Consent Rule Vacated: Real Estate Investor Comp
 categories: [blog]
 tags: ["TCPA Compliance", "Real Estate Investors", "Lead Generation", "FCC Regulations", "Cold Calling Laws"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The $23 Million Relief: How the Eleventh Circuit Just Saved Real Estate Investors From TCPA's Harshest Rule Yet

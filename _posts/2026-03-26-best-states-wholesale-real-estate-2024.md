@@ -7,6 +7,7 @@ target_keyword: "Best States To Wholesale Real Estate 2024"
 categories: [blog]
 tags: ["wholesale real estate", "real estate investing", "best states 2024", "real estate markets", "lead generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The Wholesale Real Estate Landscape Is Shifting Fast in 2024

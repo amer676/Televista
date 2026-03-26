@@ -7,6 +7,7 @@ target_keyword: "GoHighLevel Setup Guide for Real Estate Wholesalers and Investo
 categories: [blog]
 tags: ["GoHighLevel", "Real Estate Wholesaling", "CRM Setup", "Real Estate Investors", "Lead Generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why Most Real Estate Wholesalers Fail at CRM (And How GoHighLevel Changes Everything)

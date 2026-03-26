@@ -7,6 +7,7 @@ target_keyword: "Advanced AI Dialer Strategies for Real Estate Investors"
 categories: [blog]
 tags: ["AI dialer strategies", "real estate cold calling", "lead generation automation", "real estate investor tools", "predictive lead scoring"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The AI Revolution in Real Estate Cold Calling: Beyond Basic Automation

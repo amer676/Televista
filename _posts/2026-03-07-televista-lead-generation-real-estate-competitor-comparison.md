@@ -7,6 +7,7 @@ target_keyword: "Televista Lead Generation for Real Estate: Competitor Compariso
 categories: [blog]
 tags: ["cold calling agency", "real estate lead generation", "competitor analysis", "Televista", "outbound marketing"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The Real Estate Cold Calling Reality Check

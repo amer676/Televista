@@ -7,6 +7,7 @@ target_keyword: "best cold calling agency real estate"
 categories: [blog]
 tags: ["best cold calling agency", "cold calling agency real estate", "best cold calling company", "real estate cold calling service", "B2B cold calling agencies", "cold calling for wholesalers", "cold calling for investors"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Why Most B2B Cold Calling Agencies Miss the Mark (And 5 That Don't)

@@ -7,6 +7,7 @@ target_keyword: "Missouri Real Estate Wholesaling Costs 2026"
 categories: [blog]
 tags: ["Missouri Real Estate Wholesaling", "Real Estate Investment Costs", "Wholesaling Budget 2026", "Lead Generation Costs", "Missouri Real Estate Market"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Missouri Wholesaling Market Realities: What 2026 Numbers Actually Tell Us

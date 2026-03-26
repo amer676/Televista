@@ -7,6 +7,7 @@ target_keyword: "AI Data Enrichment for Hyper-Personalized Cold Calling 2026"
 categories: [blog]
 tags: ["AI prospecting", "cold calling", "data enrichment", "sales automation", "lead generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The Cold Calling Revolution: How AI Data Enrichment Is Changing Everything

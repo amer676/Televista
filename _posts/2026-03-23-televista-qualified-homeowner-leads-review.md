@@ -7,6 +7,7 @@ target_keyword: "Televista qualified homeowner leads review"
 categories: [blog]
 tags: ["televista review", "qualified homeowner leads", "lead generation", "real estate leads", "cold calling services"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The $12K Per Month Reality Check

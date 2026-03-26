@@ -7,6 +7,7 @@ target_keyword: "best cold calling companies"
 categories: [blog]
 tags: ["cold-calling-companies", "real-estate-cold-calling", "lead-generation-services", "best-cold-calling-agency", "B2B-sales-outsourcing", "wholesaling-lead-generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## We Tested 47 Cold Calling Companies. Most Were Terrible.

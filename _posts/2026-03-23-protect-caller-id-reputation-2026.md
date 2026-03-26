@@ -8,6 +8,7 @@ categories: [blog]
 tags: ["caller-id-reputation", "cold-calling-strategies", "spam-flag-prevention", "stir-shaken-compliance", "lead-generation-2026"]
 author: "Televista Team"
 image: "/assets/images/posts/2026-03-23-protect-caller-id-reputation-2026/featured.png"
+og_image: /assets/images/og-image.png
 ---
 
 ## The $12M Problem Nobody's Talking About: When Your Numbers Go Dark

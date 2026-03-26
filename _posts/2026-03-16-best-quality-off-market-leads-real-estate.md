@@ -7,6 +7,7 @@ target_keyword: "best quality off market leads for real estate"
 categories: [blog]
 tags: ["off-market-leads", "real-estate-investing", "motivated-sellers", "lead-generation", "cold-calling"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 90% of Real Estate Investors Never Find Quality Off-Market Deals

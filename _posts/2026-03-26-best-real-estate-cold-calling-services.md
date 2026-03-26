@@ -7,6 +7,7 @@ target_keyword: "Best Real Estate Cold Calling Services"
 categories: [blog]
 tags: ["real estate lead generation", "cold calling services", "real estate marketing", "lead generation agencies", "real estate prospecting"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The Cold Reality of Real Estate Lead Generation

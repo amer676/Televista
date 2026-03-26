@@ -7,6 +7,7 @@ target_keyword: "Televista vs REVA Global reviews"
 categories: [blog]
 tags: ["virtual assistant comparison", "lead generation services", "cold calling providers", "VA performance reviews", "business outsourcing"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The Virtual Assistant Showdown Nobody's Talking About

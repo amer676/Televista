@@ -7,6 +7,7 @@ target_keyword: "Colorado Real Estate Investor Financing Strategies 2026"
 categories: [blog]
 tags: ["Colorado Real Estate Investing", "Real Estate Financing", "Hard Money Loans", "DSCR Loans", "Investment Property Financing"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Colorado's 2026 Financing Landscape: The $14.2B Opportunity

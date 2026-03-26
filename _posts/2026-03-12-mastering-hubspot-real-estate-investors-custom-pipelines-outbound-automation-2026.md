@@ -7,6 +7,7 @@ target_keyword: "Mastering HubSpot for Real Estate Investors: Custom Pipelines &
 categories: [blog]
 tags: ["HubSpot CRM", "Real Estate Investing", "Sales Automation", "Lead Generation", "Pipeline Management"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 87% of Real Estate Investors Still Use Spreadsheets (And How HubSpot Changes Everything)

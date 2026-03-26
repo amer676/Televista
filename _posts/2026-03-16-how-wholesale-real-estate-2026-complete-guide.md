@@ -7,6 +7,7 @@ target_keyword: "How to Wholesale Real Estate in 2026: A Complete Guide"
 categories: [blog]
 tags: ["real estate wholesaling", "lead generation", "real estate investing", "wholesaling strategies", "2026 real estate"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 2026 Changes Everything for Real Estate Wholesalers

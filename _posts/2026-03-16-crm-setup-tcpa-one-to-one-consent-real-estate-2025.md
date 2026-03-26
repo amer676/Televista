@@ -7,6 +7,7 @@ target_keyword: "CRM setup for TCPA one-to-one consent real estate 2025"
 categories: [blog]
 tags: ["TCPA Compliance", "Real Estate CRM", "Lead Generation", "One-to-One Consent", "FCC Regulations"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The $11 Billion Compliance Crisis Hitting Real Estate

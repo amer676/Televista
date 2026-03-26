@@ -7,6 +7,7 @@ target_keyword: "Televista's advanced cold calling strategies for real estate in
 categories: [blog]
 tags: ["cold calling strategies", "real estate lead generation", "real estate wholesaling", "investor marketing", "AI cold calling"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The 73% Problem Most Real Estate Cold Callers Never Solve

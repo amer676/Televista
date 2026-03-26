@@ -7,6 +7,7 @@ target_keyword: "2026 Real Estate Cold Calling Scripts Guide"
 categories: [blog]
 tags: ["real estate cold calling", "cold calling scripts", "lead generation", "real estate sales", "telemarketing"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 95% of Real Estate Cold Calling Scripts Fail in 2026

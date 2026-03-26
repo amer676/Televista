@@ -7,6 +7,7 @@ target_keyword: "The Ultimate 2026 Real Estate Cold Calling Compliance Guide"
 categories: [blog]
 tags: ["real estate compliance", "cold calling regulations", "TCPA compliance", "real estate marketing", "lead generation"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: The $43,792 Wake-Up Call Every Real Estate Agent Needs to Hear

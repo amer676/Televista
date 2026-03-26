@@ -7,6 +7,7 @@ target_keyword: "Top 8 Real Estate Cold Calling Companies"
 categories: [blog]
 tags: ["real estate cold calling", "lead generation", "real estate marketing", "cold calling services", "real estate leads"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 73% of Real Estate Professionals Still Struggle with Cold Calling ROI

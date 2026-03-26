@@ -7,6 +7,7 @@ target_keyword: "Propstream Alternatives 2026: Batchleads, DealMachine, Propwire
 categories: [blog]
 tags: ["PropStream Alternatives", "Real Estate Lead Generation", "BatchLeads Review", "DealMachine Comparison", "Property Investment Tools"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## The Real Estate Lead Generation Landscape Has Changed — Here's What We Found After Testing 4 Top Tools

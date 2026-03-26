@@ -7,6 +7,7 @@ target_keyword: "how to find motivated absentee owner leads 2026 beyond basic li
 categories: [blog]
 tags: ["absentee owner leads", "motivated sellers", "real estate wholesaling", "lead generation", "real estate investing"]
 author: "Televista Team"
+og_image: /assets/images/og-image.png
 ---
 
 ## Introduction: Why 2026 Changes Everything for Absentee Owner Hunting
