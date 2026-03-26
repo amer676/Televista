@@ -413,6 +413,15 @@
                   layout: "month_view",
                 });
               </script>
+              <!-- Redirect to thank-you page after successful booking -->
+              <script>
+                Cal.ns["30min"]("on", {
+                  action: "bookingSuccessful",
+                  callback: function() {
+                    window.location.href = "/thank-you.html";
+                  }
+                });
+              </script>
               <!-- Cal inline embed code ends -->
             </div>
           </div>
