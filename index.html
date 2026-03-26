@@ -99,7 +99,10 @@
     />
 
     <!-- Styles -->
-    <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <!-- Three.js (lightweight build for 3D button accents) -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js" defer></script>
 
     <!-- Structured Data: Organization -->
     <script type="application/ld+json">
@@ -209,7 +212,7 @@
             "name": "What makes Televista different?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We combine fully trained, fluent callers with advanced analytics and full management. Our agents aren't script-readers—they're trained dynamically to improvise and connect with people. Plus, we have 25 active callers and 10 on standby, so we can scale with you instantly."
+              "text": "We combine fully trained, fluent callers with bespoke AI software — our own county data platform, AI enrichment, AI lead scoring, and predictive ML targeting. Our agents aren't script-readers — they're trained dynamically to improvise and connect with people. Plus, we run n8n and Zapier automations, Twilio SMS campaigns, and offer double qualification with experienced acquisition callers. We have 25 active callers and 10 on standby, so we scale instantly."
             }
           },
           {
@@ -714,8 +717,8 @@
             </div>
             <h2 class="section-title">Everything You Need to Scale</h2>
             <p class="section-description mx-auto">
-              Full-service outbound calling with trained teams, tools included,
-              and complete management.
+              Full-service outbound calling powered by bespoke AI software,
+              n8n &amp; Zapier automations, and trained teams — with complete management.
             </p>
           </div>
 
@@ -774,8 +777,9 @@
               </div>
               <h3>Data Enrichment &amp; List Building</h3>
               <p>
-                We build and enrich your prospect lists using verified data
-                sources. Targeted leads that match your ideal customer profile.
+                County records enriched with multiple data sources for reliable
+                contact info. Stacked filters — distress signals, absentee owners,
+                AI-powered area targeting — to build precise, high-converting lists.
               </p>
             </div>
             <div class="why-choose-card fade-in">
@@ -793,9 +797,9 @@
               </div>
               <h3>CRM Integration &amp; Setup</h3>
               <p>
-                We integrate directly into HubSpot and other CRMs. Leads
-                delivered straight to your system with full notes and
-                recordings.
+                Direct integration into GoHighLevel, HubSpot, Salesforce,
+                REsimpli, Follow Up Boss, and more. Leads delivered straight
+                to your system with full notes and recordings.
               </p>
             </div>
             <div class="why-choose-card fade-in">
@@ -814,8 +818,9 @@
               </div>
               <h3>Workflow Automation</h3>
               <p>
-                Automate follow-ups, lead routing, and notifications. We set up
-                the systems so nothing falls through the cracks.
+                Powered by n8n and Zapier — we automate lead routing, SMS
+                follow-ups via Twilio, CRM syncing, webhook triggers, and AI
+                scoring pipelines. Nothing falls through the cracks.
               </p>
             </div>
             <div class="why-choose-card fade-in">
@@ -833,6 +838,71 @@
               <p>
                 Daily scorecards, weekly reports, and strategic insights. We
                 manage the operation end-to-end so you can focus on closing.
+              </p>
+            </div>
+            <div class="why-choose-card fade-in">
+              <div class="why-choose-icon">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path d="M12 2a4 4 0 0 1 4 4c0 1.95-1.4 3.58-3.25 3.93" />
+                  <path d="M8.56 13.44A6 6 0 0 0 6 18h12a6 6 0 0 0-2.56-4.56" />
+                  <circle cx="12" cy="10" r="1" />
+                  <path d="M9 21h6" />
+                  <path d="M10 21v-2" />
+                  <path d="M14 21v-2" />
+                </svg>
+              </div>
+              <h3>AI Scoring &amp; Predictive Targeting</h3>
+              <p>
+                Our bespoke AI software scores lead quality, predicts conversion
+                likelihood, and estimates ARVs. Predictive ML algorithms target
+                the highest-opportunity areas with sentiment analysis.
+              </p>
+            </div>
+            <div class="why-choose-card fade-in">
+              <div class="why-choose-icon">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2" />
+                  <circle cx="9" cy="7" r="4" />
+                  <path d="M22 21v-2a4 4 0 0 0-3-3.87" />
+                  <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+                  <polyline points="17 11 19 13 23 9" />
+                </svg>
+              </div>
+              <h3>Double Qualification</h3>
+              <p>
+                Experienced acquisition callers double-qualify your leads,
+                verifying they're a real business opportunity before they reach
+                your desk. Two layers of vetting — zero wasted meetings.
+              </p>
+            </div>
+            <div class="why-choose-card fade-in">
+              <div class="why-choose-icon">
+                <svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
+                  <line x1="9" y1="9" x2="15" y2="9" />
+                  <line x1="12" y1="6" x2="12" y2="12" />
+                </svg>
+              </div>
+              <h3>Skip Tracing, SMS &amp; SEO</h3>
+              <p>
+                Find hard-to-reach owners with skip tracing. Run targeted Twilio
+                SMS campaigns. Boost your online presence with our SEO services.
+                Full-funnel lead generation.
               </p>
             </div>
           </div>
@@ -1222,7 +1292,7 @@
                     <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
                     <polyline points="22 4 12 14.01 9 11.01" />
                   </svg>
-                  We build and enrich your data
+                  Bespoke AI data enrichment &amp; scoring
                 </li>
                 <li>
                   <svg
@@ -1246,7 +1316,7 @@
                     <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
                     <polyline points="22 4 12 14.01 9 11.01" />
                   </svg>
-                  CallTools dialer + 100 local numbers
+                  n8n &amp; Zapier automation + predictive dialing
                 </li>
                 <li>
                   <svg
@@ -1270,7 +1340,7 @@
                     <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14" />
                     <polyline points="22 4 12 14.01 9 11.01" />
                   </svg>
-                  Full integration into your CRM
+                  Any CRM + SMS + skip tracing + SEO
                 </li>
                 <li>
                   <svg
@@ -2168,7 +2238,7 @@
         <div class="container">
           <div class="text-center mb-6">
             <h3 class="partners-title">
-              Powered by Industry-Leading Platforms
+              Powered by Industry-Leading Platforms &amp; Our Bespoke AI Stack
             </h3>
           </div>
           <div class="partners-logos" style="max-width: 900px; margin: 0 auto">
@@ -2341,6 +2411,30 @@
               </picture>
               <span class="partner-name">MATLAB</span>
             </div>
+            <div class="partner-logo-card">
+              <div class="partner-text-logo" style="font-weight:700;font-size:1.1rem;color:var(--color-accent-primary);">n8n</div>
+              <span class="partner-name">n8n</span>
+            </div>
+            <div class="partner-logo-card">
+              <div class="partner-text-logo" style="font-weight:700;font-size:0.95rem;color:#ff4a00;">⚡ Zapier</div>
+              <span class="partner-name">Zapier</span>
+            </div>
+            <div class="partner-logo-card">
+              <div class="partner-text-logo" style="font-weight:700;font-size:0.95rem;color:#f22f46;">
+                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#f22f46" stroke-width="2">
+                  <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/>
+                </svg>
+              </div>
+              <span class="partner-name">Twilio</span>
+            </div>
+            <div class="partner-logo-card">
+              <div class="partner-text-logo" style="font-weight:700;font-size:0.85rem;color:var(--color-accent-primary);">REsimpli</div>
+              <span class="partner-name">REsimpli</span>
+            </div>
+            <div class="partner-logo-card">
+              <div class="partner-text-logo" style="font-weight:600;font-size:0.75rem;color:#5850ec;line-height:1.2;text-align:center;">Follow Up<br/>Boss</div>
+              <span class="partner-name">Follow Up Boss</span>
+            </div>
             <div class="partner-logo-card more-partners">
               <span>+ More</span>
             </div>
@@ -2390,11 +2484,14 @@
                 </button>
                 <div class="faq-answer">
                   <p>
-                    We combine fully trained, fluent callers with advanced
-                    analytics and full management. Our agents aren't
-                    script-readers—they're trained dynamically to improvise and
-                    connect with people. Plus, we have 25 active callers and 10
-                    on standby, so we can scale with you instantly.
+                    We combine fully trained, fluent callers with bespoke AI
+                    software — our own county data platform, AI enrichment,
+                    AI lead scoring, and predictive ML targeting. Our agents
+                    aren't script-readers — they're trained dynamically to
+                    improvise and connect with people. Plus, we run n8n and
+                    Zapier automations, Twilio SMS campaigns, and offer double
+                    qualification with experienced acquisition callers. We have
+                    25 active callers and 10 on standby, so we scale instantly.
                   </p>
                 </div>
               </div>
@@ -2413,10 +2510,14 @@
                 </button>
                 <div class="faq-answer">
                   <p>
-                    Cold calling and lead qualification, appointment setting,
-                    sales pipeline support, data enrichment, list building, CRM
-                    integration, and full workflow automation. We deliver 2-3
-                    appointments per full-time caller per day.
+                    Cold calling and appointment setting, AI-powered lead scoring,
+                    data enrichment from county records with stacked filters,
+                    skip tracing, Twilio SMS campaigns, CRM integration
+                    (GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss,
+                    and more), n8n &amp; Zapier workflow automation, double
+                    qualification with experienced acquisition callers, predictive
+                    ML targeting, SEO services, and full management with analytics.
+                    We deliver 2-3 appointments per full-time caller per day.
                   </p>
                 </div>
               </div>
@@ -2457,9 +2558,11 @@
                 </button>
                 <div class="faq-answer">
                   <p>
-                    Both! You can bring your own list, or we can build and
-                    enrich data for you. We offer data sourcing and enrichment
-                    as an add-on service.
+                    Both! You can bring your own list, or we source data directly
+                    from county records and enrich it through our bespoke AI
+                    enrichment software. We apply stacked filters — distress signals,
+                    absentee owners, AI-powered area targeting — to build precise
+                    lists. Skip tracing is also available to find hard-to-reach owners.
                   </p>
                 </div>
               </div>
@@ -2523,8 +2626,10 @@
                 <div class="faq-answer">
                   <p>
                     Nope! CallTools dialer is included with 100 local phone
-                    numbers. We also integrate with HubSpot and can set up your
-                    CRM if needed. We handle the tech so you can focus on
+                    numbers. We integrate with GoHighLevel, HubSpot, Salesforce,
+                    REsimpli, Follow Up Boss — really any CRM you use. We also
+                    set up n8n and Zapier automations for lead routing, SMS
+                    follow-ups, and more. We handle the tech so you can focus on
                     closing.
                   </p>
                 </div>
@@ -2749,7 +2854,8 @@
       </div>
     </footer>
 
-    <script src="assets/js/main.min.js" defer></script>
+    <script src="assets/js/main.js" defer></script>
+    <script src="assets/js/effects.js" defer></script>
   
   <!-- Cookie Consent Banner -->
   <div id="cookie-banner" role="dialog" aria-label="Cookie consent">
