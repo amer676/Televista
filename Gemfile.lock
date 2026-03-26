@@ -306,6 +306,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-sitemap
   webrick (~> 1.8)
 
 CHECKSUMS
