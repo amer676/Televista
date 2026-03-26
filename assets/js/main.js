@@ -24,6 +24,14 @@
   }
 
   // Mobile menu toggle
+  function closeMobileMenu() {
+    if (navbarNav && navbarNav.classList.contains('active')) {
+      navbarToggle.classList.remove('active');
+      navbarNav.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+  }
+
   function toggleMobileMenu() {
     navbarToggle.classList.toggle('active');
     navbarNav.classList.toggle('active');
@@ -33,7 +41,18 @@
   // Close mobile menu when clicking a link
   function handleNavLinkClick(e) {
     if (navbarNav.classList.contains('active')) {
-      toggleMobileMenu();
+      closeMobileMenu();
+    }
+  }
+
+  // Inject "Get Started" CTA into mobile nav
+  function injectMobileCTA() {
+    if (navbarNav && !navbarNav.querySelector('.nav-cta-mobile')) {
+      var cta = document.createElement('a');
+      cta.href = 'contact.html';
+      cta.className = 'btn btn-primary btn-sm nav-cta-mobile';
+      cta.textContent = 'Get Started';
+      navbarNav.appendChild(cta);
     }
   }
 
@@ -48,10 +67,27 @@
   }
 
   if (navbarNav) {
+    injectMobileCTA();
     navbarNav.querySelectorAll('.nav-link').forEach(link => {
       link.addEventListener('click', handleNavLinkClick);
     });
   }
+
+  // Close mobile menu on outside click
+  document.addEventListener('click', function(e) {
+    if (navbarNav && navbarNav.classList.contains('active')) {
+      if (!navbarNav.contains(e.target) && !navbarToggle.contains(e.target)) {
+        closeMobileMenu();
+      }
+    }
+  });
+
+  // Close mobile menu on resize to desktop
+  window.addEventListener('resize', function() {
+    if (window.innerWidth > 768) {
+      closeMobileMenu();
+    }
+  }, { passive: true });
 
   // ============================================
   // Intersection Observer for Animations
