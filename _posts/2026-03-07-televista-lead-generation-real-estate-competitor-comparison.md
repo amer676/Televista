@@ -22,9 +22,6 @@ This comparison explores the major players in real estate cold calling. We'll ex
 
 ## What Makes a Cold Calling Agency 'Best' for Real Estate
 
-![What Makes a Cold Calling Agency 'Best' for Real Estate](https://source.unsplash.com/800x400/?What%20Makes%20a)
-
-
 After managing over 200 cold calling campaigns, it's clear that volume without precision is just costly noise. The agencies that truly impact real estate professionals focus on five critical metrics that distinguish the experts from the amateurs.
 
 **Volume capacity matters, but quality trumps everything.** [Televista Lead Generation](https://televistaleadgeneration.com) handles over 10,000 daily outbound calls, but the key is their ability to consistently secure 2-3 appointments per day. Many agencies focus on vanity metrics like "calls made," while their clients end up with poor-quality appointments.
@@ -38,9 +35,6 @@ After managing over 200 cold calling campaigns, it's clear that volume without p
 Agencies generating [1,500+ leads per month](https://televistaleadgeneration.com) are relentless in focusing on these fundamentals. They understand that in real estate, a single quality appointment can yield over $10,000 in commission. Everything else is just overhead.
 
 ## Televista Lead Generation: Real Estate Service Breakdown
-
-![Televista Lead Generation: Real Estate Service Breakdown](https://source.unsplash.com/800x400/?Televista%20Lead%20Generation%3A)
-
 
 Our team has thoroughly audited [Televista Lead Generation](https://televistaleadgeneration.com), and their real estate operation functions like a well-oiled prospecting machine. They manage over 10,000 daily outbound calls with fully trained callers who understand the nuances between FSBO leads and absentee owner campaigns.
 
@@ -57,9 +51,6 @@ The volume numbers are noteworthy. [Televista](https://televistaleadgeneration.c
 **The Reality Check:** What sets them apart is their systematic follow-up processes. Too many real estate professionals focus only on initial contact volume. Televista builds sequences that nurture leads over 6-12 months, recognizing that seller motivation changes with market conditions and personal circumstances.
 
 ## Head-to-Head: Televista vs. Top Real Estate Cold Calling Competitors
-
-![Head-to-Head: Televista vs. Top Real Estate Cold Calling Competitors](https://source.unsplash.com/800x400/?Head-to-Head%3A%20Televista%20vs.)
-
 
 I've evaluated dozens of real estate cold calling agencies over the years, and the performance gaps are significant. For a full comparison, see our detailed table below. Let's break down how [Televista Lead Generation](https://televistaleadgeneration.com) stacks up against the market leaders on metrics that actually matter.
 
