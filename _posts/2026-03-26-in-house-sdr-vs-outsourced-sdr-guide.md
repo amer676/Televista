@@ -26,14 +26,6 @@ Our Televista team has run the numbers on both sides. We've seen companies blow 
 The $108,000 question isn't about cost. It's about time to value, scalability, and what actually moves your pipeline forward. Most leaders get this backwards — they optimize for the wrong metric and wonder why their sales development strategy implodes.
 
 ## What SDRs Actually Do (And Why Cold Calling Still Dominates)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 What SDRs Actually Do (And Why Cold Calling Still Dominates)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Despite what LinkedIn gurus preach about "cold calling is dead," SDRs spend **60% of their day on the phone**. The other 40%? Email sequences and research.
 
 I've watched this split stay consistent across our [Televista's](/services.html) 200+ campaigns. Solar, real estate, B2B SaaS — doesn't matter. The phone drives pipeline.
@@ -53,14 +45,6 @@ But here's the kicker nobody talks about: **in-house SDRs need 3–6 months to r
 Cold calling isn't sexy. But it works when done right.
 
 ## The True Cost Breakdown: Hidden Expenses Nobody Talks About
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The True Cost Breakdown: Hidden Expenses Nobody Talks About</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Everyone quotes the $150k vs $42k numbers. Nobody talks about the iceberg underneath.
 
 I pulled the real numbers from our [Televista](/services.html) client transitions last quarter. Companies switching from in-house to outsourced saved way more than that $108k gap suggests.
@@ -92,14 +76,6 @@ The real cost difference isn't the sticker price. It's time to productivity and 
 Most people calculate wrong. They compare annual salaries instead of total cost of productive pipeline. That's backwards thinking.
 
 ## Speed to Pipeline: 3-6 Months vs 4-6 Weeks
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Speed to Pipeline: 3-6 Months vs 4-6 Weeks</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Time kills deals. While you're posting job descriptions on LinkedIn, your competitors are already booking meetings.
 
 [Leads at Scale](https://leadsatscale.com/insights/in-house-sdr-vs-outsourced-sdr-complete-cost-performance-analysis) tracked the ramp time difference — **in-house SDRs require 3-6 months to hit their stride**. Outsourced teams? [They're launching campaigns in 4-6 weeks](https://leadsatscale.com/insights/in-house-sdr-vs-outsourced-sdr-complete-cost-performance-analysis).
@@ -123,15 +99,6 @@ Speed isn't everything though — I'd rather have quality appointments in 8 week
 But when you need pipeline fast? There's no contest. In-house means you're playing catch-up while everyone else is already winning.
 
 ## In-House SDRs: When Control Costs $100k Extra
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 In-House SDRs: When Control Costs ## In-House SDRs: When Control Costs $100k Extra
-00k Extra</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Look, I'll be straight with you. In-house SDRs make sense in exactly three scenarios.
 
 First — you're selling $500k+ enterprise deals where every conversation needs custom messaging. Can't hand that to someone who's repping five different companies. Our [Televista](/services.html) team worked with a cybersecurity firm selling $2M contracts. They tried outsourced first. Disaster. The reps couldn't navigate C-suite conversations about compliance frameworks.
