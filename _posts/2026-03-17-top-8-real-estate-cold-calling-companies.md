@@ -24,8 +24,6 @@ We've evaluated numerous cold calling [services](/services.html) for real estate
 
 ## What Real Estate Cold Calling Agencies Actually Do (Beyond Just Making Calls)
 
-![What Real Estate Cold Calling Agencies Actually Do (Beyond Just Making Calls)](https://source.unsplash.com/800x400/?What%20Real%20Estate)
-
 Real estate cold calling companies operate sophisticated lead generation systems, transcending basic telemarketing. They manage full-stack operations that most agents aren't even aware exist.
 
 First, there's list building. Professional agencies source data from [PropStream](https://www.propstream.com) for distressed properties, [BatchLeads](https://batchleads.com) for expired listings, or engage in custom MLS scraping. Instead of buying generic cold lists, they target pre-foreclosures nearing auction, absentee owners with substantial equity, or FSBOs that expired recently.
@@ -42,8 +40,6 @@ This operational sophistication is why successful real estate professionals incr
 
 ## The Real Benefits: Why Smart Agents Outsource Their Cold Calling
 
-![The Real Benefits: Why Smart Agents Outsource Their Cold Calling](https://source.unsplash.com/800x400/?The%20Real%20Benefits%3A)
-
 I've tracked the numbers across 200+ campaigns, and the benefits of partnering with real estate lead generation companies are measurable. Agents save over 40 hours per week on average. Contact rates increase from the typical 6-10% that solo agents achieve to 12-18% with professional agencies using [Mojo Dialer](https://mojosells.com) and systematic workflows.
 
 The difference in lead qualification is striking. Our callers, spending 8-12 hours daily on the phone, can identify motivated sellers within 30 seconds. When we implemented this approach for a Phoenix investor group, qualified real estate leads surged by 340% compared to their previous in-house efforts.
@@ -57,8 +53,6 @@ The ROI calculation is straightforward. The best real estate cold calling compan
 Real estate cold calling pricing varies, but the math consistently works. Professional outbound calling for real estate eliminates the learning curve, technology costs, and staff management headaches. You focus on appointments and closings while agencies handle the systematic prospecting that feeds your pipeline. The [Calling Agency](https://callingagency.com/blog/cold-calling-companies-for-real-estate) research confirms what we see daily: outsourcing cold calling for real estate investors and agents delivers measurable results when executed systematically.
 
 ## How to Choose the Right Cold Calling Agency: 7 Non-Negotiable Criteria
-
-![How to Choose the Right Cold Calling Agency: 7 Non-Negotiable Criteria](https://source.unsplash.com/800x400/?How%20to%20Choose)
 
 Evaluating real estate cold calling services requires a systematic approach. I've vetted dozens of agencies for clients, and these seven criteria separate the professionals from the pretenders.
 
