@@ -24,9 +24,6 @@ This guide will equip you with everything you need to know to keep calling legal
 
 ## TL;DR: Key Takeaways
 
-![TL;DR: Key Takeaways](https://source.unsplash.com/800x400/?TL%3BDR%3A%20Key%20Takeaways)
-
-
 - **Explicit Written Consent:** Every phone number you call now requires explicit, written consent.
 - **Documentation is Crucial:** Proper documentation reduces legal challenges by 67%.
 - **DNC Compliance:** Scrub your call lists against the National Do Not Call Registry every 31 days.
@@ -34,9 +31,6 @@ This guide will equip you with everything you need to know to keep calling legal
 - **Televista's Expertise:** Our compliance framework handles all complexities, allowing agents to focus on conversions.
 
 ## What's Actually Changing for Real Estate Cold Calling in 2026
-
-![What's Actually Changing for Real Estate Cold Calling in 2026](https://source.unsplash.com/800x400/?What's%20Actually%20Changing)
-
 
 The **FCC's one-to-one consent rule** marks the most significant shift in telemarketing compliance since the TCPA was first enacted. Now, each phone number requires **explicit, written consent** specifically tied to it — eliminating blanket permissions and verbal agreements.
 
@@ -57,9 +51,6 @@ The [Massachusetts Association of REALTORS](https://www.marealtor.com) has been 
 **The bottom line:** 2026 compliance requires treating every phone number like a legal document. One missing consent record can trigger a multi-thousand-dollar violation — something our [Televista compliance framework](/services.html) automatically handles for real estate teams.
 
 ## The Complete 2026 TCPA Compliance Framework for Real Estate
-
-![The Complete 2026 TCPA Compliance Framework for Real Estate](https://source.unsplash.com/800x400/?The%20Complete%202026)
-
 
 The **Telephone Consumer Protection Act (TCPA)** establishes a three-tiered compliance framework essential for any real estate cold calling operation. At [Televista](/services.html), we've structured our entire campaign management system around these requirements, having witnessed too many agents suffer from partial compliance.
 
