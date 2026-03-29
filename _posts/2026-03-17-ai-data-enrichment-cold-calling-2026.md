@@ -18,7 +18,6 @@ og_image: /assets/images/og-image.png
 ![Doughnut chart showing that 97% of traditional cold calls fail to convert, while only 3% succeed, highlighting the inefficiency of non-personalized outreach.](https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Failed%20to%20Convert%22%2C%22Converted%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B97%2C3%5D%2C%22backgroundColor%22%3A%5B%22%232563eb%22%2C%22%23f97316%22%5D%2C%22borderColor%22%3A%22%232563eb%22%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22top%22%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Traditional%20Cold%20Call%20Conversion%20Success%20vs.%20Failure%22%7D%7D%7D%7D&w=800&h=400&backgroundColor=white)
 
 
-
 <div style="background: linear-gradient(135deg, #f0f7ff 0%, #e0edff 100%); border-left: 5px solid #2563eb; border-radius: 0 12px 12px 0; padding: 1.5rem 2rem; margin: 1.5rem 0; text-align: center;">
   <div style="font-size: 2.5rem; font-weight: 800; color: #2563eb; line-height: 1.2;">97%</div>
   <div style="font-size: 1.1rem; font-weight: 600; color: #1e3a5f; margin-top: 0.25rem;">Cold Calls Fail</div>
@@ -67,9 +66,6 @@ But enrichment without strategy is just expensive data hoarding. The next step i
 
 ## The AI Cold Calling Tech Stack for 2026
 
-![The AI Cold Calling Tech Stack for 2026](https://source.unsplash.com/800x400/?The%20AI%20Cold)
-
-
 The AI cold calling landscape has exploded with platforms, but only a handful actually deliver on hyper-personalization. At Televista, we've tested over 30 tools across our 200+ campaigns. Here's what actually works.
 
 **Top-Tier AI Enrichment Platforms:**
@@ -97,9 +93,6 @@ Our stack combines Instantly for behavioral triggers, Cognism for mobile accurac
 The key isn't finding the "perfect" platform — it's building a stack that feeds your specific calling workflow consistently.
 
 ## AI Tool Comparison: Features That Actually Matter
-
-![AI Tool Comparison: Features That Actually Matter](https://source.unsplash.com/800x400/?AI%20Tool%20Comparison%3A)
-
 
 After testing dozens of platforms, [Amplemarket tested 10 sales engagement platforms across 231 features](https://www.amplemarket.com/blog/best-ai-sales-engagement-platforms-2026) for their comprehensive comparison. Here's what actually separates winners from pretenders:
 
@@ -244,7 +237,6 @@ The most revealing metric? **Cost Per Qualified Conversation**. Traditional camp
 ## How Televista Delivers AI-Powered Hyper-Personalization at Scale
 
 ![Bar chart illustrating Televista's connect rate improvement: a baseline 'Before AI Enrichment' at 100%, increasing to 140% ('After AI Enrichment +40%') and 150% ('After AI Enrichment +50%').](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Baseline%20Connect%20Rate%22%2C%22Connect%20Rate%20%2B40%25%20(Low)%22%2C%22Connect%20Rate%20%2B50%25%20(High)%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Relative%20Connect%20Rate%22%2C%22data%22%3A%5B100%2C140%2C150%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fa%22%2C%22%2310b981%22%2C%22%231e40af%22%5D%2C%22borderColor%22%3A%22%232563eb%22%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Televista's%20Connect%20Rate%20Improvement%20with%20AI%20Enrichment%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Relative%20Connect%20Rate%20(%25)%22%7D%7D%7D%7D%7D&w=800&h=400&backgroundColor=white)
-
 
 
 <div style="background: linear-gradient(135deg, #f0f7ff 0%, #e0edff 100%); border-left: 5px solid #2563eb; border-radius: 0 12px 12px 0; padding: 1.5rem 2rem; margin: 1.5rem 0; text-align: center;">
