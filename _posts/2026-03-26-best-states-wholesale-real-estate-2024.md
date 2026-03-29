@@ -31,14 +31,6 @@ Three weeks later? **22 contracts signed**.
 Picking your market isn't just about opportunity anymore. It's about survival.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 - Population density is crucial for generating enough distressed inventory.
 - Median home price under $250,000 is ideal for wholesaling.
 - Legal environment varies by state; some require licenses.
@@ -46,14 +38,6 @@ Picking your market isn't just about opportunity anymore. It's about survival.
 - Avoid "hot" markets with inflated prices and competition.
 
 ## What Makes a State Perfect for Wholesaling (Our 4-Factor Framework)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 What Makes a State Perfect for Wholesaling (Our 4-Factor Framework)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 After running wholesale campaigns across 32 states, our [Televista](https://televistaleadgeneration.com) team boiled it down to four factors. Most wholesalers overthink this.
 
 **Population density wins everything.** Counties over 400,000 people generate enough distressed inventory to keep you busy. Below that? You're fighting over scraps with three other wholesalers who all know each other's business.
@@ -80,14 +64,6 @@ Price points under $250k give you room to breathe. Assignment fees on a $180k ho
 The sweet spot isn't where everyone else is looking. It's where the math works and the lawyers don't make you jump through hoops first.
 
 ## 2024's Top 7 States for Wholesale Real Estate (Ranked)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 2024's Top 7 States for Wholesale Real Estate (Ranked)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 **1. Texas** (The undisputed king)
 
 Texas wholesale real estate dominates for good reason. No state income tax. Population growth that won't quit — Austin alone added 52,000 people last year. Our [Televista](/services.html) team ran numbers across Dallas-Fort Worth and Houston metro areas. Results? One client went from 2 deals monthly to 7 after we dialed in their lead flow. Property values still leave room for the 70% rule to work.
@@ -123,14 +99,6 @@ The numbers don't lie — these seven states generated 73% of our successful who
 Texas leads the pack because everything's bigger there — including your profit margins.
 
 ## State-by-State Legal Requirements: What You Need to Know
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 State-by-State Legal Requirements: What You Need to Know</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Oregon just dropped a bomb. [House Bill 4058](https://www.oregon.gov/rea/newsroom/pages/2024-oren-j/property-wholesaling-law-rule-overview.aspx) takes effect July 2025, requiring all wholesalers to register with the state for $300 annually. If you've held an equitable interest or option for fewer than 90 days and invested under $10,000 in improvements, you're a "residential property wholesaler" — congrats, you need paperwork.
 
 The new law demands written disclosures to all parties and in advertising. Miss the June 30 renewal deadline? You're shut down until you comply.
