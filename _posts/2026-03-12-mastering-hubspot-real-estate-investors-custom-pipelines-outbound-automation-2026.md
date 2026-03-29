@@ -20,9 +20,6 @@ The 2026 release introduces Breeze AI integration, automating lead qualification
 
 ## The Real Estate Investor's HubSpot Advantage: Beyond Basic CRM
 
-![The Real Estate Investor's HubSpot Advantage: Beyond Basic CRM](https://source.unsplash.com/800x400/?The%20Real%20Estate)
-
-
 Many investors mistakenly view [HubSpot](https://www.hubspot.com) as just another CRM, but it's an automation powerhouse that outshines REI-specific tools like [REsimpli](https://www.resimpli.com). Transitioning clients from the PropStream + [BiggerPockets](https://www.biggerpockets.com) CRM combo has resulted in a 340% increase in qualified appointments and 60% faster deal closures. HubSpot's 2026 automation, with [Breeze AI agents and sales automation workflows](https://blog.revpartners.io/en/revops-articles/hubspot-automation-guide-2026), extends revenue scaling beyond the capabilities of specialized REI platforms.
 
 Consider my Phoenix wholesaling client, previously using [PropStream](https://www.propstream.com), REsimpli, and [Mojo Dialer](https://www.mojodialer.com) separately. By consolidating into HubSpot's integrated system, they transitioned from manually calling 200 leads weekly to automatically nurturing over 800 prospects monthly, increasing deal volume by 180% in six months.
@@ -30,9 +27,6 @@ Consider my Phoenix wholesaling client, previously using [PropStream](https://ww
 While REI-specific CRMs excel in property calculations and comps integration, they falter in sophisticated email sequences, behavioral tracking, and multi-channel outbound automation. [HubSpot's marketing triggers and sales automation workflows](https://blog.revpartners.io/en/revops-articles/hubspot-automation-guide-2026) create nurture sequences that would require multiple tools elsewhere. For growing investment firms, this integration advantage becomes a competitive edge, enabling faster deal closures through unified automation.
 
 ## Custom Pipeline Architecture: The 5-Strategy Framework for REI Success
-
-![Custom Pipeline Architecture: The 5-Strategy Framework for REI Success](https://source.unsplash.com/800x400/?Custom%20Pipeline%20Architecture%3A)
-
 
 Attempting to squeeze every deal type into a single pipeline is a common mistake that can reduce conversion rates by 40%. Our five-pipeline framework mirrors how successful REI firms operate, generating over 2,300 qualified leads across 15 markets.
 
@@ -49,9 +43,6 @@ Attempting to squeeze every deal type into a single pipeline is a common mistake
 Automation is key. When [CallTools](https://www.calltools.com) logs a call disposition, workflows trigger specific email sequences based on pipeline stage. [HubSpot's](https://www.hubspot.com) 2026 Breeze AI integration enhances this by suggesting the appropriate pipeline for new leads based on conversation notes and property details.
 
 ## Step-by-Step: Building Your Wholesaling Pipeline with Custom Properties
-
-![Step-by-Step: Building Your Wholesaling Pipeline with Custom Properties](https://source.unsplash.com/800x400/?Step-by-Step%3A%20Building%20Your)
-
 
 Start with these eight custom properties refined across 40+ wholesaling campaigns. Navigate to Settings > Properties > Contact Properties to create each one:
 
