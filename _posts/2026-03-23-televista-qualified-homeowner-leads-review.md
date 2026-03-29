@@ -27,13 +27,6 @@ So what's different about Televista's approach to qualified homeowner leads? We 
 The numbers don't lie — but they also don't tell the whole story.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
 - Televista's AI-enhanced approach outperforms traditional dialers by 340%.
 - Cost per lead with Televista is significantly lower than industry averages.
 - Their 5-step qualification process ensures high-quality leads.
@@ -41,14 +34,6 @@ The numbers don't lie — but they also don't tell the whole story.
 - Real ROI examples show substantial profit margins for clients.
 
 ## What Makes Televista's Homeowner Lead Generation Different
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 What Makes Televista's Homeowner Lead Generation Different</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Most companies still treat cold calling like it's 1995. They dial from a list, read generic scripts, and pray someone picks up.
 
 We don't.
@@ -70,14 +55,6 @@ One of our Televista clients in roofing went from 2 appointments per week to 8 a
 Most lead generation companies comparison studies miss this: it's not about volume — it's about having real humans make relevant calls to people who might actually buy something. Simple concept. Harder execution than you'd think.
 
 ## Televista's Cost Per Lead Analysis: The Real Numbers
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Televista's Cost Per Lead Analysis: The Real Numbers</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Let's cut through the marketing fluff and do the actual math.
 
 Our Televista Starter package runs $1,250/month and typically delivers 45 qualified homeowner leads. That's **$27.78 per lead**. Growth package? $2,050 monthly for 90 leads — drops to **$22.78 per lead**. 
@@ -108,14 +85,6 @@ The ROI gap isn't even close. But here's the catch — [cost per lead varies wid
 We've seen clients chase $5 leads from Facebook only to discover they're calling people who never opted in. Not a good look when you're building a business.
 
 ## How Televista Qualifies Homeowner Leads: The 5-Step Process
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 How Televista Qualifies Homeowner Leads: The 5-Step Process</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 We don't just dial random names and hope for magic. Our [Televista](https://televistaleadgeneration.com) qualification process filters out tire-kickers before they waste your time.
 
 **Step 1: Interest Verification** 
