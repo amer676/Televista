@@ -3,7 +3,10 @@ layout: post
 title: "Maximizing Cold Calling Strategies for Wholesalers in Kentucky"
 date: 2026-03-29
 description: "Unlock effective cold calling strategies for wholesalers in Kentucky and boost your lead generation."
-og_image: "/assets/images/og/maximizing-cold-calling-strategies-wholesalers-kentucky.png"
+target_keyword: "cold calling strategies for wholesalers in Kentucky"
+categories: [blog]
+tags: ["cold calling strategies", "wholesaling Kentucky", "lead generation", "real estate cold calling"]
+author: "Televista Team"
 ---
 
 When it comes to real estate wholesaling, the right lead generation strategy can make or break your business. If you’re in Kentucky, you might be thinking about the bluegrass hills and the vibrant real estate market. However, effectively tapping into that market requires a finely tuned approach to cold calling. At Televista, we’ve helped numerous wholesalers enhance their cold calling strategies, and today, I’m excited to share some actionable insights that can help you optimize your lead generation efforts.
@@ -99,14 +102,14 @@ To enhance your follow-up strategy, consider diversifying your outreach. If a le
 
 Implementing effective cold calling strategies is critical for wholesalers in Kentucky. By understanding your audience, preparing your approach, leveraging technology, and following up diligently, you can significantly enhance your lead generation for real estate investments.
 
-<div class="post-cta">
-  <h2>Ready to Book More Qualified Appointments?</h2>
-  <p>
-    Televista builds and manages cold calling campaigns for real estate wholesaling,
-    so you can focus on closing deals — not dialing numbers.
+<div class="post-cta" style="background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%); color: white; padding: 2.5rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
+  <h2 style="color: white; margin-bottom: 0.5rem;">Stop Guessing. Start Closing.</h2>
+  <p style="font-size: 1.1rem; opacity: 0.95; max-width: 600px; margin: 0 auto 1.5rem;">
+    Televista has managed <strong>200+ cold calling campaigns</strong> across real estate wholesaling — we handle the prospecting, dialing, and appointment setting so you can focus on what you do best: closing deals.
   </p>
-  <div class="post-cta-actions">
-    <a class="btn btn-primary" href="/contact.html">Book a Call</a>
-    <a class="btn btn-outline" href="/services.html">View Services</a>
+  <div class="post-cta-actions" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+    <a class="btn btn-primary" href="/contact.html" style="background: white; color: #2563eb; padding: 0.75rem 2rem; border-radius: 8px; font-weight: bold; text-decoration: none;">Book a Free Strategy Call</a>
+    <a class="btn btn-outline" href="/services.html" style="border: 2px solid white; color: white; padding: 0.75rem 2rem; border-radius: 8px; font-weight: bold; text-decoration: none;">See Our Services</a>
   </div>
+  <p style="font-size: 0.85rem; opacity: 0.7; margin-top: 1rem;">No commitment required. See if Televista is the right fit for your team.</p>
 </div>
