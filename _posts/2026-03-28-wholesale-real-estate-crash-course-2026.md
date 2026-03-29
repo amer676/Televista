@@ -32,27 +32,11 @@ Our [Televista](https://televistaleadgeneration.com) team's been tracking this s
 You don't need experience. You need timing. And 2026's timing couldn't be better.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 - House prices are expected to stall at 0% growth in 2026, creating opportunities for wholesalers.
 - Wholesaling doesn't require lender approval, allowing for faster transactions.
 - Motivated seller leads have increased by 67% since Q3 2025.
 
 ## The 2026 Wholesale Blueprint: 7 Steps That Actually Work
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The 2026 Wholesale Blueprint: 7 Steps That Actually Work</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 The mechanics haven't changed much. But the execution? Completely different game now.
 
 **1. Lead Generation (Week 1-2)**  
@@ -81,14 +65,6 @@ Stay involved until keys change hands. I've watched $15K assignment fees evapora
 With [home sales gradually improving](https://www.jpmorgan.com/insights/global-research/real-estate/us-housing-market-outlook), the deals are there. Execution separates winners from wannabes.
 
 ## How to Start With Zero Money (The 2026 Reality Check)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 How to Start With Zero Money (The 2026 Reality Check)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Let's get real about the "no money down" pitch. You can start. But it's scrappy as hell.
 
 **Virtual wholesaling is your best friend now.** You don't need to drive neighborhoods when [AI tools for lead generation](https://coursiv.io/blog/best-ai-tools-for-real-estate-agents-2026) can score prospects by behavior and life events. Divorce filings, tax liens, pre-foreclosure notices — all available online. Skip the gas money.
@@ -108,14 +84,6 @@ The challenge? You're competing against funded wholesalers who can blanket marke
 Most people overthink this. Start making calls tomorrow with a free [Google Voice](https://voice.google.com) number and a spreadsheet. You can get your first contract signed before you spend a dime on tools.
 
 ## Finding Motivated Sellers in 2026: Beyond Driving for Dollars
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Finding Motivated Sellers in 2026: Beyond Driving for Dollars</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Driving for dollars is dead. There, I said it.
 
 While you're burning gas looking for boarded-up windows, smart wholesalers are using [AI tools for lead generation](https://coursiv.io/blog/best-ai-tools-for-real-estate-agents-2026) that score prospects by behavior and life events. We're talking divorce filings, tax liens, code violations — stuff that actually predicts motivation.
