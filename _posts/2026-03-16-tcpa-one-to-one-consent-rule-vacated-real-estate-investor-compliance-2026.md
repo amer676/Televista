@@ -26,9 +26,6 @@ The question now isn't whether you can make calls in 2025. It's how to structure
 
 ## What the One-to-One Consent Rule Actually Required (And Why It Terrified Investors)
 
-![What the One-to-One Consent Rule Actually Required (And Why It Terrified Investors)](https://source.unsplash.com/800x400/?What%20the%20One-to-One)
-
-
 The FCC's One-to-One Consent Rule would have fundamentally changed how we obtain consent for cold calls and texts to real estate prospects. Under the proposed rule, prior express written consent had to be specific to each individual phone number and each individual caller — no more blanket permissions.
 
 Here's what "one-to-one" actually meant: If you wanted to call a distressed property owner at 555-123-4567, you needed written consent that specifically authorized calls to that exact number from your specific business. Generic opt-ins like "I consent to receive calls from real estate investors" wouldn't cut it anymore.
@@ -43,9 +40,6 @@ For wholesalers running high-volume campaigns through platforms like [Mojo Diale
 
 ## Insurance Marketing Coalition v. FCC: The Legal Reasoning That Killed the Rule
 
-![Insurance Marketing Coalition v. FCC: The Legal Reasoning That Killed the Rule](https://source.unsplash.com/800x400/?Insurance%20Marketing%20Coalition)
-
-
 The Eleventh Circuit's decision in Insurance Marketing Coalition v. FCC demolished the One-to-One Consent Rule on three fundamental grounds — and each one should make real estate investors breathe easier.
 
 First, the court ruled the FCC exceeded its statutory authority. The TCPA gives the FCC power to regulate "calls made using any automatic telephone dialing system" — but the agency tried to redefine consent requirements beyond what Congress actually authorized. The judges weren't buying it. They found the FCC stretched the plain language of the statute past its breaking point.
@@ -59,9 +53,6 @@ The court's 47-page opinion repeatedly emphasized that telemarketing regulations
 [NAR's](https://www.nar.realtor/washington-report/telephone-consumer-protection-act-one-to-one-consent-rule-webinar) upcoming webinar on January 28th will likely dive deeper into these implications. The Eleventh Circuit essentially told the FCC: stick to what Congress actually wrote.
 
 ## What This Vacation Actually Means for Your 2025 Campaigns
-
-![What This Vacation Actually Means for Your 2025 Campaigns](https://source.unsplash.com/800x400/?What%20This%20Vacation)
-
 
 The vacation doesn't mean open season on robocalls — but it does restore the compliance framework that's worked for real estate investors since 2013.
 
