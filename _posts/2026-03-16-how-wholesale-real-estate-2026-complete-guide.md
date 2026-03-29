@@ -22,9 +22,6 @@ Real estate wholesaling is still about finding distressed properties, getting th
 
 ## The 2026 Wholesaling Landscape: What's Actually Changed
 
-![The 2026 Wholesaling Landscape: What's Actually Changed](https://source.unsplash.com/800x400/?The%202026%20Wholesaling)
-
-
 Four major shifts define wholesaling now, and they're crushing operators who haven't adapted. We track these changes across our campaigns because they directly impact conversion rates.
 
 **Informed Sellers:** [PropStream](https://www.propstream.com) now includes seller education metrics in their property reports. When I pull lists today, I see homeowners who've researched ARV calculations and understand repair estimates. [Sellers are more informed in 2026](https://goliathdata.com/the-crash-course-for-wholesaling-real-estate-in-2024), which means your "we buy houses fast" pitch gets demolished by someone who knows their property's actual value.
@@ -38,9 +35,6 @@ Four major shifts define wholesaling now, and they're crushing operators who hav
 [Wholesaling in 2026 is about creating certainty in uncertain situations](https://goliathdata.com/the-crash-course-for-wholesaling-real-estate-in-2024). The operators who adapt win bigger than ever.
 
 ## Step-by-Step: How Wholesaling Actually Works in 2026
-
-![Step-by-Step: How Wholesaling Actually Works in 2026](https://source.unsplash.com/800x400/?Step-by-Step%3A%20How%20Wholesaling)
-
 
 The seven-step framework we run across all our campaigns starts with surgical targeting — not the broad-stroke approaches that fail today.
 
@@ -68,9 +62,6 @@ Assignment fees average $8,000–$15,000 per deal. We coordinate directly with t
 This framework works because it prioritizes precision over volume. The wholesalers still mass-mailing neighborhoods are fighting yesterday's battle with yesterday's weapons.
 
 ## Finding the Right Motivated Sellers: The Predictable Pockets Strategy
-
-![Finding the Right Motivated Sellers: The Predictable Pockets Strategy](https://source.unsplash.com/800x400/?Finding%20the%20Right)
-
 
 The motivated seller pool has become more predictable in 2026, according to [Goliath Data](https://goliathdata.com/the-crash-course-for-wholesaling-real-estate-in-2024). Instead of casting wide nets hoping for bites, we focus on two consistently productive categories that deliver 4x higher conversion rates than generic direct mail.
 
