@@ -35,9 +35,6 @@ Your competition is still using outdated budget models. That's your advantage.
 
 ## Missouri's 2026 Wholesaling Landscape: Key Cities & Profit Zones
 
-![Missouri's 2026 Wholesaling Landscape: Key Cities & Profit Zones](https://source.unsplash.com/800x400/?Missouri's%202026%20Wholesaling)
-
-
 Missouri's wholesale opportunities cluster around four primary markets, each with distinct profit dynamics our Televista team has mapped through 200+ campaign touchpoints.
 
 **St. Louis Metro** dominates with **63103, 63110, and 63118 zip codes** delivering the strongest margins. Distressed properties average **47 days on market** versus the metro's 72-day average. Our data shows wholesale spreads of **$12,000-$18,000** in North City neighborhoods, where properties under $80K move fastest. The [Houzeo analysis](https://www.houzeo.com/blog/wholesale-real-estate-in-missouri) confirms St. Louis maintains higher distressed inventory than other Missouri markets.
@@ -60,9 +57,6 @@ At Televista, we've found that **cold calling remains the most cost-effective le
 | Springfield  | 45 days            | $7,000-$13,000           | 65802, 65807      |
 
 ## The Complete Missouri Wholesaling Cost Breakdown: Every Dollar Accounted For
-
-![The Complete Missouri Wholesaling Cost Breakdown: Every Dollar Accounted For](https://source.unsplash.com/800x400/?The%20Complete%20Missouri)
-
 
 Here's the brutal truth: most Missouri wholesalers underestimate their costs by **$3,200 per deal**. At Televista, we've dissected the financials across 200+ Missouri campaigns, and successful operators budget for these exact line items.
 
@@ -95,9 +89,6 @@ Most expensive surprise? **Transactional funding** when assignments fall through
 The operators making real money? They track every dollar through [PropStream](https://propstream.com) deal analysis tools and adjust their marketing spend based on actual cost-per-lead metrics by zip code.
 
 ## Missouri Regulatory Costs & Compliance: What Wholesalers Must Budget For
-
-![Missouri Regulatory Costs & Compliance: What Wholesalers Must Budget For](https://source.unsplash.com/800x400/?Missouri%20Regulatory%20Costs)
-
 
 Missouri wholesalers face **$1,200-$2,400 in annual compliance costs** that most operators don't properly budget for. The [Missouri House Bill tracking system](https://documents.house.mo.gov/billtracking/bills261/sumpdf/HB2517I.pdf) shows ongoing legislative scrutiny around wholesale disclosure requirements, making legal compliance non-negotiable.
 
