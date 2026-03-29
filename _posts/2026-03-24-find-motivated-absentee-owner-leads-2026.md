@@ -27,14 +27,6 @@ The wholesalers crushing it in 2026 aren't buying lists. They're mining motivati
 It's not about working harder. It's about working with intel your competition doesn't have access to yet.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 - Basic absentee lists are outdated; advanced data mining is necessary.
 - Motivation signals from public records are key to finding sellers.
 - AI-powered platforms provide a competitive edge in lead intelligence.
@@ -42,14 +34,6 @@ It's not about working harder. It's about working with intel your competition do
 - Televista's approach outperforms standard absentee lists.
 
 ## The Fatal Flaw of Basic Absentee Lists (And Why Your Competition Uses Them)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The Fatal Flaw of Basic Absentee Lists (And Why Your Competition Uses Them)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Walk into any real estate meetup in Dallas, Tampa, or Phoenix. Same conversation every time.
 
 "Where'd you get your list?"
@@ -73,14 +57,6 @@ The difference wasn't the calling (though that helps). The difference was motiva
 Most people get this backwards, honestly. They think more data means better results. More data means more noise unless you're filtering for motivation triggers.
 
 ## Motivation Mining: 7 Data Points That Scream 'Ready to Sell'
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Motivation Mining: 7 Data Points That Scream 'Ready to Sell'</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Most wholesalers stop at "owns property, lives somewhere else." That's cute. And that's why they're competing with 47 other investors calling the same leads.
 
 Real motivation leaves digital breadcrumbs everywhere. You just need to know where to look.
@@ -104,14 +80,6 @@ The trick isn't finding one indicator. It's stacking them. According to [Amplema
 > **Pro tip:** Don't chase perfection on data — chase velocity. I'd rather call 100 leads with 3 motivation indicators than 20 leads with 7 indicators.
 
 ## Advanced Public Records Hacking: What Others Miss
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Advanced Public Records Hacking: What Others Miss</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Your competition's pulling the same county assessor dumps everyone else buys. Boring. Real absentee owner gold lives in databases they don't even know exist.
 
 **Voter registration cross-referencing** is where we start. Pull county voter rolls from the last two election cycles. Cross-match against property ownership records. No voter registration at the property address but active registration elsewhere? Bingo. True vacancy confirmed — not just a different mailing address.
