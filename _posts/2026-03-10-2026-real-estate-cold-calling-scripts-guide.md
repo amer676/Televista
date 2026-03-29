@@ -26,9 +26,6 @@ This guide provides the exact scripts our team uses in over 200 campaigns. These
 
 ## The 2026 Real Estate Market Reality Check: Why Your Old Scripts Don't Work
 
-![The 2026 Real Estate Market Reality Check: Why Your Old Scripts Don't Work](https://source.unsplash.com/800x400/?The%202026%20Real)
-
-
 The numbers paint a harsh picture. We've tracked conversion rates across 73 real estate campaigns this year, and scripts designed for 6% interest rates are failing in the current 7.8% environment. Homeowners under financial stress are not responding to enthusiasm-based pitches.
 
 Here's the reality on the ground. Our [PropStream](https://www.propstream.com) data shows a 34% increase in properties entering pre-foreclosure compared to last year — but these homeowners aren't picking up for "I buy houses fast" pitches. They're exhausted. Decision fatigue is real when juggling mortgage modifications, equity loans, and numerous investor calls weekly.
@@ -47,9 +44,6 @@ Your old scripts assume rational decision-making. But financial stress leads to 
 
 ## The Psychology-First Framework: Building Trust in 10 Seconds
 
-![The Psychology-First Framework: Building Trust in 10 Seconds](https://source.unsplash.com/800x400/?The%20Psychology-First%20Framework%3A)
-
-
 Those first ten seconds are decisive. After analyzing 1,847 cold call recordings on our [CallTools](https://www.calltools.com) platform, the pattern is clear: prospects determine within seven seconds if you're worth their time.
 
 The biggest mistake? Sounding like every other agent. High-energy introductions trigger instant rejection because homeowners are bombarded with aggressive pitches. We tracked this with expired listings — properties averaged 23 agent contacts per week. Your enthusiasm isn't refreshing. It's exhausting.
@@ -63,9 +57,6 @@ Pre-foreclosure requires extreme sensitivity. [Our market research](https://voca
 The trust-building language pattern we use: Problem acknowledgment + Permission + Value preview. "I know this situation is overwhelming. Is it okay if I share how we've helped other families in similar spots find solutions?" This approach converted 31% better than direct pitches in our [BatchLeads](https://www.batchleads.com) campaigns.
 
 ## FSBO Cold Calling Scripts That Convert in High-Rate Markets
-
-![FSBO Cold Calling Scripts That Convert in High-Rate Markets](https://source.unsplash.com/800x400/?FSBO%20Cold%20Calling)
-
 
 FSBO sellers in 2026 face immense pressure. They're dealing with 7.8% interest rates, shrinking buyer pools, and mounting carrying costs. Our [CallTools](https://www.calltools.com) data shows FSBO conversion rates jumped 23% when we shifted from traditional "I'm an agent" openers to problem-focused approaches.
 
