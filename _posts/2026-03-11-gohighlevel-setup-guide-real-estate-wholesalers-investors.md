@@ -24,9 +24,6 @@ The generic real estate approach doesn't work. Here's what does.
 
 ## GoHighLevel for Wholesalers vs. Agents: Understanding the Critical Differences
 
-![GoHighLevel for Wholesalers vs. Agents: Understanding the Critical Differences](https://source.unsplash.com/800x400/?GoHighLevel%20for%20Wholesalers)
-
-
 The [Pipeline Pro playbook](https://help.gohighlevel.com/support/solutions/articles/155000005044-pipeline-pro-the-ultimate-getting-started-playbook-for-real-estate-agents) promises to help agents "Attract Leads, Win Listings & Grow Your Real Estate Business Fast" — but it's specifically designed for traditional real estate agents, not wholesalers. I've seen too many wholesalers waste weeks implementing agent workflows that completely miss their business model.
 
 Here's the fundamental disconnect:
@@ -49,9 +46,6 @@ Bottom line: the standard GHL agent playbook will sabotage your wholesaling oper
 
 ## Essential GoHighLevel Account Setup and Configuration for Wholesalers
 
-![Essential GoHighLevel Account Setup and Configuration for Wholesalers](https://source.unsplash.com/800x400/?Essential%20GoHighLevel%20Account)
-
-
 Your first login determines whether you'll scale to 50+ deals monthly or join the 87% who quit within six months. While GoHighLevel's [Pipeline Pro playbook](https://help.gohighlevel.com/support/solutions/articles/155000005044-pipeline-pro-the-ultimate-getting-started-playbook-for-real-estate-agents) focuses on traditional agent workflows, we need wholesaler-specific architecture from day one.
 
 Start with custom fields that matter for deals, not listings. Create these mandatory fields: ARV (After Repair Value), Estimated Repairs, Seller Motivation Level (1-10 scale), Property Type, Days on Market, and Wholesale Fee Target. I've seen teams lose $40K+ deals because they couldn't quickly access repair estimates during buyer negotiations.
@@ -67,9 +61,6 @@ Enable unlimited sub-accounts if you're planning team growth. Each acquisition m
 Your account foundation determines everything downstream. Get it right now, or rebuild it later when you're processing 200+ leads weekly.
 
 ## Building Your Dual-Pipeline Architecture: Acquisition and Disposition Workflows
-
-![Building Your Dual-Pipeline Architecture: Acquisition and Disposition Workflows](https://source.unsplash.com/800x400/?Building%20Your%20Dual-Pipeline)
-
 
 Most wholesalers cram everything into one pipeline — a rookie mistake I've seen kill dozens of operations. You need two distinct workflows because sellers and buyers require completely different nurturing sequences and custom fields.
 
