@@ -33,9 +33,6 @@ Your numbers aren't just phone numbers anymore. They're assets that can either m
 
 ## Is Cold Calling Dead in 2026? (Spoiler: It's Not)
 
-![Is Cold Calling Dead in 2026? (Spoiler: It's Not)](https://source.unsplash.com/800x400/?Is%20Cold%20Calling)
-
-
 Every sales leader's asking the same question. Cold calling's getting harder.
 
 Doesn't mean it's dead.
@@ -60,9 +57,6 @@ Smart money's doubling down on cold calling. Just doing it right this time.
 
 ## How Carrier Spam Algorithms Actually Work (The Technical Deep Dive)
 
-![How Carrier Spam Algorithms Actually Work (The Technical Deep Dive)](https://source.unsplash.com/800x400/?How%20Carrier%20Spam)
-
-
 AT&T's algorithm is sneaky. They don't just count calls — they watch patterns.
 
 Their system flags numbers based on three main triggers: **call velocity spikes** (going from 50 calls/day to 300 in under 48 hours), **complaint ratios above 0.5%**, and what they call "atypical call timing" — basically hitting the same area codes repeatedly in short bursts. We've seen [Televista](/services.html) clients get flagged for calling 200+ prospects in Phoenix between 2-4pm on a Tuesday. The algorithm thought it was robocalling.
@@ -84,9 +78,6 @@ We tested this with a Televista client in solar last quarter. Same script, same 
 Most outbound teams treat carriers like they're identical. They're not.
 
 ## The 2026 Spam Flag Ecosystem: Who's Watching Your Numbers
-
-![The 2026 Spam Flag Ecosystem: Who's Watching Your Numbers](https://source.unsplash.com/800x400/?The%202026%20Spam)
-
 
 Think it's just Verizon watching your calls? Wrong.
 
