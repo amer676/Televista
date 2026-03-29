@@ -26,9 +26,6 @@ Whether you're a wholesaler needing quick seller leads or an investor building l
 
 ## Why Traditional Cold Calling Falls Short in Real Estate Investing
 
-![Why Traditional Cold Calling Falls Short in Real Estate Investing](https://source.unsplash.com/800x400/?Why%20Traditional%20Cold)
-
-
 Is cold calling effective in real estate? The answer depends entirely on how you execute it.
 
 Most investors rely on spray-and-pray tactics that worked in 2015 but fail spectacularly today. They pull lists from [PropStream](https://www.propstream.com), load them into [Mojo Dialer](https://www.mojosells.com), and start dialing with generic scripts that sound like everyone else's approach.
@@ -44,9 +41,6 @@ Traditional wholesalers manually research each property, craft individual pitche
 This isn't about replacing human connection — it's about making every human interaction count.
 
 ## The Televista Framework: Four Pillars of Advanced Cold Calling
-
-![The Televista Framework: Four Pillars of Advanced Cold Calling](https://source.unsplash.com/800x400/?The%20Televista%20Framework%3A)
-
 
 After running 200+ campaigns, we've distilled our approach into four pillars that separate amateur dialers from professional lead generators.
 
@@ -69,9 +63,6 @@ TCPA violations can cost $500-$1,500 per incident. [CallTools excels in complian
 These four pillars work together. AI scoring feeds dynamic scripts. Scripts inform follow-up sequences. Compliance automation protects everything. We'll break down each pillar in the next sections, starting with our lead scoring methodology.
 
 ## AI Lead Scoring: How We Prioritize Your Prospects
-
-![AI Lead Scoring: How We Prioritize Your Prospects](https://source.unsplash.com/800x400/?AI%20Lead%20Scoring%3A)
-
 
 Random dialing is dead. Our AI lead scoring system analyzes 47 data points to rank every prospect from 1-100 before your dialers touch the phone.
 
