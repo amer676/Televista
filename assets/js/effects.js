@@ -260,7 +260,7 @@
 
   function lazyLoadThreeJS() {
     // Skip Three.js entirely on mobile — saves 589KB download
-    if (window.innerWidth < 768) return;
+    if (!window.matchMedia('(min-width: 768px)').matches) return;
 
     var hero = document.querySelector('.hero');
     if (!hero) return;
