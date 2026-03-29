@@ -250,25 +250,40 @@
   }
 
   // ═══════════════════════════════════════════════════
+  // LAZY-LOAD THREE.JS
+  // ═══════════════════════════════════════════════════
+
+  function lazyLoadThreeJS() {
+    // Skip Three.js entirely on mobile — saves 589KB download
+    if (window.innerWidth < 768) return;
+
+    var hero = document.querySelector('.hero');
+    if (!hero) return;
+
+    // Load Three.js only when hero is visible
+    var observer = new IntersectionObserver(function (entries) {
+      if (entries[0].isIntersecting) {
+        observer.disconnect();
+        if (typeof THREE !== 'undefined') {
+          initParticleBackground();
+        } else {
+          var script = document.createElement('script');
+          script.src = 'assets/js/three.min.js';
+          script.onload = function () { initParticleBackground(); };
+          document.body.appendChild(script);
+        }
+      }
+    }, { threshold: 0 });
+    observer.observe(hero);
+  }
+
+  // ═══════════════════════════════════════════════════
   // INIT
   // ═══════════════════════════════════════════════════
 
   function init() {
     initCardTilt();
-
-    if (typeof THREE !== 'undefined') {
-      initParticleBackground();
-    } else {
-      var attempts = 0;
-      var check = setInterval(function () {
-        attempts++;
-        if (typeof THREE !== 'undefined') {
-          clearInterval(check);
-          initParticleBackground();
-        }
-        if (attempts > 100) clearInterval(check);
-      }, 50);
-    }
+    lazyLoadThreeJS();
   }
 
   if (document.readyState === 'loading') {

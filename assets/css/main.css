@@ -1362,7 +1362,8 @@ a.industry-card {
   height: 20px;
   background: linear-gradient(to top, rgba(255,255,255,0.4), rgba(255,255,255,0.8));
   border-radius: var(--radius-full);
-  transition: height 0.1s ease;
+  transform-origin: center bottom;
+  will-change: transform, opacity;
 }
 
 /* Idle animation for visualizer bars */
@@ -1392,8 +1393,8 @@ a.industry-card {
 .audio-visualizer:not(.playing) .visualizer-bar:nth-child(20) { animation-delay: 0.1s; }
 
 @keyframes idlePulse {
-  0%, 100% { height: 20px; opacity: 0.5; }
-  50% { height: 40px; opacity: 0.8; }
+  0%, 100% { transform: scaleY(1); opacity: 0.5; }
+  50% { transform: scaleY(2); opacity: 0.8; }
 }
 
 /* Playing animation */
@@ -1423,13 +1424,13 @@ a.industry-card {
 .audio-visualizer.playing .visualizer-bar:nth-child(20) { animation-duration: 0.4s; animation-delay: 0.01s; }
 
 @keyframes visualizerBounce {
-  0%, 100% { 
-    height: 20px; 
-    background: linear-gradient(to top, rgba(255,255,255,0.4), rgba(255,255,255,0.7));
+  0%, 100% {
+    transform: scaleY(1);
+    opacity: 0.7;
   }
-  50% { 
-    height: 100px; 
-    background: linear-gradient(to top, rgba(16, 185, 129, 0.8), rgba(255,255,255,1));
+  50% {
+    transform: scaleY(5);
+    opacity: 1;
   }
 }
 
@@ -1600,13 +1601,13 @@ a.industry-card {
   }
   
   @keyframes visualizerBounce {
-    0%, 100% { height: 15px; }
-    50% { height: 60px; }
+    0%, 100% { transform: scaleY(1); }
+    50% { transform: scaleY(4); }
   }
-  
+
   @keyframes idlePulse {
-    0%, 100% { height: 15px; }
-    50% { height: 30px; }
+    0%, 100% { transform: scaleY(1); }
+    50% { transform: scaleY(1.5); }
   }
 }
 
