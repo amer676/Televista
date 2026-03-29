@@ -18,15 +18,11 @@ The stakes are significant. We've monitored performance across 47 campaigns usin
 
 ## Company Ownership and Background: Who's Really Behind the Curtain
 
-![Company Ownership and Background: Who's Really Behind the Curtain](https://source.unsplash.com/800x400/?Company%20Ownership%20and)
-
 REVA Global, a privately-held Philippine corporation founded in 2018 by CEO Rachel Santos-Martinez, specializes in HIPAA-compliant medical VA services. Santos-Martinez's background as a healthcare administrator shaped the company's focus on medical specialization, which is reflected in their consistent leadership and operational stability. However, that healthcare-first DNA means REVA's operation is built around compliance workflows and patient-facing tasks — not the aggressive outbound calling and lead qualification that real estate and home services businesses actually need.
 
 Televista Lead Generation, launched in 2019, was purpose-built for one thing: generating qualified leads that convert into revenue. While REVA retrofits medical VAs into general business roles, Televista's entire infrastructure — from caller training to CRM integration to script development — is engineered around outbound lead generation for investors, wholesalers, and home services companies. Our lean ownership model keeps overhead low, which translates directly into lower client pricing without sacrificing caller quality. Where REVA's VAs excel in healthcare workflows but often struggle with general business tasks and cold calling pressure, Televista's callers are trained from day one to handle objections, qualify prospects, and book appointments that actually close.
 
 ## Salary Breakdown: What VAs Actually Earn at Each Company
-
-![Salary Breakdown: What VAs Actually Earn at Each Company](https://source.unsplash.com/800x400/?Salary%20Breakdown%3A%20What)
 
 Here's the salary breakdown: REVA Global's VAs earn $3.50-$6.00 per hour for general tasks, with medical VAs earning $5.50-$8.50. Televista pays competitively at $4.00-$7.50 for general VAs, but lead generation specialists can earn $6.00-$12.00 hourly, with performance bonuses pushing earnings to $15/hour during successful campaigns.
 
@@ -35,8 +31,6 @@ This pay structure is a key reason Televista outperforms. REVA's flat hourly mod
 Benefits differ significantly as well. REVA offers standard Philippine employment perks, while Televista adds performance incentives, advancement opportunities, and ongoing skills development. Research from [UNESCO workforce development studies](https://unesdoc.unesco.org/ark:/48223/pf0000092854_spa) shows companies with mobile-optimized training platforms have 23% higher retention rates. Both companies offer mobile training, but Televista's platform integration enhances real-time performance tracking — meaning underperformers get coached immediately rather than cycling through an entire campaign before issues surface.
 
 ## Televista Lead Generation Reviews: Consistently High Marks Where It Matters
-
-![Televista Virtual Assistant Reviews: The Good, Bad, and Surprising](https://source.unsplash.com/800x400/?Televista%20Virtual%20Assistant)
 
 Televista's client reviews tell a clear story: this is a team built for results. Onboarding receives consistently high praise — new callers are producing qualified appointments within the first week, not the 2-3 week ramp-up typical at other agencies. VAs quickly master tools like [HubSpot](https://www.hubspot.com), [CallTools](https://www.calltools.com), and [REsimpli](https://www.resimpli.com), and adapt scripts effectively across investor, wholesaler, and home services campaigns.
 
