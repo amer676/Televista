@@ -22,9 +22,6 @@ We're going to address that. This framework will guide you from simply finding l
 
 ## What Makes an Off-Market Lead Actually Worth Your Time
 
-![What Makes an Off-Market Lead Actually Worth Your Time](https://source.unsplash.com/800x400/?What%20Makes%20an)
-
-
 Many agents equate "motivated seller" with a quality lead, but that's often a misconception. Our team has pursued thousands of supposedly motivated sellers who never converted because we overlooked the real qualifying factors.
 
 Here's our 4-tier qualification framework that separates gold from garbage:
@@ -44,9 +41,6 @@ The fourth factor—verified financial stress—separates real motivation from w
 This framework transformed our conversion rates because it focuses on mathematical probability rather than gut feelings about seller motivation.
 
 ## The 5 Highest-Converting Off-Market Lead Sources (With Real Performance Data)
-
-![The 5 Highest-Converting Off-Market Lead Sources (With Real Performance Data)](https://source.unsplash.com/800x400/?The%205%20Highest-Converting)
-
 
 After running campaigns across 200+ markets, here are the five sources that actually move the needle, ranked by conversion rate:
 
@@ -68,9 +62,6 @@ These are FSBOs who've been on market 60+ days without selling. They're frustrat
 The pattern across all five sources? Timing beats tactics every time.
 
 ## Free Off-Market Lead Generation: 4 Methods That Actually Work
-
-![Free Off-Market Lead Generation: 4 Methods That Actually Work](https://source.unsplash.com/800x400/?Free%20Off-Market%20Lead)
-
 
 Yes, you can find quality off-market leads without spending a dime—but it requires systematic execution. Our team has tested these four methods extensively across different markets.
 
