@@ -26,9 +26,6 @@ At [Televista](https://televistaleadgeneration.com/services.html), we've facilit
 
 ## Key Takeaways
 
-![Key Takeaways](https://source.unsplash.com/800x400/?Key%20Takeaways)
-
-
 - **Colorado's real estate market is projected to reach $14.2 billion in 2026**, but financing remains a significant hurdle for investors.
 - **DSCR loans are gaining traction** as they focus on property cash flow rather than personal income, offering a faster and more flexible financing option.
 - **Hard money lending provides speed in competitive markets**, though at a higher cost, making it ideal for quick-closing opportunities.
@@ -36,9 +33,6 @@ At [Televista](https://televistaleadgeneration.com/services.html), we've facilit
 - **Creative financing options like seller financing** can unlock deals that traditional lenders might decline.
 
 ## Colorado Market Outlook 2026: Where Smart Money is Moving
-
-![Colorado Market Outlook 2026: Where Smart Money is Moving](https://source.unsplash.com/800x400/?Colorado%20Market%20Outlook)
-
 
 Colorado's investment landscape is shaping up clearly for 2026. [New American Funding](https://www.newamericanfunding.com/loan-types/non-qm-loan/dscr-loan/state/colorado) highlights that Colorado's population growth and strong job market continue to draw real estate investors. The numbers back this up, with net migration of over **4,200 professionals monthly** into the Denver metro alone.
 
@@ -57,9 +51,6 @@ Savvy investors are aligning their financing strategies with Colorado's market d
 At [Televista](https://televistaleadgeneration.com/services.html), our Colorado investor clients are shifting towards **speed-to-close financing** — DSCR loans and private money — because inventory moves rapidly in these hot markets. Traditional bank financing simply can't compete with 21-day closes.
 
 ## Traditional vs. Alternative Financing: The 2026 Shift
-
-![Traditional vs. Alternative Financing: The 2026 Shift](https://source.unsplash.com/800x400/?Traditional%20vs.%20Alternative)
-
 
 Traditional bank financing is failing Colorado investors. Period. Banks demand 25-30% down, perfect credit scores, and debt-to-income ratios that don't align with portfolio building. They're stuck in 2019 underwriting while the market demands speed and flexibility.
 
