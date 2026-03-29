@@ -27,27 +27,12 @@ The solution isn't doing more calls yourself — it's finding the right partner.
 Let's see which services actually move the needle versus which ones just sound good in their sales pitch.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
 - Specialized cold calling services achieve higher connect rates and more appointments.
 - Most agents waste time on low-value dialing instead of high-value closing.
 - Picking the right partner can drastically improve your lead generation results.
 - [Televista](/services.html) specializes in real estate cold calling with transparent results.
 
 ## #1 Televista Lead Generation — The ROI King
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 #1 Televista Lead Generation — The ROI King</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 We're biased, obviously. But the numbers don't lie.
 
 **$1,250 monthly gets you 2-3 qualified appointments daily.** Complete campaign management. Data included. Trained callers who actually understand real estate — not some random VA reading scripts about "motivated sellers" without knowing what a short sale is.
@@ -73,14 +58,6 @@ What separates us from every other [real estate lead generation service](https:/
 Most [real estate appointment setting services](https://www.fool.com/the-ascent/real-estate/articles/real-estate-lead-generation/) treat every property owner like they're selling their primary residence. We know the difference between a tired landlord and someone fishing for market value. Makes all the difference in conversion rates.
 
 ## #2 REI Reply — The Investor Specialist
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 #2 REI Reply — The Investor Specialist</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 REI Reply carved out their niche and stuck to it. Smart move.
 
 **They're laser-focused on wholesalers and fix-and-flip investors** — not listing agents or buyer reps. Their callers actually understand ARV calculations and can talk comps without sounding like they're reading from a script. That matters when you're calling property owners about selling distressed properties.
@@ -98,14 +75,6 @@ Contract terms are another headache. Most competitors (including us) offer month
 For pure wholesale volume plays? They're solid. For everything else, you'll outgrow them fast.
 
 ## #3 Lead Propeller — The Volume Play
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 #3 Lead Propeller — The Volume Play</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Lead Propeller's whole thing is dialing numbers. Lots of them.
 
 **They'll burn through 800-1,200 calls daily for $500-800 monthly.** That's roughly $0.50-0.65 per call — way cheaper than most [real estate cold calling companies](https://www.leadpropeller.com). But here's the trade-off: you're getting quantity over quality. Their connect rates hover around 8-12%, which isn't terrible for volume operations.
