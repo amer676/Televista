@@ -24,9 +24,6 @@ This is about more than legal concerns. It's about surviving in a regulatory env
 
 ## What is the TCPA One-to-One Consent Rule (And Why Real Estate Agents Are Scrambling)
 
-![What is the TCPA One-to-One Consent Rule (And Why Real Estate Agents Are Scrambling)](https://source.unsplash.com/800x400/?What%20is%20the)
-
-
 The FCC's One-to-One Consent Rule has drastically altered how real estate agents collect leads. Under the new TCPA requirements, written consent must be obtained directly between the agent making the call and the specific consumer receiving it.
 
 Gone are the days of buying leads from Zillow and assuming their blanket consent covers your calls. The rule mandates a direct relationship requirement, effectively ending the traditional lead generation model most agents relied on.
@@ -45,9 +42,6 @@ Your CRM setup for TCPA one-to-one consent compliance isn't optional anymore —
 
 ## The Lead Generator Loophole is Dead: What Changed in 2025
 
-![The Lead Generator Loophole is Dead: What Changed in 2025](https://source.unsplash.com/800x400/?The%20Lead%20Generator)
-
-
 For years, real estate agents exploited a massive TCPA loophole. You could buy leads from [Zillow](https://www.zillow.com), [Realtor.com](https://www.realtor.com), or third-party generators, then call those prospects without direct consent. The logic was simple: if the consumer gave consent to the lead generator, that consent transferred to whoever bought the lead.
 
 That party ended January 27, 2025.
@@ -63,9 +57,6 @@ The reality hit fast. Our clients who were calling 500 Zillow leads weekly sudde
 Your CRM setup for TCPA one-to-one consent real estate 2025 compliance starts with accepting this truth: the old playbook is dead. Every call you make now requires documented, specific consent tied directly to your business.
 
 ## CRM Architecture: Building Your TCPA Consent Foundation
-
-![CRM Architecture: Building Your TCPA Consent Foundation](https://source.unsplash.com/800x400/?CRM%20Architecture%3A%20Building)
-
 
 Your CRM setup determines whether you're compliant or collecting evidence for plaintiff attorneys. After watching 50+ agents fumble through makeshift consent tracking, I've identified the exact fields and workflows you need to bulletproof your database.
 
