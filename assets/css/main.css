@@ -3776,6 +3776,15 @@ a.footer-contact-value:hover {
   margin: var(--space-10) auto 0;
   display: grid;
   gap: var(--space-4);
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  min-width: 0;
+}
+
+.post-content > * {
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 .post-content img {
