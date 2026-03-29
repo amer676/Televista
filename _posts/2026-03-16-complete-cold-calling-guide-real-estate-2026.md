@@ -24,9 +24,6 @@ No theory. No generic advice. Just the exact playbook our team uses to generate 
 
 ## The Pre-Call Intelligence Stack: Building Your 2026 Research Foundation
 
-![The Pre-Call Intelligence Stack: Building Your 2026 Research Foundation](https://source.unsplash.com/800x400/?The%20Pre-Call%20Intelligence)
-
-
 Raw calling died with robodials. Our top performers research every prospect in 87 seconds flat before dialing — here's the exact workflow.
 
 Start with [PropStream](https://www.propstream.com) for property fundamentals. We pull ownership duration, estimated equity, recent sales comps, and tax records. The sweet spot? Properties owned 7+ years with 40% equity or higher. PropStream's mortgage data shows us who's likely ready to move.
@@ -48,9 +45,6 @@ The [Saleswise Blog](https://www.saleswise.ai/blog/cold-calling-real-estate-scri
 This intelligence stack transforms cold calls into warm conversations. We're not pitching services — we're discussing specific opportunities based on their actual situation. Response rates jumped 23% once we implemented this research foundation across our real estate campaigns.
 
 ## The Core Script Arsenal: 8 Frameworks That Actually Convert
-
-![The Core Script Arsenal: 8 Frameworks That Actually Convert](https://source.unsplash.com/800x400/?The%20Core%20Script)
-
 
 Every successful call follows the same architecture: Connect, Convince, Close. These three C's form the backbone of conversion, but most agents butcher the execution. Our team has refined [eight distinct script frameworks](https://www.saleswise.ai/blog/cold-calling-real-estate-scripts) that consistently outperform generic approaches.
 
@@ -79,9 +73,6 @@ Each framework addresses the three C's systematically. [Saleswise platform's CMA
 The key difference? These aren't generic templates. They're conversation starters backed by specific research about each prospect's situation.
 
 ## Technology Stack Comparison: CallTools vs. Mojo vs. HubSpot Integration
-
-![Technology Stack Comparison: CallTools vs. Mojo vs. HubSpot Integration](https://source.unsplash.com/800x400/?Technology%20Stack%20Comparison%3A)
-
 
 After running campaigns across 47 different real estate teams, three platforms consistently deliver results: [CallTools](https://calltools.com), [Mojo Dialer](https://www.mojodialer.com), and [HubSpot](https://www.hubspot.com) with third-party integrations.
 
