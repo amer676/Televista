@@ -22,9 +22,6 @@ While the established players still hold advantages—[PropStream](https://www.p
 
 ## PropStream vs The Competition: The Complete Feature Breakdown
 
-![PropStream vs The Competition: The Complete Feature Breakdown](https://source.unsplash.com/800x400/?PropStream%20vs%20The)
-
-
 When running campaigns, it's the operational differences that matter—not marketing hype. Here's what we've observed across numerous lists.
 
 **Data Coverage & Sources**
@@ -53,9 +50,6 @@ Accuracy differences are minimal, with both achieving 70-75% phone match rates i
 
 ## Pricing Reality Check: What You Actually Pay in 2026
 
-![Pricing Reality Check: What You Actually Pay in 2026](https://source.unsplash.com/800x400/?Pricing%20Reality%20Check%3A)
-
-
 Forget list prices—actual costs in this space often differ.
 
 [DealMachine](https://dealmachine.com)'s tiers are straightforward: $99 Starter, $149 Pro, $416 Teams. However, as [Propwire's analysis](https://propwire.com/blog/propwire-vs-dealmachine) highlights, skip tracing at $0.15-0.25 per contact inflates costs, making the minimum per lead $0.16.
@@ -71,9 +65,6 @@ Real ROI from our last campaign: DealMachine Pro at $149 generated 47 qualified 
 Hidden costs emerge after month two. Plan your budget accordingly.
 
 ## BatchLeads vs PropStream: The Complicated Relationship Explained
-
-![BatchLeads vs PropStream: The Complicated Relationship Explained](https://source.unsplash.com/800x400/?BatchLeads%20vs%20PropStream%3A)
-
 
 Let's address the elephant in the room: [BatchLeads](https://batchleads.io) is powered by [PropStream](https://propstream.com). [BatchLeads' documentation](https://batchleads.io/blog/why-is-data-latency-important-in-real-estate-investing) confirms this partnership. So, why choose BatchLeads over the source?
 
