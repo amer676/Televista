@@ -32,9 +32,6 @@ Here's who's actually worth your budget.
 
 ## The Real Cost of Cold Calling Agencies (Pricing Models Decoded)
 
-![The Real Cost of Cold Calling Agencies (Pricing Models Decoded)](https://source.unsplash.com/800x400/?The%20Real%20Cost)
-
-
 Nobody talks about the real numbers upfront. Most agencies dance around pricing like it's classified intel.
 
 Here's what you'll actually pay. [B2B marketing agency pricing](https://www.saashero.net/uncategorized/b2b-marketing-agency-pricing-models) ranges from $1K monthly retainers all the way up to $25K+ for enterprise plays — but that's just the starting line.
@@ -54,9 +51,6 @@ The pricing sweet spot? $4K-$8K monthly retainers with clear performance metrics
 Bottom line: if they won't give you transparent pricing in the first conversation, that's your first red flag.
 
 ## The Top 5 B2B Cold Calling Agencies (Unfiltered Reviews)
-
-![The Top 5 B2B Cold Calling Agencies (Unfiltered Reviews)](https://source.unsplash.com/800x400/?The%20Top%205)
-
 
 Alright, let's cut through the BS. I've worked with dozens of agencies over the years — some brilliant, others... well, expensive lessons. Here's the real deal on the five that actually deliver.
 
@@ -84,9 +78,6 @@ Enterprise-only. $8K-$15K monthly minimum — so budget accordingly. If you're s
 The real question isn't which agency has the flashiest website — it's which one actually understands your buyer's pain points well enough to have real conversations. Most can dial numbers. Few can actually sell.
 
 ## Agency Comparison: Features, Industries & Contract Terms
-
-![Agency Comparison: Features, Industries & Contract Terms](https://source.unsplash.com/800x400/?Agency%20Comparison%3A%20Features%2C)
-
 
 | Agency | Min Contract | Industries | Setup Time | Tech Stack | Reporting | Appointment Guarantees |
 |--------|-------------|------------|------------|------------|-----------|----------------------|
