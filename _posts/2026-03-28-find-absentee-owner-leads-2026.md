@@ -28,28 +28,12 @@ Our [Televista](/services.html) team just wrapped a campaign targeting absentee 
 The data doesn't lie. The opportunity is massive. Most investors are getting this wrong.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 - **Mom-and-pop investors** now make up over 60% of all investor purchases.
 - **Connect rates** with absentee owners jumped 34% in recent campaigns.
 - **Institutional investors** account for less than 15% of activity outside top metros.
 - **Regulations and tools** now favor small players, not big institutions.
 
 ## The 2026 Absentee Owner Market: What's Changed
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The 2026 Absentee Owner Market: What's Changed</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 The game flipped overnight when the [Senate passed the ROAD to Housing Act](https://www.realtor.com/research/corporate-investors-march-2026). Everyone's freaking out about restrictions on big investors.
 
 But here's the real story: **institutional investors — those with 350+ purchases — only made up 1% of total single-family home purchases** according to [Realtor.com's latest research](https://www.realtor.com/research/corporate-investors-march-2026). Even at their peak, they represented just 16% of all investor activity from 2015 to 2025.
@@ -69,14 +53,6 @@ I talked to a wholesaler in Toledo last month. He's crushing it because everyone
 The regulatory noise scared off amateurs. Good. [60% of marketers choose wrong lead generation tools anyway](https://skrapp.io/blog/lead-generation-software) and watch their campaigns crash. 2026 rewards the prepared, not the panicked.
 
 ## Data Mining Gold: Where to Find Absentee Owner Lists in 2026
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Data Mining Gold: Where to Find Absentee Owner Lists in 2026</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Dean Clark swears by [Vulcan7](https://www.vulcan7.com) paired with [Clear Skip](https://www.clearskip.com) for his absentee owner campaigns. Guy pulls 2,000 records weekly this way.
 
 But let's get real — most investors are working with tighter budgets.
@@ -106,14 +82,6 @@ The free options? [Tawk.to provides unlimited live chat at no cost](https://skra
 Bottom line: quality trumps quantity every time. I'd rather call 200 verified absentee owners than 1,000 maybes.
 
 ## The Complete Absentee Owner Lead Generation Toolkit
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The Complete Absentee Owner Lead Generation Toolkit</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Let's talk money. Most investors blow their budget on the wrong tools.
 
 **The Free-ish Tier** works if you're doing maybe ten deals a year. [Tawk.to](https://www.tawk.to) provides unlimited live chat at no cost — solid for website visitors. [Mailchimp](https://www.mailchimp.com) supports email marketing for up to 500 contacts free of charge. But here's the thing: you'll hit walls fast.
