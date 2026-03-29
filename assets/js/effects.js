@@ -17,6 +17,11 @@
     var hero = document.querySelector('.hero');
     if (!hero) return;
 
+    // Read geometry in rAF to avoid forced reflow
+    requestAnimationFrame(function() { setupParticles(hero); });
+  }
+
+  function setupParticles(hero) {
     var w = hero.offsetWidth;
     var h = hero.offsetHeight;
 

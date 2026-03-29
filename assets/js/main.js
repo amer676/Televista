@@ -14,12 +14,20 @@
   const navbarToggle = document.getElementById('navbar-toggle');
   const navbarNav = document.getElementById('navbar-nav');
 
-  // Scroll handler for navbar background
+  // Scroll handler for navbar background (throttled to avoid forced reflow)
+  var scrollTicking = false;
   function handleNavbarScroll() {
-    if (window.scrollY > 50) {
-      navbar.classList.add('scrolled');
-    } else {
-      navbar.classList.remove('scrolled');
+    if (!scrollTicking) {
+      scrollTicking = true;
+      requestAnimationFrame(function() {
+        var scrolled = window.scrollY > 50;
+        if (scrolled && !navbar.classList.contains('scrolled')) {
+          navbar.classList.add('scrolled');
+        } else if (!scrolled && navbar.classList.contains('scrolled')) {
+          navbar.classList.remove('scrolled');
+        }
+        scrollTicking = false;
+      });
     }
   }
 
