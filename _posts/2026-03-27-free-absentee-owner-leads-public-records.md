@@ -26,14 +26,6 @@ Our [Televista](/services.html) team's done this playbook for many clients. We'v
 People often think they need fancy software. Nope. You need a systematic approach and maybe some decent coffee for those courthouse afternoons.
 
 ## Key Takeaways
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Key Takeaways</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 - Absentee owners often lead to motivated sellers — a big opportunity.
 - Public records can be accessed for free, saving significant costs.
 - Different states have varying levels of data accessibility.
@@ -41,14 +33,6 @@ People often think they need fancy software. Nope. You need a systematic approac
 - Televista has experience turning public records into qualified leads.
 
 ## Absentee Owners vs. Vacant Properties: The Difference That Makes or Breaks Your ROI
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Absentee Owners vs. Vacant Properties: The Difference That Makes or Breaks Your ROI</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Here's where many investors stumble. They think vacant means absentee. Wrong.
 
 An **absentee owner** lives elsewhere but still owns the property. Maybe it's a rental they inherited in Detroit while living in Phoenix. Maybe they bought it as an investment, but the tenant moved out 8 months ago. They're motivated to sell because managing from 1,200 miles away is a hassle.
@@ -62,14 +46,6 @@ Miami-Dade County alone has 47,000+ absentee-owned properties according to [NAR'
 Most lead companies mix these lists together because it's easier. Don't fall for it. Target absentee owners specifically — they've got real motivation to move, not just empty buildings collecting dust.
 
 ## Your Public Records Toolkit: 7 Free Data Sources Most Investors Never Touch
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 Your Public Records Toolkit: 7 Free Data Sources Most Investors Never Touch</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Most investors stick to the same three sources. Tax records, property records, done. Meanwhile, the smartest operators are tapping databases that 95% of their competition doesn't even know exist.
 
 **1. Tax Assessor Records**  
@@ -100,14 +76,6 @@ The [National Association of REALTORS®](https://www.nar.realtor/research-and-st
 Most investors won't do this legwork. That's exactly why it works.
 
 ## The Legal Side: Using Public Records for Lead Generation (What's Allowed, What's Not)
-
-
-<div style="background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%); border-radius: 12px; padding: 1.5rem 2rem; margin: 1.5rem 0; border: 1px solid #cbd5e1;">
-  <h4 style="color: #1e3a5f; margin: 0 0 0.5rem 0; font-size: 1.05rem;">📊 The Legal Side: Using Public Records for Lead Generation (What's Allowed, What's Not)</h4>
-  <p style="color: #475569; margin: 0; font-size: 0.95rem;">Key insights from this section are highlighted in the data and comparisons below.</p>
-</div>
-
-
 Let's get this out of the way first. Yes, it's legal. Public records are... public.
 
 The county recorder didn't accidentally leave the filing cabinet unlocked — they're legally required to make this stuff available. Tax assessor records, deed transfers, mortgage filings. All fair game.
