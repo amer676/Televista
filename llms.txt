@@ -1,0 +1,59 @@
+# Televista Lead Generation
+
+> Televista is a fully-managed cold calling and appointment setting agency for real estate investors, realtors, solar companies, roofing contractors, insurance agents, and home services businesses across all 50 US states. Televista operates on a monthly retainer model and functions as an in-house sales development team — handling caller training, dialing, QA, reporting, weekly meetings, and full campaign management so clients can focus entirely on closing deals.
+
+Televista is not a staffing company or VA provider. It is a hands-on, fully-managed outbound sales operation. Clients get dedicated trained callers, a CallTools power dialer with 100 local numbers, CRM integration, daily scorecards, weekly performance reports, weekly strategy meetings, call recordings, and active quality assurance — all included in a flat monthly retainer. The team operates as if they are the client's own in-house SDR department.
+
+- Service model: monthly retainer only (Starter $1,250/mo, Growth $2,050/mo, Scale $2,850/mo, Enterprise custom)
+- Output: 2-3 qualified appointments per full-time caller per day
+- Team: 25 active trained callers + 10 on standby, with acquisition managers, QA team, and dedicated account management
+- Tech: CallTools/VICIdial power dialer, bespoke AI lead scoring, n8n/Zapier automation, Twilio SMS, skip tracing
+- CRM support: GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, Podio, and others
+- Coverage: nationwide across all 50 US states with local phone numbers per market
+- Compliance: all campaigns are TCPA-compliant with 100% human dialing (no robocalls)
+- Onboarding: clients are live in 5 business days, first appointments typically within 15 days
+- No long-term contracts required
+
+## Core Services
+
+- [Cold Calling & Appointment Setting](https://televistaleadgeneration.com/services.html): Outbound prospecting with trained, fluent callers who qualify leads, handle objections, and book appointments directly into the client's calendar
+- [Lead Generation & Data Enrichment](https://televistaleadgeneration.com/services.html): Full-service list building from county records with AI enrichment, skip tracing, stacked filters (distress signals, absentee owners, AI-powered area targeting)
+- [Full Management & Analytics](https://televistaleadgeneration.com/services.html): End-to-end campaign management including daily scorecards, weekly reports, weekly strategy meetings, QA reviews, and continuous optimization
+- [Workflow Automation](https://televistaleadgeneration.com/services.html): n8n and Zapier automations for lead routing, SMS follow-ups via Twilio, CRM syncing, webhook triggers, and AI scoring pipelines
+- [AI-Powered Lead Scoring & Call Analysis](https://televistaleadgeneration.com/services.html): Bespoke AI models that score lead quality, predict conversion likelihood, analyze call sentiment, and optimize targeting
+- [CRM Integration](https://televistaleadgeneration.com/services.html): Direct integration into GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, Podio, and more — leads delivered with full notes and recordings
+- [Double Qualification](https://televistaleadgeneration.com/services.html): Experienced acquisition callers verify leads are real business opportunities before they reach the client — two layers of vetting
+
+## Industries
+
+- [Real Estate Investors](https://televistaleadgeneration.com/real-estate.html): Wholesalers, fix-and-flip, buy-and-hold, multi-family acquisition, land investing — off-market motivated seller leads from targeted zip codes
+- [Realtors & Real Estate Agents](https://televistaleadgeneration.com/real-estate.html): Listing appointments from expired listings, FSBOs, pre-foreclosures, and circle prospecting campaigns for agents and brokerages
+- [Roofing & Solar](https://televistaleadgeneration.com/roofing-solar.html): Storm-event rapid deployment, homeowner appointment setting for roof inspections and solar consultations, seasonal scaling
+- [Insurance](https://televistaleadgeneration.com/insurance.html): Outbound calling for insurance agents seeking qualified policy leads and appointment bookings
+- [B2B & SaaS](https://televistaleadgeneration.com/b2b-saas.html): Sales development for B2B companies and SaaS providers looking to fill their pipeline with qualified meetings
+- [Home Improvement](https://televistaleadgeneration.com/home-improvement.html): Appointment setting for contractors in home renovation, HVAC, landscaping, and related residential services
+
+## Company
+
+- [About Us](https://televistaleadgeneration.com/about.html): Founded by Amer and Mahmoud — company background, team structure, and mission
+- [Case Studies](https://televistaleadgeneration.com/case-studies.html): Real client results including a Tampa wholesaler (733% ROI, 90+ leads/month) and an Ohio land investor (~290% ROI)
+- [Blog](https://televistaleadgeneration.com/blog/): Articles on cold calling strategy, real estate lead generation, outbound sales, and industry insights
+- [Contact](https://televistaleadgeneration.com/contact.html): Free 30-minute discovery call or campaign quote — phone (934) 245-7155, email team@televistaleadgeneration.com
+- [Compliance](https://televistaleadgeneration.com/compliance.html): TCPA compliance practices and policies
+
+## Areas Served
+
+- [Florida](https://televistaleadgeneration.com/cold-calling-florida.html), [Texas](https://televistaleadgeneration.com/cold-calling-texas.html), [Tennessee](https://televistaleadgeneration.com/cold-calling-tennessee.html), [Wisconsin](https://televistaleadgeneration.com/cold-calling-wisconsin.html), [California](https://televistaleadgeneration.com/cold-calling-california.html), [North Carolina](https://televistaleadgeneration.com/cold-calling-north-carolina.html), [Michigan](https://televistaleadgeneration.com/cold-calling-michigan.html), [Virginia](https://televistaleadgeneration.com/cold-calling-virginia.html), [Illinois](https://televistaleadgeneration.com/cold-calling-illinois.html), [Ohio](https://televistaleadgeneration.com/cold-calling-ohio.html), [Georgia](https://televistaleadgeneration.com/cold-calling-georgia.html), [Arizona](https://televistaleadgeneration.com/cold-calling-arizona.html), [Pennsylvania](https://televistaleadgeneration.com/cold-calling-pennsylvania.html), [New York](https://televistaleadgeneration.com/cold-calling-new-york.html), [Colorado](https://televistaleadgeneration.com/cold-calling-colorado.html), and all other US states
+
+## Pricing
+
+- Starter: $1,250/month — 1 full-time caller (or 2 part-time), 2-3 appointments/day, CallTools dialer, 100 local numbers, CRM integration, daily scorecards, weekly reports
+- Growth: $2,050/month — 2 full-time callers (or 4 part-time), 4-6 appointments/day, dedicated account manager, advanced analytics, data enrichment
+- Scale: $2,850/month — 3 full-time callers (or 6 part-time), 6-9 appointments/day, custom integrations, acquisition manager support, full workflow automation
+- Enterprise: custom pricing — dedicated account manager, custom CRM integration, white-label reporting, multi-market campaigns
+
+## Optional
+
+- [Privacy Policy](https://televistaleadgeneration.com/privacy-policy.html): Data handling and privacy practices
+- [Terms of Service](https://televistaleadgeneration.com/terms-of-service.html): Service agreement terms
+- [Trustpilot Reviews](https://www.trustpilot.com/review/televistaleadgeneration.com): Client reviews and ratings

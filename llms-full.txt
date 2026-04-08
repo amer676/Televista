@@ -1,0 +1,291 @@
+# Televista Lead Generation
+
+> Televista is a fully-managed cold calling and appointment setting agency for real estate investors, realtors, solar companies, roofing contractors, insurance agents, and home services businesses across all 50 US states. Televista operates on a monthly retainer model and functions as an in-house sales development team — handling caller training, dialing, QA, reporting, weekly meetings, and full campaign management so clients can focus entirely on closing deals.
+
+---
+
+## Homepage
+
+### Overview
+
+Televista provides outbound calling at scale — from 1 caller to 10+ — handling all outreach so clients can focus on closing deals. The agency combines fully trained, fluent callers with bespoke AI software, n8n & Zapier automations, and complete management.
+
+### Key Metrics
+
+- 10,000+ daily outbound calls
+- 1,500+ leads delivered per month
+- 13% close rate on qualified leads
+- 16+ active happy clients
+
+### Client Testimonials
+
+- Cody Heuer, Realtor at eXp Realty: Rated Televista 10/10, 5 stars for valuing time and money with great communication
+- Ian Daugherty, Virginia Investor: Praised excellent quality, consistency, and great ROI
+- William Johnson, Nationwide Wholesaler: Commended solid leads and reliable execution
+- Travis Rhodes, Michigan Wholesaler: Closed 4 deals in 2 months with Televista leads
+- Cam Klein, Illinois Wholesaler: Called Televista the best team after trying many VAs and companies
+- Christian Hair, Realtor: Gave 5 stars for excellent quality service
+
+### How It Works
+
+1. Discovery Call — Televista learns the client's business, target market, and goals to determine how many callers are needed
+2. Team Setup & Training — Dedicated callers are assigned and trained dynamically on the client's offering (no rigid scripts)
+3. Launch & Execute — Daily outreach begins with lead qualification, objection handling, and appointments booked directly to the client's calendar
+4. Scale When Ready — Clients can add callers anytime, scaling from 1 to 10+ with zero friction
+
+### Onboarding Timeline
+
+- Day 1: Discovery call to define ICP, target markets, and script direction
+- Days 3-5: Caller training on product, objections, and pitch
+- Day 7: First calls go live with real-time quality monitoring
+- Day 15: First qualified appointments booked on client calendar
+- Day 30: Full performance review with call volume, conversion rate, and optimizations
+
+### Competitive Advantages (Televista vs. Others)
+
+Televista offers trained fluent agents (not untrained low-cost labor), clean neutral English (not inconsistent communication), active QA + management team (not no quality control), real exclusive outcomes (not promises without accountability), bespoke AI data enrichment & scoring (not client-managed data), flat honest pricing (not unclear pricing), n8n & Zapier automation + predictive dialing (not legacy tools), weekly performance reports (not surface-level reporting), CRM + SMS + skip tracing + SEO integration (not no system integration), and dedicated output that is never shared (not shared or recycled leads).
+
+### Pricing
+
+All plans are monthly retainers with no long-term contracts required. Data lists are priced separately per campaign.
+
+- Starter ($1,250/month): 1 full-time caller or 2 part-time callers, 2-3 appointments per day, CallTools dialer included, 100 local phone numbers, CRM integration, daily scorecards, weekly reports
+- Growth ($2,050/month): 2 full-time callers or 4 part-time callers, 4-6 appointments per day, everything in Starter plus dedicated account manager, advanced analytics, priority support, data enrichment available
+- Scale ($2,850/month): 3 full-time callers or 6 part-time callers, 6-9 appointments per day, everything in Growth plus custom integrations, acquisition manager support, full workflow automation, insights & strategy calls
+- Enterprise (custom pricing): dedicated account manager, dedicated client web dashboard, custom CRM integration, white-label reporting, multi-market campaigns
+
+### Cost Comparison: In-House SDR vs. Televista
+
+An in-house SDR costs approximately $8,000+/month (base salary $4,500, commissions $1,500, software & data $800, taxes & benefits $1,200, plus 10 hours/month management time). The Televista Growth plan costs $2,050/month with everything included.
+
+### Platform & Technology Partners
+
+GoHighLevel, HubSpot, Salesforce, CallTools, ReadyMode, VICIdial, PropWire, BatchLeads, PropStream, DealMachine, Zillow, Python, MATLAB, n8n, Zapier, Twilio, REsimpli, Follow Up Boss
+
+### Areas Served
+
+Florida, Texas, Tennessee, Wisconsin, California, North Carolina, Michigan, Virginia, Illinois, Ohio, Georgia, Arizona, Pennsylvania, New York, Colorado, and all other US states. Local phone numbers are used for each market to maximize answer rates.
+
+---
+
+## Services
+
+### Cold Calling & Appointment Setting
+
+Trained fluent callers handle outbound prospecting end-to-end. They qualify leads, handle objections, and book appointments directly into the client's calendar. Includes CallTools dialer, 100 local phone numbers, lead qualification & scoring, dynamic agent training, call recordings, CRM delivery, and full QA & management team. Output: 2-3 appointments per caller per day.
+
+### Sales Pipeline Support
+
+From first contact to booked meetings, Televista supports every stage with monitored calls, QA scoring, and continuous optimization.
+
+### Data Enrichment & List Building
+
+Prospect lists built and enriched using county records with stacked filters — distress signals, absentee owners, AI-powered area targeting. Multiple data sources for reliable contact info matching the client's ideal customer profile.
+
+### CRM Integration & Setup
+
+Direct integration into GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, and more. Leads are delivered straight to the client's system with full notes and call recordings.
+
+### Workflow Automation
+
+Powered by n8n and Zapier — automating lead routing, SMS follow-ups via Twilio, CRM syncing, webhook triggers, and AI scoring pipelines. Nothing falls through the cracks.
+
+### Full Management & Analytics
+
+Televista manages the entire operation end-to-end. Daily scorecards, weekly reports, weekly strategy meetings, QA reviews, coaching, performance tracking, and continuous improvement. Televista operates as if it were the client's own in-house team.
+
+### AI-Driven List Optimization & Call Review
+
+Advanced AI filters and optimizes call lists, reviews call recordings, and delivers actionable performance insights. The QA and technical team ensures every campaign is continually improved for results.
+
+### AI-Powered Lead Scoring
+
+AI models analyze prospect data and call outcomes to score and prioritize leads, so the client's team focuses on the highest-value opportunities first.
+
+### AI Conversation Analysis
+
+AI analyzes call transcripts for sentiment, objection handling, and conversion signals — delivering insights to improve scripts and agent performance.
+
+### Double Qualification
+
+Experienced acquisition callers double-qualify leads, verifying they are real business opportunities before they reach the client's desk. Two layers of vetting — zero wasted meetings.
+
+### Skip Tracing, SMS & SEO
+
+Find hard-to-reach owners with skip tracing. Run targeted Twilio SMS campaigns. Boost online presence with SEO services. Full-funnel lead generation.
+
+---
+
+## About Us
+
+### Our Story
+
+Televista was started because too many businesses were struggling with inconsistent outreach, untrained callers, and broken promises from other providers. The founders built a team of fluent, trained professionals who don't just read scripts — they connect with people. Callers are trained dynamically to improvise, handle objections, and put the human first. The result: real conversations that lead to real appointments and real growth.
+
+### Founders
+
+- Amer — Co-Founder
+- Mahmoud — Co-Founder
+
+### Team Structure
+
+- 25 active trained callers: fluent, dynamically trained to handle conversations naturally
+- 10 standby callers: fully trained and ready to scale up capacity on demand
+- Acquisition managers: experienced in sales pipelines, working to optimize conversion rates
+- QA team: dedicated quality assurance monitoring calls, providing feedback, ensuring consistently high performance
+- Opportunity & success team: focused on maximizing results and ensuring every opportunity is properly handled
+- Management team: full oversight and management so clients can focus on closing deals
+
+### Approach
+
+- Dynamic training: agents trained to improvise, handle objections, and connect with people naturally (not scripts)
+- Human connection: every call is a conversation, not a transaction
+- Continuous improvement: daily scorecards, weekly reports, constant optimization
+- Weekly meetings: strategy calls with clients to review performance and plan next steps
+
+---
+
+## Real Estate Cold Calling
+
+### Overview
+
+Televista deploys trained callers who work target zip codes, find motivated sellers, and deliver warm appointments. Designed for real estate investors, wholesalers, realtors, and land investors.
+
+### The Problem
+
+- Inconsistent pipeline: referrals dry up, manual outreach is sporadic
+- No time to dial: investors are running deals, negotiating contracts, managing rehabs
+- Untrained VAs: generic virtual assistants don't know motivated seller conversations, burn through lists with nothing to show
+
+### The Solution
+
+- Seller-specific training: callers briefed on distressed seller personas (pre-foreclosure, probate, vacant property, absentee landlords)
+- Target zip code precision: clients choose counties and zip codes, callers work specific markets
+- Warm lead handoff: interested sellers are logged and passed immediately with full call notes
+- Full performance reporting: weekly call summaries, lead counts, and conversion data
+- Launch in 5 days: discovery call Monday, caller trained Wednesday, first dials Friday
+- TCPA compliant: Do Not Call registry honored, legal hours only, human dialers only
+
+### Case Study: Tampa FL Wholesaler
+
+Challenge: relying on inconsistent referrals with no reliable pipeline. Solution: Televista deployed one full-time Growth plan caller focused on off-market seller leads in target zip codes. Results: $2,050/month investment, 90+ leads per month, $12-15K monthly revenue, 567-733% ROI. First appointments booked within 15 days of launch.
+
+### Real Estate FAQ
+
+- Each full-time caller delivers 2-3 qualified appointments per day (40-60 motivated seller leads/month on Starter, 90+ on Growth)
+- Serves wholesalers, fix-and-flip, buy-and-hold, creative finance, novation, and land deals
+- Uses CallTools power dialer with 100 rotating local phone numbers, integrates with REsimpli, Follow Up Boss, Podio, HubSpot
+- All calls made by live human callers, TCPA and DNC compliant, all calls recorded for QA review
+
+---
+
+## Roofing & Solar Cold Calling
+
+### Overview
+
+Speed wins in storm restoration. Televista deploys trained callers into affected zip codes within hours of a weather event — getting roofing and solar companies on-site before the competition.
+
+### The Problem
+
+- Slow speed-to-lead: storm damage creates a 72-hour window, door-knocking misses hundreds of homeowners
+- Canvassing fatigue: field reps burn out and cover limited ground
+- Can't scale for storm season: hiring seasonal canvassers takes weeks
+
+### The Solution
+
+- Storm event rapid deployment: monitoring weather events, activating targeted campaigns into affected zip codes within hours
+- Industry-trained callers: briefed on roofing insurance claims, solar savings conversations, and homeowner objections
+- Scale up or down on demand: add callers for storm season, dial back in off-season, no long-term contracts
+- Confirmed appointments: callers confirm the appointment before passing to the client's team
+- Solar ROI conversations: callers trained on energy savings, utility rate increases, and federal tax credits
+- TCPA compliant
+
+### Timeline
+
+Day 1: strategy call. Days 2-3: caller training on roofing/solar scripts. Day 5: first dials go live. Week 2: first confirmed roof inspections or solar consults on the calendar.
+
+### Roofing & Solar FAQ
+
+- Callers can be redirected into storm-affected zip codes within hours; new campaigns launch within 5 business days
+- Each full-time caller books 2-3 qualified appointments per day; volume increases during active storm seasons
+- Covers all 50 states with focus on storm-prone regions including Florida, Texas, Carolinas, and Midwest
+- Local phone numbers for each market to maximize answer rates
+
+---
+
+## Case Studies
+
+### Tampa, FL Real Estate Wholesaler (733% ROI)
+
+Challenge: wholesaling company relying on inconsistent referrals with no reliable pipeline. Solution: Televista Growth plan with one full-time trained caller on off-market seller leads in target zip codes. Results: $2,050/month investment, 90+ leads per month, $12-15K monthly revenue, 567-733% ROI. First appointments within 15 days.
+
+### Ohio Land Investor (~290% ROI)
+
+Challenge: land investor new to systematic outbound outreach, manually searching for parcels with inconsistent results. Solution: Televista Starter plan with one trained caller focused on off-market land sellers in target counties. Results: $1,250/month investment, 45+ leads per month, $7-8K monthly revenue, ~290% ROI. Ramp-up completed in under 2 weeks.
+
+---
+
+## Contact
+
+- Phone: (934) 245-7155
+- Email: team@televistaleadgeneration.com
+- Hours: Monday-Friday 9:00am - 6:30pm EST
+- Free 30-minute discovery call available
+- Typical launch in 1-2 weeks after onboarding call
+
+Everything is included in the monthly retainer: trained callers, CallTools dialer, 100 local phone numbers, CRM integration, daily scorecards, weekly reports, full QA, and management. No hidden fees.
+
+---
+
+## Industries Served
+
+- Real Estate Investors (wholesaling, fix-and-flip, buy-and-hold, multi-family, land investing)
+- Realtors & Real Estate Agents (expired listings, FSBOs, pre-foreclosures, circle prospecting)
+- Roofing (storm event rapid deployment, homeowner appointment setting for roof inspections)
+- Solar (energy savings conversations, federal tax credit qualification, homeowner appointment setting)
+- Insurance (outbound calling for policy leads and appointment bookings)
+- B2B & SaaS (sales development for pipeline generation)
+- Home Improvement (HVAC, landscaping, home renovation appointment setting)
+
+---
+
+## Frequently Asked Questions
+
+Q: What makes Televista different?
+A: Televista combines fully trained fluent callers with bespoke AI software — including a county data platform, AI enrichment, AI lead scoring, and predictive ML targeting. Agents are trained dynamically to improvise and connect (not script-readers). The agency runs n8n and Zapier automations, Twilio SMS campaigns, and offers double qualification with experienced acquisition callers. 25 active callers and 10 on standby for instant scaling. Televista operates as if it were the client's own in-house team with full management, weekly reports, and weekly strategy meetings.
+
+Q: What services are included?
+A: Cold calling and appointment setting, AI-powered lead scoring, data enrichment from county records with stacked filters, skip tracing, Twilio SMS campaigns, CRM integration (GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, and more), n8n & Zapier workflow automation, double qualification with acquisition callers, predictive ML targeting, SEO services, and full end-to-end management with analytics. Output: 2-3 appointments per full-time caller per day.
+
+Q: How many appointments can I expect per month?
+A: 2-3 appointments per full-time caller per day. With the Starter package, that's roughly 40-60 appointments per month. Scale up with more callers for more results.
+
+Q: Can I bring my own list or do you provide data?
+A: Both. Clients can bring their own list, or Televista sources data directly from county records and enriches it through bespoke AI enrichment software with stacked filters. Skip tracing is also available.
+
+Q: Do you work with startups or only established companies?
+A: Televista works with everyone — from solo founders to growing agencies and enterprise teams. Packages start at $1,250/month.
+
+Q: What CRM or tools do I need?
+A: None required. CallTools dialer is included with 100 local phone numbers. Televista integrates with GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, and any other CRM. n8n and Zapier automations are set up for lead routing, SMS follow-ups, and more.
+
+Q: What industries do you work with?
+A: Real estate (investors, wholesalers, realtors), solar, roofing, insurance, home improvement, and B2B/SaaS. Any high-ticket or B2B space may be a fit.
+
+---
+
+## Social & Reviews
+
+- Trustpilot: https://www.trustpilot.com/review/televistaleadgeneration.com
+- Instagram: https://www.instagram.com/tele_vista1/
+- Facebook: https://www.facebook.com/profile.php?id=61579256489139
+- LinkedIn: https://www.linkedin.com/company/televistaagency/
+
+---
+
+## Legal
+
+- [Privacy Policy](https://televistaleadgeneration.com/privacy-policy.html)
+- [Compliance](https://televistaleadgeneration.com/compliance.html)
+
+© 2026 TELEVISTA. All rights reserved.
