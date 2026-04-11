@@ -88,6 +88,41 @@
     var repelRadius = 6;
     var repelStrength = 0.12;
 
+    // CTA button attract mode
+    var ctaHover = false;
+    var ctaWorldX = 0;
+    var ctaWorldY = 0;
+    var attractStrength = 0;
+    var attractTarget = 0.55;
+    var ctaBtn = hero.querySelector('.btn-primary');
+
+    function updateCtaWorldPos() {
+      if (!ctaBtn) return;
+      var heroRect = hero.getBoundingClientRect();
+      var btnRect = ctaBtn.getBoundingClientRect();
+      var btnCenterX = btnRect.left + btnRect.width / 2 - heroRect.left;
+      var btnCenterY = btnRect.top + btnRect.height / 2 - heroRect.top;
+      var normX = (btnCenterX / heroRect.width - 0.5) * 2;
+      var normY = (btnCenterY / heroRect.height - 0.5) * 2;
+      ctaWorldX = normX * (spread / 2);
+      ctaWorldY = -normY * (spread / 2) * (h / w);
+    }
+
+    var scatterKick = false;
+
+    if (ctaBtn) {
+      updateCtaWorldPos();
+      ctaBtn.addEventListener('mouseenter', function () {
+        ctaHover = true;
+        scatterKick = false;
+        updateCtaWorldPos();
+      });
+      ctaBtn.addEventListener('mouseleave', function () {
+        ctaHover = false;
+        scatterKick = true;
+      });
+    }
+
     hero.addEventListener('mousemove', function (e) {
       var rect = hero.getBoundingClientRect();
       mouseX = ((e.clientX - rect.left) / rect.width - 0.5) * 2;
@@ -100,6 +135,7 @@
 
     hero.addEventListener('mouseleave', function () {
       mouseActive = false;
+      ctaHover = false;
     });
 
     var isVisible = true;
@@ -109,6 +145,7 @@
     obs.observe(hero);
 
     var connectionDistance = 14;
+    var connectionDistanceAttract = 22;
 
     // Center dead zone — keeps particles away from the hero text
     var centerZoneW = 14;  // horizontal half-width in world units
@@ -121,30 +158,84 @@
 
       var pos = geo.attributes.position.array;
 
+      // Snap attract strength up fast, disperse instantly
+      if (ctaHover) {
+        attractStrength += (attractTarget - attractStrength) * 0.35;
+      } else {
+        attractStrength *= 0.5;
+        if (attractStrength < 0.001) attractStrength = 0;
+      }
+
+      // Explosive scatter when hover ends — one-shot velocity burst
+      if (scatterKick) {
+        scatterKick = false;
+        var pos0 = geo.attributes.position.array;
+        for (var s = 0; s < count; s++) {
+          var sdx = pos0[s * 3] - ctaWorldX;
+          var sdy = pos0[s * 3 + 1] - ctaWorldY;
+          var sdist = Math.sqrt(sdx * sdx + sdy * sdy) || 1;
+          var burst = 1.2 + Math.random() * 0.8;
+          velocities[s].x = (sdx / sdist) * burst * 0.12 + (Math.random() - 0.5) * 0.15;
+          velocities[s].y = (sdy / sdist) * burst * 0.12 + (Math.random() - 0.5) * 0.15;
+          velocities[s].z = (Math.random() - 0.5) * 0.06;
+        }
+      }
+
       // Move particles + mouse interaction + center avoidance
       for (var i = 0; i < count; i++) {
         var ix = i * 3;
         var iy = i * 3 + 1;
         var iz = i * 3 + 2;
 
-        // Base drift
-        pos[ix] += velocities[i].x;
-        pos[iy] += velocities[i].y;
-        pos[iz] += velocities[i].z;
+        // CTA attract — all particles pull toward the button
+        if (attractStrength > 0.001) {
+          var adx = ctaWorldX - pos[ix];
+          var ady = ctaWorldY - pos[iy];
+          var adist = Math.sqrt(adx * adx + ady * ady);
+          if (adist > 0.3) {
+            // Strong snap pull — fast convergence
+            var pull = attractStrength * (0.4 + Math.min(adist / 12, 0.6));
+            pos[ix] += (adx / adist) * pull;
+            pos[iy] += (ady / adist) * pull;
+            // Flatten z toward 0 so they cluster visibly
+            pos[iz] *= 0.92;
+          }
+          // Energetic turbulence — particles jitter while moving
+          var turb = attractStrength * 0.35;
+          pos[ix] += (Math.random() - 0.5) * turb;
+          pos[iy] += (Math.random() - 0.5) * turb;
+          pos[iz] += (Math.random() - 0.5) * turb * 0.5;
+          // Keep some drift so they feel alive
+          pos[ix] += velocities[i].x * 1.5;
+          pos[iy] += velocities[i].y * 1.5;
+          pos[iz] += velocities[i].z * 1.5;
+        } else {
+          // Base drift — decay any scatter velocity back to normal
+          var baseSpeed = 0.025;
+          if (Math.abs(velocities[i].x) > baseSpeed) velocities[i].x *= 0.96;
+          if (Math.abs(velocities[i].y) > baseSpeed) velocities[i].y *= 0.96;
+          if (Math.abs(velocities[i].z) > 0.01) velocities[i].z *= 0.96;
+          pos[ix] += velocities[i].x;
+          pos[iy] += velocities[i].y;
+          pos[iz] += velocities[i].z;
+        }
 
         // Center text avoidance — push particles out of the center zone
-        var ax = Math.abs(pos[ix]);
-        var ay = Math.abs(pos[iy]);
-        if (ax < centerZoneW && ay < centerZoneH) {
-          // Push toward the nearest edge of the zone
-          var pushX = (centerZoneW - ax) / centerZoneW * centerRepel;
-          var pushY = (centerZoneH - ay) / centerZoneH * centerRepel;
-          pos[ix] += pos[ix] >= 0 ? pushX : -pushX;
-          pos[iy] += pos[iy] >= 0 ? pushY : -pushY;
+        // (disabled during attract so particles can converge on the button)
+        if (attractStrength < 0.01) {
+          var ax = Math.abs(pos[ix]);
+          var ay = Math.abs(pos[iy]);
+          if (ax < centerZoneW && ay < centerZoneH) {
+            var pushX = (centerZoneW - ax) / centerZoneW * centerRepel;
+            var pushY = (centerZoneH - ay) / centerZoneH * centerRepel;
+            pos[ix] += pos[ix] >= 0 ? pushX : -pushX;
+            pos[iy] += pos[iy] >= 0 ? pushY : -pushY;
+          }
         }
 
         // Mouse repel — particles gently push away from cursor
-        if (mouseActive) {
+        // (disabled during attract so they aren't fighting the pull)
+        if (mouseActive && attractStrength < 0.01) {
           var dx = pos[ix] - mouseWorldX;
           var dy = pos[iy] - mouseWorldY;
           var dist = Math.sqrt(dx * dx + dy * dy);
@@ -156,14 +247,16 @@
           }
         }
 
-        // Wrap around boundaries
-        var halfSpread = spread / 2;
-        if (pos[ix] > halfSpread) pos[ix] = -halfSpread;
-        if (pos[ix] < -halfSpread) pos[ix] = halfSpread;
-        if (pos[iy] > halfSpread) pos[iy] = -halfSpread;
-        if (pos[iy] < -halfSpread) pos[iy] = halfSpread;
-        if (pos[iz] > 8) pos[iz] = -8;
-        if (pos[iz] < -8) pos[iz] = 8;
+        // Wrap around boundaries (only when not attracting)
+        if (attractStrength < 0.01) {
+          var halfSpread = spread / 2;
+          if (pos[ix] > halfSpread) pos[ix] = -halfSpread;
+          if (pos[ix] < -halfSpread) pos[ix] = halfSpread;
+          if (pos[iy] > halfSpread) pos[iy] = -halfSpread;
+          if (pos[iy] < -halfSpread) pos[iy] = halfSpread;
+          if (pos[iz] > 8) pos[iz] = -8;
+          if (pos[iz] < -8) pos[iz] = 8;
+        }
       }
 
       geo.attributes.position.needsUpdate = true;
@@ -171,6 +264,7 @@
       // Update connections
       var lp = lines.geometry.attributes.position.array;
       var idx = 0;
+      var curConnDist = attractStrength > 0.01 ? connectionDistanceAttract : connectionDistance;
       for (var a = 0; a < count; a++) {
         for (var b = a + 1; b < count; b++) {
           var cdx = pos[a * 3] - pos[b * 3];
@@ -178,7 +272,7 @@
           var cdz = pos[a * 3 + 2] - pos[b * 3 + 2];
           var cdist = Math.sqrt(cdx * cdx + cdy * cdy + cdz * cdz);
 
-          if (cdist < connectionDistance) {
+          if (cdist < curConnDist) {
             lp[idx++] = pos[a * 3];
             lp[idx++] = pos[a * 3 + 1];
             lp[idx++] = pos[a * 3 + 2];

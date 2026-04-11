@@ -1309,21 +1309,21 @@ a.industry-card {
    =================================== */
 .call-recording-section {
   padding: var(--space-20) 0;
-  background: linear-gradient(135deg, var(--color-accent-primary), var(--color-accent-dark));
+  background: var(--color-bg-primary);
 }
 
 .call-recording-content {
   text-align: center;
-  color: white;
+  color: var(--color-text-primary);
 }
 
 .call-recording-content h2 {
-  color: white;
+  color: var(--color-text-primary);
   margin-bottom: var(--space-4);
 }
 
 .call-recording-content p {
-  color: rgba(255, 255, 255, 0.8);
+  color: var(--color-text-muted);
   margin-bottom: var(--space-8);
   max-width: 600px;
   margin-left: auto;
@@ -1333,14 +1333,16 @@ a.industry-card {
 .call-recording-player {
   max-width: 800px;
   margin: 0 auto;
-  background: rgba(0, 0, 0, 0.2);
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
   border-radius: var(--radius-2xl);
   padding: var(--space-8);
 }
 
 /* Audio Player Container */
 .audio-player-container {
-  background: rgba(0, 0, 0, 0.3);
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
   padding: var(--space-8);
   position: relative;
@@ -1360,7 +1362,7 @@ a.industry-card {
 .visualizer-bar {
   width: 8px;
   height: 20px;
-  background: linear-gradient(to top, rgba(255,255,255,0.4), rgba(255,255,255,0.8));
+  background: linear-gradient(to top, rgba(0,70,67,0.2), rgba(0,70,67,0.5));
   border-radius: var(--radius-full);
   transform-origin: center bottom;
   will-change: transform, opacity;
@@ -1439,8 +1441,8 @@ a.industry-card {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  background: linear-gradient(135deg, rgba(255,255,255,0.2), rgba(255,255,255,0.1));
-  border: 2px solid rgba(255,255,255,0.3);
+  background: var(--color-accent-primary);
+  border: 2px solid var(--color-accent-primary);
   color: white;
   cursor: pointer;
   display: flex;
@@ -1448,13 +1450,12 @@ a.industry-card {
   justify-content: center;
   margin: 0 auto var(--space-6);
   transition: all 0.3s ease;
-  backdrop-filter: blur(10px);
 }
 
 .audio-play-btn:hover {
-  background: linear-gradient(135deg, rgba(255,255,255,0.3), rgba(255,255,255,0.2));
+  background: var(--color-accent-secondary);
   transform: scale(1.1);
-  box-shadow: 0 0 30px rgba(255,255,255,0.3);
+  box-shadow: 0 0 24px rgba(0,70,67,0.25);
 }
 
 .audio-play-btn:active {
@@ -1480,7 +1481,7 @@ a.industry-card {
 .audio-progress-container {
   flex: 1;
   height: 8px;
-  background: rgba(255,255,255,0.2);
+  background: var(--color-border);
   border-radius: var(--radius-full);
   cursor: pointer;
   overflow: hidden;
@@ -1494,7 +1495,7 @@ a.industry-card {
 .audio-progress {
   height: 100%;
   width: 0%;
-  background: linear-gradient(90deg, rgba(255,255,255,0.8), var(--color-success));
+  background: linear-gradient(90deg, var(--color-accent-primary), var(--color-accent-secondary));
   border-radius: var(--radius-full);
   transition: width 0.1s linear;
   position: relative;
@@ -1508,7 +1509,7 @@ a.industry-card {
   transform: translateY(-50%);
   width: 12px;
   height: 12px;
-  background: white;
+  background: var(--color-accent-primary);
   border-radius: 50%;
   opacity: 0;
   transition: opacity 0.2s ease;
@@ -1520,7 +1521,7 @@ a.industry-card {
 
 .audio-time {
   font-size: var(--text-sm);
-  color: rgba(255,255,255,0.7);
+  color: var(--color-text-muted);
   font-family: var(--font-primary);
   min-width: 80px;
   text-align: right;
@@ -1563,12 +1564,12 @@ a.industry-card {
 }
 
 .badge-text strong {
-  color: white;
+  color: var(--color-text-primary);
   font-size: var(--text-base);
 }
 
 .badge-text span {
-  color: rgba(255,255,255,0.7);
+  color: var(--color-text-muted);
   font-size: var(--text-sm);
   line-height: 1.5;
 }
@@ -2803,129 +2804,103 @@ a.footer-contact-value:hover {
 }
 
 /* ===================================
-   Testimonials Carousel Section
+   Clients & Testimonials Ticker
    =================================== */
-.testimonials-carousel-section {
-  padding: var(--space-6) 0;
+.clients-ticker-section {
+  padding: var(--space-8) 0 var(--space-6);
   background: var(--color-bg-secondary);
   overflow: hidden;
 }
 
-.testimonials-header {
+.clients-ticker-header {
   text-align: center;
-  margin-bottom: var(--space-3);
+  margin-bottom: var(--space-6);
 }
 
-.testimonials-header h2 {
-  font-size: var(--text-lg);
+.clients-ticker-header h2 {
+  font-size: var(--text-2xl);
   color: var(--color-text-primary);
+  font-weight: 700;
 }
 
-.testimonials-carousel-wrapper {
+.ticker-row {
   position: relative;
   overflow: hidden;
-  max-width: 600px;
-  margin: 0 auto;
+  margin-bottom: var(--space-4);
+  mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
 }
 
-.testimonials-track {
+.ticker-track {
   display: flex;
-  transition: transform 0.5s ease;
+  gap: var(--space-4);
+  width: max-content;
+  animation: ticker-scroll 35s linear infinite;
 }
 
-.testimonial-slide {
-  min-width: 100%;
-  padding: var(--space-3) var(--space-4);
-  text-align: center;
+.ticker-row-reverse .ticker-track {
+  animation: ticker-scroll-reverse 40s linear infinite;
 }
 
-.testimonial-quote {
+.ticker-row:hover .ticker-track {
+  animation-play-state: paused;
+}
+
+.ticker-card {
+  flex-shrink: 0;
+  width: 320px;
+  padding: var(--space-5);
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.ticker-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 70, 67, 0.08);
+}
+
+.ticker-testimonial {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.ticker-quote {
   font-size: var(--text-sm);
-  line-height: 1.5;
+  line-height: 1.6;
   color: var(--color-text-primary);
   font-style: italic;
   margin-bottom: var(--space-3);
-  position: relative;
 }
 
-.testimonial-quote::before {
-  content: '"';
-  font-size: 2rem;
-  color: var(--color-accent-primary);
-  opacity: 0.2;
-  position: absolute;
-  top: -0.5rem;
-  left: 50%;
-  transform: translateX(-50%);
-  font-family: Georgia, serif;
-}
-
-.testimonial-author {
+.ticker-author {
   display: flex;
   flex-direction: column;
   gap: 2px;
 }
 
-.testimonial-author strong {
+.ticker-author strong {
   color: var(--color-accent-primary);
   font-size: var(--text-sm);
+  font-weight: 700;
 }
 
-.testimonial-author span {
+.ticker-author span {
   color: var(--color-text-muted);
-  font-size: var(--text-sm);
+  font-size: var(--text-xs);
 }
 
-.testimonials-nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: var(--space-2);
-  margin-top: var(--space-3);
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 
-.testimonial-nav-btn {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  border: 1px solid var(--color-border);
-  background: var(--color-bg-primary);
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: all var(--transition-fast);
-}
-
-.testimonial-nav-btn:hover {
-  background: var(--color-accent-primary);
-  border-color: var(--color-accent-primary);
-  color: white;
-}
-
-.testimonial-nav-btn svg {
-  width: 14px;
-  height: 14px;
-}
-
-.testimonials-dots {
-  display: flex;
-  gap: var(--space-1);
-}
-
-.testimonials-dots .dot {
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: var(--color-border);
-  cursor: pointer;
-  transition: all var(--transition-fast);
-}
-
-.testimonials-dots .dot.active {
-  background: var(--color-accent-primary);
-  width: 18px;
-  border-radius: var(--radius-full);
+@keyframes ticker-scroll-reverse {
+  0% { transform: translateX(-50%); }
+  100% { transform: translateX(0); }
 }
 
 /* ===================================
@@ -3409,12 +3384,9 @@ a.footer-contact-value:hover {
     grid-template-columns: 1fr;
   }
   
-  .testimonial-slide {
+  .ticker-card {
+    width: 270px;
     padding: var(--space-4);
-  }
-  
-  .testimonial-quote {
-    font-size: var(--text-base);
   }
   
   .partners-logos {

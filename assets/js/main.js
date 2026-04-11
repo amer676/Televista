@@ -594,75 +594,18 @@
   }
 
   // ============================================
-  // Testimonials Carousel
+  // Clients & Testimonials Ticker
   // ============================================
 
-  const testimonialsTrack = document.getElementById('testimonialsTrack');
-  const testimonialPrev = document.getElementById('testimonialPrev');
-  const testimonialNext = document.getElementById('testimonialNext');
-  const testimonialsDots = document.getElementById('testimonialsDots');
-
-  if (testimonialsTrack) {
-    const slides = testimonialsTrack.querySelectorAll('.testimonial-slide');
-    let currentSlide = 0;
-    const totalSlides = slides.length;
-    let autoSlideInterval;
-
-    // Create dots
-    slides.forEach((_, index) => {
-      const dot = document.createElement('button');
-      dot.classList.add('dot');
-      dot.setAttribute('aria-label', `Go to testimonial ${index + 1}`);
-      if (index === 0) dot.classList.add('active');
-      dot.addEventListener('click', () => goToSlide(index));
-      testimonialsDots.appendChild(dot);
+  document.querySelectorAll('.ticker-track').forEach(track => {
+    // Duplicate children for seamless infinite loop
+    const items = Array.from(track.children);
+    items.forEach(item => {
+      const clone = item.cloneNode(true);
+      clone.setAttribute('aria-hidden', 'true');
+      track.appendChild(clone);
     });
-
-    const dots = testimonialsDots.querySelectorAll('.dot');
-
-    function goToSlide(index) {
-      currentSlide = index;
-      testimonialsTrack.style.transform = `translateX(-${currentSlide * 100}%)`;
-      dots.forEach((dot, i) => {
-        dot.classList.toggle('active', i === currentSlide);
-      });
-    }
-
-    function nextSlide() {
-      currentSlide = (currentSlide + 1) % totalSlides;
-      goToSlide(currentSlide);
-    }
-
-    function prevSlide() {
-      currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
-      goToSlide(currentSlide);
-    }
-
-    testimonialNext.addEventListener('click', () => {
-      nextSlide();
-      resetAutoSlide();
-    });
-
-    testimonialPrev.addEventListener('click', () => {
-      prevSlide();
-      resetAutoSlide();
-    });
-
-    function startAutoSlide() {
-      autoSlideInterval = setInterval(nextSlide, 5000);
-    }
-
-    function resetAutoSlide() {
-      clearInterval(autoSlideInterval);
-      startAutoSlide();
-    }
-
-    startAutoSlide();
-
-    // Pause on hover
-    testimonialsTrack.addEventListener('mouseenter', () => clearInterval(autoSlideInterval));
-    testimonialsTrack.addEventListener('mouseleave', startAutoSlide);
-  }
+  });
 
   // ============================================
   // ROI Calculator
