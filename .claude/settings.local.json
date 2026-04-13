@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(terser /Users/amerabdelhamid/TelevistaWebsiteWork/assets/js/effects.js -o /Users/amerabdelhamid/TelevistaWebsiteWork/assets/js/effects.min.js --compress --mangle)"
     ]
   }
 }

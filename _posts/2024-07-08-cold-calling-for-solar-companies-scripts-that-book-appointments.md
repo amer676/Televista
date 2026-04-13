@@ -138,7 +138,7 @@ Many solar appointments are booked on the third or fourth contact attempt. Opera
 
 Script-only training produces callers who can navigate familiar conversations but fall apart when a homeowner asks a question not in the script. Investing 2-3 hours in basic solar education — how panels work, the difference between a loan and a lease and a PPA, how net metering works, why electric bills vary by utility — produces callers who sound genuinely knowledgeable. That credibility gap is one of the biggest differentiators between solar appointment setting operations that convert at 10-12% lead-to-set and those that convert at 5-6%.
 
-[Televista](/services.html) builds solar appointment setting teams with this philosophy — callers are trained on solar product fundamentals, not just scripts, because product knowledge is the foundation of confident, credible conversations.
+[Televista](/roofing-solar.html) builds solar appointment setting teams with this philosophy — callers are trained on solar product fundamentals, not just scripts, because product knowledge is the foundation of confident, credible conversations.
 
 ## Final Thoughts
 

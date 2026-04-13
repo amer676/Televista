@@ -24,7 +24,7 @@ You spend your mornings grinding through cold calls, hit maybe 8-12% connect rat
 
 The solution isn't doing more calls yourself — it's finding the right partner. Most agents pick the cheapest option (mistake #1) or the flashiest marketing (mistake #2). Our team at [Televista](/services.html) has run campaigns alongside every major player in this space. Some deliver. Most don't.
 
-Let's see which services actually move the needle versus which ones just sound good in their sales pitch.
+Let's see which services actually move the needle versus which ones just sound good in their sales pitch. You can also read our dedicated [best cold calling companies for real estate](/best-cold-calling-companies-real-estate.html) landing page for a quick-reference comparison.
 
 ## Key Takeaways
 - Specialized cold calling services achieve higher connect rates and more appointments.

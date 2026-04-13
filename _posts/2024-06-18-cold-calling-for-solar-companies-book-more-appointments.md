@@ -144,7 +144,7 @@ Solar companies that make high-volume calls need to monitor their caller ID repu
 
 ### In-House vs. Outsourced
 
-In-house callers give you direct control over training and quality, but they come with overhead including salaries, benefits, dialer software, and management time. Outsourced calling teams from companies like [Televista](/services.html) provide trained callers, dialer infrastructure, and quality assurance without the HR burden.
+In-house callers give you direct control over training and quality, but they come with overhead including salaries, benefits, dialer software, and management time. Outsourced calling teams from companies like [Televista](/roofing-solar.html) provide trained callers, dialer infrastructure, and quality assurance without the HR burden for [solar and roofing campaigns](/roofing-solar.html).
 
 For solar companies scaling quickly, outsourcing is often the faster path. A dedicated calling partner can ramp up a campaign in days rather than the weeks or months it takes to hire and train an in-house team.
 

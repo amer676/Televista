@@ -154,7 +154,7 @@ Scale when your current team consistently hits their KPI targets for at least 30
 
 Once you hit 5-6 callers, you need a dedicated manager. This person should spend 80% of their time on quality assurance, coaching, and training, not making calls themselves.
 
-At [Televista](/services.html), we've built and managed cold calling teams for dozens of real estate investors. The pattern is always the same: the investors who invest in proper hiring, training, and accountability systems are the ones whose teams thrive.
+At [Televista](/cold-calling-for-real-estate-investors.html), we've built and managed cold calling teams for dozens of real estate investors. The pattern is always the same: the investors who invest in proper hiring, training, and accountability systems are the ones whose teams thrive.
 
 ## Common Pitfalls to Avoid
 

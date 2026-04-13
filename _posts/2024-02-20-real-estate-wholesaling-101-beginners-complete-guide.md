@@ -58,7 +58,7 @@ Common motivated seller situations include:
 - **Absentee owners**: Landlords who live far from the property and are tired of managing it.
 - **Code violations**: Owners facing fines for property condition issues.
 
-The most effective methods for reaching motivated sellers are cold calling, direct mail campaigns, driving for dollars, and online marketing. Cold calling, in particular, allows you to have direct conversations with homeowners and gauge motivation in real time. Companies like [Televista](/services.html) specialize in cold calling campaigns that connect investors with motivated sellers at scale.
+The most effective methods for reaching motivated sellers are cold calling, direct mail campaigns, driving for dollars, and online marketing. [Cold calling for wholesalers](/cold-calling-for-wholesalers.html), in particular, allows you to have direct conversations with homeowners and gauge motivation in real time. Companies like [Televista](/services.html) specialize in cold calling campaigns that connect investors with motivated sellers at scale.
 
 ### Step 2: Analyze the Deal
 

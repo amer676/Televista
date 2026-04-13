@@ -19,7 +19,7 @@ But most wholesalers face-plant here.
 
 They're still using 2019 scripts on 2026 homeowners. Objections have evolved — people don't say "I'm not interested" anymore. They hit you with "we already have an investor," "I've heard this is a scam," or my personal favorite: "let me Google your company real quick."
 
-**The objection handling crisis is real.** We've seen this firsthand at [Televista](/services.html) — clients come to us after burning through 500-1000 cold leads with zero appointments. Same story every time: they can get homeowners on the phone, but they're dying at the objection stage.
+**The objection handling crisis is real.** We've seen this firsthand at [Televista](/cold-calling-for-wholesalers.html) — clients come to us after burning through 500-1000 cold leads with zero appointments. Same story every time: they can get homeowners on the phone, but they're dying at the objection stage.
 
 [Voqo's AI [cold calling](https://televistaleadgeneration.com/blog/2026/03/29/best-b2b-cold-calling-agencies/) research](https://www.voqo.ai/blog/ai-cold-calling-for-real-estate-prospecting) from October shows that wholesalers using updated objection frameworks are booking **3x more appointments** than those stuck on old scripts. Not because the leads are better — because they're handling the resistance better.
 

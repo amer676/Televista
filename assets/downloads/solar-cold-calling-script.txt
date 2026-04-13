@@ -1,0 +1,109 @@
+SOLAR COLD CALLING SCRIPT — RESIDENTIAL HOMEOWNERS
+====================================================
+
+PURPOSE: Set qualified appointments for solar consultations and roof
+inspections. Works for solar installers, dealers, and lead gen teams.
+
+
+--- OPENING ---
+
+"Hi [First Name], this is [Your Name] with [Company]. I'm calling because
+homeowners in [City/Neighborhood] have been getting hit with some pretty
+steep utility increases lately — some folks are seeing 20 to 30 percent
+higher bills this year. I was curious if you've looked into solar at all,
+or if that's something you'd be open to hearing about for 60 seconds?"
+
+[If they seem receptive:]
+"Great — and just so you know, I'm not going to try to sell you anything
+on this call. I'm just trying to figure out if your home might be a good
+fit for a program we're running in your area."
+
+
+--- QUALIFICATION QUESTIONS ---
+
+1. HOMEOWNERSHIP:
+   "First question — you do own the home, correct?"
+   [If renting: "Got it — unfortunately this program is only for homeowners.
+   I appreciate your time."]
+
+2. ROOF AGE:
+   "Do you have a rough idea of how old your roof is? Has it been replaced
+   in the last 15 years or so?"
+   [If roof is 20+ years: flag for potential roof replacement bundled deal]
+
+3. SHADE AND ORIENTATION:
+   "Is your roof pretty open to sunlight, or do you have a lot of trees
+   or tall buildings nearby that shade it during the day?"
+
+4. ELECTRIC BILL:
+   "Roughly what are you paying for electricity each month? Over $150?
+   Over $200?"
+   [Ideal: $150+ monthly. Below $100 is typically not a strong candidate.]
+
+5. CREDIT:
+   "Most of our homeowners go with a $0-down financing option. Would you
+   say your credit is in the good-to-excellent range — generally above
+   680 or so?"
+   [Handle gently — don't push if they're uncomfortable.]
+
+
+--- OBJECTION HANDLING ---
+
+OBJECTION: "Solar is too expensive."
+RESPONSE: "I hear that a lot, and honestly it used to be true. But the way
+most of our homeowners do it now, there's zero out-of-pocket cost. You're
+basically replacing your electric bill with a lower solar payment — so your
+monthly cost actually goes down from day one. The consultation is free, and
+there's no obligation. Would it be worth 20 minutes to see the actual
+numbers for your specific home?"
+
+OBJECTION: "I'm locked into a contract with my utility."
+RESPONSE: "That's actually one of the best things about solar — you're not
+breaking any contract. You stay connected to the grid, and the utility
+company is still there as your backup. Solar just reduces what you pull from
+them, which shrinks your bill. There's no switching or cancellation involved."
+
+OBJECTION: "I don't trust solar companies."
+RESPONSE: "I completely understand — there are some companies out there that
+have given the industry a bad look. That's exactly why we do a no-pressure
+in-home consultation first. Our installer handles all the permits, the
+warranty is 25 years, and we don't move forward unless the numbers genuinely
+make sense for you. Would it help to just see the proposal with no
+commitment?"
+
+OBJECTION: "I'm renting."
+RESPONSE: "Got it — this particular program is designed for homeowners since
+the panels go on the roof. But if you know the property owner, we'd be happy
+to reach out to them. Do you happen to have their contact info?"
+
+
+--- APPOINTMENT SETTING ---
+
+"Here's what I'd like to do — we have a solar consultant in your area this
+week who can do a free roof analysis and put together a custom savings
+proposal. It takes about 20 minutes and there's absolutely no obligation.
+Would [Day] in the morning or afternoon work better for you?"
+
+[Confirm:] "Perfect. I've got you down for [Day] at [Time]. You'll get a
+confirmation text from us. The consultant's name is [Name]. They'll take a
+quick look at your roof, pull up your utility data, and show you exactly
+what you'd save. Sound good?"
+
+[Get:] Full name, property address, email, confirm phone number, and
+monthly electric bill amount for the consultant's pre-work.
+
+
+--- DELIVERY TIPS ---
+
+- Lead with savings, not technology. Homeowners don't care about kilowatts
+  and inverters. They care about paying less.
+- Use "homeowners in your area" framing — it creates social proof and makes
+  the call feel less targeted.
+- If they mention a spouse, pivot to: "It would actually be great to have
+  both of you there so you can make the decision together."
+- Never bash their current utility. Position solar as an addition, not
+  a replacement.
+
+
+====================================================
+Provided by Televista Lead Generation | televistaleadgeneration.com

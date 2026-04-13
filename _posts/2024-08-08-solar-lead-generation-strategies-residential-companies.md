@@ -90,7 +90,7 @@ A balanced approach for a mid-sized residential solar company might look like:
 
 Many solar companies reach a point in their growth where the in-house appointment setting function becomes a bottleneck. Hiring, training, managing, and retaining quality solar appointment setters is operationally demanding. The turnover rate in outbound calling roles is high, and the performance variance between good and mediocre callers is extreme.
 
-Working with a specialized solar appointment setting partner like [Televista](/services.html) can resolve this bottleneck by providing trained, managed callers who operate on solar-specific scripts and qualification criteria, with the infrastructure (CRM integration, call recording, QA, and reporting) already built. The economics often favor outsourcing the appointment setting function while keeping in-home sales in-house — allowing the solar company to focus its management attention on the close rather than the top of the funnel.
+Working with a specialized [solar appointment setting partner](/roofing-solar.html) like Televista can resolve this bottleneck by providing trained, managed callers who operate on solar-specific scripts and qualification criteria, with the infrastructure (CRM integration, call recording, QA, and reporting) already built. The economics often favor outsourcing the appointment setting function while keeping in-home sales in-house — allowing the solar company to focus its management attention on the close rather than the top of the funnel.
 
 ## Measuring What Matters: Cost Per Installed Watt
 

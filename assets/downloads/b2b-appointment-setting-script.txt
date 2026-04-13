@@ -1,0 +1,131 @@
+B2B APPOINTMENT SETTING SCRIPT — SAAS & SERVICES
+====================================================
+
+PURPOSE: Bypass gatekeepers and book qualified meetings with decision makers.
+Works for SaaS companies, marketing agencies, staffing firms, IT services,
+and any B2B outbound team.
+
+
+--- GATEKEEPER BYPASS ---
+
+Technique 1 — Casual & Confident:
+"Hey, this is [First Name] — is [Decision Maker First Name] around?"
+[Say it like you know them. No company name, no title, no pitch. Gatekeepers
+are trained to filter salespeople, not peers.]
+
+Technique 2 — Referral Frame:
+"Hi, I was speaking with someone on your team and they suggested I connect
+with [Decision Maker]. Could you put me through?"
+
+Technique 3 — Voicemail Route:
+"I know [he/she] is probably busy — can you drop me into voicemail? I just
+need to leave a quick message."
+[Then leave a strong 20-second voicemail — see below.]
+
+If asked "What is this regarding?":
+"It's about [a specific pain point relevant to their industry]. [He/She]
+will know what it's about."
+
+
+--- DECISION MAKER OPENING ---
+
+Do NOT lead with your product. Lead with their problem.
+
+"[First Name], this is [Your Name] with [Company]. I'll be quick — I
+know you didn't expect this call. We work with [2-3 similar companies or
+competitors] to help them [specific outcome: reduce churn, cut CAC, fill
+their pipeline, etc.]. I had a quick question about how you're handling
+[specific pain point] — do you have 90 seconds?"
+
+[If yes:] Move to qualification.
+
+[If "What do you do?":] "In a sentence — we help [their role] at [their
+type of company] [achieve specific result]. But honestly, I don't even
+know yet if we're a fit. That's why I wanted to ask you a couple of
+questions first."
+
+
+--- QUALIFICATION (BANT Framework) ---
+
+1. NEED:
+   "How are you currently handling [pain point]? Is that something your
+   team manages in-house, or do you have a vendor for that?"
+
+   "What's working? What's not?"
+
+2. AUTHORITY:
+   "If you did decide to explore something like this, is that a decision
+   you'd make, or would there be other stakeholders involved?"
+
+   [If others:] "Totally makes sense. Would it be helpful to include them
+   in the conversation from the start?"
+
+3. BUDGET:
+   "Do you have a budget allocated for [solving this problem / this type
+   of solution], or would this be something you'd need to build a case for?"
+
+   [Don't push on exact numbers yet — save that for the meeting.]
+
+4. TIMELINE:
+   "Is this something you're looking to address this quarter, or is it
+   more of a long-term priority?"
+
+
+--- OBJECTION HANDLING ---
+
+OBJECTION: "We're not interested."
+RESPONSE: "I hear you — and I wouldn't expect you to be interested in
+something you haven't seen yet. I'm not asking for a commitment. What if
+I showed you specifically how [competitor/similar company] solved
+[same problem]? If it's not relevant, I'll never call again. Fair?"
+
+OBJECTION: "Send me an email."
+RESPONSE: "Happy to — but I want to send you something that's actually
+relevant, not a generic deck. Quick question: is [pain point] something
+you're actively dealing with right now, or is it more of a future
+consideration? That way I can tailor what I send."
+
+[Then send the email within 5 minutes and follow up 2 days later.]
+
+OBJECTION: "We already have a solution for that."
+RESPONSE: "Good — most companies at your stage do. Out of curiosity, how
+long have you been with them? And if there was one thing you could improve
+about the way it's working, what would it be?"
+
+[Listen for dissatisfaction. If they're genuinely happy, note it and
+follow up in 6 months when their contract may be up for renewal.]
+
+OBJECTION: "Call me back later."
+RESPONSE: "Absolutely — when works best? I want to respect your time and
+not play phone tag. Would [specific day] at [specific time] work? I'll
+send a calendar invite so it's locked in."
+
+[Always pin down a specific time. "Later" without a date is a dead end.]
+
+
+--- MEETING BOOKING ---
+
+"Based on what you've shared, I think it would be worth a 20-minute
+conversation with our [title — solutions engineer, account executive,
+founder, etc.]. They can show you exactly how we helped [similar company]
+[achieve specific result] and whether the same approach would work for you.
+No pitch, no pressure — if it's not a fit, we'll tell you. Would [Day] at
+[Time] or [Day] at [Time] work?"
+
+[Confirm:] Send calendar invite immediately with a brief agenda. Include
+a one-pager or case study. Confirm attendees and decision makers.
+
+
+--- VOICEMAIL SCRIPT (20 seconds max) ---
+
+"[First Name], it's [Your Name] with [Company]. Quick message — we just
+helped [similar company] [specific result with a number]. I wanted to see
+if the same approach would work for you. My number is [number]. Again,
+[Your Name], [number]."
+
+[Leave no more than 2 voicemails per prospect. After that, switch to
+email and LinkedIn touches.]
+
+
+====================================================
+Provided by Televista Lead Generation | televistaleadgeneration.com

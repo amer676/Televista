@@ -108,7 +108,7 @@ Phone qualification is a process that can and should be systematically measured 
 
 **Qualification-to-appointment-to-close pipeline:** Following leads all the way through to installation and measuring close rates by qualification tier is the ultimate validation of your phone qualification standards.
 
-[Televista](/services.html) builds qualification tracking into every solar appointment setting campaign, providing regular reporting on qualification rates by criterion that allows ongoing improvement of both list targeting and caller script effectiveness.
+[Televista](/roofing-solar.html) builds qualification tracking into every [solar and roofing cold calling campaign](/roofing-solar.html), providing regular reporting on qualification rates by criterion that allows ongoing improvement of both list targeting and caller script effectiveness.
 
 ## Final Thoughts
 

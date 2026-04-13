@@ -108,7 +108,7 @@ Track these KPIs to measure your cold calling effectiveness:
 
 ## Scaling with a Partner
 
-Many roofing companies find that managing an internal cold calling operation diverts attention from what they do best: installing roofs. Outsourcing to a specialized lead generation company like [Televista](/services.html) can provide consistent appointment flow without the management overhead.
+Many roofing companies find that managing an internal cold calling operation diverts attention from what they do best: installing roofs. Outsourcing to a specialized [roofing and solar cold calling company](/roofing-solar.html) like Televista can provide consistent appointment flow without the management overhead.
 
 The ideal arrangement has the calling partner handle list building, dialing, and initial qualification, while the roofing company's estimators handle the inspections and closing.
 

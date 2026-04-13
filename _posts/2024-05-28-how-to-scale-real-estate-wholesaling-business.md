@@ -46,7 +46,7 @@ Lead generation is the engine. Everything downstream depends on the volume and q
 
 At one deal per month, you might be relying on a single lead source like driving for dollars or a small direct mail campaign. At ten deals, you need multiple channels running simultaneously.
 
-**Cold calling** is the workhorse of most high-volume wholesaling operations. It is scalable, cost-effective, and produces results quickly. Whether you build an in-house team or partner with [Televista](/services.html) for trained callers, cold calling should be a primary channel.
+**[Cold calling for wholesalers](/cold-calling-for-wholesalers.html)** is the workhorse of most high-volume wholesaling operations. It is scalable, cost-effective, and produces results quickly. Whether you build an in-house team or partner with [Televista](/services.html) for trained callers, cold calling should be a primary channel.
 
 **Direct mail** remains effective when targeted correctly. Yellow letters, postcards, and professional letters to absentee owners, pre-foreclosures, and high-equity owners produce consistent results. Budget for 5,000-10,000 pieces per month at scale.
 

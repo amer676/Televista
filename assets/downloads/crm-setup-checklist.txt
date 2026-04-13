@@ -1,0 +1,153 @@
+CRM SETUP CHECKLIST FOR COLD CALLING CAMPAIGNS
+=================================================
+
+A step-by-step guide to configuring your CRM for maximum cold calling
+efficiency. Works with GoHighLevel, HubSpot, Salesforce, Podio, REI
+BlackBook, Follow Up Boss, or any customizable CRM.
+
+
+--- 1. PIPELINE STAGES ---
+
+Set up a dedicated cold calling pipeline with these stages:
+
+[ ] New Lead — Raw contact, not yet called
+[ ] Attempted Contact — Called but no answer (track attempt count)
+[ ] Contacted — Spoke with lead, pending qualification
+[ ] Qualified — Meets your criteria, appointment needed
+[ ] Appointment Set — Meeting scheduled
+[ ] Appointment Completed — Met or presented to the lead
+[ ] Proposal / Offer Made — Active negotiation
+[ ] Under Contract — Deal in progress
+[ ] Closed Won — Deal completed
+[ ] Closed Lost — Deal did not close (tag the reason)
+[ ] Dead Lead — Wrong number, deceased, do-not-call request
+[ ] Nurture / Long-Term — Not ready now, follow up in 3-6 months
+
+TIP: Keep your pipeline under 12 stages. More than that creates confusion
+and leads get stuck.
+
+
+--- 2. CUSTOM FIELDS FOR COLD CALLING ---
+
+Add these fields to every lead record:
+
+[ ] Lead Source (dropdown: list name, skip trace source, marketing channel)
+[ ] List/Campaign Name (text: which specific list this lead came from)
+[ ] Motivation Level (dropdown: 1-Hot, 2-Warm, 3-Cold, 4-No Motivation)
+[ ] Property Condition (dropdown: Excellent, Good, Fair, Poor, Vacant/Distressed)
+[ ] Timeline to Sell/Buy (dropdown: Immediate, 1-3 Months, 3-6 Months, 6+ Months, Unknown)
+[ ] Asking Price (currency)
+[ ] Estimated Value (currency)
+[ ] Mortgage Balance (currency)
+[ ] Property Type (dropdown: SFH, Multi-Family, Condo, Land, Commercial)
+[ ] Occupancy Status (dropdown: Owner-Occupied, Tenant-Occupied, Vacant)
+[ ] Number of Call Attempts (auto-increment or manual number)
+[ ] Last Call Date (date)
+[ ] Last Call Outcome (dropdown: No Answer, Left VM, Spoke - Interested,
+    Spoke - Not Interested, Wrong Number, DNC Request)
+[ ] Best Time to Call (dropdown: Morning, Afternoon, Evening)
+[ ] Call Notes (long text)
+[ ] Assigned Caller (team member dropdown)
+[ ] Follow-Up Date (date)
+[ ] Do Not Call (checkbox)
+
+
+--- 3. LEAD SOURCE TRACKING ---
+
+[ ] Create a unique lead source tag for every list and campaign
+[ ] Examples: "Skip Trace - Absentee Owners - March 2026",
+    "Driving for Dollars - Phoenix", "Aged Internet Lead - Solar"
+[ ] Tag leads on import — never import without a source tag
+[ ] Build a report that shows cost per lead and conversion rate by source
+[ ] Review monthly: kill sources under 1% conversion, double down on
+    sources above 3%
+
+
+--- 4. AUTOMATION RULES ---
+
+Set up these automations to eliminate manual work:
+
+[ ] New Lead Notification — Instant alert (SMS or app notification) when a
+    new lead enters the pipeline
+[ ] Auto-Assign — Round-robin new leads to available callers based on
+    capacity or territory
+[ ] Missed Call Follow-Up — If lead calls back and no one answers, trigger
+    an auto-text: "Hey [First Name], sorry I missed your call. I'll call
+    you back within the hour."
+[ ] Voicemail Drop Trigger — After 3 no-answers, automatically send a
+    pre-recorded voicemail or SMS
+[ ] Follow-Up Sequence — After first contact, trigger a 5-touch sequence:
+    Day 1: Call + SMS
+    Day 3: Call
+    Day 5: SMS
+    Day 7: Call + Email
+    Day 14: Call + SMS
+[ ] Stale Lead Alert — If a lead in "Contacted" or "Qualified" stage has
+    no activity for 7 days, alert the assigned caller
+[ ] Appointment Reminder — Automated text/email 24 hours and 1 hour before
+    appointment
+[ ] DNC Auto-Remove — When "Do Not Call" checkbox is checked, automatically
+    move to Dead Lead stage and exclude from all future campaigns
+[ ] Re-Engagement — Leads in "Nurture" stage get an automated monthly
+    touchpoint (email or text)
+
+
+--- 5. DIALER INTEGRATION ---
+
+[ ] Connect your dialer (Mojo, BatchDialer, PhoneBurner, ReadyMode, etc.)
+    to your CRM via native integration or Zapier
+[ ] Ensure call outcomes sync back to CRM automatically
+[ ] Map dialer dispositions to CRM stage changes:
+    No Answer -> increment call attempt, keep in "Attempted Contact"
+    Left VM -> increment attempt, add "Left VM" note
+    Interested -> move to "Qualified", trigger appointment workflow
+    Not Interested -> move to "Nurture" or "Dead Lead"
+    Wrong Number -> move to "Dead Lead", tag "Bad Data"
+    DNC Request -> trigger DNC automation
+[ ] Set up call recording storage linked to each lead record
+[ ] Enable screen-pop so caller sees lead info before they answer
+
+
+--- 6. REPORTING DASHBOARDS ---
+
+Build these reports and review them weekly:
+
+[ ] Call Volume — Total calls, connects, and talk time per caller per day
+[ ] Connection Rate — Calls-to-conversations ratio (target: 8-12%)
+[ ] Appointment Set Rate — Conversations-to-appointments (target: 15-25%)
+[ ] Appointment Show Rate — Appointments set vs. completed (target: 70%+)
+[ ] Cost Per Appointment — Total campaign cost / appointments set
+[ ] Pipeline Value — Total estimated deal value by stage
+[ ] Lead Source ROI — Revenue generated per dollar spent, by source
+[ ] Caller Leaderboard — Ranked by appointments set, not just call volume
+[ ] Stale Lead Report — Leads with no activity in 7+ days
+[ ] DNC Compliance Report — All DNC requests logged with date and method
+
+
+--- 7. TEAM PERMISSIONS ---
+
+[ ] Callers: Can view and edit their assigned leads only. Cannot delete
+    leads or export data. Can log calls and set appointments.
+[ ] Team Leads: Can view all leads in their team. Can reassign leads.
+    Can view team reports but not individual compensation data.
+[ ] Managers: Full access to all leads, reports, and settings. Can
+    create/modify automations and import/export data.
+[ ] Admin: Full system access including billing, integrations, and
+    user management. Limit to 1-2 people.
+[ ] Set up audit logging so you can see who changed what and when
+[ ] Disable bulk export for all roles except Admin to protect your data
+
+
+--- FINAL TIPS ---
+
+- Clean your data before importing. Remove duplicates, scrub against
+  DNC lists, and validate phone numbers.
+- Run a CRM audit every 30 days. Archive dead leads, update stale
+  stages, and check that automations are firing correctly.
+- Your CRM is only as good as the data your team puts in. Enforce
+  mandatory fields on disposition and make call notes a requirement,
+  not an option.
+
+
+=================================================
+Provided by Televista Lead Generation | televistaleadgeneration.com

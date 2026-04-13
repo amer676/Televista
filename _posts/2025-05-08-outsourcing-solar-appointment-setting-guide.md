@@ -127,7 +127,7 @@ Run a joint mock call session. Have your sales manager role-play homeowner objec
 
 Establish a weekly review cadence from day one. Review appointment quality weekly for the first month, and give feedback promptly. Providers cannot correct problems they do not know about.
 
-[Televista](/services.html) is a solar appointment setting provider that works with residential and commercial solar companies across the US, with a focus on qualified pipeline, transparent reporting, and dedicated account management. If you are evaluating outsourced options, the questions above apply equally to us.
+[Televista](/roofing-solar.html) is a solar appointment setting provider that works with residential and commercial solar companies across the US, with a focus on qualified pipeline, transparent reporting, and dedicated account management. If you are evaluating outsourced options, the questions above apply equally to us.
 
 ## Final Thoughts
 

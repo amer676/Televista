@@ -9,7 +9,7 @@ tags: ["cold calling Texas", "real estate investing Texas", "Texas motivated sel
 author: "Televista Team"
 ---
 
-Texas is one of the most compelling states in the country for real estate investors running cold calling operations, and the reasons go well beyond simple market size. The combination of rapid population growth, no state income tax, a business-friendly regulatory environment, and — critically — some of the highest property taxes in the United States creates a consistent pipeline of motivated sellers that diligent investors can tap into year after year.
+Texas is one of the most compelling states in the country for [real estate investors running cold calling operations](/cold-calling-for-real-estate-investors.html), and the reasons go well beyond simple market size. The combination of rapid population growth, no state income tax, a business-friendly regulatory environment, and — critically — some of the highest property taxes in the United States creates a consistent pipeline of motivated sellers that diligent investors can tap into year after year.
 
 ## Key Takeaways
 

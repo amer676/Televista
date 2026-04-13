@@ -104,7 +104,7 @@ The metrics that matter most for solar appointment setting operations are:
 
 **Cost per installed watt:** The ultimate efficiency metric. High appointment volume with poor qualification drives cost per watt up; well-qualified low-volume appointment setting can drive it down.
 
-Solar appointment setting teams like [Televista](/services.html) build their operations around these KPIs — using them not just as reporting metrics but as active management tools for improving qualification quality, script effectiveness, and caller performance over time.
+Solar appointment setting teams like [Televista](/roofing-solar.html) build their operations around these KPIs — using them not just as reporting metrics but as active management tools for improving qualification quality, script effectiveness, and caller performance over time.
 
 ## Common Objections and How to Handle Them
 

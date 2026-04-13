@@ -25,7 +25,7 @@ High interest rates don't kill real estate investing. They kill lazy real estate
 
 Here's the counterintuitive truth: high interest rates are good for lead generation. When rates rise, several things happen simultaneously:
 
-**More motivated sellers emerge.** Homeowners with adjustable-rate mortgages see payments spike. Over-leveraged investors can't refinance. Job losses from economic slowdown create distressed situations. The pool of genuinely motivated sellers expands.
+**More motivated sellers emerge.** Homeowners with adjustable-rate mortgages see payments spike. Over-leveraged investors can't refinance. Job losses from economic slowdown create distressed situations. The pool of genuinely motivated sellers expands — making [cold calling for real estate investors](/cold-calling-for-real-estate-investors.html) even more productive.
 
 **Competition decreases.** Casual investors and flippers who depended on cheap money exit the market. Fewer buyers means less competition for deals and more negotiating leverage.
 

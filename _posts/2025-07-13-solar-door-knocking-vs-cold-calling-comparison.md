@@ -117,7 +117,7 @@ The most effective solar companies run both channels simultaneously, using them 
 
 Cold calling also pairs well with D2D in a specific way: cold calling can identify interested homeowners in a neighborhood before D2D visits, allowing reps to prioritize their door sequences based on pre-qualified interest.
 
-[Televista](/services.html) works with solar companies running cold calling as a standalone channel and as a complement to existing D2D operations, helping teams scale into new markets efficiently without the headcount overhead of field rep expansion.
+[Televista](/roofing-solar.html) works with solar companies running cold calling as a standalone channel and as a complement to existing D2D operations, helping teams scale into new markets efficiently without the headcount overhead of field rep expansion.
 
 ## Final Thoughts
 
