@@ -18,7 +18,7 @@ She'd been at it since 7 AM, working through a list of expired listings she'd sc
 
 Most agents think they're saving money by handling their own prospecting. Wrong move. You're trading $300-500/hour closing activities for $15/hour dialing work. I've watched top producers burn out because they couldn't let go of the phone.
 
-You spend your mornings grinding through cold calls, hit maybe 8-12% connect rates if you're lucky, stumble through objection handling, then wonder why your pipeline feels like it's held together with duct tape. Meanwhile, [specialized cold calling services](https://www.[salesforce](https://www.salesforce.com).com/resources/articles/lead-generation/) are hitting 15-25% connect rates with scripts they've tested across thousands of calls.
+You spend your mornings grinding through cold calls, hit maybe 8-12% connect rates if you're lucky, stumble through objection handling, then wonder why your pipeline feels like it's held together with duct tape. Meanwhile, [specialized cold calling services from sources like Salesforce](https://www.salesforce.com/resources/articles/lead-generation/) are hitting 15-25% connect rates with scripts they've tested across thousands of calls.
 
 > **Key Stat:** Professional cold calling teams book 3-4x more appointments per hour than individual agents handling their own prospecting.
 
