@@ -122,6 +122,5 @@ Roofing cold calls must comply with the same TCPA regulations as any telemarketi
 - Display accurate caller ID
 - Check state-specific regulations (some states have additional home improvement solicitation laws)
 
-## Conclusion
-
+## Your Next Move
 Cold calling for roofing companies is one of the highest-ROI lead generation strategies available. A single roofing job can be worth $8,000-$25,000+, which means even a modest appointment-setting operation can generate significant revenue. Build your lists strategically, lead with value through free inspections, time your campaigns to seasonal demand, and track your metrics religiously. The roofing companies that master cold calling don't just survive storm seasons. They thrive year-round.

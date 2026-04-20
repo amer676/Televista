@@ -3,13 +3,13 @@ layout: post
 title: "Cold Calling Scripts: 7 Advanced Hacks for REI 2026"
 date: 2026-04-17
 description: "Advanced cold calling scripts & tips for real estate investors 2026. 7 data-backed hacks that boost conversions 3X. Learn from Televista's 200+ campaigns."
-target_keyword: "Advanced Cold Calling Scripts & Tips for Real Estate Investors 2026"
+target_keyword: "advanced cold calling scripts"
 categories: [blog]
 tags: ["cold calling", "real estate investing", "lead generation", "conversion optimization", "sales scripts"]
 author: "Televista Team"
 ---
 
-## Introduction: Why 73% of Investors Calculate Their Cold Calling ROI Wrong
+## Why 73% of Investors Calculate Their Cold Calling ROI Wrong
 
 March 15th, 2026 at 9am, our [Televista](/services.html) team pulled the monthly numbers for sixty-seven real estate investors across Phoenix, Dallas, and Atlanta.
 

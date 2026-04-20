@@ -176,8 +176,7 @@ A seller who says "Sure, I would look at an offer" is showing interest, not moti
 
 Not every motivated seller is in distress. A homeowner who is simply tired of dealing with yard maintenance, property taxes, and home insurance on a property they no longer enjoy living in is motivated, just by a different force. If your callers are only trained to identify crisis-level motivation, they will miss these opportunities.
 
-## Conclusion
-
+## Your Next Move
 Understanding seller motivation is not about finding desperate people to take advantage of. It is about identifying homeowners whose lives would genuinely improve by selling their property and presenting an option that meets their specific needs. When you approach motivation with curiosity rather than assumptions, empathy rather than pressure, and patience rather than urgency, you create win-win transactions.
 
 The best lead generation operations do not just find sellers. They understand them. They build systems that identify motivation, match it with the right approach, and follow up consistently until the timing is right. That combination of insight and discipline is what separates a deal-closing machine from a dialing operation going through the motions.

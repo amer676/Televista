@@ -148,6 +148,5 @@ If you can only choose one channel right now, ask yourself:
 3. **Do I want to manage people?** If not, direct mail is more hands-off
 4. **What's my market like?** Highly competitive markets favor speed (cold calling)
 
-## Conclusion
-
+## Your Next Move
 There's no universal answer to the cold calling vs direct mail debate. Both are proven lead generation channels with decades of results behind them. The best approach depends on your budget, timeline, market, and management capacity. Start with the channel that fits your current situation, master it, and then layer in the other for maximum deal flow. The investors who build multi-channel systems are the ones who dominate their markets year after year.

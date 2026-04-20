@@ -166,8 +166,7 @@ Every successful cold caller has a story about a period where nothing seemed to 
 
 Cold calling is a long game. The appointment you book tomorrow might have started with a conversation six months ago. The skill you develop through 500 bad calls makes your 501st call dramatically better. The resilience you build on your worst days is what makes your best days possible.
 
-## Conclusion
-
+## Your Next Move
 Bad cold calling days are not evidence that cold calling does not work. They are the price of admission to a high-reward activity. How you respond to those days determines whether cold calling becomes a sustainable part of your business or a source of frustration you eventually abandon.
 
 Build recovery routines. Track your numbers over meaningful timeframes. Separate your identity from your outcomes. Celebrate the process. Stay connected to others who understand the work.

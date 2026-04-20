@@ -199,6 +199,5 @@ Your plan should be documented well enough that someone else could execute it:
 5. **Forgetting about follow-up:** Your existing lead database is an asset; plan time to work it
 6. **Not building in flexibility:** Markets change; leave room to pivot
 
-## Conclusion
-
+## Your Next Move
 The investors who plan their lead generation strategy before the year starts consistently outperform those who wing it. The framework is simple: set targets, choose channels, build a budget, plan your calendar, prepare your team, define your metrics, and document it all. The hour you spend planning now saves weeks of reactive scrambling later. Start your new year with clarity, confidence, and a roadmap to your best year yet.

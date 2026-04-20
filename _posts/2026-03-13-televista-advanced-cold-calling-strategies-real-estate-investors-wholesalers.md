@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: The 73% Problem Most Real Estate Cold Callers Never Solve
+## The 73% Problem Most Real Estate Cold Callers Never Solve
 
 A staggering 73% of real estate investors abandon their cold calling [services](/services.html) within just 90 days. They burn through skip-traced lists in [BatchLeads](https://www.batchleads.io), exhaust their energy on dead-end conversations, and convince themselves that cold calling "doesn't work anymore."
 

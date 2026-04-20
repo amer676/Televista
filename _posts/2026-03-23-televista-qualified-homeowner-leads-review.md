@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: The $12K Per Month Reality Check
+## The $12K Per Month Reality Check
 
 Marcus in Tampa just hit his first $12,000 month after eight weeks with qualified homeowner leads. Not revenue — profit. 
 

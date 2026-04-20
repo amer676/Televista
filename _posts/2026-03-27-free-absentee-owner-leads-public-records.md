@@ -3,10 +3,12 @@ layout: post
 title: "How to Find Free Absentee Owner Leads Using Public Records"
 date: 2026-03-27
 description: "Learn how to find free absentee owner leads using public records in 2026. Step-by-step guide used by investors to generate $147K+ profits. Get the playbook."
-target_keyword: "how to find free absentee owner leads using public records 2026"
+target_keyword: "free absentee owner leads"
 categories: [blog]
 tags: ["absentee owner leads", "public records", "real estate investing", "lead generation", "free leads"]
 author: "Televista Team"
+robots: "noindex, follow"
+canonical_url: "/blog/2026/03/28/find-absentee-owner-leads-2026/"
 ---
 
 ## The $50,000 Discovery: How One Investor Found 47 Absentee Owner Deals Using Nothing But Public Records

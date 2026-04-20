@@ -122,3 +122,13 @@ The most productive Twin Cities cold calling operation maintains:
 [Televista](/services.html) supports investors running Twin Cities cold calling campaigns with the call volume and list management infrastructure needed to cover Minneapolis, St. Paul, and the suburban counties simultaneously.
 
 Minneapolis is a market where the cold caller who understands the rent control story is playing a different game than the one who does not. That knowledge is a differentiator — it earns trust, it opens conversations, and it converts to deals in a market that the average national investor has not yet fully discovered.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Minnesota](/cold-calling-minnesota.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

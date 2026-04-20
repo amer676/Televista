@@ -149,8 +149,7 @@ Probate campaigns have longer sales cycles than many other lead sources, so your
 
 Expect your time to close to be longer than with other lead sources. Three to six months is common for probate deals. This means your pipeline needs to be consistently fed with new leads to maintain deal flow.
 
-## Conclusion
-
+## Your Next Move
 Probate cold calling is not for everyone. It requires patience, emotional intelligence, and a genuine willingness to help people through a difficult time. But for investors who approach it the right way, probate represents one of the most reliable and sustainable sources of off-market deals in real estate.
 
 Start small. Learn the probate process in your county. Build a script that leads with empathy. Create a follow-up system that keeps you in front of personal representatives without pressuring them. And always, always remember that behind every lead is a real person dealing with a real loss.

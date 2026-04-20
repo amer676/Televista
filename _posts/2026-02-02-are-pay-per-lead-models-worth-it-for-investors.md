@@ -71,8 +71,7 @@ The answer to this question depends on your individual circumstances, including 
 *   You have a larger budget and are willing to invest in a long-term lead generation strategy.
 *   You don't have the time or resources to follow up with a high volume of non-exclusive leads.
 
-## Conclusion
-
+## Your Next Move
 The pay-per-lead model can be a viable option for real estate investors, but it's not a one-size-fits-all solution. By understanding the cost breakdown, comparing it to other models, and being prepared to handle objections, you can make an informed decision about whether a PPL model is the right choice for your business. Ultimately, the key to success is to track your results, focus on your cost per deal, and continually refine your lead generation strategy to maximize your return on investment.
 
 <div class="post-cta">

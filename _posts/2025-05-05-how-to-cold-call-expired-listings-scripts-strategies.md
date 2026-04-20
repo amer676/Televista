@@ -150,8 +150,7 @@ Some agents send a brief handwritten note or printed market update to expired li
 
 **Calling without preparation.** Before you dial, spend 60 seconds reviewing the property listing, days on market, price history, and any public information about the homeowner. Walking into a call informed gives you a massive advantage.
 
-## Conclusion
-
+## Your Next Move
 Expired listings are one of the most accessible and high-converting lead sources available to real estate agents in 2025. The homeowners are motivated, the data is readily available, and most of your competition is either ignoring them or approaching them poorly.
 
 Success comes down to three things: sharp timing, empathetic scripts, and disciplined follow-up. Build a daily system around expired listings, track your numbers, and refine your approach based on what the data tells you.

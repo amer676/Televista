@@ -3,7 +3,7 @@ layout: post
 title: "Cold Calling Real Estate: 40+ Leads Blueprint 2026"
 date: 2026-04-14
 description: "Cold Calling Real Estate 2026 Strategy for Qualified Leads: Get 40+ monthly appointments with proven systems. Learn from 200+ campaigns."
-target_keyword: "Cold Calling Real Estate 2026 Strategy for Qualified Leads"
+target_keyword: "cold calling real estate blueprint"
 categories: [blog]
 tags: ["cold calling", "real estate leads", "lead generation", "2026 strategy", "qualified leads"]
 author: "Televista Team"

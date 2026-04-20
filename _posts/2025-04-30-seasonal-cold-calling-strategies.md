@@ -195,8 +195,7 @@ To optimize your seasonal strategy over time, track your performance metrics by 
 
 After 12 months of tracking, you will have a clear picture of how your market responds to outreach in each season. Use that data to adjust your strategy, script emphasis, and resource allocation for the following year.
 
-## Conclusion
-
+## Your Next Move
 Seasonal awareness transforms cold calling from a one-size-fits-all activity into a precision tool that adapts to the rhythms of the market. The homeowners you call in January have different pressures, different timelines, and different objections than the homeowners you call in June. Your strategy should reflect that.
 
 Maintain consistent calling volume year-round to keep your pipeline full and your callers sharp. But within that consistency, adjust your lists, scripts, and messaging to align with seasonal dynamics. Target expired listings in summer. Lean into tax-pressure leads in fall. Capitalize on reduced competition in winter. And in spring, differentiate yourself from the wave of investor outreach by emphasizing certainty and simplicity.

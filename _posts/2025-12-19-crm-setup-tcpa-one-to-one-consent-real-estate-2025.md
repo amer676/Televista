@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: The $11 Billion Compliance Crisis Hitting Real Estate
+## The $11 Billion Compliance Crisis Hitting Real Estate
 
 Last year, TCPA violations resulted in $11 billion in settlements, and now real estate agents find themselves in the FCC's crosshairs. The urgency is palpable. During the National Association of Realtors' (NAR) emergency webinar on "[Telemarketing Best Practices and the FCC One-to-One Consent Rule](https://www.nar.realtor/telemarketing-cold-calling/webinar-telemarketing-best-practices-and-the-fcc-one-to-one-consent-rule)" on January 28, 2025, thousands of agents tuned in to grasp the overnight changes. The aim? To help real estate professionals "reduce risk while successfully leveraging telemarketing calls and texts" — essentially, to avoid lawsuits.
 

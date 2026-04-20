@@ -200,8 +200,7 @@ Not all title companies are wholesale-friendly. Finding the right title company 
 
 A good title company will flag issues in your contract before they become problems and can often suggest language improvements.
 
-## Conclusion
-
+## Your Next Move
 Your wholesaling contract is not just a formality -- it is the legal infrastructure that makes your business possible. Take the time to get it right. Work with a real estate attorney who understands wholesaling. Stay current on your state's regulations. And approach every transaction with the professionalism and transparency that protects both you and your sellers.
 
 The wholesalers who build lasting, scalable businesses are the ones who treat the legal side with the same seriousness as their marketing and cold calling. At the end of the day, the best leads in the world mean nothing if you cannot close the deal legally and cleanly.

@@ -3,10 +3,12 @@ layout: post
 title: "Cold Calling Tips & Scripts for Real Estate 2026"
 date: 2026-04-13
 description: "Cold calling tips and scripts for real estate investors 2026: Convert 43% of leads with proven strategies. Get expert scripts from 200+ campaigns."
-target_keyword: "cold calling tips and scripts for real estate investors 2026"
+target_keyword: "cold calling tips scripts real estate"
 categories: [blog]
 tags: ["cold calling", "real estate investing", "lead generation", "sales scripts", "2026 strategies"]
 author: "Televista Team"
+robots: "noindex, follow"
+canonical_url: "/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/"
 ---
 
 ## The Reality Check: Why Most [Real Estate Cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Fails in 2026

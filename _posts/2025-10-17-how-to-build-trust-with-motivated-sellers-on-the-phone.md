@@ -187,8 +187,7 @@ Review calls specifically for trust-building behaviors. Did the caller listen mo
 
 Celebrate deals that closed because the seller trusted your caller, not because your caller pressured the seller. The short-term numbers might look similar, but the long-term results are dramatically different. Trust-built deals close cleaner, fall apart less often, and generate referrals. Pressure-built deals generate complaints, cancellations, and a reputation that follows you.
 
-## Conclusion
-
+## Your Next Move
 Trust is not a soft skill. It is the hardest, most consequential skill in motivated seller conversations. It determines who picks up the phone again when you call back, who shows up to the appointment, who signs the contract, and who tells their neighbor about the investor who treated them fairly.
 
 Every call is an opportunity to either build or break trust. There is no neutral ground. The investors who internalize this and train their teams accordingly are the ones who build sustainable, deal-rich businesses. Everyone else is churning through leads and wondering why their close rate stays flat.

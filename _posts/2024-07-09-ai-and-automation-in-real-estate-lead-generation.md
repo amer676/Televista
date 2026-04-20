@@ -219,8 +219,7 @@ If you are new to AI and automation, start small. Trying to implement everything
 - Implement automated direct mail triggers
 - Build a retargeting audience from your lead database
 
-## Conclusion
-
+## Your Next Move
 AI and automation are not replacing real estate lead generation. They are amplifying it. The investors who adopt these tools are generating more leads, qualifying them faster, following up more consistently, and closing more deals than their competitors who rely on manual processes alone.
 
 The key is to view AI and automation as force multipliers for your existing systems, not replacements for the human skills that close deals. Start with the automations that address your biggest bottlenecks, measure the impact, and scale from there. The technology is accessible, affordable, and proven. The only question is whether you will adopt it now or wait until your competitors force your hand.

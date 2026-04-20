@@ -3,7 +3,7 @@ layout: post
 title: "Cold Calling for Real Estate Investors 2026 Guide"
 date: 2026-04-19
 description: "Cold calling effectiveness for real estate investors 2026: Data shows 70%+ pipeline from phone calls. Get proven strategies from 200+ campaigns."
-target_keyword: "Cold Calling Effectiveness for Real Estate Investors 2026: Data & Strategies"
+target_keyword: "cold calling real estate investors"
 categories: [blog]
 tags: ["cold calling", "real estate investing", "lead generation", "sales strategies", "investor marketing"]
 author: "Televista Team"

@@ -160,8 +160,7 @@ The data consistently shows that investors who maintain their outreach through Q
 
 More importantly, the habits and momentum you build by working through the holidays carry into January and beyond. Consistent action creates consistent results, regardless of the season.
 
-## Conclusion
-
+## Your Next Move
 The final weeks of the year are not a time to wind down. They are a time to double down. Tax-motivated sellers, stalled pipeline leads ready for reactivation, and a competitive landscape that thins out as other investors take breaks all create conditions for profitable deal-making.
 
 Adjust your scripts, increase your volume, pre-position your closing resources, and keep dialing. The investors who treat December like any other month, or better yet, like an opportunity month, consistently outperform those who wait for January to start fresh.

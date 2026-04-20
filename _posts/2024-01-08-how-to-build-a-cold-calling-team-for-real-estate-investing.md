@@ -164,8 +164,7 @@ At [Televista](/cold-calling-for-real-estate-investors.html), we've built and ma
 4. **No accountability:** Daily KPI tracking is non-negotiable
 5. **Micromanaging:** Set expectations, provide tools, then let callers do their job
 
-## Conclusion
-
+## Your Next Move
 Building a cold calling team is one of the most leveraged investments a real estate investor can make. A team of three solid callers can generate more leads than any single investor could on their own. But it requires upfront investment in the right people, thorough training, effective scripts, and disciplined KPI tracking.
 
 Start small, get the systems right, and scale from a position of strength. Your future self will thank you for the foundation you lay today.

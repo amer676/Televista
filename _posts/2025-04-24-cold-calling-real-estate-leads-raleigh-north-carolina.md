@@ -81,3 +81,13 @@ The most effective Triangle script approach is transparent and adds value: "I kn
 ## Final Thoughts
 
 The Research Triangle is one of the most attractive cold calling markets in the Southeast for investors who can navigate its sophistication. The equity pool is massive, the buyer pool is active, and the diversity of seller profiles across Wake, Durham, Orange, and Chatham counties means there's a productive campaign structure for every investment strategy. The key is tailoring your approach to the specific market dynamics of each sub-geography rather than running a uniform campaign across the entire metro.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in North Carolina](/cold-calling-north-carolina.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

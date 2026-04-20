@@ -87,3 +87,13 @@ Good openers in San Antonio allow space: "I know this is out of nowhere — I ju
 ## Final Thoughts
 
 San Antonio is an underrated cold calling market that punches above its weight in deal flow for investors who understand its distinct seller profiles. The military relocation opportunity alone justifies a dedicated, ongoing campaign. Layer in the estate and multi-generational ownership patterns of the South and West Sides, the equity-rich suburban growth markets to the north and east, and the absentee owner base across the older city neighborhoods, and you have a market with enough diversity and depth to sustain a serious cold calling operation indefinitely.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Texas](/cold-calling-texas.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

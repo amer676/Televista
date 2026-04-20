@@ -154,8 +154,7 @@ As you build comfort and competence in multifamily cold calling, consider scalin
 
 Working with a calling partner like [Televista](/services.html) that understands commercial real estate conversations can help you increase your reach without sacrificing the professional tone that multifamily owners expect. The key is ensuring that whoever is making the calls understands multifamily terminology, owner psychology, and the longer sales cycle involved.
 
-## Conclusion
-
+## Your Next Move
 Cold calling for multifamily properties is a high-value, high-skill activity that rewards preparation, patience, and professionalism. The owners you are calling are business operators, not distressed homeowners, and your approach needs to reflect that.
 
 Start with quality data and thorough ownership research. Use scripts that lead with market knowledge and value rather than a hard sell. Build a follow-up cadence measured in months, not days. And invest the time to understand multifamily metrics so you can have credible, productive conversations.

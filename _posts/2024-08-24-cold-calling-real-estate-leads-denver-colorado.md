@@ -110,3 +110,13 @@ A consistent Denver cold calling operation should maintain simultaneous campaign
 [Televista](/services.html) works with investors running Denver metro campaigns to build list infrastructure and maintain the calling volume needed to generate consistent deal flow across a large and competitive market.
 
 Denver rewards the cold caller who comes prepared with market knowledge and a respectful, equity-focused conversation. The homeowners with the most to offer in this market are often not the ones in the most obvious distress — they are the quiet, long-term owners in Arvada, Lakewood, and Aurora who have been sitting on a life-changing amount of equity and waiting for the right reason to act.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Colorado](/cold-calling-colorado.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

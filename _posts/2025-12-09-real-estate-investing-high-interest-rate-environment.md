@@ -119,6 +119,5 @@ At [Televista](/services.html), we train our callers to identify creative financ
 
 Every market shift creates winners and losers. High interest rates are no different. The investors who adapt their targeting, their scripts, and their deal structures to the current environment will look back on this period as one of the most profitable of their careers. The key is to stop waiting for rates to drop and start capitalizing on the opportunities that exist right now.
 
-## Conclusion
-
+## Your Next Move
 High interest rates are not a reason to stop investing. They're a reason to invest differently. Creative financing strategies, adjusted targeting lists, and updated scripts transform what feels like a challenging market into one of the best environments for finding motivated sellers and structuring profitable deals. The investors who master these approaches now will be miles ahead when the market eventually shifts again.

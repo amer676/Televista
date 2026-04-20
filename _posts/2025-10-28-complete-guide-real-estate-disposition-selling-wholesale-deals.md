@@ -185,8 +185,7 @@ When acquisition and disposition are out of sync, problems multiply. Too many de
 
 The goal is a steady rhythm: consistent deal flow from acquisition, efficient sell-through from disposition, and a growing buyers list that gives you confidence to keep acquiring.
 
-## Conclusion
-
+## Your Next Move
 Disposition is where wholesaling becomes a real business. Anyone can get a property under contract if they make enough calls and negotiate aggressively enough. But consistently selling those contracts at a profit, to buyers who come back for more, is what separates hobbyist wholesalers from professional operators.
 
 Build your buyers list now. Price your deals honestly. Present them professionally. And close them quickly. The wholesalers who master disposition in 2025 will be the ones who survive the inevitable market shifts and build businesses that last. Stop treating disposition as an afterthought and start treating it as the revenue engine it actually is.

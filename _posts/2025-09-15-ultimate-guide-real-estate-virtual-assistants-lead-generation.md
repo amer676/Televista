@@ -186,8 +186,7 @@ Track these KPIs monthly and compare against industry benchmarks:
 
 If your VA consistently underperforms on these metrics after 30 days with proper training and tools, it is time for a direct conversation about expectations or a replacement.
 
-## Conclusion
-
+## Your Next Move
 Real estate virtual assistants have transformed how investors generate leads, and the trend is only accelerating in 2025. But a VA is only as good as the systems you build around them. Document your processes, invest in proper tools, and commit to ongoing training and accountability.
 
 Whether you hire a VA directly, go through an agency, or partner with a full-service lead generation company, the goal is the same: consistent, qualified leads flowing into your pipeline every week. Start with one VA, prove the model, and scale from there. The investors who treat their VAs as true team members -- not disposable labor -- are the ones building sustainable businesses.

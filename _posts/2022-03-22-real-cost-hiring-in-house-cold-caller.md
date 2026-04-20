@@ -20,9 +20,9 @@ After helping hundreds of [real estate investors](/real-estate.html) build their
 
 ### Base Salary
 
-A competent cold caller — someone who can actually hold a conversation, handle objections, and book qualified appointments — commands $15-$22/hour in most markets. Let's call it $18/hour, which is realistic for someone with experience.
+A competent cold caller — someone who can actually hold a conversation, handle objections, and book qualified appointments — commands $18–$25/hour in most US markets in 2026. Offshore VAs from the Philippines, Latin America, or Eastern Europe typically run $6–$12/hour. Let's use a realistic US midpoint of $22/hour.
 
-- $18/hour × 40 hours/week × 52 weeks = **$37,440/year**
+- $22/hour × 40 hours/week × 52 weeks = **$45,760/year**
 
 But that's just the salary. Keep reading.
 

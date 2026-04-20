@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: Why 73% of Real Estate Professionals Still Struggle with Cold Calling ROI
+## Why 73% of Real Estate Professionals Still Struggle with Cold Calling ROI
 
 Consider this: despite cold calling being the highest-converting prospecting method for real estate, a staggering 73% of agents and investors struggle to achieve a positive return on investment. At Televista, we've observed this trend in over 200 campaigns we've managed.
 

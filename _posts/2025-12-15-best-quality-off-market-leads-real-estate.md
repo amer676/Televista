@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: Why 90% of Real Estate Investors Never Find Quality Off-Market Deals
+## Why 90% of Real Estate Investors Never Find Quality Off-Market Deals
 
 Consider this startling statistic: our analysis of 47 off-market lead campaigns over the past two years reveals a consistent pattern. Most investors need to contact between 300-500 "off-market" leads before closing their first deal. The successful 10%? They close deals from their first 50-75 contacts.
 

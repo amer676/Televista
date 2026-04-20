@@ -177,8 +177,7 @@ Virtual assistants can handle many of the administrative tasks that support your
 
 **Chasing volume over quality.** Dialing 500 low-quality leads produces worse results than dialing 150 data-stacked, high-quality leads. Focus your outreach resources where the motivation indicators are strongest.
 
-## Conclusion
-
+## Your Next Move
 Building a sustainable off-market pipeline is not about finding one magical list or one secret script. It is about combining quality data, multi-channel outreach, disciplined follow-up, and consistent daily execution into a system that produces results month after month.
 
 The investors who build real businesses around off-market deals are the ones who treat pipeline management as a core competency, not an afterthought. Start with stacked data, reach out through multiple channels, follow up relentlessly, and track your numbers to continuously improve.

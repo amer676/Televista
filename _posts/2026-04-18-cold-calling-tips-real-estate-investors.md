@@ -9,7 +9,7 @@ tags: ["cold calling", "real estate investing", "lead generation", "appointment 
 author: "Televista Team"
 ---
 
-## Introduction: The 2.5x Appointment Multiplier Most Real Estate Investors Miss
+## The 2.5x Appointment Multiplier Most Real Estate Investors Miss
 
 Three math problems every wholesaler messes up:
 

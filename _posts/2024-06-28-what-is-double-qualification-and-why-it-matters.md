@@ -115,7 +115,6 @@ Investors who skip qualification in favor of raw volume often don't realize the 
 - **Team burnout:** Acquisition managers who run 5 appointments and get 0 deals lose motivation fast
 - **Reputation damage:** Showing up unprepared or for inappropriate situations hurts your brand
 
-## Conclusion
-
+## Your Next Move
 Double qualification is the difference between a lead generation operation that generates noise and one that generates revenue. It requires more upfront process, but the downstream savings in time, money, and morale are substantial. Whether you build the system internally or partner with a company like [Televista](/services.html) that has it built in, make double qualification a non-negotiable part of your pipeline.
 

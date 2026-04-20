@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: The Cold Reality of Real Estate Lead Generation
+## The Cold Reality of Real Estate Lead Generation
 
 Sarah hung up the phone after her 47th cold call of the morning. Zero appointments.
 

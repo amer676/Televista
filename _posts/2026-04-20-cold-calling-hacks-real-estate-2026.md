@@ -9,7 +9,7 @@ tags: ["cold calling", "real estate investors", "lead generation", "sales strate
 author: "Televista Team"
 ---
 
-## Introduction: The 2026 Reality Check
+## The 2026 Reality Check
 
 Two investors walked into a conference last month. Same market, same budget, same "revolutionary" AI prospecting tools. One closed 14 deals. The other closed 2.
 

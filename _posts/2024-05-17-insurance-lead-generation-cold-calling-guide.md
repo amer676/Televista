@@ -214,8 +214,7 @@ Track these KPIs to measure and improve your cold calling performance:
 
 Review these weekly and look for bottlenecks. If your contact rate is low, your list may be stale. If your conversation rate is low, your opener needs work. If your quote-to-bind ratio is low, your closing process needs attention.
 
-## Conclusion
-
+## Your Next Move
 Cold calling for insurance lead generation is far from dead. It remains one of the most direct, controllable, and cost-effective ways to build a pipeline of qualified prospects. The agents who succeed are the ones who treat it as a system: quality data in, tested scripts, disciplined follow-up, and consistent measurement.
 
 Whether you are a solo agent making fifty dials a day or an agency owner building a team, the fundamentals outlined in this guide apply at every scale. And if you reach the point where managing callers and campaigns takes you away from what you do best, closing policies, consider partnering with [our services](/services.html) to handle the front end of your pipeline so you can focus on revenue.

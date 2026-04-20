@@ -173,8 +173,7 @@ Once you have proven the model with a few deals, scaling is straightforward:
 
 Many land investors close their first deal within 30-60 days of starting. The barrier to entry is low, the competition is minimal, and the margins are generous.
 
-## Conclusion
-
+## Your Next Move
 Land investing through cold calling is one of the most under-exploited opportunities in real estate. The owners are motivated, the competition is thin, the conversations are simpler, and the profit margins can be extraordinary. Whether you are a seasoned wholesaler looking for a new niche or a new investor looking for a way in, raw land deserves a serious look.
 
 Pick a county. Pull a list. Start dialing. You will be surprised how many people are waiting for someone to call them about that forgotten parcel they have been paying taxes on for years.

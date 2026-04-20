@@ -4,6 +4,16 @@ title: "Cold Calling for Wholesalers: How to Do It Right in 2026"
 date: 2026-02-14
 description: "A complete wholesaler guide to real estate cold calling: lead lists, autodialing, scripts, objections, follow‑ups, and why Televista does it better for fair pricing."
 og_image: "/assets/images/og/cold-calling-for-wholesalers-how-to-do-it-right.png"
+categories:
+  - Cold Calling
+  - Real Estate
+tags:
+  - wholesaling
+  - cold calling
+  - scripts
+  - real estate
+target_keyword: "cold calling wholesalers guide"
+author: "Televista Team"
 ---
 
 [Cold calling for wholesalers](/cold-calling-for-wholesalers.html) is still the most controllable way to generate seller conversations. In 2026, wholesaling is more competitive, ad costs are higher, and response rates fluctuate. That is why cold calling remains the king of acquisition: it gives you direct access to homeowners, immediate feedback, and a measurable pipeline.

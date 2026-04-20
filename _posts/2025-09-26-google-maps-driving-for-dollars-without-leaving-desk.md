@@ -194,8 +194,7 @@ Focus on specific neighborhoods and zip codes rather than randomly browsing enti
 
 The leads you generate from virtual driving for dollars require the same follow-up discipline as any other lead source. Most deals close after multiple touchpoints. Build a follow-up cadence and stick to it.
 
-## Conclusion
-
+## Your Next Move
 Virtual driving for dollars using Google Maps is one of the most underutilized lead generation tactics in real estate investing. It costs nothing but your time, it scales across any market in the country, and it uncovers motivated sellers that pure data pulls often miss.
 
 Start with one neighborhood you know well. Spend an hour on Google Maps and Street View, build a list of 20 to 30 distressed properties, skip trace the owners, and start making calls. Refine your process, hand it off to a VA, and scale from there. The investors who combine virtual scouting with systematic outreach are building lead pipelines that their competition cannot replicate.

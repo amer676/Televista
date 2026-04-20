@@ -150,8 +150,7 @@ In real estate cold calling, the math is similar. A homeowner who says "I need t
 
 Your CRM should be set up to automate follow-up reminders so that no warm lead ever goes cold because someone forgot to call back.
 
-## Conclusion
-
+## Your Next Move
 Objection handling is not about manipulation or high-pressure sales tactics. It is about listening, empathizing, and asking the right questions to help homeowners explore options they might not have considered. The best cold callers are not the most aggressive. They are the most curious and the most patient.
 
 Practice your rebuttals until they feel natural. Study your call recordings. Role-play with your team daily. And remember that every objection is just a conversation that has not found its footing yet. Stay in the conversation long enough, and you will be surprised how often "I'm not interested" turns into "Tell me more."

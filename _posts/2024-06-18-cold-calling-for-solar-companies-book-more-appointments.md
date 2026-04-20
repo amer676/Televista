@@ -175,8 +175,7 @@ Track these KPIs to measure and optimize your campaigns:
 
 The cost per install metric is the one that matters most. It tells you the true ROI of your cold calling investment. Benchmark it against your other lead sources to determine where to allocate your budget.
 
-## Conclusion
-
+## Your Next Move
 Cold calling is one of the most reliable and scalable lead generation channels available to solar companies. The key is treating it as a system with the right data, the right script, trained callers, and a follow-up cadence that captures prospects who are not ready to commit on the first call.
 
 Solar is a product that sells itself once a homeowner understands the economics. Your cold calling operation is simply the mechanism that gets the right homeowners into that conversation. Invest in targeting, train your team to educate rather than pitch, and track your numbers so you can continuously improve. The solar companies that master cold calling are the ones that consistently fill their sales pipeline without being dependent on any single marketing channel.

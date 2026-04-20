@@ -176,8 +176,7 @@ This is the most common failure point. Investors identify great properties, make
 
 When you call an owner about a distressed property, remember that they may feel embarrassed or defensive about its condition. Lead with empathy, not judgment. Your job is to offer a solution, not point out problems.
 
-## Conclusion
-
+## Your Next Move
 Driving for dollars combined with cold calling is one of the most cost-effective and reliable lead generation strategies available to real estate investors in 2025. It requires time, consistency, and a systematic approach, but the quality of leads it produces is difficult to match with any other method.
 
 Start with a target neighborhood. Drive it this weekend. Identify 20 distressed properties. Skip trace the owners on Monday. Start calling on Tuesday. Follow up relentlessly. Within 90 days, you will have a pipeline of motivated sellers that most investors simply cannot access because they are unwilling to put in the ground-level work.

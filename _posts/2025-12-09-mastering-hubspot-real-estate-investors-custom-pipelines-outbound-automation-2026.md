@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: Why 87% of Real Estate Investors Still Use Spreadsheets (And How HubSpot Changes Everything)
+## Why 87% of Real Estate Investors Still Use Spreadsheets (And How HubSpot Changes Everything)
 
 Imagine this: a 7-figure wholesaler juggling over 400 leads across five Excel files. Despite generating millions in revenue, a staggering 87% of real estate investors are still relying on spreadsheets for deal management. This reliance on outdated methods often results in missed opportunities, like $50K deals slipping through the cracks because follow-up reminders remain unrecorded. Manual data entry, lack of lead visibility, and contracts lost in email threads are common pitfalls. One client confessed to spending 15 hours a week updating spreadsheets instead of engaging with motivated sellers.
 

@@ -151,8 +151,7 @@ Track these metrics to evaluate your campaign performance:
 
 If your contact rate is below 5 percent, your data or skip tracing needs improvement. If your conversation rate is high but your lead rate is low, your script or objection handling needs work.
 
-## Conclusion
-
+## Your Next Move
 Cold calling tax delinquent property owners is one of the most effective lead generation strategies available to real estate investors in 2025. The motivation is built in. The urgency is real. And the competition, while growing, still leaves plenty of room for investors who approach these calls with preparation, empathy, and professionalism.
 
 Start with clean data, invest in quality skip tracing, and lead every conversation with genuine curiosity about the homeowner's situation. The deals will follow.

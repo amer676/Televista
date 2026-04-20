@@ -187,8 +187,7 @@ Your website is the hub of your digital marketing strategy. If it loads slowly, 
 
 Multi-channel marketing produces enormous amounts of data. If you are not reviewing your metrics weekly and making adjustments, you are flying blind. Set aside time every week to review channel performance and make data-driven decisions about where to allocate your budget.
 
-## Conclusion
-
+## Your Next Move
 The era of single-channel lead generation is over for real estate investors who want to build sustainable businesses. Cold calling gives you immediate control and direct access to motivated sellers. Digital marketing builds long-term inbound lead flow and brand equity. Together, they create a lead generation system that is greater than the sum of its parts.
 
 Start by strengthening your cold calling operation and building an SEO-optimized website. Add Google Ads to capture high-intent searches. Layer in social media retargeting to stay visible to prospects across channels. Integrate everything through a CRM that gives you a complete view of every lead's journey.

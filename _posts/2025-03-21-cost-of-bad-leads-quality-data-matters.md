@@ -171,8 +171,7 @@ Lists have a shelf life. If you have been calling the same list for six months w
 
 Your CRM contains valuable information about which types of leads convert best in your market. If pre-foreclosure leads in your county convert at 3 percent while absentee owner leads convert at 0.5 percent, that data should drive your list-building decisions. Too many investors ignore the intelligence sitting in their own CRM and keep buying the same generic lists.
 
-## Conclusion
-
+## Your Next Move
 Data quality is not a line item on your budget. It is the foundation of your entire cold calling operation. Every other investment you make, in callers, dialers, CRM software, training, and follow-up systems, is amplified or diminished by the quality of the data flowing into your pipeline.
 
 Stop chasing volume. Start demanding quality. Build stacked lists that target homeowners with multiple distress indicators. Use premium skip tracing services that deliver current, accurate contact information. Clean and maintain your data aggressively. Track source-level metrics so you know exactly which data is producing deals and which is wasting your money.

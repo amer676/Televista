@@ -3,7 +3,7 @@ layout: post
 title: "How to Find Absentee Owner Leads in 2026 (Complete Guide)"
 date: 2026-03-28
 description: "How to find and convert absentee owner leads in 2026: proven strategies, data tools, and conversion tactics from 200+ campaigns. Get the expert playbook."
-target_keyword: "How to Find and Convert Absentee Owner Leads in 2026"
+target_keyword: "find absentee owner leads"
 categories: [blog]
 tags: ["absentee owner leads", "real estate investing", "lead generation", "cold calling", "real estate leads"]
 author: "Televista Team"

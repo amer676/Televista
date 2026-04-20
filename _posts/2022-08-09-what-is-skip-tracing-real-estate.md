@@ -8,6 +8,7 @@ categories: [blog]
 tags: ["skip tracing", "real estate investing", "lead generation", "data", "motivated sellers"]
 author: "Televista Team"
 og_image: /assets/images/og-image.png
+canonical_url: "/blog/2024/01/19/the-ultimate-guide-to-skip-tracing-for-real-estate-investors/"
 ---
 
 ## You Can't Call People Without Their Phone Numbers (Obviously)

@@ -149,7 +149,6 @@ At [Televista](/services.html), we track all of these metrics for our clients an
 4. **Ignoring quality metrics:** A caller with 5 appointments and 0 deals has a quality problem
 5. **Setting unrealistic targets:** Base targets on your own data, not internet benchmarks
 
-## Conclusion
-
+## Your Next Move
 KPI tracking is what transforms cold calling from an art into a science. When you can see exactly where your funnel is leaking, you can fix it systematically rather than guessing. Build your dashboard, review it daily, use it for coaching, and let the data guide your decisions. The teams that track rigorously are the teams that improve consistently.
 

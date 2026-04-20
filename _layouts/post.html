@@ -5,9 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% assign meta_title = page.title | append: " | Televista Blog" %}
     {% assign meta_description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
-    {% assign canonical_url = page.url | absolute_url %}
+    {% if page.canonical_url %}
+      {% assign canonical_url = page.canonical_url | absolute_url %}
+    {% else %}
+      {% assign canonical_url = page.url | absolute_url %}
+    {% endif %}
     {% assign og_image = page.og_image | default: "/assets/images/og-image.png" | absolute_url %}
-    <meta name="robots" content="index,follow" />
+    <meta name="robots" content="{{ page.robots | default: 'index,follow' }}" />
     <link rel="canonical" href="{{ canonical_url }}" />
     <link
       rel="alternate"
@@ -383,7 +387,7 @@
               Hours
             </span>
             <span class="footer-contact-value"
-              >Mon-Fri: 9:00am - 6:30pm EST</span
+              >Mon-Fri: 9:00am - 6:30pm ET</span
             >
           </div>
         </div>

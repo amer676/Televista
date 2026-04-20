@@ -179,8 +179,7 @@ Pre-foreclosure campaigns typically have longer sales cycles than other types of
 
 Create a follow-up calendar for every pre-foreclosure lead. The homeowner who is not ready to talk today may be desperate to talk in three weeks when their auction date is approaching. Consistent, respectful follow-up is the key to converting pre-foreclosure leads.
 
-## Conclusion
-
+## Your Next Move
 Pre-foreclosure lead generation is one of the most effective and most rewarding strategies in real estate investing. The motivation is real, the timeline creates urgency, and the opportunity to genuinely help someone in a difficult situation makes the work meaningful.
 
 But this is not a strategy for investors who are looking for quick, easy deals. It requires empathy, patience, knowledge of the foreclosure process, and a commitment to ethical behavior. The investors who approach pre-foreclosure outreach with a genuine desire to help will find that the deals come naturally, and the reputation they build in their market becomes one of their most valuable assets.

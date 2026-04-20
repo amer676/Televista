@@ -164,6 +164,5 @@ At [Televista](/services.html), we handle skip tracing, list management, and col
 4. **Not cleaning input data:** Garbage in, garbage out
 5. **Calling without a plan:** Segment your list and call with purpose
 
-## Conclusion
-
+## Your Next Move
 Skip tracing is the engine that powers real estate cold calling. Without accurate contact data, even the best scripts and most skilled callers are dialing into the void. Invest in quality data, maintain compliance, and build a systematic approach to working your traced lists. The investors who treat data as a competitive advantage are the ones consistently closing deals.

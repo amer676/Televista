@@ -139,7 +139,6 @@ Create a simple scorecard to compare markets:
 
 Score each factor on a 1-10 scale, multiply by weight, and compare total scores across markets.
 
-## Conclusion
-
+## Your Next Move
 Market selection is the foundation that everything else in your cold calling operation is built on. The best script, the best caller, and the best follow-up system will underperform in the wrong market. Invest time in analyzing markets before investing money in calling campaigns. The data is available, the tools are affordable, and the payoff for getting this right is measured in deals closed and dollars earned.
 

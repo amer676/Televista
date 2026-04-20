@@ -168,8 +168,7 @@ The real power of public records comes from consistency. New filings happen ever
 
 This creates a steady flow of new, targeted leads entering your pipeline every month.
 
-## Conclusion
-
+## Your Next Move
 Public records are the foundation of smart, targeted lead generation for real estate investors. While other investors fight over the same commercial data provider lists, you can build proprietary lists from county sources that are fresher, more accurate, and less competitive.
 
 The five record types covered in this guide -- tax delinquencies, probate filings, pre-foreclosure notices, divorce records, and code violations -- represent the most motivated sellers in any market. Master the process of pulling these records consistently, and you will never run out of high-quality leads to work.

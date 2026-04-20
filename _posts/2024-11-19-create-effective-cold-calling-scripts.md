@@ -193,8 +193,7 @@ If a particular objection comes up on more than 30 percent of calls, your script
 
 Your callers are on the front lines. They know which parts of the script flow and which feel awkward. Hold monthly script review sessions where callers share what is working, what is not, and suggest changes. This collaborative approach improves the script and increases caller buy-in.
 
-## Conclusion
-
+## Your Next Move
 The goal of a cold calling script is to disappear. When it is working perfectly, neither the caller nor the prospect is aware that a script exists. The conversation flows naturally, the right questions get asked, objections are handled with ease, and clear next steps are established.
 
 Getting there takes a well-designed framework, personalization by lead type, deliberate training, and continuous iteration based on real performance data. It is not a one-time writing exercise. It is an ongoing discipline.

@@ -179,8 +179,7 @@ You do not need a $500 per month tech stack to manage a buyers list. A well-orga
 
 Some of the most active cash buyers in any market are out-of-state investors. They cannot drive around looking for deals, which makes them especially receptive to wholesalers who can bring them qualified opportunities. Make sure your data sources include absentee owners from other states.
 
-## Conclusion
-
+## Your Next Move
 Your disposition buyers list is the engine that drives your wholesaling business. Without qualified, responsive buyers, even the best deal under contract is just a ticking clock.
 
 Cold calling is the most efficient way to build a buyers list that is not just big but genuinely useful. Every conversation gives you qualified data that you cannot get from any other source. And every relationship you build on the phone makes your next disposition faster and more profitable.

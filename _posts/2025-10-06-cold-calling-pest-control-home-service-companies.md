@@ -186,8 +186,7 @@ Start with one caller working four to six hours per day. Track their results for
 
 If managing callers in-house is not feasible, outsourced cold calling services can handle the volume for you. [Televista](/services.html) works with home service companies to build and execute calling campaigns, providing trained callers, targeted lists, and performance tracking so you can focus on delivering great service to the customers who book.
 
-## Conclusion
-
+## Your Next Move
 Cold calling for pest control and home service companies is not a relic of the past -- it is a competitive advantage that most of your competitors have abandoned in favor of increasingly expensive digital channels. The companies that combine cold calling with their digital presence are the ones filling their schedules consistently, especially during shoulder seasons when online leads dry up.
 
 Start with a targeted list, a service-specific script, and disciplined follow-up. Time your campaigns to the seasons. Track your cost per appointment and optimize relentlessly. The homeowners in your service area need what you offer -- they are just waiting for someone to remind them.

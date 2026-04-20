@@ -176,8 +176,7 @@ AI will continue to penetrate every aspect of lead generation, from identifying 
 
 As data and AI tools become more sophisticated, outreach will become increasingly personalized. Instead of sending the same script to every homeowner on a list, future systems will tailor the message based on the specific situation, history, and preferences of each owner.
 
-## Conclusion
-
+## Your Next Move
 The evolution of real estate lead generation tells a clear story: the methods change, but the mission does not. Whether you are knocking on doors in 1985 or deploying an AI dialer in 2025, the goal is the same, finding a property owner with a problem you can solve and starting a conversation.
 
 The investors who thrive are not the ones who cling to what worked yesterday. They are the ones who understand the principles behind what works, connection, empathy, timing, and persistence, and apply those principles through whatever tools the current era provides.

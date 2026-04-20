@@ -122,3 +122,13 @@ The cold calling opportunity in Macomb County:
 [Televista](/services.html) supports investors running Detroit metro campaigns with the call volume and list management needed to work multiple counties simultaneously — because Detroit deals come from consistency and market knowledge, not from calling in one zip code for a week and moving on.
 
 Detroit rewards patience, specificity, and respect. The sellers in this market have heard a lot of pitches, and they can tell quickly whether you understand their neighborhood. When you demonstrate that knowledge in the first thirty seconds of a call, you earn the conversation that produces the deal.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Michigan](/cold-calling-michigan.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

@@ -101,8 +101,7 @@ A: This is a common question, but there's no magic number. It's a numbers game, 
 
 A: The most common objections include "I'm not interested," "How did you get my number?", and "I'm already working with an agent." The key to handling these objections is to be prepared with a calm and confident response that keeps the conversation moving forward.
 
-## Conclusion
-
+## Your Next Move
 Cold calling for real estate investors is a proven strategy that can unlock a world of off-market opportunities. By building a targeted list, crafting a compelling script, and understanding the legal landscape, you can build a lead generation machine that will fuel your investment business for years to come. Remember, consistency is key. Stick with it, track your results, and you'll be well on your way to success.
 
 <div class="post-cta">

@@ -115,3 +115,13 @@ The most productive Seattle cold calling operation combines four list types run 
 [Televista](/services.html) works with investors building Seattle and King County cold calling campaigns — managing the list infrastructure, the dialing volume, and the lead qualification process to identify motivated sellers across Seattle's diverse and complex market.
 
 Seattle is one of the most sophisticated cold calling markets in the country. The sellers you will reach are educated, financially aware, and often have had previous conversations with investors. What earns you their time is demonstrating that you understand their specific situation — the tenant protection laws, the equity position, the management fatigue — before you make any ask. That preparation is what converts Seattle conversations into Seattle deals.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Washington](/cold-calling-washington.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

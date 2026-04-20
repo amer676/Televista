@@ -203,8 +203,7 @@ Track the following metrics to evaluate how well your team handles the "not inte
 
 If your pivot attempt rate is below 80 percent, your callers are giving up too easily. If your pivot success rate is below 25 percent, the pivots themselves need refinement. If your post-pivot lead rate is comparable to your overall lead rate, the pivots are working -- you are salvaging conversations that would have otherwise been lost.
 
-## Conclusion
-
+## Your Next Move
 "I'm not interested" is not the end of a cold call. It is the beginning of the real conversation -- if you know how to handle it. The seven pivot strategies in this guide give you a toolkit for every situation, from the mildly disinterested prospect to the firmly resistant one.
 
 Practice these pivots until they feel natural. Train your team on when to use each one. Measure the results. And always respect the double-no rule. The callers who master the art of the pivot are the ones who consistently outperform their peers, not because they are pushier, but because they are better at creating space for a genuine conversation.

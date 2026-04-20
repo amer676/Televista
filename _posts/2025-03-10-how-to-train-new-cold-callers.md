@@ -180,8 +180,7 @@ Show callers a path forward. Top-performing callers can advance to team lead, tr
 
 Public recognition of strong performance, whether in a team meeting or a group chat, goes a long way. Callers who feel appreciated perform better and stay longer. Combine recognition with constructive feedback delivered privately, and you create a culture of continuous improvement.
 
-## Conclusion
-
+## Your Next Move
 Training cold callers is one of the highest-leverage activities in your real estate investing business. A well-trained team multiplies your capacity to reach motivated sellers, set appointments, and close deals. A poorly trained team wastes leads, burns through your lists, and creates compliance headaches.
 
 Follow the four-week framework outlined here. Invest in the foundation before pushing for volume. Prioritize objection handling and script understanding over rote memorization. Use call shadowing and recording reviews to accelerate learning. And maintain ongoing coaching to ensure continuous improvement.

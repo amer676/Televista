@@ -170,8 +170,7 @@ The first call is about starting a conversation, not closing a deal. CRE transac
 
 While this guide focuses on direct-to-owner outreach, do not neglect relationships with commercial brokers who handle off-market and pocket listings. Cold calling brokers to introduce yourself and your buy criteria is a parallel strategy that can significantly expand your deal flow.
 
-## Conclusion
-
+## Your Next Move
 Cold calling for commercial real estate rewards preparation, patience, and professionalism. It is not a high-volume numbers game. It is a strategic outreach effort targeting specific properties with specific owners, backed by genuine market expertise.
 
 Start with a tight buy box. Research every property before you call. Approach owners as a knowledgeable peer, not a salesperson. Treat gatekeepers as allies. Follow up consistently with value-added content. And give deals time to develop.

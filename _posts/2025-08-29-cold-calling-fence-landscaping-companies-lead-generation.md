@@ -195,8 +195,7 @@ Measure these metrics weekly:
 
 These numbers tell you exactly what is working and where to optimize.
 
-## Conclusion
-
+## Your Next Move
 Cold calling is not a relic of the past for home services businesses -- it is one of the most effective, controllable, and scalable lead generation channels available to fence and landscaping companies in 2025. By targeting the right homeowners, timing your outreach to seasonal demand, and focusing every call on booking the on-site estimate, you can build a predictable pipeline that fills your schedule through peak season and beyond.
 
 Start with 100 calls per day to homeowners in your best neighborhoods. Track everything. Refine your approach based on what you hear. Within a month, you will see a clear picture of how cold calling fits into your growth strategy -- and you will wonder why you did not start sooner.

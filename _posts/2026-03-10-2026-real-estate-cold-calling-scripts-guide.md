@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: Why 95% of Real Estate Cold Calling Scripts Fail in 2026
+## Why 95% of Real Estate Cold Calling Scripts Fail in 2026
 
 In a striking revelation from our analysis of 47 campaigns last quarter, agents using generic scripts convert at a mere 1.2%, whereas those employing psychology-first approaches achieve a 14.3% conversion rate. The gap isn't closing — it's growing.
 

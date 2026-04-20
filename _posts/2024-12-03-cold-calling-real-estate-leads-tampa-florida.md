@@ -108,3 +108,13 @@ The most productive Tampa Bay cold calling operation runs multiple simultaneous 
 [Televista](/services.html) supports investors running Tampa Bay cold calling campaigns with dedicated list management and the dialing volume needed to work three counties simultaneously. The insurance angle, the Northeast transplant angle, and the long-term equity angle are three distinct conversations — and the investors running all three simultaneously are building deal pipelines that their competitors who focus on only one cannot match.
 
 Tampa Bay is a market where the motivated seller is often not where you expect them. It is not just the distressed homeowner — it is the successful professional who can no longer afford their insurance bill, the Northeastern transplant who bought at the peak and is ready to cash out, and the South Tampa homeowner who bought in 2003 and has never run the numbers on what their property is actually worth. Reach those sellers and you will understand why Tampa Bay remains one of the most active wholesale markets in the country.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Florida](/cold-calling-florida.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

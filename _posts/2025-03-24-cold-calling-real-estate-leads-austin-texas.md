@@ -77,3 +77,13 @@ Austin requires two distinct script frameworks running simultaneously:
 ## Final Thoughts
 
 Austin is a sophisticated, well-researched market — sellers here have generally done their homework, and callers who can't speak intelligently about Austin's market history and current dynamics will lose credibility quickly. The upside is significant: equity accumulations in this market are enormous, and the right conversation with the right seller produces deals with margins that justify serious investment in your calling infrastructure.
+
+---
+
+<!-- related-geo-links -->
+## Related reading
+
+- [Cold Calling for Real Estate Investors — Full Guide](/cold-calling-for-real-estate-investors.html)
+- [Cold Calling & Lead Generation in Texas](/cold-calling-texas.html)
+- [How to Outsource Cold Calling the Right Way](/outsource-cold-calling.html)
+- [See Case Studies & ROI Examples](/case-studies.html)

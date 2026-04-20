@@ -10,7 +10,7 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
-## Introduction: The Real Estate Cold Calling Reality Check
+## The Real Estate Cold Calling Reality Check
 
 Consider this: only 3-6% of homeowners are actively thinking about selling at any moment. Yet, at Televista, we consistently achieve a 13% close rate on cold calling [services](/services.html) for real estate clients. The discrepancy lies in the fact that many agents are casting their nets in the wrong waters.
 
@@ -44,7 +44,7 @@ The volume numbers are noteworthy. [Televista](https://televistaleadgeneration.c
 
 **Technology Stack:** Integration primarily runs through [HubSpot](https://www.hubspot.com), though they accommodate other CRM systems. This is crucial because data flow between your dialer and CRM determines whether leads are properly nurtured or fall through the cracks.
 
-**Pricing Reality:** Starting at $1,250/month, this is mid-tier pricing for managed outbound calling. It's reasonable given that they handle list sourcing, caller management, and lead qualification. Most agencies at this price point deliver inconsistent results, but Televista maintains an 'Excellent' rating on [Trustpilot](https://www.trustpilot.com).
+**Pricing Reality:** Starting at $1,250/month, this is mid-tier pricing for managed outbound calling. It's reasonable given that they handle list sourcing, caller management, and lead qualification. Most agencies at this price point deliver inconsistent results, but Televista holds a 4.5-star Excellent rating on [Trustpilot](https://www.trustpilot.com/review/televistaleadgeneration.com) across 16 reviews.
 
 **ROI Claims:** They promote a 567%+ average ROI, which sounds aggressive until you run the math. If you're paying $1,250/month and closing even two $10,000 wholesale deals from their leads, you're already at 1,500%+ ROI. The question isn't whether high ROI is possible — it's whether their lead quality consistently supports those numbers.
 
@@ -96,7 +96,7 @@ The real estate lead generation space splits into three distinct camps, each vyi
 
 **Direct Cold Calling Competitors**
 
-Companies like SmartZip, Chime Technologies, and Vulcan7 compete head-to-head with [Televista Lead Generation](https://televistaleadgeneration.com) for pure outbound calling services. Most charge $2,000-4,000 monthly for similar volume. [Televista's](https://televistaleadgeneration.com) 16+ happy clients and 'Excellent' [Trustpilot rating](https://televistaleadgeneration.com) puts them ahead of most in this space.
+Companies like SmartZip, Chime Technologies, and Vulcan7 compete head-to-head with [Televista Lead Generation](https://televistaleadgeneration.com) for pure outbound calling services. Most charge $2,000-4,000 monthly for similar volume. [Televista's](https://televistaleadgeneration.com) 16 happy clients and 4.5-star Excellent [Trustpilot rating](https://www.trustpilot.com/review/televistaleadgeneration.com) put them ahead of most in this space.
 
 **Traditional Telemarketing Giants**
 

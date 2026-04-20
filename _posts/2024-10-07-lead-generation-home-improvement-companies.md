@@ -172,8 +172,7 @@ Even without a storm trigger, neighborhood canvassing after completing a project
 
 Track these metrics by channel so you can allocate your budget to the highest-performing sources. A channel with a higher cost per lead but a higher close rate and larger average job size may actually be more profitable than a cheaper source with lower quality.
 
-## Conclusion
-
+## Your Next Move
 Lead generation for home improvement companies requires a multi-channel approach that combines the predictability of outbound calling with the intent-capture of digital advertising and the trust-factor of referrals. No single channel will fill your pipeline on its own, and relying too heavily on any one source leaves your business vulnerable.
 
 Start by building a strong outbound calling operation using targeted homeowner data. Layer in a systematic referral program and a disciplined digital advertising strategy. Track everything, respond fast, and continuously optimize based on your numbers.

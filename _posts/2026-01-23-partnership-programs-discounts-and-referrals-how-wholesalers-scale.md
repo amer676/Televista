@@ -384,8 +384,7 @@ Yes, but only if reporting is centralized. A single CRM with standardized fields
 
 Wholesalers are operating in a market where investors represent a meaningful share of home purchases, increasing competition for off‑market opportunities. Partnerships create an advantage by scaling outreach without heavy fixed costs.
 
-## Conclusion
-
+## Your Next Move
 Partnership programs, discounts, and referrals are not shortcuts. They are strategic tools for scaling a wholesaling business. When structured properly, they allow you to grow pipeline and close more deals without carrying the full weight of payroll and training.
 
 If you want to scale in 2026, partnerships are the simplest path to leverage. The key is clarity, accountability, and a CRM that keeps everyone aligned.

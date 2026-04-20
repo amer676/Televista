@@ -349,8 +349,7 @@ Scale when your appointment set rate and contract rate are stable for at least f
 
 The market has more competition than ever. Investors represent a significant share of home purchases, and buyers still rely heavily on the internet. That makes outbound speed and inbound credibility critical for wholesalers.
 
-## Conclusion
-
+## Your Next Move
 A full‑stack lead generation system is the most reliable way to build a wholesaling business in 2026. Cold calling brings the conversations, CRM discipline keeps them organized, and automation makes the system scalable. When these layers work together, you build a pipeline that can weather any market shift.
 
 ### Sources and Further Reading

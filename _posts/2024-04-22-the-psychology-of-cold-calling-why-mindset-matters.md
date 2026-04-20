@@ -138,6 +138,5 @@ Why are you doing this work? Whether it's providing for your family, building a 
 
 Understanding your historical conversion rates is incredibly grounding. If you know that 1 in every 65 conversations leads to a deal worth $15,000 in assignment fees, then every "no" has a calculable value. Each rejected dial is worth approximately $230 in expected value. That reframe changes everything.
 
-## Conclusion
-
+## Your Next Move
 Cold calling mastery isn't about memorizing the perfect script or learning magic closing techniques. It's about developing a psychological framework that allows you to show up consistently, handle rejection gracefully, and maintain genuine empathy for the people you're calling. Invest in your mindset as seriously as you invest in your scripts, your data, and your technology. It's the foundation everything else is built on.

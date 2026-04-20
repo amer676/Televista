@@ -194,6 +194,5 @@ If your average job value is $5,000 and your close rate from appointments is 30%
 5. **Not tracking metrics:** You can't optimize what you don't measure
 6. **One-channel dependency:** Diversify across calling, digital, and referrals
 
-## Conclusion
-
+## Your Next Move
 Building a lead generation funnel for your home service business is the single most impactful investment you can make in predictable growth. Start with cold calling to fill the top of your funnel, build a follow-up system to nurture leads through the middle, and make the buying process frictionless at the bottom. The home service companies that build these systems don't worry about where their next job is coming from. They worry about having enough crews to handle the demand.

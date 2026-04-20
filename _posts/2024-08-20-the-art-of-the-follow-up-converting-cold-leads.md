@@ -141,7 +141,6 @@ Track these metrics:
 
 Most mature operations find that 40-60% of their deals come from follow-up, not initial contact. That's revenue that doesn't exist without a system.
 
-## Conclusion
-
+## Your Next Move
 Follow-up is where amateur operations become professional ones. Building a systematic, multi-channel follow-up process transforms your lead database from a list of names into a pipeline of future deals. Categorize your leads, build your sequences, automate what you can, and never stop touching your database. The deals are there. You just have to keep showing up until the timing is right.
 

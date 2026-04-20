@@ -177,8 +177,7 @@ Qualification is not the end of the process. It is the beginning of a more focus
 
 **Cool leads (low BANT score):** Add them to a long-term drip campaign. Check in monthly or quarterly. Circumstances change, and a lead that scores low today might score high in six months.
 
-## Conclusion
-
+## Your Next Move
 The BANT framework is not complicated, but it is remarkably effective at helping you focus your time on the leads most likely to convert. By systematically assessing Budget, Authority, Need, and Timeline on every first call, you avoid the expensive trap of chasing leads that were never going to close.
 
 Build BANT into your calling scripts, your CRM, and your team training. Track how your BANT-scored leads convert over time and refine your criteria based on real data. The result is a pipeline where every appointment you go on has a genuine chance of becoming a deal.

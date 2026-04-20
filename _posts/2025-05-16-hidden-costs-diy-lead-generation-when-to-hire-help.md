@@ -158,8 +158,7 @@ Track these monthly and watch the trends. If your cost per qualified lead is inc
 
 **Losing visibility into the process.** Outsourcing does not mean abdicating. Stay involved in reviewing call recordings, analyzing lead quality, and providing feedback. The best outsourced relationships are partnerships, not set-and-forget arrangements.
 
-## Conclusion
-
+## Your Next Move
 DIY lead generation is not free. When you add up the data subscriptions, the dialer costs, the compliance overhead, and the value of your time, most investors are spending far more than they realize per qualified lead.
 
 The question is not whether outsourcing is better than DIY in absolute terms. The question is which approach delivers the best return on your total investment, including your time, at your current stage of business.

@@ -176,8 +176,7 @@ The investors who make wholesaling a long-term career treat it like a business f
 
 Wholesaling is not a get-rich-quick scheme. It is a legitimate business model that rewards discipline, consistency, and skill development. The barriers to entry are low, but the barriers to sustained success are the same as any other business: you have to show up every day and do the work.
 
-## Conclusion
-
+## Your Next Move
 Wholesaling offers one of the most accessible paths into real estate investing. You do not need capital, credit, or a license to get started. What you do need is a willingness to learn the process, generate leads consistently, and develop your negotiation skills.
 
 Start by educating yourself on your local market, building a buyers list, and making your first outreach calls. Every successful wholesaler was once a complete beginner who decided to make that first dial. The sooner you start, the sooner you will close your first deal.

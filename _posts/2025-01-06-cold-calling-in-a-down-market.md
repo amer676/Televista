@@ -140,8 +140,7 @@ One of the hidden benefits of maintaining a cold calling operation through a dow
 
 This real-time feedback loop gives you an information advantage that investors who are not actively calling simply do not have.
 
-## Conclusion
-
+## Your Next Move
 Down markets separate the serious investors from the hobbyists. While others retreat, the investors who keep dialing, keep following up, and keep building relationships with motivated sellers are the ones who come out ahead when the market turns.
 
 Cold calling in a down market is not glamorous. It requires discipline, patience, and a willingness to invest in your pipeline even when closings are slow. But the deals you find during these periods are often the most profitable of your career, because you are negotiating with motivated sellers in an environment with minimal competition.
