@@ -2,7 +2,7 @@
 layout: post
 title: "Land Investing Through Cold Calling: An Untapped Opportunity"
 date: 2025-07-29
-description: "Discover how cold calling for raw land deals is an untapped investing opportunity with lower competition, unique owner motivations, and substantial profit margins in 2025."
+description: "Discover how cold calling for raw land deals is an untapped investing opportunity with lower competition, unique owner motivations, and substantial..."
 target_keyword: "land investing cold calling"
 categories: [blog]
 tags: ["land investing", "raw land", "cold calling", "real estate investing", "vacant land"]

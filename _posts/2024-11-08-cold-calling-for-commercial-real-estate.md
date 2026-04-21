@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Commercial Real Estate: Strategies for CRE Investors"
 date: 2024-11-08
-description: "Discover cold calling strategies tailored for commercial real estate investors. Learn how to reach property owners, navigate gatekeepers, and generate CRE deal flow through outbound prospecting."
+description: "Discover cold calling strategies tailored for commercial real estate investors. Learn how to reach property owners, navigate gatekeepers, and..."
 target_keyword: "cold calling commercial real estate"
 categories: [blog]
 tags: ["commercial real estate", "cold calling CRE", "CRE investing"]

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Train New Cold Callers: A Step-by-Step Onboarding Guide"
 date: 2025-03-10
-description: "A comprehensive guide to training new real estate cold callers. From scripts and objection handling to call shadowing and performance metrics, build a team that converts."
+description: "A comprehensive guide to training new real estate cold callers. From scripts and objection handling to call shadowing and performance metrics, build..."
 target_keyword: "how to train new cold callers"
 categories: [blog]
 tags: ["cold caller training", "onboarding", "scripts", "objection handling", "real estate cold calling"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Commercial Solar Lead Generation: Cold Calling Strategies for B2B Solar Sales"
 date: 2025-09-23
-description: "How to generate leads for commercial and industrial solar installations. Covers targeting decision-makers, B2B cold calling approach, gatekeeper handling, and qualifying commercial solar prospects."
+description: "How to generate leads for commercial and industrial solar installations. Covers targeting decision-makers, B2B cold calling approach, gatekeeper..."
 target_keyword: "commercial solar lead generation"
 categories: [blog]
 tags: ["commercial solar lead generation", "B2B solar leads", "commercial solar appointment setting", "solar for businesses", "commercial solar cold calling"]

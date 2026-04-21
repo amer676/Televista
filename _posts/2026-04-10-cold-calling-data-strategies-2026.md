@@ -232,7 +232,7 @@ Data retention matters too. Keep call logs for **three years minimum**. Store co
 
 One violation can cost more than your entire quarter's marketing budget.
 
-## How Televista Delivers Data-Driven Results [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors
+## How Televista Delivers Data-Driven Results [for Real Estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors
 
 Look, every cold calling company claims they're "data-driven." Most are just dialing lists with extra steps.
 
@@ -268,9 +268,9 @@ Want us to handle the heavy lifting? [Our team at Televista](/contact.html) buil
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Cold Calling Real Estate Leads Austin Texas](https://televistaleadgeneration.com/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
-- [Cold Calling Real Estate Leads Dallas Texas](https://televistaleadgeneration.com/blog/2024/03/15/cold-calling-real-estate-leads-dallas-texas/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Cold Calling Real Estate Leads Austin Texas](/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
+- [Cold Calling Real Estate Leads Dallas Texas](/blog/2024/03/15/cold-calling-real-estate-leads-dallas-texas/)
 
 ---
 

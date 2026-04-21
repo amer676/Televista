@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Los Angeles, California"
 date: 2024-06-03
-description: "A comprehensive guide to cold calling for real estate leads in Los Angeles, California, covering the Prop 13 equity opportunity, absentee owners, and the best LA neighborhoods for investors."
+description: "A comprehensive guide to cold calling for real estate leads in Los Angeles, California, covering the Prop 13 equity opportunity, absentee owners, and..."
 target_keyword: "cold calling real estate leads Los Angeles California"
 categories: [blog]
 tags: ["cold calling Los Angeles California", "LA real estate investing", "Los Angeles motivated sellers", "LA wholesale real estate", "LA County real estate leads"]

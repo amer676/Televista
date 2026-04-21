@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Chicago, Illinois: Midwest Investor Strategies"
 date: 2024-04-25
-description: "A practical guide to cold calling for real estate leads in Chicago, Illinois, covering Cook County neighborhoods, suburbs, and property tax-driven motivated seller strategies."
+description: "A practical guide to cold calling for real estate leads in Chicago, Illinois, covering Cook County neighborhoods, suburbs, and property tax-driven..."
 target_keyword: "cold calling real estate leads Chicago Illinois"
 categories: [blog]
 tags: ["cold calling Chicago Illinois", "Chicago real estate investing", "Chicago motivated sellers", "Chicago wholesale real estate", "Cook County real estate leads"]

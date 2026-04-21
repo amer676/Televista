@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Lead Generation Cost Benchmarks: What Does a Solar Appointment Actually Cost?"
 date: 2025-06-23
-description: "Understand the true cost of solar appointments by channel. Includes benchmarks for cold calling, door-to-door, digital, and referrals — plus how to calculate your actual cost per appointment."
+description: "Understand the true cost of solar appointments by channel. Includes benchmarks for cold calling, door-to-door, digital, and referrals — plus how to..."
 target_keyword: "solar lead cost per appointment"
 categories: [blog]
 tags: ["solar cost per appointment", "solar lead generation cost", "solar appointment benchmarks", "solar customer acquisition cost", "solar marketing ROI"]

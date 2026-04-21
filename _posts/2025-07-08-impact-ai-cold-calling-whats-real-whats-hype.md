@@ -2,7 +2,7 @@
 layout: post
 title: "The Impact of AI on Cold Calling: What's Real and What's Hype"
 date: 2025-07-08
-description: "A practical assessment of AI in cold calling for 2025. Separating genuine productivity gains from overhyped promises, with guidance for real estate investors and sales teams."
+description: "A practical assessment of AI in cold calling for 2025. Separating genuine productivity gains from overhyped promises, with guidance for real estate..."
 target_keyword: "AI cold calling impact"
 categories: [blog]
 tags: ["AI cold calling", "sales technology", "automation", "real estate technology", "artificial intelligence"]

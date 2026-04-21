@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in New Orleans, Louisiana: Unique Bayou Market"
 date: 2025-05-24
-description: "A complete guide to cold calling for real estate leads in New Orleans — covering Orleans and Jefferson parishes, post-Katrina dynamics, flood insurance pressures, and scripts for a uniquely complex market."
+description: "A complete guide to cold calling for real estate leads in New Orleans — covering Orleans and Jefferson parishes, post-Katrina dynamics, flood..."
 target_keyword: "cold calling real estate leads New Orleans Louisiana"
 categories: [blog]
 tags: ["cold calling New Orleans Louisiana", "New Orleans real estate investing", "New Orleans motivated sellers", "Orleans Parish wholesale real estate", "NOLA lead generation"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Probate Leads: A Sensitive but Effective Approach"
 date: 2024-09-05
-description: "Learn how to cold call probate leads with empathy and professionalism. Discover scripts, timing strategies, and best practices for connecting with executors and personal representatives."
+description: "Learn how to cold call probate leads with empathy and professionalism. Discover scripts, timing strategies, and best practices for connecting with..."
 target_keyword: "cold calling probate leads"
 categories: [blog]
 tags: ["probate leads", "cold calling", "real estate investing"]

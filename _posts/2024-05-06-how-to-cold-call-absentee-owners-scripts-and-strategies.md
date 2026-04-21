@@ -2,7 +2,7 @@
 layout: post
 title: "How to Cold Call Absentee Owners: Scripts and Strategies That Work"
 date: 2024-05-06
-description: "Learn proven cold calling scripts and strategies for reaching absentee owners. Covers list building, openers, objection handling, and converting absentee owners into motivated sellers."
+description: "Learn proven cold calling scripts and strategies for reaching absentee owners. Covers list building, openers, objection handling, and converting..."
 target_keyword: "cold call absentee owners"
 categories: [blog]
 tags: ["absentee owners", "cold calling scripts", "real estate leads", "motivated sellers", "wholesaling"]

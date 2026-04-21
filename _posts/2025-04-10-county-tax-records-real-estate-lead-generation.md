@@ -2,7 +2,7 @@
 layout: post
 title: "How to Use County Tax Records for Real Estate Lead Generation"
 date: 2025-04-10
-description: "Master county tax records for real estate lead generation. Learn how to find motivated sellers through tax delinquency data, property assessments, and public ownership records."
+description: "Master county tax records for real estate lead generation. Learn how to find motivated sellers through tax delinquency data, property assessments..."
 target_keyword: "county tax records real estate lead generation"
 categories: [blog]
 tags: ["county tax records", "lead generation", "tax delinquent", "public records", "motivated sellers"]

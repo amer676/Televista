@@ -2,14 +2,14 @@
 layout: post
 title: "Ultimate Cold Calling System for Real Estate Investors 2026"
 date: 2026-04-07
-description: "Ultimate cold calling system for real estate investors 2026: 40K+ monthly calls, 3x higher conversions. Learn Televista's proven playbook from 200+ campaigns."
+description: "Ultimate cold calling system for real estate investors 2026: 40K+ monthly calls, 3x higher conversions. Learn Televista's proven playbook from 200+..."
 target_keyword: "cold calling system real estate investors"
 categories: [blog]
 tags: ["cold calling", "real estate investing", "lead generation", "real estate wholesaling", "investor marketing"]
 author: "Televista Team"
 ---
 
-## The [Real Estate Cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Revolution of 2026
+## The [Real Estate Cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Revolution of 2026
 
 March 2026 flipped the script completely. While most investors were dumping money into AI chatbots and automated email sequences, the real money makers doubled down on something everyone said was dead.
 
@@ -27,7 +27,7 @@ Most people think cold calling means grabbing a Yellow Pages and hoping for the 
 
 Our [Televista](/services.html) team has run this playbook across hundreds of campaigns. The investors who nail it don't just get deals. They build acquisition machines that spit out consistent monthly revenue while they focus on closing and scaling.
 
-That's exactly what we're building here — your [complete cold calling](https://televistaleadgeneration.com/blog/2026/03/16/complete-cold-calling-guide-real-estate-2026/) system for 2026.
+That's exactly what we're building here — your [complete cold calling](/blog/2026/03/16/complete-cold-calling-guide-real-estate-2026/) system for 2026.
 
 ## Key Takeaways
 - Cold calling is making a big comeback in 2026, outperforming automated methods.
@@ -40,7 +40,7 @@ That's exactly what we're building here — your [complete cold calling](https:/
 
 Let's cut through the noise. While everyone's chasing the latest AI marketing hack, the numbers tell a different story.
 
-**68% follow-up success rate.** That's what [HitRate Solutions](https://hitratesolutions.com/blog/does-cold-calling-work-in-real-estate) found when they tracked [real estate cold](https://televistaleadgeneration.com/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling campaigns. Compare that to your average PPC campaign at **$25.20 per click** — and you're not even guaranteed a conversation.
+**68% follow-up success rate.** That's what [HitRate Solutions](https://hitratesolutions.com/blog/does-cold-calling-work-in-real-estate) found when they tracked [real estate cold](/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling campaigns. Compare that to your average PPC campaign at **$25.20 per click** — and you're not even guaranteed a conversation.
 
 I ran the math last month for a Televista client who was burning $4,800 monthly on Google Ads. Same budget redirected to our [cold calling services](/services.html) generated 312 conversations and 47 qualified leads. The ROI wasn't even close.
 
@@ -105,7 +105,7 @@ Pick two lead sources. Master them completely before adding a third.
 
 We've tested this with our Televista clients — focused beats scattered every single time. One guy in Tampa went from $800/month on five different lead sources to $1,200/month on just expired and absentee. **His deal flow doubled.**
 
-## The Ultimate [Cold Calling Scripts](https://televistaleadgeneration.com/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) for Every Investor Scenario
+## The Ultimate [Cold Calling Scripts](/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) for Every Investor Scenario
 
 The 3 C's rule everything: **Clarity, Confidence, Connection.** Miss any one and you're toast.
 
@@ -288,9 +288,9 @@ Stop planning. Start dialing.
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Advanced Dialer Strategies Real Estate Investors](https://televistaleadgeneration.com/blog/2026/03/09/advanced-ai-dialer-strategies-real-estate-investors/)
-- [Free Absentee Owner Leads Public Records](https://televistaleadgeneration.com/blog/2026/03/27/free-absentee-owner-leads-public-records/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Advanced Dialer Strategies Real Estate Investors](/blog/2026/03/09/advanced-ai-dialer-strategies-real-estate-investors/)
+- [Free Absentee Owner Leads Public Records](/blog/2026/03/27/free-absentee-owner-leads-public-records/)
 
 ---
 

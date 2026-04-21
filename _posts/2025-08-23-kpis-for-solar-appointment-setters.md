@@ -2,7 +2,7 @@
 layout: post
 title: "KPIs for Solar Appointment Setters: What to Track and What Benchmarks to Target"
 date: 2025-08-23
-description: "A complete guide to KPIs for solar appointment setters, including benchmark targets, how to use metrics for training, and the difference between leading and lagging indicators."
+description: "A complete guide to KPIs for solar appointment setters, including benchmark targets, how to use metrics for training, and the difference between..."
 target_keyword: "KPIs for solar appointment setters"
 categories: [blog]
 tags: ["solar appointment setter KPIs", "solar sales metrics", "solar appointment setting performance", "track solar appointment setters", "solar lead generation metrics"]

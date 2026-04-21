@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in New York: Urban and Suburban Strategies"
 date: 2024-03-05
-description: "A comprehensive guide to cold calling for real estate investors in New York, covering NYC boroughs, Long Island, and upstate markets like Buffalo, Albany, and Syracuse."
+description: "A comprehensive guide to cold calling for real estate investors in New York, covering NYC boroughs, Long Island, and upstate markets like Buffalo..."
 target_keyword: "cold calling for real estate investors in New York"
 categories: [blog]
 tags: ["cold calling New York", "real estate investing New York", "New York motivated sellers", "New York wholesale real estate", "lead generation New York"]

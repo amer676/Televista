@@ -2,7 +2,7 @@
 layout: post
 title: "Seasonal Solar Appointment Setting Strategies: Capitalizing on Every Season"
 date: 2025-07-23
-description: "Learn how to adapt your solar appointment setting strategy for every season, from summer peak season in Sun Belt markets to year-round pipeline strategies for northern states."
+description: "Learn how to adapt your solar appointment setting strategy for every season, from summer peak season in Sun Belt markets to year-round pipeline..."
 target_keyword: "seasonal solar appointment setting"
 categories: [blog]
 tags: ["seasonal solar lead generation", "solar appointment setting seasons", "summer solar leads", "winter solar appointment setting", "year-round solar appointments"]

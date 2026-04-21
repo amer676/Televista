@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build a Cold Calling Team for Real Estate Investing"
 date: 2024-01-08
-description: "Learn how to build and manage a high-performing cold calling team for real estate investing. Covers hiring, training, scripts, KPIs, and scaling strategies."
+description: "Learn how to build and manage a high-performing cold calling team for real estate investing. Covers hiring, training, scripts, KPIs, and scaling..."
 target_keyword: "build a cold calling team for real estate investing"
 categories: [blog]
 tags: ["cold calling team", "real estate investing", "hiring callers", "sales team management", "lead generation"]

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Find Motivated Absentee Owner Leads 2026 Guide"
 date: 2026-03-24
-description: "How to find motivated absentee owner leads beyond basic lists in 2026. AI-powered tactics that beat traditional methods. Expert strategies from 200+ campaigns."
+description: "How to find motivated absentee owner leads beyond basic lists in 2026. AI-powered tactics that beat traditional methods. Expert strategies from 200+..."
 target_keyword: "motivated absentee owner leads"
 categories: [blog]
 tags: ["absentee owner leads", "motivated sellers", "real estate wholesaling", "lead generation", "real estate investing"]

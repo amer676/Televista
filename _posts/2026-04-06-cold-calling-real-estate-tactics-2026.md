@@ -39,7 +39,7 @@ That's what we're covering here.
 - AI tools can enhance research and pre-call intelligence but shouldn't replace human interaction.
 - Legal compliance is critical to avoid costly penalties.
 
-## Why Generic [Cold Calling Scripts](https://televistaleadgeneration.com/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) Don't Work [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026
+## Why Generic [Cold Calling Scripts](/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) Don't Work [for Real Estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026
 
 Real estate agents sell services. You buy houses.
 
@@ -65,7 +65,7 @@ That doesn't work anymore.
 
 ## The Televista Framework: 5 Pillars of Tactical Cold Calling for Investors
 
-Most [cold calling services](https://televistaleadgeneration.com/blog/2026/04/02/best-cold-calling-services-real-estate-2026/) throw bodies at phones and hope something sticks. Wrong approach entirely.
+Most [cold calling services](/blog/2026/04/02/best-cold-calling-services-real-estate-2026/) throw bodies at phones and hope something sticks. Wrong approach entirely.
 
 At [Televista](https://televistaleadgeneration.com), we've built our entire operation around five tactical pillars that separate real estate investors from wannabes. These aren't feel-good concepts — they're battle-tested systems that turn cold leads into signed contracts.
 
@@ -86,7 +86,7 @@ Every lead source produces predictable objections. Expired listings say "I'm not
 **Pillar 5: Follow-up Automation**  
 First call rarely closes anything. Our automated SMS sequences (powered by tools that handle two-way conversations) keep prospects warm between calls without feeling robotic. Most people quit after the second "not interested" — we're just getting started.
 
-This framework isn't theory. We've used it to generate over $50M in [real estate deals](https://televistaleadgeneration.com/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/) for our clients in the past 18 months.
+This framework isn't theory. We've used it to generate over $50M in [real estate deals](/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/) for our clients in the past 18 months.
 
 ## Advanced Lead Targeting: Beyond the Obvious Lists
 
@@ -321,9 +321,9 @@ Ready to skip the learning curve? [Book a strategy call](/contact.html) and we'l
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Qualify Leads First Call Bant Framework Real Estate](https://televistaleadgeneration.com/blog/2025/06/17/qualify-leads-first-call-bant-framework-real-estate/)
-- [Cold Calling Real Estate Leads Austin Texas](https://televistaleadgeneration.com/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Qualify Leads First Call Bant Framework Real Estate](/blog/2025/06/17/qualify-leads-first-call-bant-framework-real-estate/)
+- [Cold Calling Real Estate Leads Austin Texas](/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
 
 ---
 

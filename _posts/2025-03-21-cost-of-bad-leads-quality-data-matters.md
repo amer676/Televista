@@ -2,7 +2,7 @@
 layout: post
 title: "The Cost of Bad Leads: Why Quality Data Matters More Than Quantity"
 date: 2025-03-21
-description: "Discover the true cost of bad real estate leads and why data quality outperforms volume. Learn how to evaluate lead sources, clean your lists, and invest in data that converts."
+description: "Discover the true cost of bad real estate leads and why data quality outperforms volume. Learn how to evaluate lead sources, clean your lists, and..."
 target_keyword: "cost of bad leads data quality"
 categories: [blog]
 tags: ["data quality", "lead generation", "bad leads", "real estate data", "cold calling lists"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a Multi-Channel Lead Generation Strategy: Cold Calling + Digital Marketing"
 date: 2025-02-28
-description: "Learn how to combine cold calling with digital marketing for a comprehensive real estate lead generation strategy. SEO, PPC, social media, and cold calling working together."
+description: "Learn how to combine cold calling with digital marketing for a comprehensive real estate lead generation strategy. SEO, PPC, social media, and cold..."
 target_keyword: "multi-channel lead generation cold calling digital marketing"
 categories: [blog]
 tags: ["multi-channel marketing", "cold calling", "digital marketing", "lead generation", "real estate SEO"]

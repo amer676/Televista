@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Minneapolis, Minnesota: Twin Cities Investor Guide"
 date: 2025-01-03
-description: "Learn how to cold call for real estate leads in Minneapolis, Minnesota. Twin Cities market strategies for Hennepin County, rent control landlord exits, and motivated seller lead generation."
+description: "Learn how to cold call for real estate leads in Minneapolis, Minnesota. Twin Cities market strategies for Hennepin County, rent control landlord..."
 target_keyword: "cold calling real estate leads Minneapolis Minnesota"
 categories: [blog]
 tags: ["cold calling Minneapolis Minnesota", "Minneapolis real estate investing", "Minneapolis motivated sellers", "Hennepin County wholesale real estate", "Twin Cities lead generation"]

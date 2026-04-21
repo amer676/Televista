@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Houston, Texas"
 date: 2024-03-25
-description: "A detailed guide to cold calling for real estate leads in Houston, Texas, covering Harris County neighborhoods, flood-affected areas, and energy sector motivated sellers."
+description: "A detailed guide to cold calling for real estate leads in Houston, Texas, covering Harris County neighborhoods, flood-affected areas, and energy..."
 target_keyword: "cold calling real estate leads Houston Texas"
 categories: [blog]
 tags: ["cold calling Houston Texas", "Houston real estate investing", "Houston motivated sellers", "Houston wholesale real estate", "Harris County real estate leads"]

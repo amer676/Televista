@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Columbus, Ohio: Growing Midwest Market"
 date: 2024-06-24
-description: "A detailed guide to cold calling for real estate leads in Columbus, Ohio, covering Franklin County neighborhoods, OSU rental markets, and strategies for finding motivated sellers in Ohio's fastest-growing city."
+description: "A detailed guide to cold calling for real estate leads in Columbus, Ohio, covering Franklin County neighborhoods, OSU rental markets, and strategies..."
 target_keyword: "cold calling real estate leads Columbus Ohio"
 categories: [blog]
 tags: ["cold calling Columbus Ohio", "Columbus real estate investing", "Columbus motivated sellers", "Franklin County wholesale real estate", "Columbus Ohio lead generation"]

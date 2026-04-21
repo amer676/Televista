@@ -2,7 +2,7 @@
 layout: post
 title: "The Psychology of Cold Calling: Why Mindset Matters More Than Scripts"
 date: 2024-04-22
-description: "Discover why cold calling success depends more on mindset than scripts. Learn mental frameworks for handling rejection, building resilience, and staying motivated."
+description: "Discover why cold calling success depends more on mindset than scripts. Learn mental frameworks for handling rejection, building resilience, and..."
 target_keyword: "psychology of cold calling mindset"
 categories: [blog]
 tags: ["cold calling psychology", "sales mindset", "rejection handling", "cold calling motivation", "sales resilience"]

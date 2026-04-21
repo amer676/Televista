@@ -2,7 +2,7 @@
 layout: post
 title: "How to Find Motivated Sellers Using Public Records"
 date: 2024-02-09
-description: "Learn how to find motivated sellers using public records like county data, tax liens, probate filings, and pre-foreclosure notices to build targeted lead lists."
+description: "Learn how to find motivated sellers using public records like county data, tax liens, probate filings, and pre-foreclosure notices to build targeted..."
 target_keyword: "find motivated sellers using public records"
 categories: [blog]
 tags: ["motivated sellers", "public records", "real estate investing", "tax liens", "probate leads"]

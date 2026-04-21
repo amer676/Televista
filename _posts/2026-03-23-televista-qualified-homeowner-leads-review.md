@@ -18,7 +18,7 @@ I nearly spit out my coffee when he sent the screenshot.
 
 That number stopped me cold. Most lead gen companies promise the moon but deliver pizza flyers. We've analyzed dozens of providers over the past six months, and the gap between marketing claims and actual ROI is brutal. [Televista's lead generation services](https://televistaleadgeneration.com/services.html) kept coming up in our research, so we decided to dig deeper.
 
-The cost per lead varies wildly depending on provider, market, and quality — according to [Televista's own analysis](https://televistaleadgeneration.com/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), most investors don't even track this properly. Which explains why 73% abandon their cold calling services within 90 days, based on data from [Televista's advanced strategy research](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
+The cost per lead varies wildly depending on provider, market, and quality — according to [Televista's own analysis](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), most investors don't even track this properly. Which explains why 73% abandon their cold calling services within 90 days, based on data from [Televista's advanced strategy research](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
 
 But Marcus didn't quit. Neither did the solar contractor in Phoenix pulling 22 appointments per week, or the roofing company that tripled their pipeline in Q4.
 
@@ -67,11 +67,11 @@ I pulled data from six competitors last month (won't name names, but you know th
 
 What drives our Televista team's lower costs? Three things nobody talks about.
 
-First — **volume efficiency**. We're not running 20-person operations burning through overhead. Our [AI-enhanced cold calling strategies](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) let us scale without hiring armies of dialers. The system runs daily through [CallTools](https://calltools.com) and [HubSpot](https://www.hubspot.com) integrations, cutting manual work by 60%.
+First — **volume efficiency**. We're not running 20-person operations burning through overhead. Our [AI-enhanced cold calling strategies](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) let us scale without hiring armies of dialers. The system runs daily through [CallTools](https://calltools.com) and [HubSpot](https://www.hubspot.com) integrations, cutting manual work by 60%.
 
 Second — qualification happens live, not after. Most companies dump warm bodies in your CRM and call them "qualified." We don't. Every lead gets pre-screened through our 5-step process before hitting your pipeline.
 
-Third — **340% better appointment rates**. Yeah, you read that right. [Traditional cold calling converts at 0.8%](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), but our AI-tailored approach hits 3.5% consistently. More appointments per dial = lower cost per actual opportunity.
+Third — **340% better appointment rates**. Yeah, you read that right. [Traditional cold calling converts at 0.8%](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), but our AI-tailored approach hits 3.5% consistently. More appointments per dial = lower cost per actual opportunity.
 
 Here's what that looks like in real money:
 
@@ -80,7 +80,7 @@ Here's what that looks like in real money:
 | Starter | $1,250 | 45 | $27.78 | $89 |
 | Growth | $2,050 | 90 | $22.78 | $89 |
 
-The ROI gap isn't even close. But here's the catch — [cost per lead varies widely depending on provider, market, and lead quality](https://televistaleadgeneration.com/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors). Cheap leads from sketchy sources will burn your reputation faster than you can dial them.
+The ROI gap isn't even close. But here's the catch — [cost per lead varies widely depending on provider, market, and lead quality](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors). Cheap leads from sketchy sources will burn your reputation faster than you can dial them.
 
 We've seen clients chase $5 leads from Facebook only to discover they're calling people who never opted in. Not a good look when you're building a business.
 
@@ -108,7 +108,7 @@ You'd be shocked how many leads fall apart because the person on the phone can't
 **Step 5: Appointment Scheduling**
 We don't hand over warm contact info. We book the actual appointment. Our callers use [Calendly](https://calendly.com) integration to lock in specific times within our 5-day contact window.
 
-This qualification process is exactly why our [AI-enhanced cold calling strategies](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) consistently outperform traditional dialers by 340% in appointment-setting rates. We're not just generating leads — we're delivering qualified prospects ready to close.
+This qualification process is exactly why our [AI-enhanced cold calling strategies](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) consistently outperform traditional dialers by 340% in appointment-setting rates. We're not just generating leads — we're delivering qualified prospects ready to close.
 
 ## Televista vs Competition: Head-to-Head Comparison
 
@@ -129,13 +129,13 @@ HomeAdvisor's leads? Half were people just browsing. No timeline, no budget, no 
 
 Modernize locked our client into a 12-month deal at $95 per lead — then delivered homeowners who'd submitted the same form to six other contractors. That's not a lead, that's a lottery ticket.
 
-> **Reality Check:** [Traditional cold calling methods convert at 0.8%](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), while our AI-enhanced approach hits 340% higher appointment-setting rates.
+> **Reality Check:** [Traditional cold calling methods convert at 0.8%](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), while our AI-enhanced approach hits 340% higher appointment-setting rates.
 
 Our Televista team runs everything through [CallTools](https://calltools.com) and [HubSpot](https://hubspot.com) integrations — daily qualification calls, not just web forms that anyone can fill out. We're talking to actual humans who picked up the phone and said "yes, I'm interested."
 
 The competition charges more for lower quality. They lock you into contracts because they know you'll want out after month two. We don't do contracts because our clients stick around when the leads actually close deals.
 
-Here's what really separates us: while other companies are still reading scripts from 2015, **Televista utilizes AI assistants to create tailored scripts for each prospect**. [Our advanced cold calling strategies](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) consistently deliver 567%+ ROI because we're not treating every homeowner like they're identical.
+Here's what really separates us: while other companies are still reading scripts from 2015, **Televista utilizes AI assistants to create tailored scripts for each prospect**. [Our advanced cold calling strategies](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) consistently deliver 567%+ ROI because we're not treating every homeowner like they're identical.
 
 Most companies talk about lead quality. We actually measure it.
 
@@ -143,7 +143,7 @@ Most companies talk about lead quality. We actually measure it.
 
 Marcus paid $2,050 monthly for our Growth package. Here's the exact breakdown that turned him into our biggest advocate.
 
-Month one: 90 leads delivered through [CallTools](https://www.calltools.com) and tracked in [HubSpot](https://www.hubspot.com). His team converted 18 of those into actual appointments. That's a **20% appointment rate** — way above the industry standard 0.8% that [traditional cold calling methods deliver](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
+Month one: 90 leads delivered through [CallTools](https://www.calltools.com) and tracked in [HubSpot](https://www.hubspot.com). His team converted 18 of those into actual appointments. That's a **20% appointment rate** — way above the industry standard 0.8% that [traditional cold calling methods deliver](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
 
 The math gets interesting fast.
 
@@ -155,7 +155,7 @@ But here's the real kicker (and why most people get lead gen completely wrong): 
 
 The compounding effect is where qualified leads separate from garbage leads. Those 4 initial deals generated 11 total transactions over six months. Marcus cleared $35,200 in wholesale fees from that single $2,050 monthly investment.
 
-Most contractors focus on the wrong metrics — they obsess over cost per lead instead of revenue per lead. [Cost per lead varies wildly depending on provider and market](https://televistaleadgeneration.com/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), but revenue per lead? That's what pays the bills.
+Most contractors focus on the wrong metrics — they obsess over cost per lead instead of revenue per lead. [Cost per lead varies wildly depending on provider and market](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), but revenue per lead? That's what pays the bills.
 
 Marcus now runs three markets with us. Smart guy.
 
@@ -169,11 +169,11 @@ The script difference? Solar homeowners want to save money immediately. Our [Tel
 
 HVAC and windows? Solid performers but seasonal. Summer for AC, winter for heating repairs. 
 
-**Skip kitchen remodeling entirely.** Decision cycles are too long, too many stakeholders. I've seen companies burn through $5K monthly trying to make kitchen leads work (the cost per lead varies wildly depending on the market, as we covered in our [recent pricing analysis](https://televistaleadgeneration.com/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors)).
+**Skip kitchen remodeling entirely.** Decision cycles are too long, too many stakeholders. I've seen companies burn through $5K monthly trying to make kitchen leads work (the cost per lead varies wildly depending on the market, as we covered in our [recent pricing analysis](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors)).
 
 > **Key Stat:** Solar + roofing account for 68% of our successful homeowner lead campaigns
 
-Our [AI-enhanced scripts](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) get customized for each vertical — what works for solar installers bombs for roofers.
+Our [AI-enhanced scripts](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) get customized for each vertical — what works for solar installers bombs for roofers.
 
 Real estate investors? Different conversation entirely. They need motivated sellers, not home improvement prospects.
 
@@ -201,7 +201,7 @@ Month-to-month contracts only. No annual commitments because we're confident you
 
 Need more volume? We can scale to 200+ leads monthly, but honestly most teams hit a wall around 150 leads before their follow-up systems break down.
 
-The math works when you can close 2-3 deals monthly from the lead flow. One of our [Televista clients in solar](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) went from 4 appointments to 11 per week after switching from a traditional pay-per-lead model. Took exactly 3 weeks to dial in the process.
+The math works when you can close 2-3 deals monthly from the lead flow. One of our [Televista clients in solar](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers) went from 4 appointments to 11 per week after switching from a traditional pay-per-lead model. Took exactly 3 weeks to dial in the process.
 
 Most people underestimate how much their current lead costs are actually running them — especially when you factor in all the dead-end conversations.
 
@@ -211,11 +211,11 @@ After running 200+ campaigns across real estate, solar, and roofing, I can tell 
 
 **We don't.**
 
-Our [Televista](https://televistaleadgeneration.com) team succeeds because we obsess over the details other companies ignore. While the industry reports that [73% of real estate investors abandon their cold calling services within just 90 days](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), our retention rate sits at 94% after six months.
+Our [Televista](https://televistaleadgeneration.com) team succeeds because we obsess over the details other companies ignore. While the industry reports that [73% of real estate investors abandon their cold calling services within just 90 days](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), our retention rate sits at 94% after six months.
 
 Here's what makes the difference — we built custom workflows that run daily through [CallTools](https://www.calltools.com) and [HubSpot](https://www.hubspot.com) integrations. Not some generic CRM setup. Our AI assistants create tailored scripts for each prospect based on their specific property details and pain points. Most companies use the same tired script for everyone.
 
-One solar client in Phoenix perfectly illustrates this. Before Televista, he was burning through $3,500/month with another provider and getting maybe 4 appointments per week. Generic scripts, zero personalization. After we switched him to our [AI-enhanced cold calling approach that outperforms traditional dialers by 340%](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), his appointment rate jumped to 16 per week within three weeks.
+One solar client in Phoenix perfectly illustrates this. Before Televista, he was burning through $3,500/month with another provider and getting maybe 4 appointments per week. Generic scripts, zero personalization. After we switched him to our [AI-enhanced cold calling approach that outperforms traditional dialers by 340%](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers), his appointment rate jumped to 16 per week within three weeks.
 
 The math tells the whole story:
 
@@ -243,7 +243,7 @@ You'd need to convert at least 15% of leads to appointments and close 3 out of 1
 - **$35-75K/month:** Begin with Starter ($1,250). Scale up after 90 days if you're converting well.
 - **Under $35K/month:** Focus on perfecting your sales process first. Come back when you're ready to scale.
 
-[Cost per lead can vary widely depending on the provider, market, and quality](https://televistaleadgeneration.com/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors) — we're transparent about our pricing because it works.
+[Cost per lead can vary widely depending on the provider, market, and quality](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors) — we're transparent about our pricing because it works.
 
 **Next step?** [Book a strategy call](https://televistaleadgeneration.com/contact.html) so we can analyze your specific situation. Takes 15 minutes, and you'll know exactly whether our qualified homeowner leads make sense for your business.
 

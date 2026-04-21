@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setter Training: A Week-by-Week Ramp-Up Guide"
 date: 2025-08-13
-description: "A complete week-by-week training guide for solar appointment setters, from product basics in week one through live call coaching and ramp-up KPI expectations through week eight."
+description: "A complete week-by-week training guide for solar appointment setters, from product basics in week one through live call coaching and ramp-up KPI..."
 target_keyword: "solar appointment setter training"
 categories: [blog]
 tags: ["solar appointment setter training", "train solar callers", "solar sales training", "solar SDR onboarding", "solar cold calling training"]

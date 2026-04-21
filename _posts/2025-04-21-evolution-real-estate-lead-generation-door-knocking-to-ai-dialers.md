@@ -2,7 +2,7 @@
 layout: post
 title: "The Evolution of Real Estate Lead Generation: From Door Knocking to AI Dialers"
 date: 2025-04-21
-description: "Explore the history and evolution of real estate lead generation from door knocking and direct mail to AI-powered dialers and predictive analytics. Where the industry is heading in 2025."
+description: "Explore the history and evolution of real estate lead generation from door knocking and direct mail to AI-powered dialers and predictive analytics..."
 target_keyword: "evolution of real estate lead generation"
 categories: [blog]
 tags: ["lead generation history", "AI dialers", "real estate technology", "door knocking", "cold calling evolution"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting: The Complete Guide for Solar Sales Teams"
 date: 2024-06-08
-description: "The complete guide to solar appointment setting — covering qualification criteria, team structure, discovery scripts, KPI tracking, and how to build a high-converting solar appointment pipeline."
+description: "The complete guide to solar appointment setting — covering qualification criteria, team structure, discovery scripts, KPI tracking, and how to build..."
 target_keyword: "solar appointment setting"
 categories: [blog]
 tags: ["solar appointment setting", "solar lead generation", "solar sales", "book solar appointments", "solar cold calling"]

@@ -2,7 +2,7 @@
 layout: post
 title: "12 Best Cold Calling Scripts for Real Estate 2026"
 date: 2026-03-31
-description: "High-converting cold calling scripts for real estate investors and wholesalers 2026. AI-powered frameworks that outperform traditional scripts by 347%. Get the expert playbook from 200+ campaigns."
+description: "High-converting cold calling scripts for real estate investors and wholesalers 2026. AI-powered frameworks that outperform traditional scripts by..."
 target_keyword: "cold calling scripts real estate"
 categories: [blog]
 tags: ["cold calling scripts", "real estate investing", "wholesaling", "lead generation", "sales scripts"]
@@ -15,7 +15,7 @@ canonical_url: "/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/"
 
 Three things every wholesaler gets wrong with cold calling: 1) They memorize a script word-for-word, 2) They sound like a telemarketer from 2015, and 3) They wonder why their connect rates are tanking.
 
-Here's the brutal truth. Traditional [cold calling scripts](https://televistaleadgeneration.com/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/) died sometime around Q3 2025. The old-school approach — where you'd drill the same 45-second opener 200 times until it became muscle memory — doesn't work anymore.
+Here's the brutal truth. Traditional [cold calling scripts](/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/) died sometime around Q3 2025. The old-school approach — where you'd drill the same 45-second opener 200 times until it became muscle memory — doesn't work anymore.
 
 Why? Sellers have gotten smarter. They can smell a script from the first "Hi, this is..." Most people hang up within 8 seconds now (down from 12 seconds last year). The window keeps shrinking.
 
@@ -37,7 +37,7 @@ The next 12 scripts aren't scripts at all. They're conversation blueprints that 
 - [Televista](/services.html) has tested various approaches across 200 campaigns.
 - The focus is on making sellers want to keep talking, not just what to say.
 
-## Why Most [Real Estate Cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Scripts Fail in 2026
+## Why Most [Real Estate Cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Scripts Fail in 2026
 
 Most scripts tank because they solve 2015's problems, not today's.
 
@@ -71,7 +71,7 @@ One [Televista](/services.html) client in Phoenix was stuck at 4% conversion rat
 
 Most teams try to force one script across all scenarios. Fatal mistake. Property type, owner motivation, and local market conditions should drive your entire approach — not some generic "we buy houses" opener from 2019.
 
-## 12 High-Converting Scripts [That Actually Work](https://televistaleadgeneration.com/blog/2024/07/30/b2b-cold-calling-strategies-that-actually-work/)
+## 12 High-Converting Scripts [That Actually Work](/blog/2024/07/30/b2b-cold-calling-strategies-that-actually-work/)
 
 We've tested 47 different openers across 12,000+ calls in Q4 2025. Here's what converts.
 
@@ -231,7 +231,7 @@ Most people quit too early. Don't be most people.
 
 TCPA violations aren't a slap on the wrist anymore. We're talking $1,500 per illegal call now.
 
-The [FTC](https://www.ftc.gov) dropped new guidelines in January 2026 that hit [real estate cold](https://televistaleadgeneration.com/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling hard. **Express written consent is mandatory** for any autodialer or pre-recorded messages — even those "hybrid" dialers most investors think are safe. Spoiler alert: they're not.
+The [FTC](https://www.ftc.gov) dropped new guidelines in January 2026 that hit [real estate cold](/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling hard. **Express written consent is mandatory** for any autodialer or pre-recorded messages — even those "hybrid" dialers most investors think are safe. Spoiler alert: they're not.
 
 Here's what changed. Prior express written consent now requires **specific disclosure of call frequency and opt-out methods** in writing before you dial. That text message saying "reply STOP to opt out" after you've already called them? Doesn't count anymore.
 
@@ -287,9 +287,9 @@ Start with script #3 from this guide. Test it for 50 calls. Thank me later.
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Build Sustainable Pipeline Off Market Real Estate Deals](https://televistaleadgeneration.com/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/)
-- [Cold Calling Objection Handling Wholesalers](https://televistaleadgeneration.com/blog/2026/03/29/cold-calling-objection-handling-wholesalers-2026/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Build Sustainable Pipeline Off Market Real Estate Deals](/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/)
+- [Cold Calling Objection Handling Wholesalers](/blog/2026/03/29/cold-calling-objection-handling-wholesalers-2026/)
 
 ---
 

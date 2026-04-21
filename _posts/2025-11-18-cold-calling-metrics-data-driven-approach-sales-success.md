@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling Metrics That Matter: A Data-Driven Approach to Sales Success"
 date: 2025-11-18
-description: "The essential cold calling metrics every sales team should track. Learn which KPIs actually predict success and how to use data to optimize your calling operation."
+description: "The essential cold calling metrics every sales team should track. Learn which KPIs actually predict success and how to use data to optimize your..."
 target_keyword: "cold calling metrics data driven sales"
 categories: [blog]
 tags: ["cold calling", "sales metrics", "KPIs", "data driven", "lead generation"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Seattle, Washington: Tech City Strategies"
 date: 2024-11-14
-description: "Learn how to cold call for real estate leads in Seattle, Washington. Market-specific strategies for King County motivated sellers, landlord exits, and equity-rich longtime homeowners."
+description: "Learn how to cold call for real estate leads in Seattle, Washington. Market-specific strategies for King County motivated sellers, landlord exits..."
 target_keyword: "cold calling real estate leads Seattle Washington"
 categories: [blog]
 tags: ["cold calling Seattle Washington", "Seattle real estate investing", "Seattle motivated sellers", "King County wholesale real estate", "Seattle lead generation"]

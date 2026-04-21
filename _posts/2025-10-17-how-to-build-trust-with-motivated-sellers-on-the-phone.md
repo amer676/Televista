@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build Trust with Motivated Sellers on the Phone"
 date: 2025-10-17
-description: "Proven techniques for building trust with motivated sellers during cold calls. Learn rapport-building strategies that turn skeptical homeowners into willing appointments."
+description: "Proven techniques for building trust with motivated sellers during cold calls. Learn rapport-building strategies that turn skeptical homeowners into..."
 target_keyword: "build trust motivated sellers phone"
 categories: [blog]
 tags: ["motivated sellers", "cold calling", "rapport building", "real estate investing", "sales techniques"]

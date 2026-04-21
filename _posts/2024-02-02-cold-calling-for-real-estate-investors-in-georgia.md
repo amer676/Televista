@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Georgia: Finding Motivated Sellers"
 date: 2024-02-02
-description: "A complete guide to cold calling for real estate investors in Georgia, covering Atlanta, Savannah, Augusta, and strategies for finding motivated sellers statewide."
+description: "A complete guide to cold calling for real estate investors in Georgia, covering Atlanta, Savannah, Augusta, and strategies for finding motivated..."
 target_keyword: "cold calling for real estate investors in Georgia"
 categories: [blog]
 tags: ["cold calling Georgia", "real estate investing Georgia", "Georgia motivated sellers", "Atlanta real estate wholesale", "lead generation Georgia"]

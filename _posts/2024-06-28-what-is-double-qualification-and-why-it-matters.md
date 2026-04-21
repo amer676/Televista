@@ -2,7 +2,7 @@
 layout: post
 title: "What Is Double Qualification and Why It Matters for Lead Quality"
 date: 2024-06-28
-description: "Learn what double qualification means in lead generation and why it dramatically improves conversion rates for real estate investors and home service businesses."
+description: "Learn what double qualification means in lead generation and why it dramatically improves conversion rates for real estate investors and home service..."
 target_keyword: "double qualification lead quality"
 categories: [blog]
 tags: ["double qualification", "lead quality", "lead generation", "qualified leads", "appointment setting"]

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Qualify Leads on the First Call: The BANT Framework for Real Estate"
 date: 2025-06-17
-description: "Master the BANT framework adapted for real estate cold calling. Learn how to qualify motivated seller leads on the first call and stop wasting time on dead ends."
+description: "Master the BANT framework adapted for real estate cold calling. Learn how to qualify motivated seller leads on the first call and stop wasting time..."
 target_keyword: "qualify leads first call BANT real estate"
 categories: [blog]
 tags: ["lead qualification", "BANT framework", "cold calling", "real estate investing", "sales process"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Wholesale Real Estate Crash Course 2026: Complete Guide"
 date: 2026-03-28
-description: "Master wholesale real estate crash course 2026 with our complete guide. Learn contract assignment, find motivated sellers & cash buyers. Expert strategies inside."
+description: "Master wholesale real estate crash course 2026 with our complete guide. Learn contract assignment, find motivated sellers & cash buyers. Expert..."
 target_keyword: "Wholesale Real Estate Crash Course 2026"
 categories: [blog]
 tags: ["wholesale real estate", "real estate investing", "contract assignment", "lead generation", "real estate 2026"]

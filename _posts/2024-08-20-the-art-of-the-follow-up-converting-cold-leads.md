@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of the Follow-Up: How to Convert Cold Leads into Warm Prospects"
 date: 2024-08-20
-description: "Master the follow-up process to convert cold leads into warm prospects. Learn optimal timing, cadence, and multi-touch strategies that double conversion rates."
+description: "Master the follow-up process to convert cold leads into warm prospects. Learn optimal timing, cadence, and multi-touch strategies that double..."
 target_keyword: "follow up cold leads warm prospects"
 categories: [blog]
 tags: ["follow up strategies", "lead nurturing", "sales follow up", "lead conversion", "cold calling follow up"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in North Carolina: A Growing Market Guide"
 date: 2024-02-23
-description: "A complete guide to cold calling for real estate investors in North Carolina, covering Charlotte, Raleigh-Durham, and strategies for finding motivated sellers in this rapidly growing market."
+description: "A complete guide to cold calling for real estate investors in North Carolina, covering Charlotte, Raleigh-Durham, and strategies for finding..."
 target_keyword: "cold calling for real estate investors in North Carolina"
 categories: [blog]
 tags: ["cold calling North Carolina", "real estate investing North Carolina", "North Carolina motivated sellers", "Charlotte real estate wholesale", "Raleigh real estate leads"]

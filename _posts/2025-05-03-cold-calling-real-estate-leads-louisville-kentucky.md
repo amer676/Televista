@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Louisville, Kentucky: Derby City Market Guide"
 date: 2025-05-03
-description: "A complete guide to cold calling for real estate leads in Louisville, Kentucky — covering Jefferson County, top neighborhoods, list strategy, and scripts for an underrated Midwestern cash flow market."
+description: "A complete guide to cold calling for real estate leads in Louisville, Kentucky — covering Jefferson County, top neighborhoods, list strategy, and..."
 target_keyword: "cold calling real estate leads Louisville Kentucky"
 categories: [blog]
 tags: ["cold calling Louisville Kentucky", "Louisville real estate investing", "Louisville motivated sellers", "Jefferson County wholesale real estate", "Louisville lead generation"]

@@ -2,7 +2,7 @@
 layout: post
 title: "TCPA Compliance for Real Estate Cold Calling: What You Need to Know"
 date: 2024-03-22
-description: "Understand TCPA regulations, DNC requirements, consent rules, and penalties for real estate cold calling. Stay compliant while generating leads and avoid costly lawsuits."
+description: "Understand TCPA regulations, DNC requirements, consent rules, and penalties for real estate cold calling. Stay compliant while generating leads and..."
 target_keyword: "TCPA compliance real estate cold calling"
 categories: [blog]
 tags: ["TCPA compliance", "cold calling regulations", "DNC list", "real estate cold calling", "telemarketing laws"]

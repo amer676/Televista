@@ -2,7 +2,7 @@
 layout: post
 title: "How to Hire and Train Solar Appointment Setters: A Manager's Complete Guide"
 date: 2025-04-08
-description: "Learn how to hire, interview, and train solar appointment setters who actually produce qualified appointments. Includes a week-by-week training plan and KPIs for ramp-up."
+description: "Learn how to hire, interview, and train solar appointment setters who actually produce qualified appointments. Includes a week-by-week training plan..."
 target_keyword: "hire solar appointment setters"
 categories: [blog]
 tags: ["hire solar appointment setters", "solar appointment setter training", "solar sales team", "solar SDR", "solar lead generation team"]

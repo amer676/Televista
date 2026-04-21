@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Kansas City, Missouri: Affordable Market Strategies"
 date: 2025-01-24
-description: "Learn how to cold call for real estate leads in Kansas City, Missouri. Market-specific strategies for Jackson County, Johnson County KS, absentee owners, and motivated seller lead generation."
+description: "Learn how to cold call for real estate leads in Kansas City, Missouri. Market-specific strategies for Jackson County, Johnson County KS, absentee..."
 target_keyword: "cold calling real estate leads Kansas City Missouri"
 categories: [blog]
 tags: ["cold calling Kansas City Missouri", "Kansas City real estate investing", "Kansas City motivated sellers", "Jackson County wholesale real estate", "Kansas City lead generation"]

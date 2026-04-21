@@ -2,7 +2,7 @@
 layout: post
 title: "How to Set Up a Virtual Cold Calling Operation from Scratch"
 date: 2024-09-16
-description: "Step-by-step guide to building a virtual cold calling operation for real estate investing. Covers tech stack, hiring, training, scripts, compliance, and scaling strategies."
+description: "Step-by-step guide to building a virtual cold calling operation for real estate investing. Covers tech stack, hiring, training, scripts, compliance..."
 target_keyword: "virtual cold calling operation"
 categories: [blog]
 tags: ["virtual cold calling", "cold calling setup", "real estate lead generation"]

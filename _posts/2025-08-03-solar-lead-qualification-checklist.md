@@ -2,7 +2,7 @@
 layout: post
 title: "The Solar Lead Qualification Checklist: 7 Questions Before You Book the Appointment"
 date: 2025-08-03
-description: "A practical solar lead qualification checklist covering the 7 key questions every appointment setter must ask before booking, with exact phrasing and guidance on handling partial qualifications."
+description: "A practical solar lead qualification checklist covering the 7 key questions every appointment setter must ask before booking, with exact phrasing and..."
 target_keyword: "solar lead qualification checklist"
 categories: [blog]
 tags: ["solar lead qualification", "solar qualification checklist", "qualify solar leads", "solar appointment setting", "solar sales qualification"]

@@ -21,7 +21,7 @@ The phone.
 
 > **Key Stat:** Calls, connections, and conversations all grew in 2023, setting up 2024-2026 as the golden age of dialing.
 
-Here's what's actually happening while everyone else chases shiny objects: smart [real estate investor](https://televistaleadgeneration.com/blog/2026/02/11/colorado-real-estate-investor-financing-2026/)s are quietly crushing it with cold calling. [Our team](/about.html) at [Televista](/services.html) watched this unfold firsthand — we've seen investor clients go from 2-3 deals per month to 8-12 deals just by doubling down on what everyone said was "outdated."
+Here's what's actually happening while everyone else chases shiny objects: smart [real estate investor](/blog/2026/02/11/colorado-real-estate-investor-financing-2026/)s are quietly crushing it with cold calling. [Our team](/about.html) at [Televista](/services.html) watched this unfold firsthand — we've seen investor clients go from 2-3 deals per month to 8-12 deals just by doubling down on what everyone said was "outdated."
 
 The data backs this up completely. [Orum's research](https://www.orum.com/blog/2024-untapped-cold-calling-will-define-the-upcoming-year-in-sales) shows 2023 sales data indicates that 2024 was going to be the year of the cold call. They were right. And 2026? It's not even close.
 
@@ -31,13 +31,13 @@ The compliance market shifted too (we'll dig deeper into this later), but it did
 
 Want proof? [Book a strategy call](/contact.html) and we'll show you exactly how our most successful investor clients are using 2026's tech stack to turn cold calls into consistent deal flow.
 
-## The Numbers Don't Lie: [Real Estate Cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Performance Data
+## The Numbers Don't Lie: [Real Estate Cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Performance Data
 
 Let's cut through the noise and talk real numbers. Not "massive ROI" promises. Not "game-changing results." Actual data from campaigns we've run and reports we can verify.
 
 [Orum's billion-call dataset](https://www.orum.com/blog/2024-untapped-cold-calling-will-define-the-upcoming-year-in-sales) shows something that caught me off guard — **calls, connections, and conversations all grew in 2023**. While everyone's chasing shiny new marketing tactics, phone volume went up across the board.
 
-But here's what matters [for real estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) investors specifically.
+But here's what matters [for real estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) investors specifically.
 
 **Wholesaling numbers I'm seeing consistently:**
 - Connect rate: 8-12% (much higher than B2B's typical 3-5%)
@@ -113,7 +113,7 @@ This is where most investors screw up. They think slapping a DNC scrub on their 
 
 [The National Association of REALTORS®](https://www.nar.realtor/telemarketing-cold-calling) makes it crystal clear — **telemarketing and cold-calling are heavily regulated**. But here's what they don't tell you: investor rules vary wildly by state, and fair housing violations can torpedo your entire business.
 
-Let's start with the obvious stuff. DNC compliance isn't optional. But investors get tricky exceptions. You can [call expired listings](https://televistaleadgeneration.com/blog/2025/05/05/how-to-cold-call-expired-listings-scripts-strategies/), FSBOs, and property owners who've publicly advertised — even if they're on the registry. Most people don't know this loophole.
+Let's start with the obvious stuff. DNC compliance isn't optional. But investors get tricky exceptions. You can [call expired listings](/blog/2025/05/05/how-to-cold-call-expired-listings-scripts-strategies/), FSBOs, and property owners who've publicly advertised — even if they're on the registry. Most people don't know this loophole.
 
 **State licensing requirements? Total minefield.** California requires investor disclosures on first contact. Florida has specific scripts for distressed property calls. Texas mandates fair housing disclaimers within 30 seconds. We've seen [Televista](/services.html) clients get slapped with $10,000 fines for missing these nuances.
 
@@ -285,9 +285,9 @@ The investors crushing it in 2026 aren't waiting for permission. [Book a strateg
 
 ## Related Articles
 
-- [Build Sustainable Pipeline Off Market Real Estate Deals](https://televistaleadgeneration.com/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/)
-- [Free Absentee Owner Leads Public Records](https://televistaleadgeneration.com/blog/2026/03/27/free-absentee-owner-leads-public-records/)
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Build Sustainable Pipeline Off Market Real Estate Deals](/blog/2025/05/27/build-sustainable-pipeline-off-market-real-estate-deals/)
+- [Free Absentee Owner Leads Public Records](/blog/2026/03/27/free-absentee-owner-leads-public-records/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Recover from a Bad Cold Calling Day: Tips for Sales Resilience"
 date: 2025-07-18
-description: "Practical strategies for bouncing back after a tough day of cold calling. Build mental resilience, maintain motivation, and protect your long-term performance."
+description: "Practical strategies for bouncing back after a tough day of cold calling. Build mental resilience, maintain motivation, and protect your long-term..."
 target_keyword: "recover bad cold calling day"
 categories: [blog]
 tags: ["sales resilience", "cold calling mindset", "motivation", "sales performance", "mental toughness"]

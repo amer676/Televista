@@ -2,7 +2,7 @@
 layout: post
 title: "Outsourcing Cold Calling vs In-House: A Cost and ROI Comparison"
 date: 2024-07-19
-description: "A detailed cost breakdown comparing outsourced cold calling to building an in-house team. Discover the hidden costs, pros, cons, and when each approach makes sense."
+description: "A detailed cost breakdown comparing outsourced cold calling to building an in-house team. Discover the hidden costs, pros, cons, and when each..."
 target_keyword: "outsourcing cold calling vs in-house"
 categories: [blog]
 tags: ["outsourcing cold calling", "in-house cold calling", "lead generation costs", "cold calling ROI", "virtual assistants"]

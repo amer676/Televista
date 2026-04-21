@@ -34,7 +34,7 @@ Time to learn what's actually working in 2026.
 - Televista clients leverage these frameworks for increased appointment rates.
 - Focus on frameworks that convert conversations into contracts.
 
-## Is Cold Calling Still Effective [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026?
+## Is Cold Calling Still Effective [for Real Estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026?
 
 Short answer? Hell yes.
 
@@ -54,7 +54,7 @@ The question isn't whether cold calling works anymore. It's whether you'll maste
 
 ## The 3 C's Framework: Connect, Communicate, Convert
 
-The 3 C's aren't some fluffy sales theory. They're the backbone of every successful [real estate investor](https://televistaleadgeneration.com/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) cold call.
+The 3 C's aren't some fluffy sales theory. They're the backbone of every successful [real estate investor](/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) cold call.
 
 **Connect** means building instant rapport with property owners who get 12 calls daily from "We Buy Houses" vultures. Skip the script robot voice. Start conversations. When calling FSBOs, reference something specific from their listing — "Saw you've got the original hardwood floors restored" hits different than "Hi, I buy houses."
 
@@ -131,7 +131,7 @@ The 80/20 rule isn't about being lazy — it's about being surgical. North Alaba
 
 Stop calling everyone. Start calling the right people.
 
-## Building Dynamic [Cold Calling Scripts](https://televistaleadgeneration.com/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) for Different Investor Scenarios
+## Building Dynamic [Cold Calling Scripts](/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) for Different Investor Scenarios
 
 Static scripts are dead weight. Period.
 
@@ -220,7 +220,7 @@ The difference between scattered growth and systematic scaling? Documentation. E
 
 Most teams skip this step. They wonder why their results tank when they add people.
 
-## How Televista Simplifies Cold Calling Frameworks [for Real Estate Investors](https://televistaleadgeneration.com/blog/2026/01/13/cold-calling-for-real-estate-investors-the-complete-2026-guide/)
+## How Televista Simplifies Cold Calling Frameworks [for Real Estate Investors](/blog/2026/01/13/cold-calling-for-real-estate-investors-the-complete-2026-guide/)
 
 Look, I get it. You read about the 3 C's, the 3-3-3 rule, objection handling playbooks — then reality hits. Who's got time to train VAs on framework nuances when you're trying to close deals?
 
@@ -256,9 +256,9 @@ Here's the thing though (and I'll be straight with you) — building this from s
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Cold Calling Objection Handling Wholesalers](https://televistaleadgeneration.com/blog/2026/03/29/cold-calling-objection-handling-wholesalers-2026/)
-- [Cold Calling Metrics Data Driven Approach Sales Success](https://televistaleadgeneration.com/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Cold Calling Objection Handling Wholesalers](/blog/2026/03/29/cold-calling-objection-handling-wholesalers-2026/)
+- [Cold Calling Metrics Data Driven Approach Sales Success](/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
 
 ---
 

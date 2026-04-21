@@ -2,7 +2,7 @@
 layout: post
 title: "Planning Your Lead Generation Strategy for the New Year: A Step-by-Step Framework"
 date: 2025-12-19
-description: "A complete framework for planning your real estate lead generation strategy for the new year. Covers goal setting, budgeting, channel selection, and team planning."
+description: "A complete framework for planning your real estate lead generation strategy for the new year. Covers goal setting, budgeting, channel selection, and..."
 target_keyword: "lead generation strategy planning new year"
 categories: [blog]
 tags: ["lead generation strategy", "annual planning", "real estate investing", "cold calling planning", "goal setting"]

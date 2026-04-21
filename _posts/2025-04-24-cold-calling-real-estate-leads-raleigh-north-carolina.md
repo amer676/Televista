@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Raleigh, North Carolina: Research Triangle Market"
 date: 2025-04-24
-description: "A complete guide to cold calling for real estate leads in Raleigh and the Research Triangle — covering Wake, Durham, and Orange counties with scripts and lists for a high-growth market."
+description: "A complete guide to cold calling for real estate leads in Raleigh and the Research Triangle — covering Wake, Durham, and Orange counties with scripts..."
 target_keyword: "cold calling real estate leads Raleigh North Carolina"
 categories: [blog]
 tags: ["cold calling Raleigh North Carolina", "Raleigh real estate investing", "Raleigh motivated sellers", "Wake County wholesale real estate", "Research Triangle lead generation"]

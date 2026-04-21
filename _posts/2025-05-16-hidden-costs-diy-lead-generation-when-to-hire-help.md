@@ -2,7 +2,7 @@
 layout: post
 title: "The Hidden Costs of DIY Lead Generation (and When to Hire Help)"
 date: 2025-05-16
-description: "Discover the true costs of DIY lead generation for real estate investors in 2025. Learn when outsourcing makes financial sense and how to avoid burning time and money."
+description: "Discover the true costs of DIY lead generation for real estate investors in 2025. Learn when outsourcing makes financial sense and how to avoid..."
 target_keyword: "DIY lead generation costs"
 categories: [blog]
 tags: ["lead generation", "outsourcing", "real estate investing", "cold calling costs", "business growth"]

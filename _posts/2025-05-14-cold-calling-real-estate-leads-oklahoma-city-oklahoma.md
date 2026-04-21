@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Oklahoma City, Oklahoma: Energy Market Investing"
 date: 2025-05-14
-description: "A complete guide to cold calling for real estate leads in Oklahoma City — covering Oklahoma County, energy sector seller cycles, military relocation, and scripts for one of America's most affordable major markets."
+description: "A complete guide to cold calling for real estate leads in Oklahoma City — covering Oklahoma County, energy sector seller cycles, military relocation..."
 target_keyword: "cold calling real estate leads Oklahoma City Oklahoma"
 categories: [blog]
 tags: ["cold calling Oklahoma City Oklahoma", "Oklahoma City real estate investing", "Oklahoma City motivated sellers", "Oklahoma County wholesale real estate", "OKC lead generation"]

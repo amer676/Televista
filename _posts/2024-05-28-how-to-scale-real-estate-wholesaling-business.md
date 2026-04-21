@@ -2,7 +2,7 @@
 layout: post
 title: "How to Scale Your Real Estate Wholesaling Business from 1 to 10 Deals per Month"
 date: 2024-05-28
-description: "Learn how to scale your real estate wholesaling business from one deal per month to ten. Covers lead generation, hiring, systems, dispositions, and the operational changes needed to grow."
+description: "Learn how to scale your real estate wholesaling business from one deal per month to ten. Covers lead generation, hiring, systems, dispositions, and..."
 target_keyword: "scale real estate wholesaling business"
 categories: [blog]
 tags: ["wholesaling", "real estate investing", "scaling", "lead generation", "deal flow"]

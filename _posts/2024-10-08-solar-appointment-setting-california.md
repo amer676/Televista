@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting in California: Strategies for the Largest Solar Market"
 date: 2024-10-08
-description: "A complete guide to solar appointment setting in California — covering NEM 3.0 impacts, market-by-market targeting, TCPA compliance, and script strategies for the nation's top solar state."
+description: "A complete guide to solar appointment setting in California — covering NEM 3.0 impacts, market-by-market targeting, TCPA compliance, and script..."
 target_keyword: "solar appointment setting California"
 categories: [blog]
 tags: ["solar appointment setting California", "California solar leads", "California solar sales", "NEM 3.0 solar California", "solar cold calling California"]

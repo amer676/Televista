@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Atlanta, Georgia: The Investor's Playbook"
 date: 2024-04-05
-description: "A detailed playbook for cold calling real estate leads in Atlanta, Georgia, covering Fulton, DeKalb, Cobb, and Gwinnett counties with specific neighborhood strategies and scripts."
+description: "A detailed playbook for cold calling real estate leads in Atlanta, Georgia, covering Fulton, DeKalb, Cobb, and Gwinnett counties with specific..."
 target_keyword: "cold calling real estate leads Atlanta Georgia"
 categories: [blog]
 tags: ["cold calling Atlanta Georgia", "Atlanta real estate investing", "Atlanta motivated sellers", "Atlanta wholesale real estate", "Fulton County DeKalb real estate leads"]

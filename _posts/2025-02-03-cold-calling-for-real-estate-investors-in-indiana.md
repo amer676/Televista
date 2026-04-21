@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Indiana: Heartland Market Guide"
 date: 2025-02-03
-description: "A comprehensive guide to cold calling for real estate investors across Indiana — Indianapolis, Fort Wayne, Evansville, South Bend, and beyond. Market strategies for motivated seller lead generation."
+description: "A comprehensive guide to cold calling for real estate investors across Indiana — Indianapolis, Fort Wayne, Evansville, South Bend, and beyond. Market..."
 target_keyword: "cold calling for real estate investors in Indiana"
 categories: [blog]
 tags: ["cold calling Indiana", "real estate investing Indiana", "Indiana motivated sellers", "Indiana wholesale real estate", "Indianapolis Fort Wayne lead generation"]

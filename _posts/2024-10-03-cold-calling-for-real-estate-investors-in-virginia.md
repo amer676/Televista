@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Virginia: Mid-Atlantic Market Strategies"
 date: 2024-10-03
-description: "A complete guide to cold calling for real estate investors across Virginia — Northern Virginia, Richmond, Hampton Roads, and beyond. Market-specific strategies for motivated seller lead generation."
+description: "A complete guide to cold calling for real estate investors across Virginia — Northern Virginia, Richmond, Hampton Roads, and beyond. Market-specific..."
 target_keyword: "cold calling for real estate investors in Virginia"
 categories: [blog]
 tags: ["cold calling Virginia", "real estate investing Virginia", "Virginia motivated sellers", "Virginia wholesale real estate", "Northern Virginia Richmond Norfolk leads"]

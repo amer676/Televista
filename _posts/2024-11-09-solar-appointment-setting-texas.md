@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting in Texas: The Emerging Solar Giant"
 date: 2024-11-09
-description: "A complete guide to solar appointment setting in Texas — covering the ERCOT grid story, energy independence messaging, key markets across Dallas-Fort Worth, Houston, San Antonio, and Austin, and Texas-specific scripts."
+description: "A complete guide to solar appointment setting in Texas — covering the ERCOT grid story, energy independence messaging, key markets across Dallas-Fort..."
 target_keyword: "solar appointment setting Texas"
 categories: [blog]
 tags: ["solar appointment setting Texas", "Texas solar leads", "Texas solar sales", "Texas solar market", "solar cold calling Texas"]

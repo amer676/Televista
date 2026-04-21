@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting in the Northeast: New England and Mid-Atlantic Market Guide"
 date: 2025-02-08
-description: "A complete guide to solar appointment setting in the Northeast — covering New Jersey, Massachusetts, Connecticut, New York, and Rhode Island with state incentive programs, high-rate utility messaging, and seasonal strategy."
+description: "A complete guide to solar appointment setting in the Northeast — covering New Jersey, Massachusetts, Connecticut, New York, and Rhode Island with..."
 target_keyword: "solar appointment setting Northeast"
 categories: [blog]
 tags: ["solar appointment setting Northeast", "Northeast solar leads", "New England solar sales", "New Jersey solar market", "solar cold calling Northeast"]

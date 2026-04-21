@@ -2,7 +2,7 @@
 layout: post
 title: "B2B Cold Calling Strategies That Actually Work in 2024"
 date: 2024-07-30
-description: "Proven B2B cold calling strategies for SaaS, professional services, and appointment setting. Learn how to reach decision makers and book qualified meetings."
+description: "Proven B2B cold calling strategies for SaaS, professional services, and appointment setting. Learn how to reach decision makers and book qualified..."
 target_keyword: "B2B cold calling strategies"
 categories: [blog]
 tags: ["B2B cold calling", "appointment setting", "sales strategies", "decision makers", "B2B lead generation"]

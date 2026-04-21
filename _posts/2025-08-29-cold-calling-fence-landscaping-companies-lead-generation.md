@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Fence and Landscaping Companies: A Lead Generation Playbook"
 date: 2025-08-29
-description: "A complete lead generation playbook for fence and landscaping companies using cold calling -- seasonal targeting, homeowner lists, scripts, and appointment setting strategies."
+description: "A complete lead generation playbook for fence and landscaping companies using cold calling -- seasonal targeting, homeowner lists, scripts, and..."
 target_keyword: "cold calling for fence and landscaping companies"
 categories: [blog]
 tags: ["fence companies", "landscaping leads", "home services", "cold calling", "appointment setting"]

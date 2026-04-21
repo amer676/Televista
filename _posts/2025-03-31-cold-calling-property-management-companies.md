@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Property Management Companies: Finding New Clients"
 date: 2025-03-31
-description: "Learn how property management companies can use cold calling to find new landlord and investor clients. Scripts, targeting strategies, and conversion techniques for PM growth."
+description: "Learn how property management companies can use cold calling to find new landlord and investor clients. Scripts, targeting strategies, and conversion..."
 target_keyword: "cold calling for property management companies"
 categories: [blog]
 tags: ["property management", "cold calling", "client acquisition", "landlords", "B2B cold calling"]

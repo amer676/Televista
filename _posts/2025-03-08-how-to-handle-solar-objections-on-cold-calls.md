@@ -2,7 +2,7 @@
 layout: post
 title: "How to Handle Solar Objections on Cold Calls: A Rebuttal Guide"
 date: 2025-03-08
-description: "A complete guide to handling solar objections on cold calls — with full rebuttal scripts for 10 common objections, bridge phrases, and tone guidance for solar appointment setters."
+description: "A complete guide to handling solar objections on cold calls — with full rebuttal scripts for 10 common objections, bridge phrases, and tone guidance..."
 target_keyword: "solar objections cold calling"
 categories: [blog]
 tags: ["solar objections", "solar cold calling rebuttals", "solar appointment setting", "handle solar objections", "solar sales objections"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Phoenix, Arizona: Sun Belt Growth Market"
 date: 2024-05-14
-description: "A detailed guide to cold calling for real estate leads in Phoenix, Arizona, covering Maricopa County neighborhoods, the snowbird absentee market, and Sun Belt growth dynamics."
+description: "A detailed guide to cold calling for real estate leads in Phoenix, Arizona, covering Maricopa County neighborhoods, the snowbird absentee market, and..."
 target_keyword: "cold calling real estate leads Phoenix Arizona"
 categories: [blog]
 tags: ["cold calling Phoenix Arizona", "Phoenix real estate investing", "Phoenix motivated sellers", "Maricopa County wholesale real estate", "Phoenix lead generation"]

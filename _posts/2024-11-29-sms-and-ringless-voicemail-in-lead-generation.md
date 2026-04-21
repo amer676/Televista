@@ -2,7 +2,7 @@
 layout: post
 title: "The Role of SMS and Ringless Voicemail in Modern Lead Generation"
 date: 2024-11-29
-description: "Explore how SMS marketing and ringless voicemail fit into a modern real estate lead generation strategy. Covers compliance, best practices, platform options, and integration with cold calling."
+description: "Explore how SMS marketing and ringless voicemail fit into a modern real estate lead generation strategy. Covers compliance, best practices, platform..."
 target_keyword: "SMS ringless voicemail lead generation"
 categories: [blog]
 tags: ["SMS marketing", "ringless voicemail", "lead generation"]

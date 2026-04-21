@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Dallas-Fort Worth, Texas"
 date: 2024-03-15
-description: "A detailed guide to cold calling for real estate leads in the Dallas-Fort Worth Metroplex, covering the best neighborhoods, list types, and scripts for DFW motivated sellers."
+description: "A detailed guide to cold calling for real estate leads in the Dallas-Fort Worth Metroplex, covering the best neighborhoods, list types, and scripts..."
 target_keyword: "cold calling real estate leads Dallas Texas"
 categories: [blog]
 tags: ["cold calling Dallas Texas", "Dallas real estate investing", "DFW motivated sellers", "Dallas wholesale real estate", "Dallas Fort Worth lead generation"]

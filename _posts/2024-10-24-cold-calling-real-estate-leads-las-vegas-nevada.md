@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Las Vegas, Nevada: Investor's Market Guide"
 date: 2024-10-24
-description: "Learn how to cold call for real estate leads in Las Vegas, Nevada. Script angles, best list types, and market-specific strategies for Clark County motivated seller lead generation."
+description: "Learn how to cold call for real estate leads in Las Vegas, Nevada. Script angles, best list types, and market-specific strategies for Clark County..."
 target_keyword: "cold calling real estate leads Las Vegas Nevada"
 categories: [blog]
 tags: ["cold calling Las Vegas Nevada", "Las Vegas real estate investing", "Las Vegas motivated sellers", "Clark County wholesale real estate", "Las Vegas lead generation"]

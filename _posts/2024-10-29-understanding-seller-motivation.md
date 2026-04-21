@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding Seller Motivation: What Makes Homeowners Say Yes"
 date: 2024-10-29
-description: "Explore the psychology behind seller motivation in real estate. Learn how to identify, qualify, and connect with motivated sellers through cold calling and outbound lead generation."
+description: "Explore the psychology behind seller motivation in real estate. Learn how to identify, qualify, and connect with motivated sellers through cold..."
 target_keyword: "seller motivation real estate"
 categories: [blog]
 tags: ["motivated sellers", "seller psychology", "real estate investing"]

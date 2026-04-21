@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting in Arizona: Desert Sun Market Strategies"
 date: 2025-01-08
-description: "A complete guide to solar appointment setting in Arizona — covering APS vs. SRP territory differences, Phoenix metro targeting, seasonal bill timing, and scripts for America's highest-irradiance solar market."
+description: "A complete guide to solar appointment setting in Arizona — covering APS vs. SRP territory differences, Phoenix metro targeting, seasonal bill timing..."
 target_keyword: "solar appointment setting Arizona"
 categories: [blog]
 tags: ["solar appointment setting Arizona", "Arizona solar leads", "Arizona solar sales", "APS SRP solar Arizona", "solar cold calling Arizona"]

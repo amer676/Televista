@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Pennsylvania: A State Market Guide"
 date: 2024-07-03
-description: "A comprehensive guide to cold calling for real estate investors in Pennsylvania, covering Philadelphia, Pittsburgh, Allentown, and statewide strategies for finding motivated sellers."
+description: "A comprehensive guide to cold calling for real estate investors in Pennsylvania, covering Philadelphia, Pittsburgh, Allentown, and statewide..."
 target_keyword: "cold calling for real estate investors in Pennsylvania"
 categories: [blog]
 tags: ["cold calling Pennsylvania", "real estate investing Pennsylvania", "Pennsylvania motivated sellers", "Pennsylvania wholesale real estate", "Philly Pittsburgh lead generation"]

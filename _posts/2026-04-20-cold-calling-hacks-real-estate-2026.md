@@ -17,18 +17,18 @@ The winner? He'd doubled down on cold calling while everyone else chased shiny o
 
 Nobody wants to admit it, but while the real estate world obsessed over chatbots and automated sequences, smart money quietly returned to the phones. We're not talking about the spray-and-pray cold calling from 2019 — it's about surgical, data-backed approaches that make portal leads look embarrassing.
 
-[Televista's analysis](https://televistaleadgeneration.com/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026) shows portal leads converting at **0.2%** in March 2026. Meanwhile, connect-to-appointment rates for cold calling averaged [12.4% across industries](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) according to Prospeo's latest data.
+[Televista's analysis](/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026) shows portal leads converting at **0.2%** in March 2026. Meanwhile, connect-to-appointment rates for cold calling averaged [12.4% across industries](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) according to Prospeo's latest data.
 
 The math isn't close.
 
-But here's the problem — [73% of investors still can't calculate their true ROI](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) from cold calling. They're flying blind. Our [Televista](/services.html) team has onboarded 200+ clients over two years, and the pattern's always the same: investors know cold calling works, but they're doing it wrong.
+But here's the problem — [73% of investors still can't calculate their true ROI](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) from cold calling. They're flying blind. Our [Televista](/services.html) team has onboarded 200+ clients over two years, and the pattern's always the same: investors know cold calling works, but they're doing it wrong.
 
 It's not about whether to pick up the phone. It's about using data to turn cold calling into a precision instrument. No fluff, no theory — just the unconventional techniques that separate closers from dialers.
 
 ## Key Takeaways
 
 - Data-backed cold calling outperforms portal leads significantly.
-- Most investors can't accurately calculate their [cold calling ROI](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026/).
+- Most investors can't accurately calculate their [cold calling ROI](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026/).
 - Timing and script adjustments can dramatically improve results.
 - Televista's strategies have proven effective across multiple markets.
 
@@ -38,9 +38,9 @@ Walk into any REIA meeting in 2026, and you'll hear the same thing. "Cold callin
 
 Complete BS.
 
-The problem isn't cold calling — it's that **73% of investors still can't calculate their true ROI** ([Televista Blog: Cold Calling ROI 2026](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). They're making million-dollar business decisions based on fantasy math.
+The problem isn't cold calling — it's that **73% of investors still can't calculate their true ROI** ([Televista Blog: Cold Calling ROI 2026](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). They're making million-dollar business decisions based on fantasy math.
 
-Perfect example: A [Televista](/services.html) client in Phoenix, a wholesale operation, initially thought their cold calling ROI was 340%. Guy was ready to hire 10 more callers. But the actual number after factoring in all costs? **127%** ([Televista Blog: Cold Calling ROI 2026](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). Still profitable, sure. But nowhere near what he thought.
+Perfect example: A [Televista](/services.html) client in Phoenix, a wholesale operation, initially thought their cold calling ROI was 340%. Guy was ready to hire 10 more callers. But the actual number after factoring in all costs? **127%** ([Televista Blog: Cold Calling ROI 2026](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). Still profitable, sure. But nowhere near what he thought.
 
 Most investors track leads and deals. That's it. They don't track:
 - Caller hourly wages (with overtime)
@@ -53,7 +53,7 @@ Most investors track leads and deals. That's it. They don't track:
 
 The data problem runs deeper though. Investors obsess over connect rates but ignore conversion quality. They'll celebrate a 15% connect rate while completely missing that their scripts convert at 0.8% instead of the industry benchmark of 2.1%.
 
-You can't improve what you don't measure correctly. And you definitely can't set up [advanced cold calling](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/) hacks when you're still guessing at your baseline numbers.
+You can't improve what you don't measure correctly. And you definitely can't set up [advanced cold calling](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/) hacks when you're still guessing at your baseline numbers.
 
 That's why the unconventional strategies we're about to cover actually work — they're built on real data, not wishful thinking.
 
@@ -61,7 +61,7 @@ That's why the unconventional strategies we're about to cover actually work — 
 
 Portal leads are trash. There, I said it.
 
-[Televista's analysis](https://televistaleadgeneration.com/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026) shows portal leads converting at a **0.2% rate** in March 2026. Meanwhile, expired listings are hitting **43% conversion rates** according to [REDX](https://www.redx.com). The math isn't even close.
+[Televista's analysis](/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026) shows portal leads converting at a **0.2% rate** in March 2026. Meanwhile, expired listings are hitting **43% conversion rates** according to [REDX](https://www.redx.com). The math isn't even close.
 
 We tested this head-to-head in Austin last quarter — one of our [Televista](/services.html) clients wanted proof. Team A hammered Zillow and [Realtor.com](https://www.realtor.com) leads for 90 days. Team B called nothing but expired and FSBO lists from the same zip codes.
 
@@ -115,7 +115,7 @@ Portal leads from [Zillow](https://www.zillow.com) might cost more according to 
 
 **8.2%.**
 
-That's your baseline dial-to-connect rate if you're calling randomly. [Prospeo's 2026 data](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows this across all industries — and honestly, most real estate investors are doing worse.
+That's your baseline dial-to-connect rate if you're calling randomly. [Prospeo's 2026 data](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows this across all industries — and honestly, most real estate investors are doing worse.
 
 But here's where it gets interesting. Our [Televista](/services.html) team tracked 47,000 dials across Q3 and found something nobody talks about: **timing optimization can push connect rates to 14.8%**. That's an 80% bump just from being smarter about when you dial.
 
@@ -129,7 +129,7 @@ Timezone considerations matter more than you think. We had a client in Phoenix c
 
 The afternoon sweet spot hits around **2:30pm-4:00pm** — but only Tuesday through Thursday. Mondays people are buried in meetings. Fridays they've mentally checked out.
 
-One thing most people get backwards: they think higher connect rates automatically mean better results. Wrong. You want to optimize for the **12.4% connect-to-appointment rate** ([source](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)) next. But you can't convert conversations you never have.
+One thing most people get backwards: they think higher connect rates automatically mean better results. Wrong. You want to optimize for the **12.4% connect-to-appointment rate** ([source](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)) next. But you can't convert conversations you never have.
 
 Start tracking your timing data this week. Takes maybe 30 seconds per call to log in [HubSpot](https://www.hubspot.com), but the payoff is massive.
 
@@ -137,7 +137,7 @@ Start tracking your timing data this week. Takes maybe 30 seconds per call to lo
 
 Psychology's dirty secret? We're **2.5x more motivated** to avoid losing something than to gain something equivalent.
 
-Daniel Kahneman won a Nobel Prize proving this. Most [real estate cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) callers still ignore it completely.
+Daniel Kahneman won a Nobel Prize proving this. Most [real estate cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) callers still ignore it completely.
 
 Here's the reframe that'll change everything. Instead of "I can help you sell your house fast," try: "Without the right buyer, you're losing $847 every month you don't sell." Same outcome. Totally different brain chemistry.
 
@@ -199,7 +199,7 @@ Generic scripts are scale killers. Period.
 
 We segment every campaign by property type — distressed single-family gets a completely different approach than luxury condos. Sounds obvious, but [94% of buying decisions are made subconsciously](https://coldcallgym.com/blog/advanced-cold-call-psychology) before rational thought kicks in. Your script needs to match their mental state immediately.
 
-One Austin client tested this head-to-head last quarter. Generic portal scripts? **3 deals in 90 days**. Segmented expired listing scripts by property type? [**14 deals same period**](https://televistaleadgeneration.com/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026). Numbers don't lie.
+One Austin client tested this head-to-head last quarter. Generic portal scripts? **3 deals in 90 days**. Segmented expired listing scripts by property type? [**14 deals same period**](/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026). Numbers don't lie.
 
 **Hack #9: Dynamic Script Adaptation Based on Call Outcome Data**
 
@@ -211,7 +211,7 @@ We track every outcome: hang-up timing, objection types, callback requests. Then
 
 Speed to lead is dead. Callback velocity is everything.
 
-Most investors wait 24-48 hours for callbacks (terrible mistake). We've cracked the code on optimal timing: **47 minutes for hot leads, 4.3 hours for warm leads**. Sounds random? It's not. These windows align with decision-making cycles we've tracked across [200+ Televista clients](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026).
+Most investors wait 24-48 hours for callbacks (terrible mistake). We've cracked the code on optimal timing: **47 minutes for hot leads, 4.3 hours for warm leads**. Sounds random? It's not. These windows align with decision-making cycles we've tracked across [200+ Televista clients](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026).
 
 > **Key Stat:** North Alabama House Buyer scaled from 22 deals/year to **150+ deals using this exact methodology** — 15,000 mailers, 40,000 calls monthly, same team size.
 
@@ -219,7 +219,7 @@ The difference between struggling at 20 deals/year and crushing 150? Systems tha
 
 ## The Complete Data Collection Framework (Your DIY Implementation Guide)
 
-Here's the truth about [cold calling data](https://televistaleadgeneration.com/blog/2026/04/10/cold-calling-data-strategies-2026/) — most investors track the wrong stuff.
+Here's the truth about [cold calling data](/blog/2026/04/10/cold-calling-data-strategies-2026/) — most investors track the wrong stuff.
 
 They obsess over dial counts and ignore conversion quality. Track appointments but not show rates. Measure calls per hour while their cost-per-deal skyrockets.
 
@@ -245,7 +245,7 @@ The Austin case study I mentioned earlier? That client implemented all four pill
 
 Let me lay out the numbers that matter.
 
-Most investors don't know if they're winning or losing because they're comparing themselves to... nothing. Here's your reality check against actual 2026 benchmarks from [Prospeo's telemarketing conversion rates](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026):
+Most investors don't know if they're winning or losing because they're comparing themselves to... nothing. Here's your reality check against actual 2026 benchmarks from [Prospeo's telemarketing conversion rates](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026):
 
 | Metric | Industry Average | High Performers | Elite (Top 5%) |
 |--------|-----------------|-----------------|----------------|
@@ -254,7 +254,7 @@ Most investors don't know if they're winning or losing because they're comparing
 | **Show Rate** | 67% | 78% | 89% |
 | **Close Rate** | 18% | 34% | 52% |
 
-Raw portal leads? You're looking at **0.2% conversion** according to [Televista's March 2026 analysis](https://televistaleadgeneration.com/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026). Expired listings from [REDX](https://www.redx.com)? **43% conversion rates**. The gap isn't even close.
+Raw portal leads? You're looking at **0.2% conversion** according to [Televista's March 2026 analysis](/blog/2026/04/13/cold-calling-tips-scripts-real-estate-2026). Expired listings from [REDX](https://www.redx.com)? **43% conversion rates**. The gap isn't even close.
 
 Our [Televista](/services.html) team tracks these numbers obsessively — we've seen clients jump from bottom quartile (6% dial-to-connect) to elite tier (20%+) in 8 weeks. Same market, same leads. Different execution.
 
@@ -268,7 +268,7 @@ Track against these benchmarks monthly. If you're not hitting high-performer num
 
 Look, I'll be honest — anyone can hire a call center and hope for the best.
 
-But **[Televista](/services.html) has onboarded 200+ clients** over the past two years ([Televista Blog: Cold Calling ROI 2026](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). We've seen every possible way campaigns can implode. More importantly, we know exactly how to fix them.
+But **[Televista](/services.html) has onboarded 200+ clients** over the past two years ([Televista Blog: Cold Calling ROI 2026](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)). We've seen every possible way campaigns can implode. More importantly, we know exactly how to fix them.
 
 Most investors think they want more calls. Wrong. They want more deals. Huge difference.
 
@@ -301,7 +301,7 @@ Don't try to implement all ten hacks at once. I've watched investors burn out th
 
 Here's the thing about data-backed cold calling — the testing phase kills most campaigns before they start. You spend three months split-testing scripts while your competitors are closing deals with proven frameworks.
 
-[Televista has onboarded 200+ clients](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) over the past two years, which means we've already done the heavy lifting. The data exists. The frameworks work. Why reinvent the wheel when you could be dialing tomorrow?
+[Televista has onboarded 200+ clients](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) over the past two years, which means we've already done the heavy lifting. The data exists. The frameworks work. Why reinvent the wheel when you could be dialing tomorrow?
 
 One of our clients in Denver went from 2 deals per month to 8 using these exact strategies. Took six weeks to dial everything in properly.
 
@@ -311,9 +311,9 @@ Stop testing. Start closing.
 
 ## Related Articles
 
-- [Cold Calling Metrics Data Driven Approach Sales Success](https://televistaleadgeneration.com/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
-- [Complete Guide Real Estate Disposition Selling Wholesale Deals](https://televistaleadgeneration.com/blog/2025/10/28/complete-guide-real-estate-disposition-selling-wholesale-deals/)
-- [How Build Trust With Motivated Sellers The Phone](https://televistaleadgeneration.com/blog/2025/10/17/how-to-build-trust-with-motivated-sellers-on-the-phone/)
+- [Cold Calling Metrics Data Driven Approach Sales Success](/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
+- [Complete Guide Real Estate Disposition Selling Wholesale Deals](/blog/2025/10/28/complete-guide-real-estate-disposition-selling-wholesale-deals/)
+- [How Build Trust With Motivated Sellers The Phone](/blog/2025/10/17/how-to-build-trust-with-motivated-sellers-on-the-phone/)
 
 ---
 

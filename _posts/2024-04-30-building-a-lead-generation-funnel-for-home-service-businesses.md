@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Lead Generation Funnel for Home Service Businesses"
 date: 2024-04-30
-description: "Learn how to build an effective lead generation funnel for home service businesses including HVAC, plumbing, roofing, and landscaping. From awareness to booked appointments."
+description: "Learn how to build an effective lead generation funnel for home service businesses including HVAC, plumbing, roofing, and landscaping. From awareness..."
 target_keyword: "lead generation funnel home service businesses"
 categories: [blog]
 tags: ["home services lead generation", "sales funnel", "HVAC leads", "plumbing leads", "appointment setting"]

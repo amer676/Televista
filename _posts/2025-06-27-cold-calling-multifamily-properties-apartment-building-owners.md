@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Multifamily Properties: How to Reach Apartment Building Owners"
 date: 2025-06-27
-description: "Learn how to cold call multifamily and apartment building owners effectively. Strategies for data sourcing, scripts, and building relationships with commercial property owners."
+description: "Learn how to cold call multifamily and apartment building owners effectively. Strategies for data sourcing, scripts, and building relationships with..."
 target_keyword: "cold calling multifamily properties"
 categories: [blog]
 tags: ["multifamily investing", "cold calling", "apartment buildings", "commercial real estate", "lead generation"]

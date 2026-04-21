@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Illinois: State Guide"
 date: 2024-05-03
-description: "A complete guide to cold calling for real estate investors in Illinois, covering Chicago metro, Rockford, Peoria, Springfield, and downstate opportunities with high-tax motivated seller strategies."
+description: "A complete guide to cold calling for real estate investors in Illinois, covering Chicago metro, Rockford, Peoria, Springfield, and downstate..."
 target_keyword: "cold calling for real estate investors in Illinois"
 categories: [blog]
 tags: ["cold calling Illinois", "real estate investing Illinois", "Illinois motivated sellers", "Illinois wholesale real estate", "Chicago suburbs lead generation"]

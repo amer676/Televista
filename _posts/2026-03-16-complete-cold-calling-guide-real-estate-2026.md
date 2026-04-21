@@ -8,6 +8,8 @@ categories: [blog]
 tags: ["real estate cold calling", "cold calling scripts", "real estate lead generation", "real estate sales", "cold calling strategies"]
 author: "Televista Team"
 og_image: /assets/images/og-image.png
+robots: "noindex, follow"
+canonical_url: "/blog/2026/04/07/ultimate-cold-calling-system-real-estate-investors-2026/"
 ---
 
 ## Why 2026 Changes Everything for Real Estate Cold Calling

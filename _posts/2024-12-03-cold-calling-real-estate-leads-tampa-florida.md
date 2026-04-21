@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Tampa, Florida: Gulf Coast Growth Market"
 date: 2024-12-03
-description: "Learn how to cold call for real estate leads in Tampa, Florida. Script angles, best list types, and market-specific strategies for Hillsborough, Pinellas, and Pasco county motivated sellers."
+description: "Learn how to cold call for real estate leads in Tampa, Florida. Script angles, best list types, and market-specific strategies for Hillsborough..."
 target_keyword: "cold calling real estate leads Tampa Florida"
 categories: [blog]
 tags: ["cold calling Tampa Florida", "Tampa real estate investing", "Tampa motivated sellers", "Hillsborough County wholesale real estate", "Tampa St Petersburg lead generation"]

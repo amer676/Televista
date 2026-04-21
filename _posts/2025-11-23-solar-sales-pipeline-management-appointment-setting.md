@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Sales Pipeline Management: How Appointment Setting Feeds the Revenue Engine"
 date: 2025-11-23
-description: "How appointment setting connects to the full solar sales pipeline. Covers pipeline stages, revenue forecasting, velocity metrics, downstream bottlenecks, and how to build a consistent solar revenue engine."
+description: "How appointment setting connects to the full solar sales pipeline. Covers pipeline stages, revenue forecasting, velocity metrics, downstream..."
 target_keyword: "solar sales pipeline management"
 categories: [blog]
 tags: ["solar sales pipeline", "solar revenue management", "solar appointment setting pipeline", "solar CRM pipeline", "solar sales forecasting"]

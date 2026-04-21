@@ -2,7 +2,7 @@
 layout: post
 title: "How to Set Up Zapier Automations for Your Cold Calling Workflow"
 date: 2025-08-08
-description: "Step-by-step guide to setting up Zapier automations for your cold calling workflow -- CRM triggers, follow-up sequences, and data enrichment that save hours weekly."
+description: "Step-by-step guide to setting up Zapier automations for your cold calling workflow -- CRM triggers, follow-up sequences, and data enrichment that..."
 target_keyword: "Zapier automations cold calling workflow"
 categories: [blog]
 tags: ["Zapier", "automation", "cold calling workflow", "CRM integration", "real estate technology"]

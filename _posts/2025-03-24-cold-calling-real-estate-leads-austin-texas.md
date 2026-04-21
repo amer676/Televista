@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Austin, Texas: Tech Boom Real Estate"
 date: 2025-03-24
-description: "A complete guide to cold calling for real estate leads in Austin, Texas — covering Travis, Williamson, and Hays counties, equity-rich sellers, and scripts for a market shaped by tech-driven appreciation."
+description: "A complete guide to cold calling for real estate leads in Austin, Texas — covering Travis, Williamson, and Hays counties, equity-rich sellers, and..."
 target_keyword: "cold calling real estate leads Austin Texas"
 categories: [blog]
 tags: ["cold calling Austin Texas", "Austin real estate investing", "Austin motivated sellers", "Travis County wholesale real estate", "Austin lead generation"]

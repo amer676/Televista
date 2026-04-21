@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Minnesota: North Star State Market Guide"
 date: 2024-12-28
-description: "A comprehensive guide to cold calling for real estate investors across Minnesota — Minneapolis, St. Paul, Rochester, Duluth, and beyond. Market-specific strategies for motivated seller lead generation."
+description: "A comprehensive guide to cold calling for real estate investors across Minnesota — Minneapolis, St. Paul, Rochester, Duluth, and beyond..."
 target_keyword: "cold calling for real estate investors in Minnesota"
 categories: [blog]
 tags: ["cold calling Minnesota", "real estate investing Minnesota", "Minnesota motivated sellers", "Minnesota wholesale real estate", "Minneapolis St Paul lead generation"]

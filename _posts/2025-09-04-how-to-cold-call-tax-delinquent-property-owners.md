@@ -2,7 +2,7 @@
 layout: post
 title: "How to Cold Call Tax Delinquent Property Owners"
 date: 2025-09-04
-description: "Learn how to cold call tax delinquent property owners effectively. Scripts, strategies, and compliance tips for real estate investors targeting distressed leads."
+description: "Learn how to cold call tax delinquent property owners effectively. Scripts, strategies, and compliance tips for real estate investors targeting..."
 target_keyword: "cold call tax delinquent property owners"
 categories: [blog]
 tags: ["cold calling", "tax delinquent", "motivated sellers", "real estate investing", "lead generation"]

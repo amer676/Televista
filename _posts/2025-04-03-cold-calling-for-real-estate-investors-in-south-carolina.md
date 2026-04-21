@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in South Carolina: Coastal and Inland Strategies"
 date: 2025-04-03
-description: "A complete guide to cold calling for real estate investors in South Carolina — covering Charleston, Greenville, Columbia, and Myrtle Beach with market-specific list strategies and scripts."
+description: "A complete guide to cold calling for real estate investors in South Carolina — covering Charleston, Greenville, Columbia, and Myrtle Beach with..."
 target_keyword: "cold calling for real estate investors in South Carolina"
 categories: [blog]
 tags: ["cold calling South Carolina", "real estate investing South Carolina", "South Carolina motivated sellers", "South Carolina wholesale real estate", "Charleston Myrtle Beach Greenville leads"]

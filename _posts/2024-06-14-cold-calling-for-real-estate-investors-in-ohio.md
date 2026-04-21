@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Ohio: Rust Belt Opportunities"
 date: 2024-06-14
-description: "A complete guide to cold calling for real estate investors in Ohio, covering Columbus, Cleveland, Cincinnati, and how to find motivated sellers in the Midwest's most accessible investor market."
+description: "A complete guide to cold calling for real estate investors in Ohio, covering Columbus, Cleveland, Cincinnati, and how to find motivated sellers in..."
 target_keyword: "cold calling for real estate investors in Ohio"
 categories: [blog]
 tags: ["cold calling Ohio", "real estate investing Ohio", "Ohio motivated sellers", "Ohio wholesale real estate", "Cleveland Columbus Cincinnati lead generation"]

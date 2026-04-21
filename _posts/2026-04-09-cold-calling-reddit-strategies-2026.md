@@ -9,13 +9,13 @@ tags: ["cold calling tips", "real estate investing", "reddit strategies", "lead 
 author: "Televista Team"
 ---
 
-## Beyond the Scripts: [Unconventional Cold Calling](https://televistaleadgeneration.com/blog/2026/04/09/unconventional-cold-calling-tips-real-estate-reddit/) Tips [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026 (Reddit-Inspired)
+## Beyond the Scripts: [Unconventional Cold Calling](/blog/2026/04/09/unconventional-cold-calling-tips-real-estate-reddit/) Tips [for Real Estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026 (Reddit-Inspired)
 
 Two investors walk into the same market with identical budgets. One closes 14 deals. The other barely scrapes together 2.
 
 Scripts aren't the difference — they're often the problem.
 
-While 73% of real estate investors can't even calculate their [cold calling ROI](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026/) (according to recent BiggerPockets surveys), Reddit communities are quietly sharing tactics that make traditional "smile and dial" look prehistoric. We're talking about strategies from [r/realestateinvesting](https://reddit.com/r/realestateinvesting) that flip everything upside down.
+While 73% of real estate investors can't even calculate their [cold calling ROI](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026/) (according to recent BiggerPockets surveys), Reddit communities are quietly sharing tactics that make traditional "smile and dial" look prehistoric. We're talking about strategies from [r/realestateinvesting](https://reddit.com/r/realestateinvesting) that flip everything upside down.
 
 > **Key Stat:** [Handling objections first increases conversion rates](https://www.linkedin.com/posts/laurentickner_i-analyzed-200000-posts-and-found-these-activity-7368991181910794243-vVg1) by measurable margins according to LinkedIn data analysis.
 
@@ -27,7 +27,7 @@ Ready to throw out your script binder? Let's dig into what actually works when y
 
 ## Key Takeaways
 
-- Reddit real estate communities offer actionable [cold calling strategies](https://televistaleadgeneration.com/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) that traditional sources miss.
+- Reddit real estate communities offer actionable [cold calling strategies](/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) that traditional sources miss.
 - Reverse psychology openers and local research bombs can dramatically increase connect rates.
 - Breaking the 3-3-3 and 80/20 rules strategically can improve results.
 - Problem acknowledgment frameworks outperform traditional scripts.
@@ -101,13 +101,13 @@ Complete garbage in practice — at least according to half the investors on Red
 
 The 80/20 rule? Same story. Focus on your best 20% of leads for 80% of your results. Makes sense until you realize most real estate investors can't even identify that magic 20%. They're just guessing based on zip codes and equity numbers.
 
-[Prospeo's 2026 telemarketing data](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows an 8.2% dial-to-connect rate across industries. But here's what the data doesn't tell you — rigid adherence to these rules often tanks your connect rates. One Reddit user in [r/realestateinvesting](https://www.reddit.com/r/realestateinvesting) tracked his calls for 6 months. Following 3-3-3? 4.1% connect rate. Breaking it strategically? 11.3%.
+[Prospeo's 2026 telemarketing data](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows an 8.2% dial-to-connect rate across industries. But here's what the data doesn't tell you — rigid adherence to these rules often tanks your connect rates. One Reddit user in [r/realestateinvesting](https://www.reddit.com/r/realestateinvesting) tracked his calls for 6 months. Following 3-3-3? 4.1% connect rate. Breaking it strategically? 11.3%.
 
 **When to break 3-3-3:** If you get a soft no ("not right now"), don't wait 72 hours. Call back in 2-3 weeks with fresh market intelligence. That "no" often means "I'm overwhelmed, not ready, or need time to think." Most investors give up after attempt three.
 
 [Our team](/about.html) at [Televista](https://televistaleadgeneration.com) tested both approaches side by side last quarter. The breakthrough came when we ditched rigid timing rules for contextual ones.
 
-**The 80/20 problem:** Most investors focus on high-equity properties thinking that's their 20%. Wrong metric entirely. The real 20%? Owners with pending life changes. Job transfers, divorces, inheritance situations, downsizing. These convert at 12.4% connect-to-appointment rates (matching [Prospeo's 2026 benchmark](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)) instead of the typical 3-4%.
+**The 80/20 problem:** Most investors focus on high-equity properties thinking that's their 20%. Wrong metric entirely. The real 20%? Owners with pending life changes. Job transfers, divorces, inheritance situations, downsizing. These convert at 12.4% connect-to-appointment rates (matching [Prospeo's 2026 benchmark](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)) instead of the typical 3-4%.
 
 > **Pro tip:** One wholesaler in Phoenix tracks "trigger events" using [PropStream](https://www.propstream.com) — not just equity. He ignores the 80/20 rule completely and focuses on recent life changes. Closed 9 deals last month.
 
@@ -255,7 +255,7 @@ One of our [Televista](/services.html) clients in Dallas started using AI call g
 
 > **Key Stat:** AI-enhanced calling will boost conversion rates by 34% in 2027, but only for investors who master human psychology first.
 
-The [73% of investors who can't calculate their ROI](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)? They'll get crushed. Smart money's already combining these Reddit-proven tactics with AI analysis.
+The [73% of investors who can't calculate their ROI](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)? They'll get crushed. Smart money's already combining these Reddit-proven tactics with AI analysis.
 
 Commercial guys hitting $2mm-$5mm industrial properties won't rely on brokers much longer either. AI's making hyper-local intelligence accessible to everyone.
 
@@ -269,7 +269,7 @@ Most investors spend 3-4 months trying to implement this solo. They fumble the t
 
 That [Phoenix wholesaler](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) we worked with at [Televista](https://televistaleadgeneration.com/services.html)? Hit 127% ROI within 6 weeks using these exact Reddit tactics. But he didn't waste time learning dialers and managing call lists — we handled the execution while he focused on closing deals.
 
-[Prospeo's latest data](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows 8.2% dial-to-connect rates industry-wide. Reddit strategies push that to 15-20%. But only if you implement them correctly — which honestly, 70% of investors don't.
+[Prospeo's latest data](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows 8.2% dial-to-connect rates industry-wide. Reddit strategies push that to 15-20%. But only if you implement them correctly — which honestly, 70% of investors don't.
 
 **Here's your next move:** Stop theorizing. [Book a strategy call](/contact.html) this week and we'll show you exactly how these unconventional tactics translate to your market.
 
@@ -277,9 +277,9 @@ Because while you're debating implementation details, your competitors are alrea
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Cold Calling Metrics Data Driven Approach Sales Success](https://televistaleadgeneration.com/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
-- [Advanced Dialer Strategies Real Estate Investors](https://televistaleadgeneration.com/blog/2026/03/09/advanced-ai-dialer-strategies-real-estate-investors/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Cold Calling Metrics Data Driven Approach Sales Success](/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
+- [Advanced Dialer Strategies Real Estate Investors](/blog/2026/03/09/advanced-ai-dialer-strategies-real-estate-investors/)
 
 ---
 

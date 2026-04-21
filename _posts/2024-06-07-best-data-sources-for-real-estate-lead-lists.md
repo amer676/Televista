@@ -2,7 +2,7 @@
 layout: post
 title: "The Best Data Sources for Real Estate Lead Lists"
 date: 2024-06-07
-description: "Compare the best data sources for real estate lead lists including PropStream, BatchLeads, and ListSource. Covers features, pricing, skip tracing, and how to build targeted motivated seller lists."
+description: "Compare the best data sources for real estate lead lists including PropStream, BatchLeads, and ListSource. Covers features, pricing, skip tracing..."
 target_keyword: "best data sources real estate lead lists"
 categories: [blog]
 tags: ["real estate data", "PropStream", "BatchLeads", "ListSource", "lead lists", "skip tracing"]

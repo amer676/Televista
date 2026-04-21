@@ -2,7 +2,7 @@
 layout: post
 title: "Residential vs Commercial Solar Cold Calling: How the Approach Differs"
 date: 2025-10-03
-description: "A detailed comparison of residential vs commercial solar cold calling approaches, covering script differences, qualification criteria, sales cycle expectations, and how to train teams for each market."
+description: "A detailed comparison of residential vs commercial solar cold calling approaches, covering script differences, qualification criteria, sales cycle..."
 target_keyword: "residential vs commercial solar cold calling"
 categories: [blog]
 tags: ["residential solar cold calling", "commercial solar cold calling", "solar appointment setting", "B2C vs B2B solar", "solar sales comparison"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Charlotte, North Carolina"
 date: 2024-07-24
-description: "A detailed guide to cold calling for real estate leads in Charlotte, NC, covering Mecklenburg County neighborhoods, the banking hub seller profile, and strategies for finding motivated sellers in one of the Southeast's fastest-growing markets."
+description: "A detailed guide to cold calling for real estate leads in Charlotte, NC, covering Mecklenburg County neighborhoods, the banking hub seller profile..."
 target_keyword: "cold calling real estate leads Charlotte North Carolina"
 categories: [blog]
 tags: ["cold calling Charlotte North Carolina", "Charlotte real estate investing", "Charlotte motivated sellers", "Mecklenburg County wholesale real estate", "Charlotte lead generation"]

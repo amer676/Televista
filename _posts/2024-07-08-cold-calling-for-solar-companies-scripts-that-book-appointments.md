@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Solar Companies: Scripts That Book Appointments"
 date: 2024-07-08
-description: "Complete cold calling scripts for solar companies — with full call flows, objection trees, and sample dialogue for appointment setters who need to book qualified solar consultations."
+description: "Complete cold calling scripts for solar companies — with full call flows, objection trees, and sample dialogue for appointment setters who need to..."
 target_keyword: "cold calling for solar companies"
 categories: [blog]
 tags: ["cold calling solar companies", "solar cold calling scripts", "solar appointment setting", "solar sales scripts", "book solar appointments"]

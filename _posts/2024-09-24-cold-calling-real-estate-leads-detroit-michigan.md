@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Detroit, Michigan: Revitalization and Opportunity"
 date: 2024-09-24
-description: "Learn how to cold call for real estate leads in Detroit, Michigan. Wayne County tax foreclosure lists, script angles, and market-specific strategies for Wayne, Oakland, and Macomb counties."
+description: "Learn how to cold call for real estate leads in Detroit, Michigan. Wayne County tax foreclosure lists, script angles, and market-specific strategies..."
 target_keyword: "cold calling real estate leads Detroit Michigan"
 categories: [blog]
 tags: ["cold calling Detroit Michigan", "Detroit real estate investing", "Detroit motivated sellers", "Wayne County wholesale real estate", "Detroit lead generation"]

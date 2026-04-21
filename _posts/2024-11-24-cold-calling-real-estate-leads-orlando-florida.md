@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Orlando, Florida: Theme Park City Opportunities"
 date: 2024-11-24
-description: "Learn how to cold call for real estate leads in Orlando, Florida. Script angles, best list types, and market-specific strategies for Orange County, Osceola, and Seminole County motivated sellers."
+description: "Learn how to cold call for real estate leads in Orlando, Florida. Script angles, best list types, and market-specific strategies for Orange County..."
 target_keyword: "cold calling real estate leads Orlando Florida"
 categories: [blog]
 tags: ["cold calling Orlando Florida", "Orlando real estate investing", "Orlando motivated sellers", "Orange County wholesale real estate", "Orlando lead generation"]

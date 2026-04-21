@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Referral Programs as a Lead Generation Strategy: Building Word-of-Mouth"
 date: 2025-10-13
-description: "How to build a solar referral program that generates high-quality leads. Covers incentive structures, how setters can ask for referrals, the neighborhood clustering strategy, and how to measure referral performance."
+description: "How to build a solar referral program that generates high-quality leads. Covers incentive structures, how setters can ask for referrals, the..."
 target_keyword: "solar referral program lead generation"
 categories: [blog]
 tags: ["solar referral program", "solar word of mouth", "solar lead generation", "solar referrals", "solar customer acquisition"]

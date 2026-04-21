@@ -2,7 +2,7 @@
 layout: post
 title: "How to Create Effective Cold Calling Scripts That Don't Sound Robotic"
 date: 2024-11-19
-description: "Learn how to write cold calling scripts that sound natural and convert. Covers script frameworks, objection handling, personalization techniques, and training methods for real estate callers."
+description: "Learn how to write cold calling scripts that sound natural and convert. Covers script frameworks, objection handling, personalization techniques, and..."
 target_keyword: "cold calling scripts real estate"
 categories: [blog]
 tags: ["cold calling scripts", "sales scripts", "real estate cold calling"]

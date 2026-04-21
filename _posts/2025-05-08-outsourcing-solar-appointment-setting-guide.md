@@ -2,7 +2,7 @@
 layout: post
 title: "Outsourcing Solar Appointment Setting: What to Look For in a Provider"
 date: 2025-05-08
-description: "Considering outsourcing your solar appointment setting? This guide covers what to look for, questions to ask, red flags to avoid, and how to compare costs against building in-house."
+description: "Considering outsourcing your solar appointment setting? This guide covers what to look for, questions to ask, red flags to avoid, and how to compare..."
 target_keyword: "outsource solar appointment setting"
 categories: [blog]
 tags: ["outsource solar appointment setting", "solar appointment setting company", "solar lead generation outsourcing", "solar sales outsourcing", "solar appointment setters"]

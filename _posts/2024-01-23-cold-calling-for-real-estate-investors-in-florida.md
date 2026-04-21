@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Florida: Market Guide and Strategies"
 date: 2024-01-23
-description: "A detailed guide to cold calling for real estate investors in Florida, covering Miami, Orlando, Tampa, Jacksonville, and the state's unique absentee owner and snowbird opportunities."
+description: "A detailed guide to cold calling for real estate investors in Florida, covering Miami, Orlando, Tampa, Jacksonville, and the state's unique absentee..."
 target_keyword: "cold calling for real estate investors in Florida"
 categories: [blog]
 tags: ["cold calling Florida", "real estate investing Florida", "Florida motivated sellers", "Florida wholesale real estate", "lead generation Florida"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Indianapolis, Indiana: Mid-Market Investing"
 date: 2025-02-14
-description: "Learn how to cold call for real estate leads in Indianapolis, Indiana. Market-specific strategies for Marion County, absentee investors, and motivated seller lead generation in the wholesale capital of the Midwest."
+description: "Learn how to cold call for real estate leads in Indianapolis, Indiana. Market-specific strategies for Marion County, absentee investors, and..."
 target_keyword: "cold calling real estate leads Indianapolis Indiana"
 categories: [blog]
 tags: ["cold calling Indianapolis Indiana", "Indianapolis real estate investing", "Indianapolis motivated sellers", "Marion County wholesale real estate", "Indianapolis lead generation"]

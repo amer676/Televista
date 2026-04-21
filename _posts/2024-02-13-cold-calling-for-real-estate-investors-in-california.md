@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in California: Navigating a High-Price Market"
 date: 2024-02-13
-description: "A practical guide to cold calling for real estate investors in California, covering Los Angeles, Sacramento, the Inland Empire, and strategies for high-equity motivated sellers."
+description: "A practical guide to cold calling for real estate investors in California, covering Los Angeles, Sacramento, the Inland Empire, and strategies for..."
 target_keyword: "cold calling for real estate investors in California"
 categories: [blog]
 tags: ["cold calling California", "real estate investing California", "California motivated sellers", "California wholesale real estate", "lead generation California"]

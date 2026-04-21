@@ -2,7 +2,7 @@
 layout: post
 title: "How to Use Facebook Ads Alongside Cold Calling for Maximum Lead Flow"
 date: 2025-11-07
-description: "Learn how to combine Facebook Ads with cold calling for real estate lead generation. Build a multi-channel strategy that delivers consistent, qualified leads."
+description: "Learn how to combine Facebook Ads with cold calling for real estate lead generation. Build a multi-channel strategy that delivers consistent..."
 target_keyword: "facebook ads cold calling real estate lead generation"
 categories: [blog]
 tags: ["facebook ads", "cold calling", "lead generation", "real estate investing", "multi-channel marketing"]

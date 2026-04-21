@@ -17,7 +17,7 @@ The results? Brutal.
 
 Guy in Phoenix thinks he's crushing it — 4% connect rate, spending $2,800/month on lists and dialers. But when we calculated his true cost per deal? **$3,400 per closed transaction**. He's been bleeding money for eight months straight, thinking he's profitable because he tracks "cost per lead" instead of actual ROI.
 
-He's not alone. [Televista's latest analysis](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows **73% of investors still can't calculate their true cold calling ROI**. They're measuring vanity metrics — dial-to-connect ratios, appointment-to-show rates — while missing the numbers that actually matter.
+He's not alone. [Televista's latest analysis](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) shows **73% of investors still can't calculate their true cold calling ROI**. They're measuring vanity metrics — dial-to-connect ratios, appointment-to-show rates — while missing the numbers that actually matter.
 
 > **Key Stat:** True cold calling ROI includes 14 hidden costs that most investors never track.
 
@@ -42,15 +42,15 @@ We hear this every week from new investors who've burned through $5,000 on terri
 
 Truth? Cold calling isn't dead. Most people are just doing it spectacularly wrong.
 
-[Prospeo's 2026 telemarketing conversion rates](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) show dial-to-connect rates averaging **8.2% across industries**. Connect-to-appointment sits at **12.4%**. Those aren't funeral numbers — they're actually solid when you know what you're doing.
+[Prospeo's 2026 telemarketing conversion rates](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) show dial-to-connect rates averaging **8.2% across industries**. Connect-to-appointment sits at **12.4%**. Those aren't funeral numbers — they're actually solid when you know what you're doing.
 
 But here's where it gets interesting (and frustrating). Most investors we onboard think success means dialing 500 numbers a day. Volume over everything. Wrong playbook entirely.
 
-After onboarding [200+ clients over the past two years](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), we've spotted the pattern. Successful investors in 2026 aren't dialing more — they're dialing smarter. Way smarter.
+After onboarding [200+ clients over the past two years](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), we've spotted the pattern. Successful investors in 2026 aren't dialing more — they're dialing smarter. Way smarter.
 
 Old-school approach: buy a massive list from [ListSource](https://listsource.com), blast through it with generic scripts, hope something sticks.
 
-Data-driven approach: micro-target [motivated sellers using](https://televistaleadgeneration.com/blog/2024/02/09/find-motivated-sellers-using-public-records/) propensity data, craft psychology-first scripts, track every metric that actually moves deals.
+Data-driven approach: micro-target [motivated sellers using](/blog/2024/02/09/find-motivated-sellers-using-public-records/) propensity data, craft psychology-first scripts, track every metric that actually moves deals.
 
 > **Key Stat:** Our top-performing Televista clients connect with 2.3X more motivated sellers per 100 dials — not by talking faster, but by calling the right people with the right message.
 
@@ -135,7 +135,7 @@ Match your response to their situation:
 
 The pattern? Acknowledge → Problem-specific question → Position as solution provider.
 
-One of our Televista clients in Dallas went from 2 appointments per week to 8 using this exact matrix. [According to Prospeo's 2026 telemarketing conversion rates](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), connect-to-appointment rates averaged 12.4% across industries — but this investor hit 31% once he stopped defending and started reversing.
+One of our Televista clients in Dallas went from 2 appointments per week to 8 using this exact matrix. [According to Prospeo's 2026 telemarketing conversion rates](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), connect-to-appointment rates averaged 12.4% across industries — but this investor hit 31% once he stopped defending and started reversing.
 
 > **Pro tip:** Never say "but" after an objection. Use "and" instead — it feels collaborative, not combative.
 
@@ -155,7 +155,7 @@ Here's the timeline that works:
 
 The magic happens in the follow-ups. Most investors give up after the first "not interested." We don't.
 
-[Cold calling is more measurable than Facebook ads or Google PPC](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), with every interaction logged and tracked. Your CRM becomes a goldmine — we recommend [ZipperAgent's Predictive CRM](https://[zipperagent](https://www.zipperagent.com/the-benefits-of-integrating-crm-cold-calling-and-sales-marketing-for-real-estate-agents).com) for automated sequencing.
+[Cold calling is more measurable than Facebook ads or Google PPC](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), with every interaction logged and tracked. Your CRM becomes a goldmine — we recommend [ZipperAgent's Predictive CRM](https://[zipperagent](https://www.zipperagent.com/the-benefits-of-integrating-crm-cold-calling-and-sales-marketing-for-real-estate-agents).com) for automated sequencing.
 
 One Televista client in Dallas called the same motivated seller five times over six weeks. First four calls? "Not interested." Fifth call? "Actually, my situation changed — can you come look at the house tomorrow?" **$47,000 wholesale fee** from persistence.
 
@@ -169,11 +169,11 @@ Most investors quit too early. The money's in the follow-up sequence, not the fi
 
 ## Hack #5: The Data-Backed Call Timing Strategy
 
-Time of day [matters more than](https://televistaleadgeneration.com/blog/2024/03/18/weekly-reporting-matters-more-than-daily-call-volume/) most investors realize.
+Time of day [matters more than](/blog/2024/03/18/weekly-reporting-matters-more-than-daily-call-volume/) most investors realize.
 
 We've tracked 14,000+ cold calls at [Televista](/services.html) across different property types and owner demographics. The timing patterns? Mind-blowing. You can double your connect rate just by dialing at the right time for the right person.
 
-[Prospeo's 2026 telemarketing conversion rates](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) show dial-to-connect rates averaging 8.2% across industries. But that's the average — and averages are useless when you're targeting specific seller types.
+[Prospeo's 2026 telemarketing conversion rates](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) show dial-to-connect rates averaging 8.2% across industries. But that's the average — and averages are useless when you're targeting specific seller types.
 
 **Retirees:** 9am-11am weekdays hit 14.3% connect rates. Makes sense. They're home, had their coffee, watching morning news. Afternoons drop to 6.8%.
 
@@ -189,7 +189,7 @@ Seasonal patterns matter too (honestly, most investors ignore this). January-Mar
 
 Our [Televista](/services.html) team schedules campaigns based on property type and owner profile automatically. No more guessing games. We've got it down to ZIP code level — because timing patterns vary geographically too.
 
-Connect-to-appointment rates average [12.4% across industries](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), but proper timing bumps that to 18.7%.
+Connect-to-appointment rates average [12.4% across industries](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026), but proper timing bumps that to 18.7%.
 
 ## Hack #6: Advanced CRM Integration for Deal Flow Management
 
@@ -222,7 +222,7 @@ Most investors think they're calculating ROI. They're not.
 
 They count deal revenue minus list costs — boom, 340% ROI! But they forgot dialer subscriptions, hourly wages, follow-up time, and the opportunity cost of NOT working other lead sources. Our [Televista](/services.html) client in Phoenix thought he had a **340% cold calling ROI**. Reality? **127%** after we factored in all costs.
 
-[73% of investors still can't calculate their true cold calling ROI](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026). They're making budget decisions based on fantasy numbers.
+[73% of investors still can't calculate their true cold calling ROI](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026). They're making budget decisions based on fantasy numbers.
 
 Here's the formula that actually works:
 
@@ -236,7 +236,7 @@ ALL costs means everything:
 - Follow-up time (often 2-3x initial call time)
 - Your opportunity cost (what else could you do with that time?)
 
-[SalesHive's ROI calculator](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) breaks this down perfectly — plug in your numbers and see the real picture.
+[SalesHive's ROI calculator](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) breaks this down perfectly — plug in your numbers and see the real picture.
 
 **Step-by-step tracking methodology:**
 
@@ -268,19 +268,19 @@ Here's what we actually handle for our clients:
 
 **Compliance:** TCPA violations can cost you $500-$1,500 per call. We handle all the legal stuff so you're not getting sued by angry homeowners.
 
-One [Televista client](/about.html) in Phoenix — wholesale operation focused on residential deals — thought his cold calling ROI was 340% when he calculated it himself. After [we ran the real numbers](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)? **127% actual ROI** once we factored in all costs. Still profitable, but he was making decisions based on fantasy math.
+One [Televista client](/about.html) in Phoenix — wholesale operation focused on residential deals — thought his cold calling ROI was 340% when he calculated it himself. After [we ran the real numbers](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)? **127% actual ROI** once we factored in all costs. Still profitable, but he was making decisions based on fantasy math.
 
 Our [pricing](/pricing.html) starts at **$1,250/month** for full campaign management. That includes lists, callers, follow-up sequences, and appointment setting. Most investors spend more than that trying to DIY it — and get terrible results.
 
-The [200+ clients we've onboarded](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) over the past two years chose us for one reason: they'd rather close deals than babysit dialers.
+The [200+ clients we've onboarded](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) over the past two years chose us for one reason: they'd rather close deals than babysit dialers.
 
 Want to see how this works for your market? [Book a strategy call](/contact.html) and we'll break down the numbers specific to your area.
 
-## 2026 Market Outlook: [Why Cold Calling](https://televistaleadgeneration.com/blog/2023/05/30/roofing-lead-generation-why-cold-calling-beats-door-knocking/) Will Dominate Real Estate Investing
+## 2026 Market Outlook: [Why Cold Calling](/blog/2023/05/30/roofing-lead-generation-why-cold-calling-beats-door-knocking/) Will Dominate Real Estate Investing
 
 Market's about to flip. Hard.
 
-We're seeing the perfect storm for direct investor-to-seller relationships — [and cold calling](https://televistaleadgeneration.com/blog/2025/01/28/driving-for-dollars-and-cold-calling-leads/) is positioned better than ever. [RealTrends just published their 2025 AI tools roundup](https://www.realtrends.com/blog/2025/01/06/ai-tools-for-real-estate-agents), showing how tech-heavy the agent side is getting. But here's the thing: all that automation makes personal connection more valuable, not less.
+We're seeing the perfect storm for direct investor-to-seller relationships — [and cold calling](/blog/2025/01/28/driving-for-dollars-and-cold-calling-leads/) is positioned better than ever. [RealTrends just published their 2025 AI tools roundup](https://www.realtrends.com/blog/2025/01/06/ai-tools-for-real-estate-agents), showing how tech-heavy the agent side is getting. But here's the thing: all that automation makes personal connection more valuable, not less.
 
 **Rising interest rates + inventory constraints = motivated sellers who'll talk.**
 
@@ -288,7 +288,7 @@ Traditional lead sources are getting hammered. Facebook ad costs up 34% year-ove
 
 Why? Market consolidation.
 
-Smaller wholesalers and flippers can't afford $8,000/month marketing budgets anymore. They're dropping out, leaving more opportunities for investors who can actually pick up the phone. We've onboarded 200+ clients over the past two years, and the pattern's clear — [direct calling consistently outperforms digital marketing](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) when markets get choppy.
+Smaller wholesalers and flippers can't afford $8,000/month marketing budgets anymore. They're dropping out, leaving more opportunities for investors who can actually pick up the phone. We've onboarded 200+ clients over the past two years, and the pattern's clear — [direct calling consistently outperforms digital marketing](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) when markets get choppy.
 
 > **Key Stat:** Cold calling ROI stays stable during recessions while digital ad performance tanks.
 
@@ -296,9 +296,9 @@ Smaller wholesalers and flippers can't afford $8,000/month marketing budgets any
 
 ## Related Articles
 
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Complete Guide Real Estate Disposition Selling Wholesale Deals](https://televistaleadgeneration.com/blog/2025/10/28/complete-guide-real-estate-disposition-selling-wholesale-deals/)
-- [Cold Calling For Real Estate Investors The Complete Guide](https://televistaleadgeneration.com/blog/2026/01/13/cold-calling-for-real-estate-investors-the-complete-2026-guide/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Complete Guide Real Estate Disposition Selling Wholesale Deals](/blog/2025/10/28/complete-guide-real-estate-disposition-selling-wholesale-deals/)
+- [Cold Calling For Real Estate Investors The Complete Guide](/blog/2026/01/13/cold-calling-for-real-estate-investors-the-complete-2026-guide/)
 
 ---
 

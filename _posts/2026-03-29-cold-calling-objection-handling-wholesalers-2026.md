@@ -9,9 +9,9 @@ tags: ["cold calling", "objection handling", "wholesaling", "real estate scripts
 author: "Televista Team"
 ---
 
-## Why 2026 is Make-or-Break for Wholesaler [Cold Calling](https://televistaleadgeneration.com/blog/2026/03/29/maximizing-cold-calling-strategies-wholesalers-kentucky/)
+## Why 2026 is Make-or-Break for Wholesaler [Cold Calling](/blog/2026/03/29/maximizing-cold-calling-strategies-wholesalers-kentucky/)
 
-Three things every wholesaler gets wrong about 2026: **[Cold calling](https://televistaleadgeneration.com/blog/2026/03/29/cold-calling-realtors-2026-guide/) is getting easier.** Objection handling is more predictable. The competition's getting lazy.
+Three things every wholesaler gets wrong about 2026: **[Cold calling](/blog/2026/03/29/cold-calling-realtors-2026-guide/) is getting easier.** Objection handling is more predictable. The competition's getting lazy.
 
 While everyone's panicking about AI and privacy laws, [Cognism's latest research](https://www.cognism.com/state-of-cold-calling) shows something wild — their data from 50,000+ dials proves skilled callers are crushing it harder than ever. The homeowners who pick up? They're tired of texts and emails. A real voice cuts through.
 
@@ -21,7 +21,7 @@ They're still using 2019 scripts on 2026 homeowners. Objections have evolved —
 
 **The objection handling crisis is real.** We've seen this firsthand at [Televista](/cold-calling-for-wholesalers.html) — clients come to us after burning through 500-1000 cold leads with zero appointments. Same story every time: they can get homeowners on the phone, but they're dying at the objection stage.
 
-[Voqo's AI [cold calling](https://televistaleadgeneration.com/blog/2026/03/29/best-b2b-cold-calling-agencies/) research](https://www.voqo.ai/blog/ai-cold-calling-for-real-estate-prospecting) from October shows that wholesalers using updated objection frameworks are booking **3x more appointments** than those stuck on old scripts. Not because the leads are better — because they're handling the resistance better.
+[Voqo's AI [cold calling](/blog/2026/03/29/best-b2b-cold-calling-agencies/) research](https://www.voqo.ai/blog/ai-cold-calling-for-real-estate-prospecting) from October shows that wholesalers using updated objection frameworks are booking **3x more appointments** than those stuck on old scripts. Not because the leads are better — because they're handling the resistance better.
 
 Here's what's different in 2026: homeowners Google you during the call now. They're asking harder questions. They want proof upfront.
 
@@ -62,7 +62,7 @@ Let me save you 3 months of trial and error. After running objection analysis fo
 
 The difference? Regular sales objections are about price and timing. Wholesaling objections attack your entire business model.
 
-**"Why aren't you a [real estate](https://televistaleadgeneration.com/blog/2026/03/28/wholesale-real-estate-crash-course-2026/) agent?"**
+**"Why aren't you a [real estate](/blog/2026/03/28/wholesale-real-estate-crash-course-2026/) agent?"**
 This hits every single campaign. Homeowners expect agents, not investors. They're confused why you're calling about their house without a license hanging on the wall. It's not hostility — it's genuine confusion about what you do.
 
 **"My house isn't distressed or in foreclosure."**
@@ -77,7 +77,7 @@ Brutal but predictable. Cash offers from strangers trigger every fraud antenna t
 > **Key Stat:** According to [REIkit's analysis of 15 common seller objections](https://www.reikit.com/overcome-objections-real-estate-wholesaling), trust-related objections like "scam" concerns appear in 73% of initial conversations.
 
 **"I already have a buyer if I decide to sell."**
-Translation: they've got an agent cousin or friend who "does [real estate](https://televistaleadgeneration.com/blog/2026/03/26/best-states-wholesale-real-estate-2024/)." Sometimes it's true, sometimes it's a polite brush-off. Either way, you're fighting an existing relationship.
+Translation: they've got an agent cousin or friend who "does [real estate](/blog/2026/03/26/best-states-wholesale-real-estate-2024/)." Sometimes it's true, sometimes it's a polite brush-off. Either way, you're fighting an existing relationship.
 
 **"How did you get my information?"**
 Privacy concerns hit different in 2026. Homeowners want to know where you pulled their details — especially phone numbers. It's not always adversarial, but it derails your flow every time.
@@ -139,7 +139,7 @@ After analyzing 12,000+ cold calls from our [Televista](/services.html) campaign
 *Why they're saying it:* Privacy concerns are through the roof in 2026. They're genuinely freaked out.
 
 **Script Option A (Transparent):**
-"Fair question — got it from [public records](https://televistaleadgeneration.com/blog/2026/03/27/free-absentee-owner-leads-public-records/) when your property showed up on our investor list. Not some sketchy database. Mind if I tell you why it flagged for us?"
+"Fair question — got it from [public records](/blog/2026/03/27/free-absentee-owner-leads-public-records/) when your property showed up on our investor list. Not some sketchy database. Mind if I tell you why it flagged for us?"
 
 **Script Option B (Pivot Fast):**
 "Public records — totally legal. But here's what's more interesting — your property fits exactly what our cash buyers are hunting for. Want to hear why?"

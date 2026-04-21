@@ -2,7 +2,7 @@
 layout: post
 title: "Solar for Multi-Family Properties: Appointment Setting Strategies for Apartments and Condos"
 date: 2025-11-13
-description: "How to approach solar lead generation for multi-family properties including apartments, condos, and HOAs. Covers community solar for renters, the building owner angle, and how to qualify multi-family leads."
+description: "How to approach solar lead generation for multi-family properties including apartments, condos, and HOAs. Covers community solar for renters, the..."
 target_keyword: "solar appointment setting multi-family"
 categories: [blog]
 tags: ["solar multi-family properties", "solar apartments condos", "commercial solar lead generation", "community solar", "solar appointment setting multi-family"]

@@ -11,13 +11,13 @@ robots: "noindex, follow"
 canonical_url: "/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/"
 ---
 
-## The Reality Check: Why Most [Real Estate Cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Fails in 2026
+## The Reality Check: Why Most [Real Estate Cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Fails in 2026
 
-March 2026 numbers hit different. Portal leads are tanking hard — [Televista's analysis](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) shows they're converting at a brutal **0.2%** last year. Meanwhile, expired listings? They're hitting **43% conversion rates** according to [REDX](https://www.redx.com).
+March 2026 numbers hit different. Portal leads are tanking hard — [Televista's analysis](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) shows they're converting at a brutal **0.2%** last year. Meanwhile, expired listings? They're hitting **43% conversion rates** according to [REDX](https://www.redx.com).
 
 Most investors don't see this gap coming.
 
-We ran a side-by-side test with two [Televista](https://televistaleadgeneration.com/services.html) clients in Austin last quarter. Same market, same timeframe. First investor stuck with portal leads and those generic "Hi, I buy houses" scripts everyone uses. [Second investor switched to our targeted approach](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) — expired listings, scenario-specific scripts, actual conversations instead of pitch-vomit.
+We ran a side-by-side test with two [Televista](https://televistaleadgeneration.com/services.html) clients in Austin last quarter. Same market, same timeframe. First investor stuck with portal leads and those generic "Hi, I buy houses" scripts everyone uses. [Second investor switched to our targeted approach](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) — expired listings, scenario-specific scripts, actual conversations instead of pitch-vomit.
 
 > **Key Stat:** 3 deals vs 14 deals. Same 90-day period.
 
@@ -25,7 +25,7 @@ The "cold calling is dead" crowd keeps pushing this narrative while smart invest
 
 Problem isn't the phone calls themselves. It's the lazy approach most people take — buying stale lists from [BatchLeads](https://batchleads.com), reading robotic scripts, and wondering why homeowners hang up after five seconds. You sound like every other investor who called that week.
 
-[Real estate cold](https://televistaleadgeneration.com/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling works when you get tactical about it. Wrong lists and generic scripts? You're competing with 47 other investors saying the exact same thing. Right approach — and I'm talking targeted data, situational scripts, actual research — completely different game.
+[Real estate cold](/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/) calling works when you get tactical about it. Wrong lists and generic scripts? You're competing with 47 other investors saying the exact same thing. Right approach — and I'm talking targeted data, situational scripts, actual research — completely different game.
 
 The phone didn't stop working. Your strategy did.
 
@@ -35,7 +35,7 @@ The phone didn't stop working. Your strategy did.
 - The "cold calling is dead" narrative is misleading; smart investors are succeeding with the right approach.
 - Lazy approaches with stale lists and robotic scripts lead to failure.
 - Tactical cold calling involves targeted data, situational scripts, and research.
-- [Televista's targeted approach](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) led to 14 deals compared to 3 with generic scripts.
+- [Televista's targeted approach](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) led to 14 deals compared to 3 with generic scripts.
 
 ## The 3 C's Framework: Smart Cold Calling for Real Estate Investors
 
@@ -43,15 +43,15 @@ Most investors wing it. They grab a list, fire up [REDX's Power Dialer](https://
 
 That's why they fail.
 
-After running 200+ campaigns, our [Televista](/services.html) team breaks [effective cold calling](https://televistaleadgeneration.com/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) down to 3 C's: **Contact, Context, Conversation**. Simple framework. Massive results.
+After running 200+ campaigns, our [Televista](/services.html) team breaks [effective cold calling](/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) down to 3 C's: **Contact, Context, Conversation**. Simple framework. Massive results.
 
-**Contact** means you're calling the right person at the right time. Not some generic lead list from 2023. We're talking fresh expireds, FSBOs that just hit the market, or motivated sellers from targeted mail campaigns. [Televista analyzed](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) two investor clients in Austin last quarter — one used portal leads and generic scripts, closed 3 deals. The other switched to our targeted approach and closed 14 deals. Same market, same timeframe.
+**Contact** means you're calling the right person at the right time. Not some generic lead list from 2023. We're talking fresh expireds, FSBOs that just hit the market, or motivated sellers from targeted mail campaigns. [Televista analyzed](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) two investor clients in Austin last quarter — one used portal leads and generic scripts, closed 3 deals. The other switched to our targeted approach and closed 14 deals. Same market, same timeframe.
 
 **Context** is your homework. You don't call asking "are you interested in selling?" — you already know they listed with an agent who couldn't move it in 120 days. Or they tried FSBO for 6 weeks and got nowhere. Your opener references their specific situation: "Hey John, saw your property on Maple came off the market last month..."
 
 **Conversation** separates pros from amateurs. You're not pitching — you're diagnosing their problem and positioning yourself as the solution. Real back-and-forth. Questions that uncover motivation. Listening more than talking.
 
-> **Key Stat:** Tactical cold calling outperformed portal leads by [380% in conversion rates during Q3 2026](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026).
+> **Key Stat:** Tactical cold calling outperformed portal leads by [380% in conversion rates during Q3 2026](/blog/2026/04/06/cold-calling-real-estate-tactics-2026).
 
 Most investors miss this (I did this for years). They focus on volume over precision. Better to make 30 strategic calls with proper context than 100 random dials. The 3 C's force you to be intentional — and [legal compliance](https://www.[nar.realtor](https://www.nar.realtor/telemarketing-cold-calling)/telemarketing-cold-calling) becomes way easier when you're calling people who actually want to sell.
 
@@ -112,9 +112,9 @@ The key? Don't mention foreclosure first — they already know.
 
 > **Pro tip:** Out-of-state owners convert 40% higher when you mention local market knowledge first. They're blind to what's happening.
 
-[Televista's data](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) shows tactical cold calling outperformed portal leads by **380%** in conversion rates during Q3 2026. Not because we're magic — because we match the script to the seller's situation.
+[Televista's data](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) shows tactical cold calling outperformed portal leads by **380%** in conversion rates during Q3 2026. Not because we're magic — because we match the script to the seller's situation.
 
-Most investors still use the same pitch for everyone. That's why [expired listings convert at 43%](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) while generic approaches struggle.
+Most investors still use the same pitch for everyone. That's why [expired listings convert at 43%](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) while generic approaches struggle.
 
 Tax lien properties? Lead with the lien, not the house. Inherited properties? Start with family, not financials.
 
@@ -125,7 +125,7 @@ Match the motivation. Everything else is just noise.
 Ready to actually dial? Here's the exact process our [Televista](https://televistaleadgeneration.com) team uses for every campaign.
 
 **Step 1: List Selection (15 minutes max)**
-Fire up [PropStream](https://www.propstream.com) or [BatchLeads](https://www.batchleads.com). Pull absentee owners with 40%+ equity in your target zip codes. Skip the generic FSBO lists — everyone's hitting those. We tested this head-to-head last quarter and tactical cold calling outperformed portal leads by [380% in conversion rates](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026).
+Fire up [PropStream](https://www.propstream.com) or [BatchLeads](https://www.batchleads.com). Pull absentee owners with 40%+ equity in your target zip codes. Skip the generic FSBO lists — everyone's hitting those. We tested this head-to-head last quarter and tactical cold calling outperformed portal leads by [380% in conversion rates](/blog/2026/04/06/cold-calling-real-estate-tactics-2026).
 
 **Step 2: Pre-Call Research (2 minutes per lead)**
 Look up the property on [Zillow](https://www.zillow.com). Check recent sales comps. Note any obvious repairs needed from street view photos. This intel turns generic pitches into conversations.
@@ -260,13 +260,13 @@ The difference? No training curve. No management headaches. No wondering if your
 
 Unless you're closing 15+ deals monthly, outsource it. [Book a strategy call](/contact.html) and skip the hiring nightmare entirely.
 
-## Why [Top Real Estate](https://televistaleadgeneration.com/blog/2026/03/17/top-8-real-estate-cold-calling-companies/) Investors Trust Televista for Cold Calling
+## Why [Top Real Estate](/blog/2026/03/17/top-8-real-estate-cold-calling-companies/) Investors Trust Televista for Cold Calling
 
 Look, most cold calling companies talk a big game. Then you get on a call with their "trained" reps who sound like they're reading from a script circa 2019.
 
 We're different. Our [Televista](https://televistaleadgeneration.com) team actually knows real estate — we've closed deals, we understand motivated sellers, and we've dialed through every objection you can imagine.
 
-**The Austin case study proves it.** [Televista ran a test](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) with two investor clients in Austin last quarter. First client stuck with portal leads and generic scripts — closed 3 deals total. The other switched to our tactical approach (targeted lists, scenario-specific scripts, real conversations) and closed **14 deals**. Same market. Same timeframe.
+**The Austin case study proves it.** [Televista ran a test](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) with two investor clients in Austin last quarter. First client stuck with portal leads and generic scripts — closed 3 deals total. The other switched to our tactical approach (targeted lists, scenario-specific scripts, real conversations) and closed **14 deals**. Same market. Same timeframe.
 
 That's not luck — it's process.
 
@@ -286,11 +286,11 @@ Stop overthinking this.
 
 You've got the 3 C's framework. You know the legal landmines. The scripts are sitting in your CRM. But here's what separates closers from dialers — **execution at scale**.
 
-Most investors try building this in-house. They hire an ISA, watch them struggle for eight weeks, then fire them and start over. Meanwhile, portal leads keep converting at [0.2%](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) while you're training your third caller this year.
+Most investors try building this in-house. They hire an ISA, watch them struggle for eight weeks, then fire them and start over. Meanwhile, portal leads keep converting at [0.2%](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) while you're training your third caller this year.
 
 Skip the headache. Our [Televista](https://televistaleadgeneration.com) team has already dialed through every objection, tested every script variation, and built the systems that convert. We handle the daily grind — list scrubbing, compliance checks, appointment setting — so you can focus on closing deals.
 
-Remember those Austin clients? One closed 3 deals with generic scripts. [The other closed 14](https://televistaleadgeneration.com/blog/2026/04/06/cold-calling-real-estate-tactics-2026) using our tactical approach. Same market, same timeframe, **380% better results**.
+Remember those Austin clients? One closed 3 deals with generic scripts. [The other closed 14](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) using our tactical approach. Same market, same timeframe, **380% better results**.
 
 Your next step isn't complicated. [Book a strategy call](/contact.html) with [our team](/about.html). We'll audit your current approach, show you exactly where you're leaving deals on the table, and map out a custom campaign for your market.
 
@@ -298,9 +298,9 @@ Don't let another quarter slip by wondering "what if."
 
 ## Related Articles
 
-- [Cold Calling Real Estate Leads Austin Texas](https://televistaleadgeneration.com/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
-- [Ultimate Cold Calling System Real Estate Investors](https://televistaleadgeneration.com/blog/2026/04/07/ultimate-cold-calling-system-real-estate-investors-2026/)
-- [Televista Qualified Homeowner Leads Review](https://televistaleadgeneration.com/blog/2026/03/23/televista-qualified-homeowner-leads-review/)
+- [Cold Calling Real Estate Leads Austin Texas](/blog/2025/03/24/cold-calling-real-estate-leads-austin-texas/)
+- [Ultimate Cold Calling System Real Estate Investors](/blog/2026/04/07/ultimate-cold-calling-system-real-estate-investors-2026/)
+- [Televista Qualified Homeowner Leads Review](/blog/2026/03/23/televista-qualified-homeowner-leads-review/)
 
 ---
 

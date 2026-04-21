@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Lead Generation in the Off-Season: Keeping Appointments Flowing Year-Round"
 date: 2025-11-03
-description: "How to maintain strong solar appointment volume during slow seasons. Covers messaging pivots, tax credit urgency, battery storage angles, referral campaigns, and keeping your calling team productive year-round."
+description: "How to maintain strong solar appointment volume during slow seasons. Covers messaging pivots, tax credit urgency, battery storage angles, referral..."
 target_keyword: "solar lead generation off-season"
 categories: [blog]
 tags: ["solar lead generation off-season", "year-round solar appointments", "solar appointment setting winter", "solar fall winter lead generation", "maintain solar pipeline"]

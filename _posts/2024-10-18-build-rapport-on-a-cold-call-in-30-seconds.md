@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build Rapport on a Cold Call in 30 Seconds or Less"
 date: 2024-10-18
-description: "Master the art of building instant rapport on cold calls. Practical techniques for real estate investors to connect with prospects in the first 30 seconds and keep them on the line."
+description: "Master the art of building instant rapport on cold calls. Practical techniques for real estate investors to connect with prospects in the first 30..."
 target_keyword: "build rapport cold call"
 categories: [blog]
 tags: ["cold calling tips", "rapport building", "sales techniques"]

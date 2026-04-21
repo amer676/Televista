@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Pest Control and Home Service Companies"
 date: 2025-10-06
-description: "A complete guide to cold calling for pest control, HVAC, roofing, and other home service companies. Scripts, strategies, and best practices for booking more appointments."
+description: "A complete guide to cold calling for pest control, HVAC, roofing, and other home service companies. Scripts, strategies, and best practices for..."
 target_keyword: "cold calling for pest control home service companies"
 categories: [blog]
 tags: ["cold calling", "pest control", "home services", "lead generation", "appointment setting"]

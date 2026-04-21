@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Guide to Skip Tracing for Real Estate Investors"
 date: 2024-01-19
-description: "Everything real estate investors need to know about skip tracing: best tools, data accuracy, cost comparison, and how to turn traced contacts into closed deals."
+description: "Everything real estate investors need to know about skip tracing: best tools, data accuracy, cost comparison, and how to turn traced contacts into..."
 target_keyword: "skip tracing for real estate investors"
 categories: [blog]
 tags: ["skip tracing", "real estate investing", "lead generation", "data providers", "motivated sellers"]

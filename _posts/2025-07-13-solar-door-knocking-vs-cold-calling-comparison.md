@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Door Knocking vs Cold Calling: Which Generates Better Appointments?"
 date: 2025-07-13
-description: "A head-to-head comparison of door-to-door solar canvassing versus cold calling for solar appointment setting. Covers cost, quality, scale, and when to use each channel."
+description: "A head-to-head comparison of door-to-door solar canvassing versus cold calling for solar appointment setting. Covers cost, quality, scale, and when..."
 target_keyword: "solar door knocking vs cold calling"
 categories: [blog]
 tags: ["solar door knocking", "solar cold calling", "solar appointment setting", "solar lead generation comparison", "solar canvassing vs cold calling"]

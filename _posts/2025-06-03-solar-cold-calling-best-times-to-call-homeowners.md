@@ -2,7 +2,7 @@
 layout: post
 title: "Best Times to Call Homeowners for Solar Appointments: A Data-Driven Guide"
 date: 2025-06-03
-description: "Discover the best times to call homeowners for solar appointments, including day-of-week analysis, seasonal timing, and how utility billing cycles affect your contact and conversion rates."
+description: "Discover the best times to call homeowners for solar appointments, including day-of-week analysis, seasonal timing, and how utility billing cycles..."
 target_keyword: "best times to call homeowners solar"
 categories: [blog]
 tags: ["best times to call solar", "solar cold calling schedule", "solar appointment setting", "when to call for solar appointments", "solar calling hours"]

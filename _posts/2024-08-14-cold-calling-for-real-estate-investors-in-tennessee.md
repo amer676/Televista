@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Tennessee: Southern State Market Guide"
 date: 2024-08-14
-description: "A comprehensive guide to cold calling for real estate investors across Tennessee — Nashville, Memphis, Knoxville, Chattanooga, and beyond. Learn which markets produce the best motivated seller leads."
+description: "A comprehensive guide to cold calling for real estate investors across Tennessee — Nashville, Memphis, Knoxville, Chattanooga, and beyond. Learn..."
 target_keyword: "cold calling for real estate investors in Tennessee"
 categories: [blog]
 tags: ["cold calling Tennessee", "real estate investing Tennessee", "Tennessee motivated sellers", "Tennessee wholesale real estate", "Memphis Nashville Knoxville leads"]

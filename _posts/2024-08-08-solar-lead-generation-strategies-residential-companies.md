@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Lead Generation Strategies for Residential Solar Companies"
 date: 2024-08-08
-description: "A complete guide to solar lead generation strategies for residential solar companies — comparing cold calling, door-to-door, digital ads, and referrals with practical guidance on building a multi-channel pipeline."
+description: "A complete guide to solar lead generation strategies for residential solar companies — comparing cold calling, door-to-door, digital ads, and..."
 target_keyword: "solar lead generation strategies"
 categories: [blog]
 tags: ["solar lead generation", "residential solar leads", "solar appointment setting", "solar marketing", "solar company growth"]

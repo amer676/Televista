@@ -2,7 +2,7 @@
 layout: post
 title: "Improving Your Solar Appointment Show Rate: Strategies That Actually Work"
 date: 2025-06-13
-description: "Learn proven strategies for reducing solar appointment no-shows, including the 3-touch confirmation process, qualification improvements, and how to track show rate by setter."
+description: "Learn proven strategies for reducing solar appointment no-shows, including the 3-touch confirmation process, qualification improvements, and how to..."
 target_keyword: "solar appointment show rate"
 categories: [blog]
 tags: ["solar appointment show rate", "solar no-shows", "solar appointment setting", "increase solar appointment show rate", "solar sales conversion"]

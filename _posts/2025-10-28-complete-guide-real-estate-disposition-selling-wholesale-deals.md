@@ -2,7 +2,7 @@
 layout: post
 title: "The Complete Guide to Real Estate Disposition: Selling Your Wholesale Deals Fast"
 date: 2025-10-28
-description: "Master real estate disposition and sell your wholesale deals faster. Build a buyers list, price contracts correctly, and close assignments in days, not weeks."
+description: "Master real estate disposition and sell your wholesale deals faster. Build a buyers list, price contracts correctly, and close assignments in days..."
 target_keyword: "real estate disposition selling wholesale deals"
 categories: [blog]
 tags: ["disposition", "wholesaling", "real estate investing", "buyers list", "deal closing"]

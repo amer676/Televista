@@ -2,7 +2,7 @@
 layout: post
 title: "The Complete Guide to Driving for Dollars and Cold Calling Leads"
 date: 2025-01-28
-description: "Combine driving for dollars with cold calling for maximum real estate deal flow. Learn how to identify distressed properties, skip trace owners, and convert leads into appointments."
+description: "Combine driving for dollars with cold calling for maximum real estate deal flow. Learn how to identify distressed properties, skip trace owners, and..."
 target_keyword: "driving for dollars and cold calling"
 categories: [blog]
 tags: ["driving for dollars", "cold calling", "distressed properties", "skip tracing", "real estate leads"]

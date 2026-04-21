@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Nashville, Tennessee: Music City's Hot Market"
 date: 2024-08-03
-description: "Learn how to cold call for real estate leads in Nashville, Tennessee. Discover the best lists, script angles, and market dynamics for Davidson County and surrounding suburbs."
+description: "Learn how to cold call for real estate leads in Nashville, Tennessee. Discover the best lists, script angles, and market dynamics for Davidson County..."
 target_keyword: "cold calling real estate leads Nashville Tennessee"
 categories: [blog]
 tags: ["cold calling Nashville Tennessee", "Nashville real estate investing", "Nashville motivated sellers", "Davidson County wholesale real estate", "Nashville lead generation"]

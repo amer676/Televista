@@ -2,7 +2,7 @@
 layout: post
 title: "The Ultimate Guide to Real Estate Virtual Assistants for Lead Generation"
 date: 2025-09-15
-description: "Everything you need to know about hiring real estate virtual assistants for lead generation. Compare costs, tasks, platforms, and learn when to outsource vs. build in-house."
+description: "Everything you need to know about hiring real estate virtual assistants for lead generation. Compare costs, tasks, platforms, and learn when to..."
 target_keyword: "real estate virtual assistants lead generation"
 categories: [blog]
 tags: ["virtual assistants", "lead generation", "real estate investing", "outsourcing", "cold calling"]

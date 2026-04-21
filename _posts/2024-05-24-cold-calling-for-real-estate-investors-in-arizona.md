@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Arizona: Desert Market Strategies"
 date: 2024-05-24
-description: "A complete guide to cold calling for real estate investors in Arizona, covering Phoenix metro, Tucson, Prescott, and statewide strategies for motivated sellers in the Sun Belt."
+description: "A complete guide to cold calling for real estate investors in Arizona, covering Phoenix metro, Tucson, Prescott, and statewide strategies for..."
 target_keyword: "cold calling for real estate investors in Arizona"
 categories: [blog]
 tags: ["cold calling Arizona", "real estate investing Arizona", "Arizona motivated sellers", "Arizona wholesale real estate", "Tucson real estate leads"]

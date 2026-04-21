@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Denver, Colorado: Rocky Mountain Market Guide"
 date: 2024-08-24
-description: "Learn how to cold call for real estate leads in Denver, Colorado. Discover script angles, the best list types, and market-specific strategies for Adams, Arapahoe, and Jefferson counties."
+description: "Learn how to cold call for real estate leads in Denver, Colorado. Discover script angles, the best list types, and market-specific strategies for..."
 target_keyword: "cold calling real estate leads Denver Colorado"
 categories: [blog]
 tags: ["cold calling Denver Colorado", "Denver real estate investing", "Denver motivated sellers", "Adams Arapahoe Jefferson county wholesale", "Denver lead generation"]

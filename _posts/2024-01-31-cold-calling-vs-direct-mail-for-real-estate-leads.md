@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling vs Direct Mail for Real Estate Leads: Which Works Better?"
 date: 2024-01-31
-description: "A detailed cost and ROI comparison of cold calling vs direct mail for real estate lead generation. Learn which strategy works better for your investing business."
+description: "A detailed cost and ROI comparison of cold calling vs direct mail for real estate lead generation. Learn which strategy works better for your..."
 target_keyword: "cold calling vs direct mail real estate"
 categories: [blog]
 tags: ["cold calling", "direct mail", "real estate leads", "lead generation comparison", "ROI"]

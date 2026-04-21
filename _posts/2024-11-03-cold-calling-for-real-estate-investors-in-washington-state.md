@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Washington State: Pacific Northwest Guide"
 date: 2024-11-03
-description: "A comprehensive guide to cold calling for real estate investors across Washington state — Seattle, Tacoma, Spokane, and Eastern Washington. Market-specific strategies for motivated seller lead generation."
+description: "A comprehensive guide to cold calling for real estate investors across Washington state — Seattle, Tacoma, Spokane, and Eastern Washington..."
 target_keyword: "cold calling for real estate investors in Washington state"
 categories: [blog]
 tags: ["cold calling Washington state", "real estate investing Washington", "Washington motivated sellers", "Washington wholesale real estate", "Seattle Tacoma Spokane leads"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Pre-Foreclosure Lead Generation: How to Help Homeowners Before It's Too Late"
 date: 2025-02-18
-description: "Master pre-foreclosure lead generation for real estate investing. Learn how to find homeowners facing foreclosure, approach them with empathy, and create win-win solutions."
+description: "Master pre-foreclosure lead generation for real estate investing. Learn how to find homeowners facing foreclosure, approach them with empathy, and..."
 target_keyword: "pre-foreclosure lead generation"
 categories: [blog]
 tags: ["pre-foreclosure", "lead generation", "motivated sellers", "foreclosure", "real estate investing"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Missouri: Show-Me State Opportunities"
 date: 2025-01-14
-description: "A complete guide to cold calling for real estate investors across Missouri — Kansas City, St. Louis, Springfield, Columbia, and beyond. Market strategies and motivated seller lead generation tips."
+description: "A complete guide to cold calling for real estate investors across Missouri — Kansas City, St. Louis, Springfield, Columbia, and beyond. Market..."
 target_keyword: "cold calling for real estate investors in Missouri"
 categories: [blog]
 tags: ["cold calling Missouri", "real estate investing Missouri", "Missouri motivated sellers", "Missouri wholesale real estate", "Kansas City St Louis lead generation"]

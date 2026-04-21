@@ -2,7 +2,7 @@
 layout: post
 title: "Insurance Lead Generation: A Complete Guide to Cold Calling for Insurance Agents"
 date: 2024-05-17
-description: "A complete guide to cold calling for insurance agents. Covers lead sources, scripts, objection handling, compliance, and strategies to book more appointments and close more policies."
+description: "A complete guide to cold calling for insurance agents. Covers lead sources, scripts, objection handling, compliance, and strategies to book more..."
 target_keyword: "insurance lead generation cold calling"
 categories: [blog]
 tags: ["insurance leads", "cold calling", "lead generation", "insurance agents", "appointment setting"]

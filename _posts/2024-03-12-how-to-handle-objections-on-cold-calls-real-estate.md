@@ -2,7 +2,7 @@
 layout: post
 title: "How to Handle Objections on Cold Calls: Real Estate Edition"
 date: 2024-03-12
-description: "Master the most common objections you'll face when cold calling homeowners. Real rebuttals, word-for-word scripts, and the psychology behind effective objection handling for real estate investors."
+description: "Master the most common objections you'll face when cold calling homeowners. Real rebuttals, word-for-word scripts, and the psychology behind..."
 target_keyword: "how to handle objections on cold calls real estate"
 categories: [blog]
 tags: ["cold calling objections", "real estate cold calling", "objection handling", "sales rebuttals", "motivated sellers"]

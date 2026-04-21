@@ -2,7 +2,7 @@
 layout: post
 title: "How to Cold Call Expired Listings: Scripts and Strategies for Real Estate Agents"
 date: 2025-05-05
-description: "Learn proven scripts and strategies for cold calling expired listings in 2025. Turn stale MLS failures into your next closing with these agent-tested techniques."
+description: "Learn proven scripts and strategies for cold calling expired listings in 2025. Turn stale MLS failures into your next closing with these agent-tested..."
 target_keyword: "cold calling expired listings"
 categories: [blog]
 tags: ["expired listings", "cold calling scripts", "real estate agents", "lead generation", "listing strategies"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Lead Generation in New Jersey and the Northeast: High-Rate Markets"
 date: 2025-09-03
-description: "A guide to solar lead generation in New Jersey and Northeast states, covering SREC programs, high utility rates, state incentives, and targeting strategies for cold calling campaigns."
+description: "A guide to solar lead generation in New Jersey and Northeast states, covering SREC programs, high utility rates, state incentives, and targeting..."
 target_keyword: "solar lead generation New Jersey"
 categories: [blog]
 tags: ["solar lead generation New Jersey", "NJ solar leads", "solar appointment setting New Jersey", "Northeast solar market", "New Jersey solar sales"]

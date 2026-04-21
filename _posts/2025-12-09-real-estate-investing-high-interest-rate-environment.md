@@ -2,7 +2,7 @@
 layout: post
 title: "Real Estate Investing in a High Interest Rate Environment: Strategies for 2025"
 date: 2025-12-09
-description: "How to find and close real estate deals in a high interest rate environment. Creative financing strategies, subject-to deals, and seller financing lead generation."
+description: "How to find and close real estate deals in a high interest rate environment. Creative financing strategies, subject-to deals, and seller financing..."
 target_keyword: "real estate investing high interest rates 2025"
 categories: [blog]
 tags: ["high interest rates", "real estate investing", "creative financing", "subject-to deals", "seller financing"]

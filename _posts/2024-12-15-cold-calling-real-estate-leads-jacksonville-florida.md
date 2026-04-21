@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in Jacksonville, Florida: Largest City Strategies"
 date: 2024-12-15
-description: "Learn how to cold call for real estate leads in Jacksonville, Florida. Market-specific strategies for Duval County, St. Johns, Clay, and Nassau county motivated sellers."
+description: "Learn how to cold call for real estate leads in Jacksonville, Florida. Market-specific strategies for Duval County, St. Johns, Clay, and Nassau..."
 target_keyword: "cold calling real estate leads Jacksonville Florida"
 categories: [blog]
 tags: ["cold calling Jacksonville Florida", "Jacksonville real estate investing", "Jacksonville motivated sellers", "Duval County wholesale real estate", "Jacksonville lead generation"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling in a Down Market: How to Find Deals When Others Give Up"
 date: 2025-01-06
-description: "Learn how to find real estate deals through cold calling during a down market. Proven strategies for reaching motivated sellers when competition drops and opportunity rises."
+description: "Learn how to find real estate deals through cold calling during a down market. Proven strategies for reaching motivated sellers when competition..."
 target_keyword: "cold calling in a down market"
 categories: [blog]
 tags: ["cold calling", "down market", "motivated sellers", "real estate investing", "lead generation"]

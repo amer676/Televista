@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding the Real Estate Wholesaling Contract: Legal Essentials"
 date: 2025-08-19
-description: "A practical guide to real estate wholesaling contracts, including assignment vs. double close, essential clauses, state-specific laws, and legal pitfalls to avoid in 2025."
+description: "A practical guide to real estate wholesaling contracts, including assignment vs. double close, essential clauses, state-specific laws, and legal..."
 target_keyword: "real estate wholesaling contract"
 categories: [blog]
 tags: ["wholesaling contracts", "real estate law", "assignment contracts", "double closing", "legal compliance"]

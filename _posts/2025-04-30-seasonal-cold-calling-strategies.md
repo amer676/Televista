@@ -2,7 +2,7 @@
 layout: post
 title: "Seasonal Cold Calling Strategies: When to Call and What to Say"
 date: 2025-04-30
-description: "Optimize your real estate cold calling with seasonal strategies. Learn the best times of year to call, how to adjust your scripts, and which lead types peak in each season."
+description: "Optimize your real estate cold calling with seasonal strategies. Learn the best times of year to call, how to adjust your scripts, and which lead..."
 target_keyword: "seasonal cold calling strategies real estate"
 categories: [blog]
 tags: ["seasonal strategies", "cold calling", "real estate timing", "scripts", "lead generation"]

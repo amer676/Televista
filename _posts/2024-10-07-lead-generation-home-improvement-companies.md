@@ -2,7 +2,7 @@
 layout: post
 title: "Lead Generation for Home Improvement Companies: Windows, Siding, and HVAC"
 date: 2024-10-07
-description: "Proven lead generation strategies for home improvement companies specializing in windows, siding, roofing, and HVAC. Covers outbound calling, digital marketing, and referral systems."
+description: "Proven lead generation strategies for home improvement companies specializing in windows, siding, roofing, and HVAC. Covers outbound calling, digital..."
 target_keyword: "lead generation home improvement companies"
 categories: [blog]
 tags: ["home improvement leads", "lead generation", "HVAC leads"]

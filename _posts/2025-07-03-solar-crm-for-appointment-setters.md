@@ -2,7 +2,7 @@
 layout: post
 title: "The Best CRM Tools for Solar Appointment Setters: A Practical Guide"
 date: 2025-07-03
-description: "A practical guide to the best CRM and technology tools for solar appointment setters, including dialer integration, automation workflows, and what features actually matter for solar teams."
+description: "A practical guide to the best CRM and technology tools for solar appointment setters, including dialer integration, automation workflows, and what..."
 target_keyword: "solar CRM appointment setting"
 categories: [blog]
 tags: ["solar CRM", "CRM for solar companies", "solar appointment setting software", "solar lead management", "solar sales tools"]

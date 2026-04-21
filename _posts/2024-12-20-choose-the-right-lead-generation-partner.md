@@ -2,7 +2,7 @@
 layout: post
 title: "How to Choose the Right Lead Generation Partner for Your Real Estate Business"
 date: 2024-12-20
-description: "A comprehensive guide to evaluating and selecting a lead generation partner for real estate investing. Covers key criteria, red flags, pricing models, and questions to ask before committing."
+description: "A comprehensive guide to evaluating and selecting a lead generation partner for real estate investing. Covers key criteria, red flags, pricing..."
 target_keyword: "lead generation partner real estate"
 categories: [blog]
 tags: ["lead generation partner", "outsourced cold calling", "real estate lead generation"]

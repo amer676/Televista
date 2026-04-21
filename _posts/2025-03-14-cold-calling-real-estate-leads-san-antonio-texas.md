@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Leads in San Antonio, Texas: Military City Market"
 date: 2025-03-14
-description: "A complete guide to cold calling for real estate leads in San Antonio, Texas — covering Bexar County, military relocation sellers, and the best lists and scripts for this fast-growing market."
+description: "A complete guide to cold calling for real estate leads in San Antonio, Texas — covering Bexar County, military relocation sellers, and the best lists..."
 target_keyword: "cold calling real estate leads San Antonio Texas"
 categories: [blog]
 tags: ["cold calling San Antonio Texas", "San Antonio real estate investing", "San Antonio motivated sellers", "Bexar County wholesale real estate", "San Antonio lead generation"]

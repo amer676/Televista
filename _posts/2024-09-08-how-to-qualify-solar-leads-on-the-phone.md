@@ -2,7 +2,7 @@
 layout: post
 title: "How to Qualify Solar Leads on the Phone: A Complete Qualifier's Guide"
 date: 2024-09-08
-description: "Learn how to qualify solar leads on the phone with this complete guide — covering the five key criteria, question sequencing, disqualification thresholds, and how to improve qualification rates over time."
+description: "Learn how to qualify solar leads on the phone with this complete guide — covering the five key criteria, question sequencing, disqualification..."
 target_keyword: "how to qualify solar leads"
 categories: [blog]
 tags: ["qualify solar leads", "solar lead qualification", "solar appointment setting", "solar BANT", "solar pre-qualification"]

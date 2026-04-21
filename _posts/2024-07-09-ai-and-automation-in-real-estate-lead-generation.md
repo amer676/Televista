@@ -2,7 +2,7 @@
 layout: post
 title: "How to Use AI and Automation in Real Estate Lead Generation"
 date: 2024-07-09
-description: "Discover how AI and automation are transforming real estate lead generation. Covers AI dialers, CRM automation, lead scoring, chatbots, and practical tools investors are using to generate more deals."
+description: "Discover how AI and automation are transforming real estate lead generation. Covers AI dialers, CRM automation, lead scoring, chatbots, and practical..."
 target_keyword: "AI automation real estate lead generation"
 categories: [blog]
 tags: ["AI", "automation", "real estate", "lead generation", "technology", "CRM"]

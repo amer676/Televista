@@ -2,7 +2,7 @@
 layout: post
 title: "Real Estate Wholesaling 101: A Beginner's Complete Guide"
 date: 2024-02-20
-description: "Learn exactly how real estate wholesaling works, from finding deals to assigning contracts. A complete beginner's guide covering the process, legality, and strategies to close your first deal."
+description: "Learn exactly how real estate wholesaling works, from finding deals to assigning contracts. A complete beginner's guide covering the process..."
 target_keyword: "real estate wholesaling beginners guide"
 categories: [blog]
 tags: ["real estate wholesaling", "wholesaling for beginners", "assignment contracts", "real estate investing", "deal finding"]

@@ -2,7 +2,7 @@
 layout: post
 title: "Year-End Real Estate Investing Strategies: Closing Deals Before December 31"
 date: 2024-12-10
-description: "Maximize your real estate investing results before year-end. Covers motivated seller psychology in Q4, tax strategy, deal structuring, and outreach tactics for closing deals before December 31."
+description: "Maximize your real estate investing results before year-end. Covers motivated seller psychology in Q4, tax strategy, deal structuring, and outreach..."
 target_keyword: "year-end real estate investing"
 categories: [blog]
 tags: ["real estate investing", "year-end strategies", "Q4 deal closing"]

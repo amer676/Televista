@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Solar Companies: How to Book More Appointments"
 date: 2024-06-18
-description: "Learn how solar companies can use cold calling to book more appointments. Covers targeting, scripts, objection handling, and strategies to fill your sales pipeline with qualified solar leads."
+description: "Learn how solar companies can use cold calling to book more appointments. Covers targeting, scripts, objection handling, and strategies to fill your..."
 target_keyword: "cold calling for solar companies"
 categories: [blog]
 tags: ["solar leads", "cold calling", "appointment setting", "solar sales", "lead generation"]

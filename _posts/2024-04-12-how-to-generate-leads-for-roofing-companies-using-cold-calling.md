@@ -2,7 +2,7 @@
 layout: post
 title: "How to Generate Leads for Roofing Companies Using Cold Calling"
 date: 2024-04-12
-description: "A proven cold calling playbook for roofing companies. Learn how to target homeowners, leverage storm damage data, and book more roof inspection appointments."
+description: "A proven cold calling playbook for roofing companies. Learn how to target homeowners, leverage storm damage data, and book more roof inspection..."
 target_keyword: "lead generation for roofing companies cold calling"
 categories: [blog]
 tags: ["roofing leads", "cold calling for roofers", "storm damage leads", "home services lead generation", "appointment setting"]

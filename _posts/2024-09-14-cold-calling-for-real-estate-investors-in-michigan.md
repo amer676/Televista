@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling for Real Estate Investors in Michigan: Great Lakes Market Guide"
 date: 2024-09-14
-description: "A comprehensive guide to cold calling for real estate investors across Michigan — Detroit, Grand Rapids, Ann Arbor, Flint, and beyond. Market-specific strategies for motivated seller lead generation."
+description: "A comprehensive guide to cold calling for real estate investors across Michigan — Detroit, Grand Rapids, Ann Arbor, Flint, and beyond..."
 target_keyword: "cold calling for real estate investors in Michigan"
 categories: [blog]
 tags: ["cold calling Michigan", "real estate investing Michigan", "Michigan motivated sellers", "Michigan wholesale real estate", "Detroit Grand Rapids Ann Arbor leads"]

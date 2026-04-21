@@ -2,7 +2,7 @@
 layout: post
 title: "Cold Calling ROI 2026: Proven Conversion Rate Guide"
 date: 2026-04-04
-description: "Master cold calling ROI conversion rates 2026 with proven strategies. Learn true cost calculation methods from 200+ investor campaigns. Expert insights inside."
+description: "Master cold calling ROI conversion rates 2026 with proven strategies. Learn true cost calculation methods from 200+ investor campaigns. Expert..."
 target_keyword: "cold calling roi conversion rates 2026"
 categories: [blog]
 tags: ["cold calling", "ROI", "conversion rates", "lead generation", "real estate investing"]
@@ -11,7 +11,7 @@ author: "Televista Team"
 
 ## The Cold Calling Paradox: Why 73% of Investors Still Can't Calculate Their True ROI
 
-Three things every [real estate investor](https://televistaleadgeneration.com/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) tracks religiously: **number of dials made**, **appointments booked**, and **deals closed**. But here's what they don't track — the actual cost per closed deal.
+Three things every [real estate investor](/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) tracks religiously: **number of dials made**, **appointments booked**, and **deals closed**. But here's what they don't track — the actual cost per closed deal.
 
 I know this because we've onboarded 200+ clients at [Televista](/services.html) over the past two years. Most can tell you they made 500 calls last week. Can't tell you if those calls were profitable.
 
@@ -38,7 +38,7 @@ Let's cut through the BS. Most cold calling "benchmarks" you see are either outd
 
 Real numbers from [Prospeo's 2026 telemarketing conversion rates](https://prospeo.io/s/telemarketing-conversion-rates) paint a different picture. **Dial-to-connect rates averaged 8.2% across industries.** Connect-to-appointment? 12.4%. Appointment-to-close varies wildly — but that's where the money lives.
 
-[For real estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) investors specifically, we're looking at:
+[For real estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) investors specifically, we're looking at:
 
 | Stage | Industry Average | Top 20% Performers |
 |-------|------------------|-------------------|
@@ -145,13 +145,13 @@ Skip the motivational posters about "making more calls." Focus on these four lev
 
 ROI isn't created equal across industries. Not even close.
 
-**[Real estate investor](https://televistaleadgeneration.com/blog/2026/03/16/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)s** chase $15k-50k wholesale deals with 60-90 day close cycles. **Solar companies** target $25k-40k installs but wrestle with permit delays and financing hiccups. **Roofing contractors** hit $8k-15k jobs that can close in 2 weeks — when it's not winter.
+**[Real estate investor](/blog/2026/03/16/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)s** chase $15k-50k wholesale deals with 60-90 day close cycles. **Solar companies** target $25k-40k installs but wrestle with permit delays and financing hiccups. **Roofing contractors** hit $8k-15k jobs that can close in 2 weeks — when it's not winter.
 
 We've run cold calling campaigns for all three at [Televista](/services.html). The math changes everything.
 
 **Real Estate: High Value, Long Patience**
 
-According to [Prospeo's 2026 telemarketing benchmarks](https://prospeo.io/s/telemarketing-conversion-rates), [real estate cold](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/) calling averages 6.4% connect rates with 14.2% appointment conversion. Deal sizes justify the grind. You can afford to spend $400 per appointment when you're wholesaling $20k deals.
+According to [Prospeo's 2026 telemarketing benchmarks](https://prospeo.io/s/telemarketing-conversion-rates), [real estate cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) calling averages 6.4% connect rates with 14.2% appointment conversion. Deal sizes justify the grind. You can afford to spend $400 per appointment when you're wholesaling $20k deals.
 
 One wrinkle? Lead qualification becomes everything. Can't afford to chase dead-end motivated sellers for 6 weeks.
 
@@ -253,9 +253,9 @@ Stop guessing. Start measuring. Your bank account will thank you.
 
 ## Related Articles
 
-- [Cold Calling For Solar Companies Scripts That Book Appointments](https://televistaleadgeneration.com/blog/2024/07/08/cold-calling-for-solar-companies-scripts-that-book-appointments/)
-- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](https://televistaleadgeneration.com/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
-- [Real Estate Cold Calling Scripts Guide](https://televistaleadgeneration.com/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/)
+- [Cold Calling For Solar Companies Scripts That Book Appointments](/blog/2024/07/08/cold-calling-for-solar-companies-scripts-that-book-appointments/)
+- [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
+- [Real Estate Cold Calling Scripts Guide](/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/)
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "How to Build a Disposition Buyers List Through Cold Calling"
 date: 2025-01-17
-description: "Learn how to build a powerful disposition buyers list through cold calling. Step-by-step strategies for wholesalers to find and qualify cash buyers for faster deal closings."
+description: "Learn how to build a powerful disposition buyers list through cold calling. Step-by-step strategies for wholesalers to find and qualify cash buyers..."
 target_keyword: "build disposition buyers list cold calling"
 categories: [blog]
 tags: ["disposition", "buyers list", "cold calling", "wholesaling", "cash buyers"]
