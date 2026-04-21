@@ -9,7 +9,7 @@ tags: ["cold calling tips", "real estate investing", "reddit strategies", "lead 
 author: "Televista Team"
 ---
 
-## Beyond the Scripts: [Unconventional Cold Calling](/blog/2026/04/09/unconventional-cold-calling-tips-real-estate-reddit/) Tips [for Real Estate](/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors in 2026 (Reddit-Inspired)
+## Beyond the Scripts: Unconventional Cold Calling Tips for Real Estate Investors in 2026 (Reddit-Inspired)
 
 Two investors walk into the same market with identical budgets. One closes 14 deals. The other barely scrapes together 2.
 
