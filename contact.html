@@ -457,78 +457,67 @@
               </div>
             </div>
 
-            <!-- Cal.com Embed -->
+            <!-- Google Calendar Appointment Scheduling -->
             <div
               class="contact-form-card"
+              id="scheduler-card"
               style="min-height: 600px; padding: 0; overflow: hidden"
             >
-              <!-- Cal inline embed code begins -->
-              <div
-                style="width: 100%; height: 600px; overflow: scroll"
-                id="my-cal-inline-30min"
-              ></div>
-              <script type="text/javascript">
-                (function (C, A, L) {
-                  let p = function (a, ar) {
-                    a.q.push(ar);
-                  };
-                  let d = C.document;
-                  C.Cal =
-                    C.Cal ||
-                    function () {
-                      let cal = C.Cal;
-                      let ar = arguments;
-                      if (!cal.loaded) {
-                        cal.ns = {};
-                        cal.q = cal.q || [];
-                        d.head.appendChild(d.createElement("script")).src = A;
-                        cal.loaded = true;
-                      }
-                      if (ar[0] === L) {
-                        const api = function () {
-                          p(api, arguments);
-                        };
-                        const namespace = ar[1];
-                        api.q = api.q || [];
-                        if (typeof namespace === "string") {
-                          cal.ns[namespace] = cal.ns[namespace] || api;
-                          p(cal.ns[namespace], ar);
-                          p(cal, ["initNamespace", namespace]);
-                        } else p(cal, ar);
-                        return;
-                      }
-                      p(cal, ar);
-                    };
-                })(window, "https://app.cal.com/embed/embed.js", "init");
-                Cal("init", "30min", { origin: "https://app.cal.com" });
-
-                Cal.ns["30min"]("inline", {
-                  elementOrSelector: "#my-cal-inline-30min",
-                  config: {
-                    layout: "month_view",
-                    useSlotsViewOnSmallScreen: "true",
-                    theme: "light",
-                  },
-                  calLink: "televista-team/30min",
-                });
-
-                Cal.ns["30min"]("ui", {
-                  theme: "light",
-                  hideEventTypeDetails: false,
-                  layout: "month_view",
-                });
-              </script>
-              <!-- Redirect to thank-you page after successful booking -->
-              <script>
-                Cal.ns["30min"]("on", {
-                  action: "bookingSuccessful",
-                  callback: function() {
-                    window.location.href = "/thank-you.html";
-                  }
-                });
-              </script>
-              <!-- Cal inline embed code ends -->
+              <iframe
+                src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3hlaqjZtEFtHYP6PeE0vl9mkTaNKlum1rMRyExOVEQaxkwmNMVdyT2N0D7YDqF4YaPY-hrijXB?gv=true"
+                title="Schedule a 30-minute strategy call with Televista"
+                style="border: 0; width: 100%; height: 600px; display: block;"
+                frameborder="0"
+                loading="lazy"
+                allow="fullscreen"
+              ></iframe>
             </div>
+            <p
+              style="
+                margin-top: var(--space-5);
+                text-align: center;
+                color: var(--color-text-secondary);
+                font-size: var(--text-sm);
+              "
+            >
+              After you pick a time, Google Calendar will email you a confirmation with the meeting details.
+              <br />
+              <a
+                href="thank-you.html"
+                class="post-booking-link"
+                style="
+                  display: inline-block;
+                  margin-top: var(--space-3);
+                  color: var(--color-accent-primary);
+                  font-weight: 600;
+                  text-decoration: underline;
+                "
+                onclick="if(window.gtag){gtag('event','schedule_manual_confirm_click',{send_to:'G-ZJN951WF3R'});}"
+              >Just booked your call? Continue to confirmation &rarr;</a>
+            </p>
+
+            <!-- Intent-level GA4 event when the scheduler comes into view -->
+            <script>
+              (function () {
+                var card = document.getElementById('scheduler-card');
+                if (!card || !('IntersectionObserver' in window)) return;
+                var fired = false;
+                var obs = new IntersectionObserver(function (entries) {
+                  entries.forEach(function (e) {
+                    if (e.isIntersecting && !fired) {
+                      fired = true;
+                      if (window.gtag) {
+                        gtag('event', 'schedule_calendar_view', {
+                          send_to: 'G-ZJN951WF3R'
+                        });
+                      }
+                      obs.disconnect();
+                    }
+                  });
+                }, { threshold: 0.4 });
+                obs.observe(card);
+              })();
+            </script>
           </div>
         </div>
       </section>
