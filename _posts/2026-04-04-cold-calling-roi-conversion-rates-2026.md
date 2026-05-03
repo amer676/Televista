@@ -11,7 +11,7 @@ author: "Televista Team"
 
 ## The Cold Calling Paradox: Why 73% of Investors Still Can't Calculate Their True ROI
 
-Three things every [real estate investor](/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) tracks religiously: **number of dials made**, **appointments booked**, and **deals closed**. But here's what they don't track — the actual cost per closed deal.
+Three things every [real estate investor](/blog/2026/02/11/colorado-real-estate-investor-financing-2026/) tracks religiously: **number of dials made**, **appointments booked**, and **deals closed**. But here's what they don't track — the actual cost per closed deal.
 
 I know this because we've onboarded 200+ clients at [Televista](/services.html) over the past two years. Most can tell you they made 500 calls last week. Can't tell you if those calls were profitable.
 
@@ -145,7 +145,7 @@ Skip the motivational posters about "making more calls." Focus on these four lev
 
 ROI isn't created equal across industries. Not even close.
 
-**[Real estate investor](/blog/2026/03/16/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)s** chase $15k-50k wholesale deals with 60-90 day close cycles. **Solar companies** target $25k-40k installs but wrestle with permit delays and financing hiccups. **Roofing contractors** hit $8k-15k jobs that can close in 2 weeks — when it's not winter.
+**[Real estate investor](/blog/2026/01/05/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)s** chase $15k-50k wholesale deals with 60-90 day close cycles. **Solar companies** target $25k-40k installs but wrestle with permit delays and financing hiccups. **Roofing contractors** hit $8k-15k jobs that can close in 2 weeks — when it's not winter.
 
 We've run cold calling campaigns for all three at [Televista](/services.html). The math changes everything.
 

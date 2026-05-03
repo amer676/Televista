@@ -27,7 +27,7 @@ Ready to throw out your script binder? Let's dig into what actually works when y
 
 ## Key Takeaways
 
-- Reddit real estate communities offer actionable [cold calling strategies](/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) that traditional sources miss.
+- Reddit real estate communities offer actionable [cold calling strategies](/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) that traditional sources miss.
 - Reverse psychology openers and local research bombs can dramatically increase connect rates.
 - Breaking the 3-3-3 and 80/20 rules strategically can improve results.
 - Problem acknowledgment frameworks outperform traditional scripts.
@@ -279,7 +279,7 @@ Because while you're debating implementation details, your competitors are alrea
 
 - [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
 - [Cold Calling Metrics Data Driven Approach Sales Success](/blog/2025/11/18/cold-calling-metrics-data-driven-approach-sales-success/)
-- [Advanced Dialer Strategies Real Estate Investors](/blog/2026/03/09/advanced-ai-dialer-strategies-real-estate-investors/)
+- [Advanced Dialer Strategies Real Estate Investors](/blog/2025/11/28/advanced-ai-dialer-strategies-real-estate-investors/)
 
 ---
 

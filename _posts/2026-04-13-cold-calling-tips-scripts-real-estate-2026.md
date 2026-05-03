@@ -43,7 +43,7 @@ Most investors wing it. They grab a list, fire up [REDX's Power Dialer](https://
 
 That's why they fail.
 
-After running 200+ campaigns, our [Televista](/services.html) team breaks [effective cold calling](/blog/2026/03/31/effective-cold-calling-strategies-wholesalers-new-mexico/) down to 3 C's: **Contact, Context, Conversation**. Simple framework. Massive results.
+After running 200+ campaigns, our [Televista](/services.html) team breaks [effective cold calling](/blog/2026/03/31/cold-calling-scripts-real-estate-2026/) down to 3 C's: **Contact, Context, Conversation**. Simple framework. Massive results.
 
 **Contact** means you're calling the right person at the right time. Not some generic lead list from 2023. We're talking fresh expireds, FSBOs that just hit the market, or motivated sellers from targeted mail campaigns. [Televista analyzed](/blog/2026/04/06/cold-calling-real-estate-tactics-2026) two investor clients in Austin last quarter — one used portal leads and generic scripts, closed 3 deals. The other switched to our targeted approach and closed 14 deals. Same market, same timeframe.
 
@@ -260,7 +260,7 @@ The difference? No training curve. No management headaches. No wondering if your
 
 Unless you're closing 15+ deals monthly, outsource it. [Book a strategy call](/contact.html) and skip the hiring nightmare entirely.
 
-## Why [Top Real Estate](/blog/2026/03/17/top-8-real-estate-cold-calling-companies/) Investors Trust Televista for Cold Calling
+## Why [Top Real Estate](/blog/2026/01/30/top-8-real-estate-cold-calling-companies/) Investors Trust Televista for Cold Calling
 
 Look, most cold calling companies talk a big game. Then you get on a call with their "trained" reps who sound like they're reading from a script circa 2019.
 

@@ -11,7 +11,7 @@ author: "Televista Team"
 
 ## The $108,000 Question: Why Real Estate Investors Are Rethinking Cold Calling in 2026
 
-Three brutal truths every [real estate investor](/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) learned in 2025:
+Three brutal truths every [real estate investor](/blog/2026/02/11/colorado-real-estate-investor-financing-2026/) learned in 2025:
 1. Good in-house cold callers cost **$108,000 more annually** than quality outsourced teams.
 2. Most investors burn through 4-6 dialers before finding one who doesn't quit after two weeks.
 3. Your competition figured out outsourcing while you're still posting Craigslist ads.
@@ -148,7 +148,7 @@ The brutal truth? Choosing the wrong outsourcing partner is worse than hiring in
 
 > **Pro tip:** Ask potential providers for their client retention rate beyond 12 months. If they won't share it, run.
 
-## Provider Comparison: [Top Real Estate](/blog/2026/03/17/top-8-real-estate-cold-calling-companies/) Cold Calling Services in 2026
+## Provider Comparison: [Top Real Estate](/blog/2026/01/30/top-8-real-estate-cold-calling-companies/) Cold Calling Services in 2026
 
 Most outsourced providers fall into four buckets. Only one consistently works.
 
@@ -217,8 +217,8 @@ The provider you choose matters more than the outsourcing decision itself. Most 
 
 ## Related Articles
 
-- [Best Quality Off Market Leads Real Estate](/blog/2026/03/17/best-quality-off-market-leads-real-estate/)
-- [Tcpa One One Consent Rule Vacated Real Estate Investor Compliance](/blog/2026/03/16/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)
+- [Best Quality Off Market Leads Real Estate](/blog/2025/12/15/best-quality-off-market-leads-real-estate/)
+- [Tcpa One One Consent Rule Vacated Real Estate Investor Compliance](/blog/2026/01/05/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)
 - [Televista Advanced Cold Calling Strategies Real Estate Investors Wholesalers](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers/)
 
 ---

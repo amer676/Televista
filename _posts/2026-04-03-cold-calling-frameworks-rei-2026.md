@@ -54,7 +54,7 @@ The question isn't whether cold calling works anymore. It's whether you'll maste
 
 ## The 3 C's Framework: Connect, Communicate, Convert
 
-The 3 C's aren't some fluffy sales theory. They're the backbone of every successful [real estate investor](/blog/2026/03/21/colorado-real-estate-investor-financing-2026/) cold call.
+The 3 C's aren't some fluffy sales theory. They're the backbone of every successful [real estate investor](/blog/2026/02/11/colorado-real-estate-investor-financing-2026/) cold call.
 
 **Connect** means building instant rapport with property owners who get 12 calls daily from "We Buy Houses" vultures. Skip the script robot voice. Start conversations. When calling FSBOs, reference something specific from their listing — "Saw you've got the original hardwood floors restored" hits different than "Hi, I buy houses."
 

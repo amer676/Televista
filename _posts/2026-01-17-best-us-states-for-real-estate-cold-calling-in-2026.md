@@ -27,7 +27,7 @@ Florida has long been a favorite for real estate investors, and it's no exceptio
     *   **Large Population:** With over 21 million residents, Florida is the third-most populous state in the nation, offering a massive pool of potential leads.
     *   **Transient Population:** A high percentage of the population is made up of retirees and snowbirds, which can lead to a higher turnover of properties.
     *   **Favorable Regulations:** Florida has a relatively straightforward set of telemarketing laws, which makes it easier to comply with regulations.
-    *   **Helpful resource:** [Review TCPA compliance basics before scaling your outreach.](/blog/2025/12/26/cold-calling-compliance-for-real-estate-investors-tcpa-explained/)
+    *   **Helpful resource:** [Review TCPA compliance basics before scaling your outreach.](/blog/2026/01/05/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)
 
 ### 2. Texas
 
@@ -37,7 +37,7 @@ Texas is another state that should be on every real estate investor's radar. The
     *   **Economic Growth:** Texas has one of the strongest economies in the nation, with a diverse range of industries and a low unemployment rate.
     *   **Population Growth:** The state's population is growing at a rapid pace, which is driving up demand for housing.
     *   **No State Income Tax:** The lack of a state income tax is a major draw for both residents and investors.
-    *   **Helpful resource:** [Use a proven cold calling script framework.](/blog/2025/08/15/real-estate-cold-calling-scripts-that-actually-convert/)
+    *   **Helpful resource:** [Use a proven cold calling script framework.](/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/)
 
 ### 3. Arizona
 
@@ -47,7 +47,7 @@ Arizona's warm climate and growing job market have made it a popular destination
     *   **Population Growth:** Arizona is one of the fastest-growing states in the nation, with a steady stream of new residents.
     *   **Landlord-Friendly:** The state's landlord-friendly laws make it an attractive market for buy-and-hold investors.
     *   **Affordability:** While home prices have been on the rise, Arizona still offers a relatively affordable cost of living compared to other popular states.
-    *   **Helpful resource:** [Dial in your follow-up timing and messaging.](/blog/2025/08/08/real-estate-lead-follow-up-timing-scripts-and-strategy/)
+    *   **Helpful resource:** [Dial in your follow-up timing and messaging.](/blog/2024/08/20/the-art-of-the-follow-up-converting-cold-leads/)
 
 ### 4. North Carolina
 
@@ -57,7 +57,7 @@ North Carolina has a diverse economy, a growing population, and a mix of both ur
     *   **Economic Diversity:** The state's economy is well-diversified, with strong sectors in finance, technology, and healthcare.
     *   **Affordability:** North Carolina offers a relatively low cost of living and affordable housing, which makes it an attractive destination for young professionals and families.
     *   **Consistent Growth:** The state has experienced steady and sustainable growth, which is a good sign for long-term real estate investors.
-    *   **Helpful resource:** [Learn more about cold calling in North Carolina.](/blog/2025/12/05/cold-calling-real-estate-in-north-carolina-investor-guide/)
+    *   **Helpful resource:** [Learn more about cold calling in North Carolina.](/blog/2024/02/23/cold-calling-for-real-estate-investors-in-north-carolina/)
 
 ## A Note on a National Strategy
 

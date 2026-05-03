@@ -65,7 +65,7 @@ That doesn't work anymore.
 
 ## The Televista Framework: 5 Pillars of Tactical Cold Calling for Investors
 
-Most [cold calling services](/blog/2026/04/02/best-cold-calling-services-real-estate-2026/) throw bodies at phones and hope something sticks. Wrong approach entirely.
+Most [cold calling services](/blog/2026/03/26/best-real-estate-cold-calling-services/) throw bodies at phones and hope something sticks. Wrong approach entirely.
 
 At [Televista](https://televistaleadgeneration.com), we've built our entire operation around five tactical pillars that separate real estate investors from wannabes. These aren't feel-good concepts — they're battle-tested systems that turn cold leads into signed contracts.
 

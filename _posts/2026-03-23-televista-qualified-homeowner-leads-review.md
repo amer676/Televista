@@ -18,7 +18,7 @@ I nearly spit out my coffee when he sent the screenshot.
 
 That number stopped me cold. Most lead gen companies promise the moon but deliver pizza flyers. We've analyzed dozens of providers over the past six months, and the gap between marketing claims and actual ROI is brutal. [Televista's lead generation services](https://televistaleadgeneration.com/services.html) kept coming up in our research, so we decided to dig deeper.
 
-The cost per lead varies wildly depending on provider, market, and quality — according to [Televista's own analysis](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), most investors don't even track this properly. Which explains why 73% abandon their cold calling services within 90 days, based on data from [Televista's advanced strategy research](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
+The cost per lead varies wildly depending on provider, market, and quality — according to [Televista's own analysis](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/), most investors don't even track this properly. Which explains why 73% abandon their cold calling services within 90 days, based on data from [Televista's advanced strategy research](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
 
 But Marcus didn't quit. Neither did the solar contractor in Phoenix pulling 22 appointments per week, or the roofing company that tripled their pipeline in Q4.
 
@@ -80,7 +80,7 @@ Here's what that looks like in real money:
 | Starter | $1,250 | 45 | $27.78 | $89 |
 | Growth | $2,050 | 90 | $22.78 | $89 |
 
-The ROI gap isn't even close. But here's the catch — [cost per lead varies widely depending on provider, market, and lead quality](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors). Cheap leads from sketchy sources will burn your reputation faster than you can dial them.
+The ROI gap isn't even close. But here's the catch — [cost per lead varies widely depending on provider, market, and lead quality](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/). Cheap leads from sketchy sources will burn your reputation faster than you can dial them.
 
 We've seen clients chase $5 leads from Facebook only to discover they're calling people who never opted in. Not a good look when you're building a business.
 
@@ -155,7 +155,7 @@ But here's the real kicker (and why most people get lead gen completely wrong): 
 
 The compounding effect is where qualified leads separate from garbage leads. Those 4 initial deals generated 11 total transactions over six months. Marcus cleared $35,200 in wholesale fees from that single $2,050 monthly investment.
 
-Most contractors focus on the wrong metrics — they obsess over cost per lead instead of revenue per lead. [Cost per lead varies wildly depending on provider and market](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors), but revenue per lead? That's what pays the bills.
+Most contractors focus on the wrong metrics — they obsess over cost per lead instead of revenue per lead. [Cost per lead varies wildly depending on provider and market](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/), but revenue per lead? That's what pays the bills.
 
 Marcus now runs three markets with us. Smart guy.
 
@@ -169,7 +169,7 @@ The script difference? Solar homeowners want to save money immediately. Our [Tel
 
 HVAC and windows? Solid performers but seasonal. Summer for AC, winter for heating repairs. 
 
-**Skip kitchen remodeling entirely.** Decision cycles are too long, too many stakeholders. I've seen companies burn through $5K monthly trying to make kitchen leads work (the cost per lead varies wildly depending on the market, as we covered in our [recent pricing analysis](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors)).
+**Skip kitchen remodeling entirely.** Decision cycles are too long, too many stakeholders. I've seen companies burn through $5K monthly trying to make kitchen leads work (the cost per lead varies wildly depending on the market, as we covered in our [recent pricing analysis](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/)).
 
 > **Key Stat:** Solar + roofing account for 68% of our successful homeowner lead campaigns
 
@@ -243,7 +243,7 @@ You'd need to convert at least 15% of leads to appointments and close 3 out of 1
 - **$35-75K/month:** Begin with Starter ($1,250). Scale up after 90 days if you're converting well.
 - **Under $35K/month:** Focus on perfecting your sales process first. Come back when you're ready to scale.
 
-[Cost per lead can vary widely depending on the provider, market, and quality](/blog/2026/01/23/are-pay-per-lead-models-worth-it-for-investors) — we're transparent about our pricing because it works.
+[Cost per lead can vary widely depending on the provider, market, and quality](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/) — we're transparent about our pricing because it works.
 
 **Next step?** [Book a strategy call](https://televistaleadgeneration.com/contact.html) so we can analyze your specific situation. Takes 15 minutes, and you'll know exactly whether our qualified homeowner leads make sense for your business.
 
