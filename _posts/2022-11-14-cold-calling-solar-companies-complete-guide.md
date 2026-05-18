@@ -2,6 +2,7 @@
 layout: post
 title: "Cold Calling for Solar Companies: A Complete Guide"
 date: 2022-11-14
+last_modified_at: 2026-05-18
 description: "Complete guide to cold calling for solar companies: best times, script frameworks, compliance rules, and residential vs commercial strategies."
 target_keyword: "cold calling solar companies"
 categories: [blog]
@@ -9,6 +10,8 @@ tags: ["cold calling", "solar", "lead generation", "sales", "home improvement"]
 author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
+
+> **Update — May 2026:** Solar economics have shifted since this guide was published — utility rates have continued to climb, the federal tax credit was extended through 2032, and homeowner objections now lean on "interest rate" and "battery storage" conversations more than equipment specs. The script frameworks below still work; pair them with [our updated 2024 solar appointment-setting playbook](/blog/2024/06/18/cold-calling-for-solar-companies-book-more-appointments/) for the latest objection handling.
 
 ## Solar Cold Calling Is a Different Animal
 

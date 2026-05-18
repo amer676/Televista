@@ -2,6 +2,7 @@
 layout: post
 title: "Why We Don't Use AI for Cold Calling (Yet)"
 date: 2022-12-05
+last_modified_at: 2026-05-18
 description: "The honest case for why human cold callers still outperform AI dialers in 2022 — and what needs to change before we switch."
 target_keyword: "AI cold calling"
 categories: [blog]
@@ -9,6 +10,8 @@ tags: ["AI", "cold calling", "technology", "real estate investing", "automation"
 author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
+
+> **Update — May 2026:** Our position has evolved. We still believe human callers handle nuanced motivated-seller conversations better than today's AI voice agents, but AI is now embedded in our workflow for **data enrichment, lead scoring, and post-call analysis** — not for placing live calls. For our current view, read: **[AI Data Enrichment for Cold Calling in 2026](/blog/2026/01/12/ai-data-enrichment-cold-calling-2026/)**. The reasoning below for why we keep humans on the live call still applies.
 
 ## We Love Technology. We Just Don't Trust It on the Phone. Yet.
 
