@@ -2,6 +2,7 @@
 layout: post
 title: "TCPA Compliance for Cold Calling: The Only Guide You Need"
 date: 2023-03-14
+last_modified_at: 2026-05-18
 description: "Complete TCPA compliance guide for cold calling. Avoid lawsuits with rules on DNC lists, calling hours, consent, and penalties explained."
 target_keyword: "TCPA cold calling compliance"
 categories: [blog]
@@ -9,6 +10,8 @@ tags: ["TCPA", "compliance", "cold calling", "DNC", "legal", "regulations"]
 author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
+
+> **Update — May 2026:** The FCC's one-to-one consent rule (effective Jan 27, 2025) was **vacated by the Eleventh Circuit on Jan 24, 2025**. Pre-vacatur expectations no longer apply. For current rules and how the vacatur affects investor outreach, see our updated guide: **[TCPA One-to-One Consent Rule Vacated — What It Means for 2026](/blog/2026/01/05/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)**. The fundamentals below (DNC scrubbing, calling hours, consent records) remain in force.
 
 ## TCPA Compliance Isn't Optional — and Ignorance Isn't a Defense
 

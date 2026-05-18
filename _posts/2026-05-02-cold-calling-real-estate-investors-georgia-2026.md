@@ -7,6 +7,8 @@ target_keyword: "cold calling real estate investors Georgia 2026 guide"
 categories: [blog]
 tags: ["cold calling", "real estate investors", "Georgia real estate", "lead generation", "2026 strategies"]
 author: "Televista Team"
+robots: "noindex, follow"
+canonical_url: "/blog/2026/04/23/cold-calling-real-estate-investors-georgia-2026/"
 ---
 
 ## Georgia's Real Estate Gold Rush: Why 2026 Is Different

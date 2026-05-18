@@ -2,6 +2,7 @@
 layout: post
 title: "CRM Setup for TCPA One-to-One Consent Real Estate 2025"
 date: 2025-12-19
+last_modified_at: 2026-05-18
 description: "Configure your CRM for TCPA one-to-one consent real estate 2025. Step-by-step guide to avoid $11B in violations with compliant tracking systems."
 target_keyword: "CRM setup for TCPA one-to-one consent real estate 2025"
 categories: [blog]
@@ -9,6 +10,8 @@ tags: ["TCPA Compliance", "Real Estate CRM", "Lead Generation", "One-to-One Cons
 author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
+
+> **Update — May 2026:** The FCC's one-to-one consent rule referenced throughout this article was **vacated by the Eleventh Circuit on January 24, 2025**, the day before it would have taken effect. The CRM setup steps below still help with general TCPA compliance and your own consent records, but the strict "one-to-one" requirement is no longer in force. For the post-vacatur landscape, read: **[TCPA One-to-One Consent Rule Vacated — What It Means for 2026](/blog/2026/01/05/tcpa-one-to-one-consent-rule-vacated-real-estate-investor-compliance-2026/)**.
 
 ## The $11 Billion Compliance Crisis Hitting Real Estate
 

@@ -7,6 +7,8 @@ target_keyword: "cold calling for solar companies"
 categories: [blog]
 tags: ["cold calling solar companies", "solar cold calling scripts", "solar appointment setting", "solar sales scripts", "book solar appointments"]
 author: "Televista Team"
+robots: "noindex, follow"
+canonical_url: "/blog/2024/06/18/cold-calling-for-solar-companies-book-more-appointments/"
 ---
 
 Most solar companies that struggle with cold calling don't have a volume problem — they have a script problem. Either the opener sounds robotic and generic, the qualification questions feel like an interrogation, or the transition to the appointment ask is clumsy and creates resistance. A well-constructed solar cold calling script solves all three of those issues simultaneously by guiding the conversation in a natural, curious direction that leads the homeowner toward the appointment without ever feeling like they're being pushed.

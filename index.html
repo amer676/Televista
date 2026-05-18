@@ -88,6 +88,13 @@
       function gtag() {
         dataLayer.push(arguments);
       }
+      gtag("consent", "default", {
+        "ad_storage": "denied",
+        "analytics_storage": "denied",
+        "ad_user_data": "denied",
+        "ad_personalization": "denied",
+        "wait_for_update": 500
+      });
       gtag("js", new Date());
       gtag("config", "G-ZJN951WF3R");
       gtag("config", "AW-18043142289");
@@ -492,13 +499,10 @@
         </div>
       </section>
 
-      <!-- Trustpilot Section -->
+      <!-- Client Rating Section -->
       <section class="trustpilot-section">
         <div class="container">
-          <a
-            href="https://www.trustpilot.com/review/televistaleadgeneration.com"
-            target="_blank"
-            rel="noopener noreferrer"
+          <div
             class="trustpilot-content"
             style="text-decoration: none"
           >
@@ -539,9 +543,9 @@
               </svg>
             </div>
             <div class="trustpilot-text">
-              Rated <strong>Excellent</strong> on Trustpilot
+              Rated <strong>Excellent</strong> by the clients we've worked with
             </div>
-          </a>
+          </div>
         </div>
       </section>
 
@@ -2921,14 +2925,7 @@
                   >Facebook</a
                 >
               </li>
-              <li>
-                <a
-                  href="https://www.trustpilot.com/review/televistaleadgeneration.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  >Trustpilot</a
-                >
-              </li>
+              
               <li>
                 <a
                   href="https://www.linkedin.com/company/televistaagency/"
@@ -3021,10 +3018,28 @@
     (function(){
       var banner = document.getElementById('cookie-banner');
       if (!banner) return;
-      if (localStorage.getItem('cookie-consent')) return;
+      var prior = localStorage.getItem('cookie-consent');
+      if (prior === 'accepted' && typeof gtag === 'function') {
+        gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'analytics_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted'
+        });
+        return;
+      }
+      if (prior) return;
       setTimeout(function(){ banner.classList.add('visible'); }, 600);
       document.getElementById('cookie-accept').addEventListener('click', function(){
         localStorage.setItem('cookie-consent', 'accepted');
+        if (typeof gtag === 'function') {
+          gtag('consent', 'update', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'granted',
+            'ad_user_data': 'granted',
+            'ad_personalization': 'granted'
+          });
+        }
         banner.classList.remove('visible');
       });
       document.getElementById('cookie-decline').addEventListener('click', function(){

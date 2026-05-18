@@ -44,6 +44,13 @@
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
+      gtag("consent", "default", {
+        "ad_storage": "denied",
+        "analytics_storage": "denied",
+        "ad_user_data": "denied",
+        "ad_personalization": "denied",
+        "wait_for_update": 500
+      });
       gtag("js", new Date());
       gtag("config", "G-ZJN951WF3R");
       gtag("config", "AW-18043142289");
@@ -316,7 +323,7 @@
             <ul class="footer-links">
               <li><a href="https://www.instagram.com/televistaleadgeneration/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
               <li><a href="https://www.facebook.com/profile.php?id=61579256489139" target="_blank" rel="noopener noreferrer">Facebook</a></li>
-              <li><a href="https://www.trustpilot.com/review/televistaleadgeneration.com" target="_blank" rel="noopener noreferrer">Trustpilot</a></li>
+              
               <li><a href="https://www.linkedin.com/company/televistaagency/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
             </ul>
           </div>
@@ -373,10 +380,28 @@
     (function(){
       var banner = document.getElementById('cookie-banner');
       if (!banner) return;
-      if (localStorage.getItem('cookie-consent')) return;
+      var prior = localStorage.getItem('cookie-consent');
+      if (prior === 'accepted' && typeof gtag === 'function') {
+        gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'analytics_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted'
+        });
+        return;
+      }
+      if (prior) return;
       setTimeout(function(){ banner.classList.add('visible'); }, 600);
       document.getElementById('cookie-accept').addEventListener('click', function(){
         localStorage.setItem('cookie-consent', 'accepted');
+        if (typeof gtag === 'function') {
+          gtag('consent', 'update', {
+            'ad_storage': 'granted',
+            'analytics_storage': 'granted',
+            'ad_user_data': 'granted',
+            'ad_personalization': 'granted'
+          });
+        }
         banner.classList.remove('visible');
       });
       document.getElementById('cookie-decline').addEventListener('click', function(){
