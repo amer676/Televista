@@ -213,7 +213,7 @@ Some shops out there will torch your money faster than a bad fix-and-flip.
 
 **Cookie-cutter scripts.** "Hi, I'm calling about your property on Main Street..." works about as well as a chocolate teapot in 2026. Motivated sellers can spot generic scripts from orbit. We had a wholesaler come to [Televista](/services.html) last month after his previous company used the same exact opener for distressed properties and luxury homes. Zero appointments in six weeks.
 
-**Offshore-only teams with zero compliance protocols.** TCPA violations aren't worth the savings. Companies that can't explain their Do Not Call scrubbing process or compliance monitoring? Run.
+**Teams with zero compliance protocols.** TCPA violations aren't worth the savings. Companies that can't explain their Do Not Call scrubbing process or compliance monitoring? Run.
 
 > **Pro tip:** Ask specifically about their DNC scrubbing frequency and TCPA training. Legit companies will have detailed answers ready.
 
