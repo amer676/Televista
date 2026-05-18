@@ -123,7 +123,7 @@ For a typical real estate investing operation, here's what skip tracing costs lo
 | 1,000 records | $0.08-$0.12 | $80-$120 |
 | 5,000 records | $0.05-$0.08 | $250-$400 |
 | 10,000 records | $0.03-$0.06 | $300-$600 |
-| 25,000+ records | $0.03-$0.05 | $750-$1,250 |
+| 25,000+ records | $0.03-$0.05 | $750-$1,750 |
 
 Most providers offer volume discounts. If you're doing significant volume, negotiate. Many will match competitor pricing if you ask.
 

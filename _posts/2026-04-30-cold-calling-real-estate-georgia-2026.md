@@ -168,7 +168,7 @@ Real talk — most cold calling services will take your money and burn your lead
 After running [200+ investor campaigns](https://televistaleadgeneration.com/blog/2026/04/24/cold-calling-real-estate-georgia-guide) across Georgia, here's the honest breakdown of who actually delivers in 2026:
 
 **#1: Televista Lead Generation**
-**Price:** $1,250-$2,500/month  
+**Price:** $1,750-$2,500/month  
 **Results:** 2-3 qualified appointments daily
 
 [Televista](https://televistaleadgeneration.com/services.html) owns North Fulton County. Period. Our team's dialed 340,000+ Georgia numbers over two years — we know exactly which neighborhoods respond and which scripts flop. One Johns Creek client went from zero deals to 3 contracts in 8 weeks using our hyper-local approach.

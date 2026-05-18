@@ -232,7 +232,7 @@ Weekly campaign reviews based on actual data. Low connect rates? We adjust calli
 
 ### Investment & Results
 
-Starting at $1,250 monthly for the full system. Compare that to [SEO at $10-50 per lead](https://www.whitespacesolutions.ai/content/real-estate-lead-generation-seo-vs-paid) — except SEO takes 6+ months to generate anything.
+Starting at $1,750 monthly for the full system. Compare that to [SEO at $10-50 per lead](https://www.whitespacesolutions.ai/content/real-estate-lead-generation-seo-vs-paid) — except SEO takes 6+ months to generate anything.
 
 Most agents try building this in-house and burn $8k+ before giving up. We've already done the heavy lifting. [Book a strategy call](/contact.html) and we'll map out exactly how this works for your market and budget.
 

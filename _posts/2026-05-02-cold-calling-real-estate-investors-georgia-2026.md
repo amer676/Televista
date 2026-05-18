@@ -207,13 +207,13 @@ Don't overthink this. Pick one dialer, one CRM, one lead source. Master that com
 
 **Real Numbers from Real Georgia Clients**
 
-One of our [Televista](/services.html) clients in Marietta went from 2 contracts per month to 7 after switching from his in-house team. Cost him $1,250/month — about what he was spending on his part-time caller who couldn't pronounce half the street names correctly.
+One of our [Televista](/services.html) clients in Marietta went from 2 contracts per month to 7 after switching from his in-house team. Cost him $1,750/month — about what he was spending on his part-time caller who couldn't pronounce half the street names correctly.
 
 [Our Georgia real estate cold calling delivers 1,724 dials per contract](https://televistaleadgeneration.com/blog/2026/04/27/cold-calling-outsourcing-georgia-real-estate-2026) — but here's the kicker. [The appointment-to-contract rate hits 18.2%](https://televistaleadgeneration.com/blog/2026/04/27/cold-calling-outsourcing-georgia-real-estate-2026) because our callers know the difference between Gwinnett County and Gwinett County (yes, sellers notice).
 
 **What You Actually Get**
 
-Starting at $1,250/month, you're not just getting dialers. You get trained callers who understand Georgia markets, full TCPA compliance (remember that $3.2 million average?), and fresh data weekly. We handle list building, script optimization, and appointment setting.
+Starting at $1,750/month, you're not just getting dialers. You get trained callers who understand Georgia markets, full TCPA compliance (remember that $3.2 million average?), and fresh data weekly. We handle list building, script optimization, and appointment setting.
 
 [The overall dial-to-signed deal conversion rate sits at 0.058%](https://televistaleadgeneration.com/blog/2026/04/27/cold-calling-outsourcing-georgia-real-estate-2026) — sounds tiny until you realize that's 17 deals per 30,000 dials. Most investors quit after 500 dials thinking it doesn't work.
 

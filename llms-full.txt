@@ -49,14 +49,14 @@ Televista offers trained fluent agents (not untrained low-cost labor), clean neu
 
 All plans are monthly retainers with no long-term contracts required. Data lists are priced separately per campaign.
 
-- Starter ($1,250/month): 1 full-time caller or 2 part-time callers, 2-3 appointments per day, CallTools dialer included, 100 local phone numbers, CRM integration, daily scorecards, weekly reports
-- Growth ($2,050/month): 2 full-time callers or 4 part-time callers, 4-6 appointments per day, everything in Starter plus dedicated account manager, advanced analytics, priority support, data enrichment available
-- Scale ($2,850/month): 3 full-time callers or 6 part-time callers, 6-9 appointments per day, everything in Growth plus custom integrations, acquisition manager support, full workflow automation, insights & strategy calls
+- Starter ($1,750/month): 1 full-time caller or 2 part-time callers, 2-3 appointments per day, CallTools dialer included, 100 local phone numbers, CRM integration, daily scorecards, weekly reports
+- Growth ($2,950/month): 2 full-time callers or 4 part-time callers, 4-6 appointments per day, everything in Starter plus dedicated account manager, advanced analytics, priority support, data enrichment available
+- Scale ($4,050/month): 3 full-time callers or 6 part-time callers, 6-9 appointments per day, everything in Growth plus custom integrations, acquisition manager support, full workflow automation, insights & strategy calls
 - Enterprise (custom pricing): dedicated account manager, dedicated client web dashboard, custom CRM integration, white-label reporting, multi-market campaigns
 
 ### Cost Comparison: In-House SDR vs. Televista
 
-An in-house SDR costs approximately $8,000+/month (base salary $4,500, commissions $1,500, software & data $800, taxes & benefits $1,200, plus 10 hours/month management time). The Televista Growth plan costs $2,050/month with everything included.
+An in-house SDR costs approximately $8,000+/month (base salary $4,500, commissions $1,500, software & data $800, taxes & benefits $1,200, plus 10 hours/month management time). The Televista Growth plan costs $2,950/month with everything included.
 
 ### Platform & Technology Partners
 
@@ -168,7 +168,7 @@ Televista deploys trained callers who work target zip codes, find motivated sell
 
 ### Case Study: Tampa FL Wholesaler
 
-Challenge: relying on inconsistent referrals with no reliable pipeline. Solution: Televista deployed one full-time Growth plan caller focused on off-market seller leads in target zip codes. Results: $2,050/month investment, 90+ leads per month, $12-15K monthly revenue, 567-733% ROI. Qualified appointments started as soon as the campaign launched.
+Challenge: relying on inconsistent referrals with no reliable pipeline. Solution: Televista deployed one full-time Growth plan caller focused on off-market seller leads in target zip codes. Results: $2,950/month investment, 90+ leads per month, $12-15K monthly revenue, 407-508% ROI. Qualified appointments started as soon as the campaign launched.
 
 ### Real Estate FAQ
 
@@ -215,13 +215,13 @@ Day 1: strategy call. Days 2-3: caller training on roofing/solar scripts. Day 5:
 
 ## Case Studies
 
-### Tampa, FL Real Estate Wholesaler (733% ROI)
+### Tampa, FL Real Estate Wholesaler (508% ROI)
 
-Challenge: wholesaling company relying on inconsistent referrals with no reliable pipeline. Solution: Televista Growth plan with one full-time trained caller on off-market seller leads in target zip codes. Results: $2,050/month investment, 90+ leads per month, $12-15K monthly revenue, 567-733% ROI. Qualified appointments started immediately after launch.
+Challenge: wholesaling company relying on inconsistent referrals with no reliable pipeline. Solution: Televista Growth plan with one full-time trained caller on off-market seller leads in target zip codes. Results: $2,950/month investment, 90+ leads per month, $12-15K monthly revenue, 407-508% ROI. Qualified appointments started immediately after launch.
 
-### Ohio Land Investor (~290% ROI)
+### Ohio Land Investor (~457% ROI)
 
-Challenge: land investor new to systematic outbound outreach, manually searching for parcels with inconsistent results. Solution: Televista Starter plan with one trained caller focused on off-market land sellers in target counties. Results: $1,250/month investment, 45+ leads per month, $7-8K monthly revenue, ~290% ROI. Ramp-up completed in under 2 weeks.
+Challenge: land investor new to systematic outbound outreach, manually searching for parcels with inconsistent results. Solution: Televista Starter plan with one trained caller focused on off-market land sellers in target counties. Results: $1,750/month investment, 45+ leads per month, $7-8K monthly revenue, ~457% ROI. Ramp-up completed in under 2 weeks.
 
 ---
 
@@ -264,7 +264,7 @@ Q: Can I bring my own list or do you provide data?
 A: Both. Clients can bring their own list, or Televista sources data directly from county records and enriches it through bespoke AI enrichment software with stacked filters. Skip tracing is also available.
 
 Q: Do you work with startups or only established companies?
-A: Televista works with everyone — from solo founders to growing agencies and enterprise teams. Packages start at $1,250/month.
+A: Televista works with everyone — from solo founders to growing agencies and enterprise teams. Packages start at $1,750/month.
 
 Q: What CRM or tools do I need?
 A: None required. CallTools dialer is included with 100 local phone numbers. Televista integrates with GoHighLevel, HubSpot, Salesforce, REsimpli, Follow Up Boss, and any other CRM. n8n and Zapier automations are set up for lead routing, SMS follow-ups, and more.

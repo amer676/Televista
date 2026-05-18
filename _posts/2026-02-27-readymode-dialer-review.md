@@ -199,7 +199,7 @@ But here's what we keep hearing: "I bought ReadyMode thinking it'd solve our app
 
 Most teams want appointments, not dialers. That's where [Televista's approach](https://televistaleadgeneration.com) makes more sense for 90% of companies.
 
-**We handle the whole stack.** Our clients don't touch dialers — they get qualified appointments delivered daily. Starting at $1,250/month, we provide trained callers, clean data, proven scripts, and campaign management. Plus all the tech stuff ReadyMode does (predictive dialing, compliance, call recording).
+**We handle the whole stack.** Our clients don't touch dialers — they get qualified appointments delivered daily. Starting at $1,750/month, we provide trained callers, clean data, proven scripts, and campaign management. Plus all the tech stuff ReadyMode does (predictive dialing, compliance, call recording).
 
 One of our solar clients in Phoenix was spending $800/month on ReadyMode plus another $4,000 on two part-time callers. Getting maybe 8-10 appointments per month. After switching to Televista, they're hitting 2-3 qualified appointments daily at $1,400/month total cost.
 

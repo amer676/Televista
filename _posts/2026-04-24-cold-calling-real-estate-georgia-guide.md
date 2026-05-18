@@ -256,7 +256,7 @@ Look, we've onboarded over [200 clients in the past two years](https://televista
 
 **Here's exactly how it works for Georgia investors.** Our team handles the list building — we pull fresh probate, pre-foreclosure, and high equity leads from Fulton, Gwinnett, and DeKalb weekly using [PropStream](https://propstream.com) and [BatchLeads](https://batchleads.com). You don't touch the data scraping or DNC scrubbing. We've got that dialed in.
 
-The calling starts at $1,250/month for 500 contacts per week. Our reps use proven Georgia-specific scripts — not generic "we buy houses" garbage that gets hung up on. We're hitting 8.2% connect rates consistently (matches [Prospeo's 2026 industry averages](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) exactly).
+The calling starts at $1,750/month for 500 contacts per week. Our reps use proven Georgia-specific scripts — not generic "we buy houses" garbage that gets hung up on. We're hitting 8.2% connect rates consistently (matches [Prospeo's 2026 industry averages](https://televistaleadgeneration.com/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) exactly).
 
 > **Key Stat:** Our Georgia clients average 2-3 qualified appointments per day once campaigns hit their stride.
 

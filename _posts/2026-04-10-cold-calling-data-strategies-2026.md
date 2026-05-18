@@ -240,7 +240,7 @@ At [Televista](https://www.televista.com), we built our entire operation around 
 
 **Our secret? We don't just use data — we layer it.**
 
-Starting at $1,250/month, our clients get access to our proprietary lead scoring system that combines expired listings (which [convert at 43%](https://www.redx.com/blog/best-real-estate-leads-2026-ranking-guide) according to REDX) with real-time intent signals. No more wasting time on portal leads that convert at a pathetic [0.2%](https://www.redx.com/blog/best-real-estate-leads-2026-ranking-guide).
+Starting at $1,750/month, our clients get access to our proprietary lead scoring system that combines expired listings (which [convert at 43%](https://www.redx.com/blog/best-real-estate-leads-2026-ranking-guide) according to REDX) with real-time intent signals. No more wasting time on portal leads that convert at a pathetic [0.2%](https://www.redx.com/blog/best-real-estate-leads-2026-ranking-guide).
 
 One of our Phoenix clients was stuck at 1.2 appointments per week using traditional methods. We integrated their [PropStream](https://www.propstream.com) data with our cadence system and behavioral triggers. Result? **9 appointments per week within 23 days.**
 

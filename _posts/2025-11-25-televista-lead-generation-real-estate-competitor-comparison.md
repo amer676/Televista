@@ -16,7 +16,7 @@ Consider this: only 3-6% of homeowners are actively thinking about selling at an
 
 The lead generation challenge is significant. [MoxiWorks research](https://moxiworks.com/blog/real-estate-lead-generation-companies) indicates that real estate professionals spend between $416 and $480 per qualified lead through traditional channels. In contrast, [Google's average cost per lead](https://ampifire.com/blog/average-real-estate-cost-per-lead-prices-rates-2025-ads-vs-content) is $66, highlighting why many agents quickly deplete their marketing budgets.
 
-Cold calling cuts through this clutter. While competitors rely on [Zillow](https://www.zillow.com) leads or compete on [Facebook](https://www.facebook.com) ads, proactive outbound efforts connect you directly with motivated sellers. We've managed campaigns where a $1,250 monthly investment — [Televista's starting point](https://televistaleadgeneration.com) — generates six-figure deal flows.
+Cold calling cuts through this clutter. While competitors rely on [Zillow](https://www.zillow.com) leads or compete on [Facebook](https://www.facebook.com) ads, proactive outbound efforts connect you directly with motivated sellers. We've managed campaigns where a $1,750 monthly investment — [Televista's starting point](https://televistaleadgeneration.com) — generates six-figure deal flows.
 
 This comparison explores the major players in real estate cold calling. We'll examine service models, pricing structures, and actual performance data, focusing on the operational realities of scaling outbound in today's real estate market.
 
@@ -44,9 +44,9 @@ The volume numbers are noteworthy. [Televista](https://televistaleadgeneration.c
 
 **Technology Stack:** Integration primarily runs through [HubSpot](https://www.hubspot.com), though they accommodate other CRM systems. This is crucial because data flow between your dialer and CRM determines whether leads are properly nurtured or fall through the cracks.
 
-**Pricing Reality:** Starting at $1,250/month, this is mid-tier pricing for managed outbound calling. It's reasonable given that they handle list sourcing, caller management, and lead qualification. Most agencies at this price point deliver inconsistent results, but Televista holds a 4.5-star Excellent rating on [Trustpilot](https://www.trustpilot.com/review/televistaleadgeneration.com) across 16 reviews.
+**Pricing Reality:** Starting at $1,750/month, this is mid-tier pricing for managed outbound calling. It's reasonable given that they handle list sourcing, caller management, and lead qualification. Most agencies at this price point deliver inconsistent results, but Televista holds a 4.5-star Excellent rating on [Trustpilot](https://www.trustpilot.com/review/televistaleadgeneration.com) across 16 reviews.
 
-**ROI Claims:** They promote a 567%+ average ROI, which sounds aggressive until you run the math. If you're paying $1,250/month and closing even two $10,000 wholesale deals from their leads, you're already at 1,500%+ ROI. The question isn't whether high ROI is possible — it's whether their lead quality consistently supports those numbers.
+**ROI Claims:** They promote a 567%+ average ROI, which sounds aggressive until you run the math. If you're paying $1,750/month and closing even two $10,000 wholesale deals from their leads, you're already at 1,500%+ ROI. The question isn't whether high ROI is possible — it's whether their lead quality consistently supports those numbers.
 
 **The Reality Check:** What sets them apart is their systematic follow-up processes. Too many real estate professionals focus only on initial contact volume. Televista builds sequences that nurture leads over 6-12 months, recognizing that seller motivation changes with market conditions and personal circumstances.
 
@@ -56,7 +56,7 @@ I've evaluated dozens of real estate cold calling agencies over the years, and t
 
 **Pricing and Value Structure**
 
-[Televista](https://televistaleadgeneration.com) starts at $1,250/month — positioned right in the sweet spot between budget shops and premium players. CallAction typically runs $2,000-3,500/month for comparable volume, while Vulcan7 charges $1,800-2,800. The difference isn't just price — it's what you're getting for that investment.
+[Televista](https://televistaleadgeneration.com) starts at $1,750/month — positioned right in the sweet spot between budget shops and premium players. CallAction typically runs $2,000-3,500/month for comparable volume, while Vulcan7 charges $1,800-2,800. The difference isn't just price — it's what you're getting for that investment.
 
 **Volume and Conversion Metrics**
 
@@ -78,7 +78,7 @@ The bottom line: Televista delivers enterprise-level volume and conversion rates
 
 ## ROI Analysis: Cold Calling vs. Alternative Lead Generation Methods
 
-The ROI math on cold calling gets interesting when you strip away the marketing fluff and look at real numbers. [Televista's](https://televistaleadgeneration.com) $1,250/month service claims 567% ROI, but let's see how that compares to other lead generation methods our team actively tests.
+The ROI math on cold calling gets interesting when you strip away the marketing fluff and look at real numbers. [Televista's](https://televistaleadgeneration.com) $1,750/month service claims 567% ROI, but let's see how that compares to other lead generation methods our team actively tests.
 
 [Facebook leads](https://ampifire.com/blog/average-real-estate-cost-per-lead-prices-rates-2025-ads-vs-content) run $5-25 per lead — sounds cheap until you realize conversion rates hover around 1-2%. We've run Facebook campaigns that delivered 500 leads for $2,500, but only closed 8 deals. That's $312 per actual transaction.
 
@@ -154,7 +154,7 @@ The Syracuse case proves what we see daily: cold calling dominates when executed
 
 ## The Bottom Line: Is Televista Worth the Investment for Real Estate Professionals?
 
-After evaluating their operation against 30+ competitors, [Televista Lead Generation](https://televistaleadgeneration.com) earns a conditional recommendation. Their 13% close rate and $1,250/month starting price make sense for specific real estate professionals — but not everyone.
+After evaluating their operation against 30+ competitors, [Televista Lead Generation](https://televistaleadgeneration.com) earns a conditional recommendation. Their 13% close rate and $1,750/month starting price make sense for specific real estate professionals — but not everyone.
 
 **Who should seriously consider Televista:** High-volume agents and teams handling 15+ transactions annually who need consistent lead flow. Their [HubSpot](https://www.hubspot.com) integration and 10,000+ daily call capacity work best for operations already running systematic follow-up processes.
 

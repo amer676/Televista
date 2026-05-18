@@ -151,7 +151,7 @@ So here's an honest breakdown of seven ways to generate seller leads without col
 After all that, here's when cold calling is still the best option:
 
 - **You need leads now.** Cold calling generates appointments within the first week. No other channel (except PPC) matches that speed.
-- **Your budget is under $3,000/month.** [Managed cold calling](/services.html) starts at $1,250/month and includes everything. That's cheaper than running PPC or direct mail at meaningful volume.
+- **Your budget is under $3,000/month.** [Managed cold calling](/services.html) starts at $1,750/month and includes everything. That's cheaper than running PPC or direct mail at meaningful volume.
 - **You want off-market deals.** Every other channel on this list (except driving for dollars) reaches sellers who are already looking. Cold calling reaches sellers who aren't looking yet — which means less competition and better deal terms.
 - **You want predictable volume.** Cold calling produces a consistent number of appointments every week. No feast-or-famine cycles.
 

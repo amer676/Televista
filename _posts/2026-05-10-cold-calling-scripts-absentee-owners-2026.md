@@ -228,7 +228,7 @@ Here's what actually separates the winners from the time-wasters — **[CallTool
 
 > **Pro tip:** Most agents underestimate the cost of their own time. At $50/hour (conservative for decent agents), spending 20 hours/week dialing costs $4,000/month — before factoring in the deals you're not closing while babysitting a dialer.
 
-Our [Televista clients](/services.html) start at $1,250/month and get: dedicated campaign manager, **[Mojo Dialer](https://www.mojosells.com)** setup, daily performance tracking, objection response optimization, and lead qualification. We handle the data scrubbing, compliance headaches, and script testing so you're closing deals instead of troubleshooting technology.
+Our [Televista clients](/services.html) start at $1,750/month and get: dedicated campaign manager, **[Mojo Dialer](https://www.mojosells.com)** setup, daily performance tracking, objection response optimization, and lead qualification. We handle the data scrubbing, compliance headaches, and script testing so you're closing deals instead of troubleshooting technology.
 
 Take Brad — one of our solar guys in Phoenix. Spent eight months doing his own calling, averaged 11 appointments total. Switched to [Televista](/contact.html) in March and hit 47 appointments his first month. Same exact lead source ([PropStream](https://www.propstream.com) absentee owner list), same market area.
 

@@ -156,7 +156,7 @@ Most outsourced providers fall into four buckets. Only one consistently works.
 
 We're biased, obviously. But the numbers don't lie — [200+ campaigns across real estate sectors](/blog/2026/03/26/in-house-sdr-vs-outsourced-sdr-guide) taught us exactly what works and what burns investor cash.
 
-Starting at **$1,250/month**, you get US-based callers who actually understand distressed properties, not offshore reps reading scripts about "investment opportunities." Our clients typically see **2-3 qualified appointments daily** within their first month. We handle campaign setup, data sourcing, dialer management, and lead qualification. No babysitting required.
+Starting at **$1,750/month**, you get US-based callers who actually understand distressed properties, not offshore reps reading scripts about "investment opportunities." Our clients typically see **2-3 qualified appointments daily** within their first month. We handle campaign setup, data sourcing, dialer management, and lead qualification. No babysitting required.
 
 One Phoenix investor went from zero appointments to 11 weekly qualified calls in six weeks. Same lists, same market — just callers who knew when to pivot from foreclosure to probate conversation mid-call.
 

@@ -270,7 +270,7 @@ Here's what we actually handle for our clients:
 
 One [Televista client](/about.html) in Phoenix — wholesale operation focused on residential deals — thought his cold calling ROI was 340% when he calculated it himself. After [we ran the real numbers](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026)? **127% actual ROI** once we factored in all costs. Still profitable, but he was making decisions based on fantasy math.
 
-Our [pricing](/pricing.html) starts at **$1,250/month** for full campaign management. That includes lists, callers, follow-up sequences, and appointment setting. Most investors spend more than that trying to DIY it — and get terrible results.
+Our [pricing](/pricing.html) starts at **$1,750/month** for full campaign management. That includes lists, callers, follow-up sequences, and appointment setting. Most investors spend more than that trying to DIY it — and get terrible results.
 
 The [200+ clients we've onboarded](/blog/2026/04/04/cold-calling-roi-conversion-rates-2026) over the past two years chose us for one reason: they'd rather close deals than babysit dialers.
 

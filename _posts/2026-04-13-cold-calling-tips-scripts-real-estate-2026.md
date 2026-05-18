@@ -272,7 +272,7 @@ That's not luck — it's process.
 
 Here's what you actually get when you work with us: trained callers who sound like they belong in real estate, not a telemarketing boiler room. Data that's scrubbed and targeted (we're pulling absentee owners with equity, not random homeowner lists). Full campaign management so you're focusing on closing deals, not babysitting dialers.
 
-**[Pricing](/pricing.html) transparency?** We start at $1,250/month — no hidden fees, no setup costs, no long-term contracts. Results are typically **2-3 qualified appointments per day** within the first month.
+**[Pricing](/pricing.html) transparency?** We start at $1,750/month — no hidden fees, no setup costs, no long-term contracts. Results are typically **2-3 qualified appointments per day** within the first month.
 
 The investors who work with [Televista](/services.html) aren't just getting calls made. They're getting a system that actually delivers motivated sellers to their pipeline. We handle the compliance headaches, the script optimization, the follow-up sequences — everything that trips up DIY investors.
 

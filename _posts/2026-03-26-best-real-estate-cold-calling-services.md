@@ -35,7 +35,7 @@ Let's see which services actually move the needle versus which ones just sound g
 ## #1 Televista Lead Generation — The ROI King
 We're biased, obviously. But the numbers don't lie.
 
-**$1,250 monthly gets you 2-3 qualified appointments daily.** Complete campaign management. Data included. Trained callers who actually understand real estate — not some random VA reading scripts about "motivated sellers" without knowing what a short sale is.
+**$1,750 monthly gets you 2-3 qualified appointments daily.** Complete campaign management. Data included. Trained callers who actually understand real estate — not some random VA reading scripts about "motivated sellers" without knowing what a short sale is.
 
 Most [real estate cold calling services](https://www.realtor.com/advice/sell/cold-calling-real-estate/) charge similar rates but deliver half the appointments. I've seen competitors promise 50 dials daily then deliver 23. We log everything in [HubSpot](https://www.hubspot.com) — you get real-time dashboards showing exactly who we called, when, and what they said.
 
@@ -53,7 +53,7 @@ What separates us from every other [real estate lead generation service](https:/
 
 **Complete transparency.** You get call recordings, detailed notes, conversion metrics updated daily. Zero black box nonsense.
 
-**Pricing breakdown:** $1,250/month includes 200+ dials daily, lead qualification, appointment setting, CRM integration, and monthly strategy calls. Compare that to [Lead Propeller](https://www.leadpropeller.com) at $1,800+ for similar volume but half the appointments.
+**Pricing breakdown:** $1,750/month includes 200+ dials daily, lead qualification, appointment setting, CRM integration, and monthly strategy calls. Compare that to [Lead Propeller](https://www.leadpropeller.com) at $1,800+ for similar volume but half the appointments.
 
 Most [real estate appointment setting services](https://www.fool.com/the-ascent/real-estate/articles/real-estate-lead-generation/) treat every property owner like they're selling their primary residence. We know the difference between a tired landlord and someone fishing for market value. Makes all the difference in conversion rates.
 

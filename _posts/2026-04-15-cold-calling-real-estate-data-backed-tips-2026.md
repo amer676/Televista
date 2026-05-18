@@ -250,7 +250,7 @@ But here's what happens when you **actually** combine all these data-driven stra
 Take one of our clients — North Alabama House Buyer. They're cranking out [40,000 cold calls monthly](/blog/2026/04/07/ultimate-cold-calling-system-real-estate-investors-2026) using our exact playbook. Results? 18 appointments per week, consistently. 
 
 **The Televista System Breakdown**
-Starting at $1,250/month, here's what you get:
+Starting at $1,750/month, here's what you get:
 - **Pre-qualified data stacks** using [PropertyRadar](https://www.propertyradar.com) and public records
 - **Dedicated cold callers** (no sharing with other clients)  
 - **Dynamic scripts** personalized to each property's distress signals

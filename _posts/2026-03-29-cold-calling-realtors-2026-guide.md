@@ -215,7 +215,7 @@ Here's what's different about our approach. We don't hand you scripts and hope f
 
 The typical [Televista](/services.html) client sees 2-3 qualified appointments daily within 30 days. That's not accidental. [AI tools help personalize calls and provide real-time feedback, increasing meeting rates by 36%](https://leadsatscale.com/insights/cold-calling-effectiveness-2026-data) — and we've built those workflows into every campaign.
 
-**Investment starts at $1,250 monthly.** Sounds like a lot until you close one deal from it. Most agents waste that much on Facebook ads that generate zero appointments.
+**Investment starts at $1,750 monthly.** Sounds like a lot until you close one deal from it. Most agents waste that much on Facebook ads that generate zero appointments.
 
 The compliance piece? We handle all of it. TCPA documentation, DNC scrubbing, consent tracking. You focus on what you're good at — selling houses. [Book a strategy call](/contact.html) and we'll show you exactly how this works for your market.
 

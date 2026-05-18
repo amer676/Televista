@@ -187,11 +187,11 @@ The secret sauce? **Trained callers who actually understand wholesale.** Not som
 
 > **Pro tip:** Skip the robocalls and SMS blasts. With [new Oregon registration requirements](https://www.oregon.gov/rea/newsroom/pages/2024-oren-j/property-wholesaling-law-rule-overview.aspx) and similar regulations spreading, compliance matters more than volume.
 
-**Full campaign management starts at $1,250 monthly.** Data included. No setup fees. You get a dedicated campaign manager who knows your local market — whether that's Dallas wholesaling or Cleveland fix-and-flips. We handle everything from list building to appointment setting while you focus on what actually makes money: closing deals.
+**Full campaign management starts at $1,750 monthly.** Data included. No setup fees. You get a dedicated campaign manager who knows your local market — whether that's Dallas wholesaling or Cleveland fix-and-flips. We handle everything from list building to appointment setting while you focus on what actually makes money: closing deals.
 
 Most wholesalers waste 20 hours weekly on lead gen that our team handles in their sleep.
 
-The math is stupid simple. If we're booking 2-3 qualified appointments daily, you only need a 10% close rate to do 6-9 deals monthly. At $10K average assignment fees, that's $60K-$90K revenue for a $1,250 investment.
+The math is stupid simple. If we're booking 2-3 qualified appointments daily, you only need a 10% close rate to do 6-9 deals monthly. At $10K average assignment fees, that's $60K-$90K revenue for a $1,750 investment.
 
 This is exactly why successful wholesalers outsource lead generation to specialists who've cracked the code across all markets.
 

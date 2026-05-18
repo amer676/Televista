@@ -34,7 +34,7 @@ And those numbers assume you're running optimized campaigns. Most investors burn
 
 A managed cold calling campaign runs on a completely different cost structure:
 
-- **Monthly investment:** $1,250-$2,850 for a managed agency like [Televista](/services.html)
+- **Monthly investment:** $1,750-$4,050 for a managed agency like [Televista](/services.html)
 - **Appointments per month:** 40-90+ (depending on plan and market)
 - **Cost per appointment:** $14-$71
 - **Additional costs:** None (data, dialer, training included)

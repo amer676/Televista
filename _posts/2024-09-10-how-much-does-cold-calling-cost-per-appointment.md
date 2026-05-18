@@ -55,7 +55,7 @@ When it works, it's cheap. When it doesn't (which is often), you've burned a mon
 
 This is the model where everything is included — callers, dialer, data, training, QA, CRM integration, and reporting:
 
-- **Monthly fee:** $1,250-$2,850/month (at [Televista](/services.html))
+- **Monthly fee:** $1,750-$4,050/month (at [Televista](/services.html))
 - **Your time:** 1-2 hours/week (reviewing reports, closing deals)
 - **Additional costs:** None
 

@@ -53,7 +53,7 @@ Let's cut through the noise here. Most "reviews" online are garbage — written 
 
 [Our team](/about.html) at [Televista](https://televistaleadgeneration.com) has worked with 200+ real estate clients over the past three years. We've also competed against every major player in this space. Here's the real breakdown of who actually delivers for investors in 2026.
 
-**1. [Televista Lead Generation](https://televistaleadgeneration.com/blog/2025/11/25/televista-lead-generation-real-estate-competitor-comparison/) - $1,250+/month**
+**1. [Televista Lead Generation](https://televistaleadgeneration.com/blog/2025/11/25/televista-lead-generation-real-estate-competitor-comparison/) - $1,750+/month**
 
 We're ranking ourselves first because our numbers don't lie. **2-3 qualified appointments daily** for active clients, with campaigns running across 47 states. What makes us different? We don't just make calls — we build entire lead ecosystems.
 
@@ -77,7 +77,7 @@ They've got the volume game down — lots of calls, lots of connections. What th
 
 Decent pricing, decent results. Nothing spectacular. They're the Honda Civic of appointment setting — reliable but you won't be bragging to anyone about it.
 
-> **Pro tip:** Don't get seduced by rock-bottom pricing. A $400/month service that books zero qualified appointments is infinitely more expensive than a $1,250 service that closes deals.
+> **Pro tip:** Don't get seduced by rock-bottom pricing. A $400/month service that books zero qualified appointments is infinitely more expensive than a $1,750 service that closes deals.
 
 The reality most investors miss? These aren't just calling services. You're buying lead generation systems, market intelligence, and sales infrastructure. Choose accordingly.
 

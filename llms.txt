@@ -4,7 +4,7 @@
 
 Televista is not a staffing company or VA provider. It is a hands-on, fully-managed outbound sales operation. Clients get dedicated trained callers, a CallTools power dialer with 100 local numbers, CRM integration, daily scorecards, weekly performance reports, weekly strategy meetings, call recordings, and active quality assurance — all included in a flat monthly retainer. The team operates as if they are the client's own in-house SDR department.
 
-- Service model: monthly retainer only (Starter $1,250/mo, Growth $2,050/mo, Scale $2,850/mo, Enterprise custom)
+- Service model: monthly retainer only (Starter $1,750/mo, Growth $2,950/mo, Scale $4,050/mo, Enterprise custom)
 - Output: 2-3 qualified appointments per full-time caller per day
 - Team: 25 active trained callers + 10 on standby, with acquisition managers, QA team, and dedicated account management
 - Tech: CallTools/VICIdial power dialer, bespoke AI lead scoring, n8n/Zapier automation, Twilio SMS, skip tracing
@@ -47,9 +47,9 @@ Televista is not a staffing company or VA provider. It is a hands-on, fully-mana
 
 ## Pricing
 
-- Starter: $1,250/month — 1 full-time caller (or 2 part-time), 2-3 appointments/day, CallTools dialer, 100 local numbers, CRM integration, daily scorecards, weekly reports
-- Growth: $2,050/month — 2 full-time callers (or 4 part-time), 4-6 appointments/day, dedicated account manager, advanced analytics, data enrichment
-- Scale: $2,850/month — 3 full-time callers (or 6 part-time), 6-9 appointments/day, custom integrations, acquisition manager support, full workflow automation
+- Starter: $1,750/month — 1 full-time caller (or 2 part-time), 2-3 appointments/day, CallTools dialer, 100 local numbers, CRM integration, daily scorecards, weekly reports
+- Growth: $2,950/month — 2 full-time callers (or 4 part-time), 4-6 appointments/day, dedicated account manager, advanced analytics, data enrichment
+- Scale: $4,050/month — 3 full-time callers (or 6 part-time), 6-9 appointments/day, custom integrations, acquisition manager support, full workflow automation
 - Enterprise: custom pricing — dedicated account manager, custom CRM integration, white-label reporting, multi-market campaigns
 
 ## Optional

@@ -290,7 +290,7 @@ The math's simple: **500% deal increase** in eight months. His average deal prof
 
 **What Makes Us Different**
 
-We handle everything — data sourcing, dialing, appointment setting, follow-up sequences. You just show up to appointments we've pre-qualified. Starting at **$1,250 monthly**, which sounds like a lot until you realize hiring one decent caller internally costs $3,500+ monthly (salary, benefits, training time).
+We handle everything — data sourcing, dialing, appointment setting, follow-up sequences. You just show up to appointments we've pre-qualified. Starting at **$1,750 monthly**, which sounds like a lot until you realize hiring one decent caller internally costs $3,500+ monthly (salary, benefits, training time).
 
 Here's what other services miss: investors need scenario-specific approaches. Our team doesn't use the same script for probate leads and absentee owners — completely different motivations. We've integrated AI tools like automated SMS follow-up and [AI CRM tracking](https://www.myaifrontdesk.com/blogs/the-top-ai-software-for-real-estate-professionals-in-2026-a-comprehensive-guide) to nurture leads that aren't ready today but might be in 3-6 months.
 

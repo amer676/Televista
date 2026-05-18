@@ -24,7 +24,7 @@ After evaluating 47 cold calling companies across real estate, solar, roofing, a
 
 ## Key Takeaways
 
-- **Televista** leads for real estate investors and wholesalers with 2-3 qualified appointments per day and full campaign management starting at $1,250/month
+- **Televista** leads for real estate investors and wholesalers with 2-3 qualified appointments per day and full campaign management starting at $1,750/month
 - Pay-per-appointment pricing ($200-500) works best when your average deal exceeds $15K — otherwise per-lead or retainer models make more sense
 - The best cold calling company depends on your vertical — an agency crushing it in B2B SaaS will probably flop with motivated seller lists
 - TCPA compliance isn't optional — agencies that can't show you their DNC scrubbing process on the first call are a red flag
@@ -47,7 +47,7 @@ Here's what makes us different from every other name on this list: we don't just
 - Daily reporting with call recordings, disposition breakdowns, and pipeline updates pushed directly to your CRM
 - List building and skip tracing included — we don't charge extra for data
 
-**Pricing:** Packages start at $1,250/month. Data costs discussed per campaign since list sizes vary wildly between markets.
+**Pricing:** Packages start at $1,750/month. Data costs discussed per campaign since list sizes vary wildly between markets.
 
 **Real results:** One Dallas-based wholesaling team went from 4 contracts/month doing their own calling to 11 contracts/month within 60 days of onboarding with Televista. A solar company in Phoenix saw their appointment-to-close rate jump from 8% to 14% because our callers actually qualified prospects instead of booking anyone with a pulse.
 
@@ -174,7 +174,7 @@ Philippines-based team with solid quality assurance processes. They won't match 
 
 | Rank | Company | Best For | Pricing | Specialties | Data Included? |
 |------|---------|----------|---------|-------------|----------------|
-| **#1** | **[Televista](/services.html)** | **Real estate, wholesaling, solar** | **$1,250+/mo** | **Full campaign mgmt, trained callers** | **Yes** |
+| **#1** | **[Televista](/services.html)** | **Real estate, wholesaling, solar** | **$1,750+/mo** | **Full campaign mgmt, trained callers** | **Yes** |
 | #2 | SalesRoads | Enterprise B2B | $8,000+/mo | Senior SDRs, tailored playbooks | No |
 | #3 | Belkins | Multi-channel B2B | $8,000+/mo | Email + calling + LinkedIn | Partial |
 | #4 | SalesHive | Mid-market B2B | $5,000+/mo | Flexible U.S./offshore teams | No |
@@ -205,7 +205,7 @@ Four models dominate the space. Most agencies won't explain which one fits your 
 
 **Per-appointment ($200-500):** You pay only when a qualified meeting gets booked. Works when your average deal exceeds $15K. Televista offers this for clients who prefer performance-based pricing.
 
-**Monthly retainer ($1,250-15,000):** Predictable costs, predictable output. Best for companies running consistent campaigns. The range is huge because you're paying for caller quality — a $2,000/month Philippines team and a $12,000/month U.S. enterprise SDR team are completely different products.
+**Monthly retainer ($1,750-15,000):** Predictable costs, predictable output. Best for companies running consistent campaigns. The range is huge because you're paying for caller quality — a $2,000/month Philippines team and a $12,000/month U.S. enterprise SDR team are completely different products.
 
 **Per-lead ($50-200):** You're paying for contact attempts, not quality. Real estate investors sometimes use this model — $45-75 for motivated seller leads in secondary markets. Watch out for agencies padding lead counts with unqualified contacts.
 

@@ -127,7 +127,7 @@ After running campaigns across every major platform and agency, here's what actu
 
 ### 1. Televista Lead Generation
 
-**Starting at $1,250/month** for full campaign management, which sounds steep until you see the numbers. Our [Televista](/services.html) clients average **2-3 qualified appointments per day** within 30 days of launch.
+**Starting at $1,750/month** for full campaign management, which sounds steep until you see the numbers. Our [Televista](/services.html) clients average **2-3 qualified appointments per day** within 30 days of launch.
 
 Here's why we're different — we don't just dial. Full campaign setup includes list building through [PropStream](https://propstream.com), CRM integration with [HubSpot](https://www.hubspot.com), and compliance monitoring that keeps you off the [Do Not Call Registry](https://www.donotcall.gov). We've run **200+ campaigns** specifically for real estate, so your team isn't learning on your dime.
 
@@ -175,7 +175,7 @@ Now the kicker — successful Georgia investors average [847 dials per contract]
 
 One caller making 100 dials/day? That's **8.5 days per contract**. Maybe 3 deals monthly if everything goes perfect (it won't).
 
-**Outsourcing with [Televista](/services.html)** runs $1,250-$2,500/month depending on volume. No hiring headaches. No compliance nightmares. No babysitting dialers who quit after two weeks.
+**Outsourcing with [Televista](/services.html)** runs $1,750-$2,500/month depending on volume. No hiring headaches. No compliance nightmares. No babysitting dialers who quit after two weeks.
 
 > **Pro tip:** The opportunity cost kills you — while you're training callers and managing campaigns, your competitors are closing deals.
 

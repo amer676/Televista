@@ -230,7 +230,7 @@ Here's how we actually deploy this stuff: [Our team](/about.html) takes your tar
 
 > **Real Example:** One investor we work with in Phoenix was stuck at maybe 8-10 conversations weekly, zero consistency. After three weeks with our framework implementation, he's averaging **2-3 qualified appointments daily**. We're handling the 80/20 analysis, the objection trees, the follow-up cadences — everything.
 
-The [pricing](/pricing.html) starts at **$1,250/month** because honestly? Good cold calling isn't cheap. But when you break down what [North Alabama House Buyer](https://8020rei.com/case-studies) achieved — **15+ deals monthly** after scaling to **40,000 calls** — the math works out fast.
+The [pricing](/pricing.html) starts at **$1,750/month** because honestly? Good cold calling isn't cheap. But when you break down what [North Alabama House Buyer](https://8020rei.com/case-studies) achieved — **15+ deals monthly** after scaling to **40,000 calls** — the math works out fast.
 
 We customize frameworks for your investor type too. Wholesalers need speed-focused approaches. Fix-and-flip investors need different qualifying questions than buy-and-hold folks. Most calling services treat everyone identical (big mistake).
 

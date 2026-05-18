@@ -177,7 +177,7 @@ One client in Johns Creek went from 2 appointments weekly to 9 using this approa
 
 **CRM Setup:** Most platforms can't handle North Fulton's longer sales cycles (honestly, most investors can't either). We configure [HubSpot](https://www.hubspot.com) with 90-day nurture sequences because affluent homeowners need time. Rush them and they hang up. Nurture properly and they refer neighbors.
 
-> **Key Stat:** Our North Fulton campaigns average 2-3 qualified appointments daily at $1,250+/month.
+> **Key Stat:** Our North Fulton campaigns average 2-3 qualified appointments daily at $1,750+/month.
 
 The window's closing though. [Current North Fulton opportunities are expected to tighten by Q3 2026](https://televistaleadgeneration.com/blog/2026/04/30/cold-calling-real-estate-georgia-2026) as inventory normalizes. Smart money's moving now — [book a strategy call](/contact.html) if you want in before everyone else catches up.
 

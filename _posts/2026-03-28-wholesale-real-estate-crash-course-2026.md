@@ -211,7 +211,7 @@ One wholesale client in Memphis was doing everything himself. Seven months, thre
 
 The difference? Volume and consistency. 
 
-You can't make 200 quality calls per day while analyzing deals, meeting buyers, and handling contracts. Our campaigns start at $1,250/month — less than what most wholesalers spend on direct mail with zero guarantees. [AI tools for lead generation](https://coursiv.io/blog/best-ai-tools-for-real-estate-agents-2026) score prospects by behavior and life events, but someone still needs to make the calls.
+You can't make 200 quality calls per day while analyzing deals, meeting buyers, and handling contracts. Our campaigns start at $1,750/month — less than what most wholesalers spend on direct mail with zero guarantees. [AI tools for lead generation](https://coursiv.io/blog/best-ai-tools-for-real-estate-agents-2026) score prospects by behavior and life events, but someone still needs to make the calls.
 
 Compare that to hiring your own caller. $15/hour plus benefits, training time, turnover headaches. Most quit after two weeks of rejection calls.
 

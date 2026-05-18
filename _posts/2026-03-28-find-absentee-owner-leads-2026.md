@@ -214,7 +214,7 @@ Look, I'll be straight with you. Most investors fail at absentee owner campaigns
 
 We've run **200+ cold calling campaigns** across real estate, solar, and roofing at [Televista](https://televistaleadgeneration.com). The difference? We handle the entire pipeline — from pulling lists to setting appointments. You focus on closing deals.
 
-**Here's what that looks like:** We start at $1,250/month for full-service campaigns. Our clients typically see 2-3 qualified appointments per day within the first month. No babysitting dialers. No compliance headaches.
+**Here's what that looks like:** We start at $1,750/month for full-service campaigns. Our clients typically see 2-3 qualified appointments per day within the first month. No babysitting dialers. No compliance headaches.
 
 Take Mike from Austin — classic story. Guy was spending 40 hours weekly dialing absentee owners from [PropStream](https://www.propstream.com) lists. Getting maybe one appointment per week. Frustrating as hell.
 

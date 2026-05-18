@@ -240,7 +240,7 @@ The calling schedule? Tuesday through Thursday, 11am-6pm local time. Weekends ar
 
 **With new [CCPA compliance requirements](https://captaincompliance.com/education/new-ccpa-2026-regulations-your-complete-compliance-action-guide/) hitting January 1st, 2026**, we've rebuilt our entire data handling process. Every lead gets proper consent tracking using Captain Compliance's DSR Portal — no shortcuts here.
 
-Investment starts at $1,250/month for 500 qualified calls. Most clients see 2-3 solid appointments daily within six weeks. One Phoenix wholesaler closed four deals in his second month — guy's now running three markets with us.
+Investment starts at $1,750/month for 500 qualified calls. Most clients see 2-3 solid appointments daily within six weeks. One Phoenix wholesaler closed four deals in his second month — guy's now running three markets with us.
 
 What makes [Televista](/services.html) different? We don't just dial for dollars. We're motivation hunters first, dialers second. Makes all the difference when you're competing against 15 other investors calling the same list.
 

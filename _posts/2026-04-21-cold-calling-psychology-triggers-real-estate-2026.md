@@ -227,7 +227,7 @@ Track weekly, not daily. Daily swings mess with your head.
 
 Look, most investors think they can just download a script and start converting. Doesn't work that way.
 
-**Psychology-driven cold calling takes serious infrastructure** — the kind [Televista](https://televistaleadgeneration.com) builds for clients starting at $1,250/month. We're talking about dedicated callers who've mastered the 3-second window, CRM workflows that track trigger effectiveness, and campaign management that actually moves the needle.
+**Psychology-driven cold calling takes serious infrastructure** — the kind [Televista](https://televistaleadgeneration.com) builds for clients starting at $1,750/month. We're talking about dedicated callers who've mastered the 3-second window, CRM workflows that track trigger effectiveness, and campaign management that actually moves the needle.
 
 Here's a real example. Denver investor came to us stuck at 11% connect-to-appointment rates (industry average stuff). We rebuilt his entire approach around the triggers we've covered. Three months later? **28% conversion rates consistently**. 
 

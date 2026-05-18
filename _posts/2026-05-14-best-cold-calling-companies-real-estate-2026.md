@@ -23,14 +23,14 @@ Most investors get this backwards — they think [cold calling companies](https:
 
 Our [Televista](/services.html) team spent six months evaluating the market — **8 [cold calling agencies](https://televistaleadgeneration.com/blog/2026/03/17/best-b2b-cold-calling-agencies-top-10/) across 200+ real estate campaigns**. We tested everything from $800/month budget shops to white-glove $5K services. The results? Most companies overpromise and underdeliver, but a few absolutely crush it.
 
-Starting price for quality services hits around **$1,250/month** — which sounds steep until you realize that's less than most investors blow on ineffective DIY setups.
+Starting price for quality services hits around **$1,750/month** — which sounds steep until you realize that's less than most investors blow on ineffective DIY setups.
 
 We'll break down the top performers, red flags to avoid, and exactly what ROI looks like when you get this right. Spoiler alert: [Televista leads the pack](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), but we're not the only game worth playing.
 
 ## Key Takeaways
 
 - DIY cold calling setups cost investors an average of $4,800 annually.
-- Professional services start around $1,250/month, often cheaper than DIY.
+- Professional services start around $1,750/month, often cheaper than DIY.
 - [Televista](/services.html) leads in delivering real estate-specific results.
 - Most companies overpromise; only a few deliver consistent ROI.
 - Successful investors focus on closing deals, not managing calls.
@@ -49,7 +49,7 @@ Most investors get this backwards. They think all cold calling options are the s
 
 We've run this comparison across [200+ real estate campaigns](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) at Televista. Busy investors using full-service companies consistently hit 15-25% more appointments per month than DIY dialers.
 
-The math's simple. Your time closing deals beats managing cold callers. Companies like [Televista start at $1,250/mo](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) — cheaper than two decent VAs when you factor in management overhead, software licenses, and compliance headaches.
+The math's simple. Your time closing deals beats managing cold callers. Companies like [Televista start at $1,750/mo](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) — cheaper than two decent VAs when you factor in management overhead, software licenses, and compliance headaches.
 
 Companies handle the machine. You handle the deals.
 
@@ -57,11 +57,11 @@ Companies handle the machine. You handle the deals.
 
 Here's what actually works for investors who want qualified leads, not just dial time.
 
-### 1. [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) - $1,250/mo
+### 1. [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) - $1,750/mo
 
 [Televista](https://televistaleadgeneration.com) sits at the top because we've cracked the code on real estate-specific cold calling. No fluff.
 
-Our $1,250/mo flat rate includes everything — [AI-powered lead scoring](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), dedicated QA review, and weekly performance reports. Most competitors charge extra for basic CRM integrations. We connect directly to [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com) without hidden fees.
+Our $1,750/mo flat rate includes everything — [AI-powered lead scoring](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), dedicated QA review, and weekly performance reports. Most competitors charge extra for basic CRM integrations. We connect directly to [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com) without hidden fees.
 
 What makes us different? [No long-term contracts](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html). Cancel anytime. Most agencies lock you into 6-month minimums because their results don't justify month-to-month flexibility.
 
@@ -101,7 +101,7 @@ Here's the real breakdown from [our research at Televista](https://televistalead
 
 | Company | Setup Fee | Monthly Cost | Per-Lead Fee | Contract |
 |---------|-----------|--------------|--------------|----------|
-| Televista | $0 | $1,250 | $0 | Month-to-month |
+| Televista | $0 | $1,750 | $0 | Month-to-month |
 | Call Motivated Sellers | $500 | $1,800+ | Varies | 6-month min |
 | Smart Alto | $250 | $997-$2,497 | $15-50 | 3-month min |
 | REI Toolbox | $0 | $1,495 | $25 | Month-to-month |
@@ -109,9 +109,9 @@ Here's the real breakdown from [our research at Televista](https://televistalead
 
 Those tiered pricing models? Pure chaos. You're paying $25 per lead one month, then $50 the next when volume drops.
 
-[Televista's flat $1,250](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) includes everything — AI-powered lead scoring, dedicated QA review, weekly performance reports, plus CRM integrations with [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com).
+[Televista's flat $1,750](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) includes everything — AI-powered lead scoring, dedicated QA review, weekly performance reports, plus CRM integrations with [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com).
 
-**ROI reality check:** Close two deals monthly at $8K profit each? You're looking at $16K monthly profit against that $1,250 investment. That's 12.8x ROI.
+**ROI reality check:** Close two deals monthly at $8K profit each? You're looking at $16K monthly profit against that $1,750 investment. That's 12.8x ROI.
 
 Had a client in Atlanta who switched from a $2,400/month tiered service to us. Same lead volume, saved $1,150 monthly, got better qualification. Math isn't hard.
 
@@ -131,11 +131,11 @@ Here's what that means for your wallet:
 
 | Investment Level | Monthly Spend | Qualified Leads | Contracts | ROI |
 |-----------------|---------------|-----------------|-----------|-----|
-| Basic Package | $1,250 | 15-18 | 2-3 | 380% |
+| Basic Package | $1,750 | 15-18 | 2-3 | 380% |
 | Mid-tier | $2,200 | 28-32 | 4-5 | 420% |
 | Enterprise | $3,500 | 45-50 | 7-8 | 465% |
 
-Real numbers from a wholesaler we worked with last quarter (can't name names, but he's in Marietta). Spent $1,250/month with us. Got 17 qualified leads, closed 3 deals averaging $8,500 profit each. **That's $25,500 return on $1,250 invested.**
+Real numbers from a wholesaler we worked with last quarter (can't name names, but he's in Marietta). Spent $1,750/month with us. Got 17 qualified leads, closed 3 deals averaging $8,500 profit each. **That's $25,500 return on $1,750 invested.**
 
 Most investors overthink this calculation. [Cold calling software](https://www.calltools.com) alone runs $200-400/month. Add VAs at $600 each, list costs, phone systems — you're at $1,800+ before making a single call.
 
@@ -219,7 +219,7 @@ Some shops out there will torch your money faster than a bad fix-and-flip.
 
 **Guarantees that sound too good.** "50+ qualified leads per month for everyone!" Sure, buddy. [Our Televista research](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) across 200+ campaigns shows results vary wildly by market, list quality, and investor experience. Anyone promising identical outcomes across all markets is selling snake oil.
 
-**Annual contracts only** plus hidden setup fees. Month-to-month pricing (like [Televista's $1,250/mo flat rate](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) shows confidence in results.
+**Annual contracts only** plus hidden setup fees. Month-to-month pricing (like [Televista's $1,750/mo flat rate](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) shows confidence in results.
 
 ## How Televista Leads the Pack in Real Estate Cold Calling
 
@@ -235,7 +235,7 @@ This guy in Atlanta was getting demolished by his previous provider. Six months,
 
 **CRM integrations that don't break.** We plug directly into [REsimpli](https://www.resimpli.com), [Podio](https://podio.com), [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), and [Salesforce](https://www.salesforce.com) — no CSV exports or manual data entry. Lead comes in qualified? It's in your pipeline before you hang up the phone.
 
-Our [flat-rate pricing](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) starts at $1,250/month with **zero contracts**. While [REVA Global charges $1,500+ with six-month commitments](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), we're month-to-month because we know the results speak for themselves.
+Our [flat-rate pricing](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) starts at $1,750/month with **zero contracts**. While [REVA Global charges $1,500+ with six-month commitments](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), we're month-to-month because we know the results speak for themselves.
 
 [Book a strategy call](/contact.html) and we'll show you exactly how this works for your market.
 

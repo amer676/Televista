@@ -235,7 +235,7 @@ The difference shows up in the details. While [HitRate Solutions](https://hitrat
 
 Most importantly — compliance isn't an afterthought. Every call gets scrubbed against current DNC lists. Every conversation follows 2026 TCPA guidelines to the letter. We've never had a client face compliance issues in 200+ campaigns.
 
-Starting at **$1,250/month** for our Investor Pro package. No setup fees, no long-term contracts. Just qualified appointments hitting your calendar while you focus on closing deals.
+Starting at **$1,750/month** for our Investor Pro package. No setup fees, no long-term contracts. Just qualified appointments hitting your calendar while you focus on closing deals.
 
 Want to see how this works for your specific market? [Book a strategy call](/contact.html) and we'll run your numbers live on the phone.
 

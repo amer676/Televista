@@ -234,7 +234,7 @@ Finally — and this is where the magic happens — our team makes the calls. Re
 
 > **Key Stat:** Typical [Televista clients](https://televistaleadgeneration.com/services.html) see 2-3 qualified appointments per day once we dial in their campaign.
 
-Our service starts at $1,250/month, which sounds expensive until you realize what you're getting. We handle data mining, verification, calling, appointment setting — everything. You show up to pre-qualified appointments with motivated sellers.
+Our service starts at $1,750/month, which sounds expensive until you realize what you're getting. We handle data mining, verification, calling, appointment setting — everything. You show up to pre-qualified appointments with motivated sellers.
 
 Most investors spend more than that on bad leads and wasted time anyway. Honestly, the math isn't even close.
 
