@@ -14,7 +14,7 @@ Las Vegas is the only major American city where you can cold call the same phone
 ## Key Takeaways
 
 - Las Vegas's short-term rental market is a primary source of motivated sellers — regulatory changes and increased competition have compressed returns for many investor-landlords
-- California transplants who bought during the 2020-2022 boom are an emerging and growing motivated seller segment in Clark County
+- [California](/cold-calling-california.html) transplants who bought during the 2020-2022 boom are an emerging and growing motivated seller segment in Clark County
 - HOA communities are ubiquitous in Las Vegas suburbs and create unique seller challenges that cold callers can address directly
 - The hospitality and construction employment base creates cyclical pre-foreclosure activity that follows tourism and economic cycles
 - Henderson, North Las Vegas, Summerlin, and Centennial Hills each have distinct seller profiles that require tailored approaches

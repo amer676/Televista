@@ -166,7 +166,7 @@ One Phoenix investor went from zero appointments to 11 weekly qualified calls in
 
 **Hybrid VA Services**
 
-Companies like [REVA Global](https://www.revaglobal.com) and [MyOutDesk](https://www.myoutdesk.com) offer real estate VAs who can cold call. [Pricing](/pricing.html) runs $1,500-2,500/month. Problem is they're generalists — your caller handles cold calling Monday, lead follow-up Tuesday, and transaction coordination Wednesday. Jack of all trades, master of none.
+Companies like [REVA Global](https://www.revaglobal.com) and [MyOutDesk](https://www.myoutdesk.com) offer real estate VAs who can cold call. [what each plan costs](/pricing.html) runs $1,500-2,500/month. Problem is they're generalists — your caller handles cold calling Monday, lead follow-up Tuesday, and transaction coordination Wednesday. Jack of all trades, master of none.
 
 **Software-Only Solutions**
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Leads in Baltimore, Maryland: Urban Value Market"
+title: "Cold Calling for Real Estate Leads in Baltimore, [Maryland](/cold-calling-maryland.html): Urban Value Market"
 date: 2025-03-03
 description: "Learn how to generate real estate leads through cold calling in Baltimore, Maryland — covering neighborhoods, list types, and scripts for one of the..."
 target_keyword: "cold calling real estate leads Baltimore Maryland"

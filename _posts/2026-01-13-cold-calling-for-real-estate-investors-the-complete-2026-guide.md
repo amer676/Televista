@@ -113,5 +113,6 @@ Cold calling for real estate investors is a proven strategy that can unlock a wo
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

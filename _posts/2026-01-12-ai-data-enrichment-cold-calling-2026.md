@@ -10,6 +10,21 @@ author: "Televista Team"
 og_image: /assets/images/og-image.png
 ---
 
+## Table of Contents
+
+- [The Cold Calling Revolution: How AI Data Enrichment Is Changing Everything](#the-cold-calling-revolution-how-ai-data-enrichment-is-changing-everything)
+- [What AI Data Enrichment Actually Means for Cold Calling](#what-ai-data-enrichment-actually-means-for-cold-calling)
+- [The AI Cold Calling Tech Stack for 2026](#the-ai-cold-calling-tech-stack-for-2026)
+- [AI Tool Comparison: Features That Actually Matter](#ai-tool-comparison-features-that-actually-matter)
+- [The 7-Step Framework for Implementing AI Data Enrichment](#the-7-step-framework-for-implementing-ai-data-enrichment)
+- [Crafting Hyper-Personalized Opening Lines That Actually Work](#crafting-hyper-personalized-opening-lines-that-actually-work)
+- [Avoiding the 'Creepy Factor': Ethical AI Personalization](#avoiding-the-creepy-factor-ethical-ai-personalization)
+- [Measuring ROI: Metrics That Matter in AI-Enhanced Cold Calling](#measuring-roi-metrics-that-matter-in-ai-enhanced-cold-calling)
+- [How Televista Delivers AI-Powered Hyper-Personalization at Scale](#how-televista-delivers-ai-powered-hyper-personalization-at-scale)
+- [Common Pitfalls and How to Avoid Them](#common-pitfalls-and-how-to-avoid-them)
+- [Your Next Steps: Building Your AI Cold Calling Machine](#your-next-steps-building-your-ai-cold-calling-machine)
+
+
 ## The Cold Calling Revolution: How AI Data Enrichment Is Changing Everything
 
 ![Bar chart illustrating the impact of AI. A baseline shows 'Without AI' at 1x, while 'With AI (Low Estimate)' shows 3x improvement and 'With AI (High Estimate)' shows 5x improvement in cold calling results.](https://quickchart.io/chart?c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Without%20AI%22%2C%22With%20AI%20(Low%20Estimate)%22%2C%22With%20AI%20(High%20Estimate)%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Improvement%20Factor%22%2C%22data%22%3A%5B1%2C3%2C5%5D%2C%22backgroundColor%22%3A%5B%22%2360a5fa%22%2C%22%232563eb%22%2C%22%231e40af%22%5D%2C%22borderColor%22%3A%22%232563eb%22%7D%5D%7D%2C%22options%22%3A%7B%22responsive%22%3Atrue%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Impact%20of%20AI%20Data%20Enrichment%20on%20Cold%20Calling%20Results%22%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Result%20Multiplier%22%7D%7D%7D%7D%7D&w=800&h=400&backgroundColor=white)

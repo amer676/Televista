@@ -122,7 +122,7 @@ Most investors won't adopt this stuff until 2027. Early advantage is yours if yo
 
 ## Compliance in 2026: CCPA Changes That Could Kill Your Campaign
 
-California just dropped a compliance bomb. Starting January 1st, 2026, new [CCPA requirements](https://captaincompliance.com/education/new-ccpa-2026-regulations-your-complete-compliance-action-guide/) go live that'll make most absentee owner campaigns illegal overnight.
+[California](/cold-calling-california.html) just dropped a compliance bomb. Starting January 1st, 2026, new [CCPA requirements](https://captaincompliance.com/education/new-ccpa-2026-regulations-your-complete-compliance-action-guide/) go live that'll make most absentee owner campaigns illegal overnight.
 
 I'm not being dramatic here. We've been tracking this at [Televista](/services.html) since the draft regulations dropped last year. The penalties aren't just scary — they're campaign-ending.
 

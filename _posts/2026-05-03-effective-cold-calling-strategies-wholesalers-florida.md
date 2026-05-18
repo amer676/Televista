@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective Cold Calling Strategies for Wholesalers in Florida"
+title: "Effective Cold Calling Strategies for Wholesalers in [Florida](/cold-calling-florida.html)"
 date: 2026-05-03
 description: "Explore expert cold calling strategies tailored for wholesalers in Florida to boost lead generation and appointment setting."
 target_keyword: "Effective cold calling strategies for wholesalers"

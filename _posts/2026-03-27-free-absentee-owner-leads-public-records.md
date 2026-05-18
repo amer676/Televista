@@ -39,7 +39,7 @@ Here's where many investors stumble. They think vacant means absentee. Wrong.
 
 An **absentee owner** lives elsewhere but still owns the property. Maybe it's a rental they inherited in Detroit while living in Phoenix. Maybe they bought it as an investment, but the tenant moved out 8 months ago. They're motivated to sell because managing from 1,200 miles away is a hassle.
 
-**Vacant properties?** Different story. Could be seasonal (snowbirds in Florida). Could be tied up in probate for years. Could be a primary residence where someone's in assisted living but emotionally can't let go yet.
+**Vacant properties?** Different story. Could be seasonal (snowbirds in [Florida](/cold-calling-florida.html)). Could be tied up in probate for years. Could be a primary residence where someone's in assisted living but emotionally can't let go yet.
 
 The psychology here matters big time. Absentee owners feel the pain every month — insurance, taxes, maintenance calls at 2am. We've tracked this at [Televista](https://televistaleadgeneration.com) across 40+ campaigns. Absentee owners convert at **22% higher rates** than vacant property lists.
 

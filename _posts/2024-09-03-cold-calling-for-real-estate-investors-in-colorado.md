@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in Colorado: Rocky Mountain Opportunities"
+title: "Cold Calling for Real Estate Investors in [Colorado](/cold-calling-colorado.html): Rocky Mountain Opportunities"
 date: 2024-09-03
 description: "A complete guide to cold calling for real estate investors across Colorado — Denver, Colorado Springs, Fort Collins, Boulder, Pueblo, and beyond..."
 target_keyword: "cold calling for real estate investors in Colorado"

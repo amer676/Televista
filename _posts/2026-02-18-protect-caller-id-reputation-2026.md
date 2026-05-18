@@ -11,6 +11,21 @@ image: "/assets/images/posts/2026-03-23-protect-caller-id-reputation-2026/featur
 og_image: /assets/images/og-image.png
 ---
 
+## Table of Contents
+
+- [The $12M Problem Nobody's Talking About: When Your Numbers Go Dark](#the-12m-problem-nobodys-talking-about-when-your-numbers-go-dark)
+- [Is Cold Calling Dead in 2026? (Spoiler: It's Not)](#is-cold-calling-dead-in-2026-spoiler-its-not)
+- [How Carrier Spam Algorithms Actually Work (The Technical Deep Dive)](#how-carrier-spam-algorithms-actually-work-the-technical-deep-dive)
+- [The 2026 Spam Flag Ecosystem: Who's Watching Your Numbers](#the-2026-spam-flag-ecosystem-whos-watching-your-numbers)
+- [Proactive Number Health Management: The 7-Step System](#proactive-number-health-management-the-7-step-system)
+- [STIR/SHAKEN and CNAM: Your 2026 Compliance Checklist](#stirshaken-and-cnam-your-2026-compliance-checklist)
+- [Carrier-Specific Strategies: AT&T vs Verizon vs T-Mobile](#carrier-specific-strategies-att-vs-verizon-vs-t-mobile)
+- [Number Warming and Rehabilitation: From Flagged to Functional](#number-warming-and-rehabilitation-from-flagged-to-functional)
+- [Tools and Tech Stack for Reputation Management](#tools-and-tech-stack-for-reputation-management)
+- [How Our Televista Team Handles Caller ID Reputation (The Inside Playbook)](#how-our-televista-team-handles-caller-id-reputation-the-inside-playbook)
+- [Your 2026 Action Plan: What to Do Right Now](#your-2026-action-plan-what-to-do-right-now)
+
+
 ## The $12M Problem Nobody's Talking About: When Your Numbers Go Dark
 
 His phone rang at 3am. "Our entire outbound just went dark," the VP of Sales whispered into the phone. "Every number's getting flagged as spam."

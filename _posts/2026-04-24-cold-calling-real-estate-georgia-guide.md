@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate: Complete Georgia Guide 2026"
+title: "Cold Calling for Real Estate: Complete [Georgia](/cold-calling-georgia.html) Guide 2026"
 date: 2026-04-24
 description: "Master cold calling for real estate in Georgia with our complete 2026 guide. Learn from 200+ investor campaigns. Get proven scripts, ROI data & tactics."
 target_keyword: "Beginner's Tactical Guide to Cold Calling for Real Estate Investors in Georgia 2026"
@@ -8,6 +8,22 @@ categories: [blog]
 tags: ["cold calling", "real estate investing", "georgia real estate", "lead generation", "investor tactics"]
 author: "Televista Team"
 ---
+
+## Table of Contents
+
+- [Cold Calling [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors: A Beginner's Tactical Guide to Georgia Markets 2026](#cold-calling-for-real-estatehttpstelevistaleadgenerationcomblog20260117best-us-states-for-real-estate-cold-calling-in-2026-investors-a-beginners-tactical-guide-to-georgia-markets-2026)
+- [Why Georgia's 2026 Market Demands a Different Approach](#why-georgias-2026-market-demands-a-different-approach)
+- [Legal Foundation: Georgia's Do Not Call Laws for Investors](#legal-foundation-georgias-do-not-call-laws-for-investors)
+- [Building Your Georgia Investor Lead List: Sources That Actually Work](#building-your-georgia-investor-lead-list-sources-that-actually-work)
+- [The 3 C's Framework: Confidence, Clarity, and Consistency](#the-3-cs-framework-confidence-clarity-and-consistency)
+- [Beginner Scripts That Convert in Georgia Markets](#beginner-scripts-that-convert-in-georgia-markets)
+- [Handling the Top 5 Investor-Specific Objections](#handling-the-top-5-investor-specific-objections)
+- [Technology Stack: Tools Every Georgia Investor Needs](#technology-stack-tools-every-georgia-investor-needs)
+- [Measuring Success: KPIs Beyond Basic Conversion Rates](#measuring-success-kpis-beyond-basic-conversion-rates)
+- [How Televista Handles Georgia Investor Campaigns](#how-televista-handles-georgia-investor-campaigns)
+- [Your 30-Day Action Plan to Start Cold Calling in Georgia](#your-30-day-action-plan-to-start-cold-calling-in-georgia)
+- [Related Articles](#related-articles)
+
 
 ## Cold Calling [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors: A Beginner's Tactical Guide to Georgia Markets 2026
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in Florida: Market Guide and Strategies"
+title: "Cold Calling for Real Estate Investors in [Florida](/cold-calling-florida.html): Market Guide and Strategies"
 date: 2024-01-23
 description: "A detailed guide to cold calling for real estate investors in Florida, covering Miami, Orlando, Tampa, Jacksonville, and the state's unique absentee..."
 target_keyword: "cold calling for real estate investors in Florida"

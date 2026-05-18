@@ -9,6 +9,22 @@ tags: ["cold calling tips", "real estate investing", "reddit strategies", "lead 
 author: "Televista Team"
 ---
 
+## Table of Contents
+
+- [Beyond the Scripts: Unconventional Cold Calling Tips for Real Estate Investors in 2026 (Reddit-Inspired)](#beyond-the-scripts-unconventional-cold-calling-tips-for-real-estate-investors-in-2026-reddit-inspired)
+- [Why Reddit Real Estate Communities Are Gold Mines for Cold Calling Intel](#why-reddit-real-estate-communities-are-gold-mines-for-cold-calling-intel)
+- [The 'Reverse Psychology' Opener (From r/realestateinvesting)](#the-reverse-psychology-opener-from-rrealestateinvesting)
+- [The 'Local Research Bomb' Strategy](#the-local-research-bomb-strategy)
+- [Breaking the 3-3-3 and 80/20 Rules (When Reddit Says They Don't Work)](#breaking-the-3-3-3-and-8020-rules-when-reddit-says-they-dont-work)
+- [The 'Problem Acknowledgment' Framework vs Traditional Scripts](#the-problem-acknowledgment-framework-vs-traditional-scripts)
+- [Unconventional Objection Handling: The Reddit Playbook](#unconventional-objection-handling-the-reddit-playbook)
+- [Reddit Success Stories: Real Numbers from Real Investors](#reddit-success-stories-real-numbers-from-real-investors)
+- [How Televista Implements These Reddit-Inspired Strategies](#how-televista-implements-these-reddit-inspired-strategies)
+- [Beyond 2026: Where These Strategies Are Heading](#beyond-2026-where-these-strategies-are-heading)
+- [Your Next Move: From Reddit Theory to Real Results](#your-next-move-from-reddit-theory-to-real-results)
+- [Related Articles](#related-articles)
+
+
 ## Beyond the Scripts: Unconventional Cold Calling Tips for Real Estate Investors in 2026 (Reddit-Inspired)
 
 Two investors walk into the same market with identical budgets. One closes 14 deals. The other barely scrapes together 2.
@@ -160,7 +176,7 @@ Psychology: You're removing their ammunition. Can't reject what you've already a
 Don't ask for permission — set the boundary yourself. Works because it's honest.
 
 **Step 3: The Problem Match**
-For distressed properties: "Your roof looks rough from the street, and I'm guessing contractors have been [pricing](/pricing.html) you into orbit."
+For distressed properties: "Your roof looks rough from the street, and I'm guessing contractors have been [Televista's plans and pricing](/pricing.html) you into orbit."
 For inherited properties: "Dealing with an estate property is a nightmare — I've watched people get buried in repair estimates they can't afford."
 Psychology: You're demonstrating you actually understand their situation.
 

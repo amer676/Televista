@@ -9,6 +9,22 @@ tags: ["cold calling", "real estate investing", "lead generation", "data-driven 
 author: "Televista Team"
 ---
 
+## Table of Contents
+
+- [Introduction: The $47,000 Phone Call That Changed Everything](#introduction-the-47000-phone-call-that-changed-everything)
+- [Why Scripts Fail: The 2026 Cold Calling Reality Check](#why-scripts-fail-the-2026-cold-calling-reality-check)
+- [Strategy #1: Pre-Call Intelligence That Actually Matters](#strategy-1-pre-call-intelligence-that-actually-matters)
+- [Strategy #2: The Propensity Score System (Stop Calling Random Lists)](#strategy-2-the-propensity-score-system-stop-calling-random-lists)
+- [Strategy #3: Micro-Personalization Scripts That Don't Sound Robotic](#strategy-3-micro-personalization-scripts-that-dont-sound-robotic)
+- [Strategy #4: Objection Prevention Through Data Preparation](#strategy-4-objection-prevention-through-data-preparation)
+- [Strategy #5: Timing Intelligence (When Data Tells You to Call)](#strategy-5-timing-intelligence-when-data-tells-you-to-call)
+- [Strategy #6: The Follow-Up Sequence That Actually Converts](#strategy-6-the-follow-up-sequence-that-actually-converts)
+- [Strategy #7: ROI Tracking That Reveals What Actually Works](#strategy-7-roi-tracking-that-reveals-what-actually-works)
+- [Tools Comparison: Data Sources That Actually Deliver](#tools-comparison-data-sources-that-actually-deliver)
+- [How Televista Turns Data Into Appointments (Without the Headaches)](#how-televista-turns-data-into-appointments-without-the-headaches)
+- [Your 30-Day Implementation Roadmap](#your-30-day-implementation-roadmap)
+
+
 ## Introduction: The $47,000 Phone Call That Changed Everything
 
 Two investors, same Phoenix market, same lead source. One pulled $47,000 from a single conversation. The other got hung up on after 12 seconds.
@@ -274,7 +290,7 @@ Here's what separates the wheat from chaff:
 | [PropStream](https://www.propstream.com) | Owner info only | Daily | No | $97-297/month |
 | ListSource | Demographics | Static | No | $50-200/month |
 
-**[BatchData](https://batchdata.io) has gotten serious about investor tools lately.** Their [2026 analysis platform](https://batchdata.io/blog/real-estate-investment-analysis-tools) integrates comp data with distress indicators — exactly what you need before dialing FSBOs. Mid-tier [pricing](/pricing.html) makes sense for teams doing 1,000+ monthly touches.
+**[BatchData](https://batchdata.io) has gotten serious about investor tools lately.** Their [2026 analysis platform](https://batchdata.io/blog/real-estate-investment-analysis-tools) integrates comp data with distress indicators — exactly what you need before dialing FSBOs. Mid-tier [the full pricing breakdown](/pricing.html) makes sense for teams doing 1,000+ monthly touches.
 
 PropStream's still the budget choice. Gets you owner names and basic property details. That's it. Fine for beginners, but you'll outgrow it fast.
 

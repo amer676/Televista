@@ -22,7 +22,7 @@ When inventory floods the market, competition gets brutal. Fast. The states that
 
 > **Key Stat:** Investor seller share jumped 35% in two years (from 8% to 10.8%)
 
-One of our Televista clients learned this the hard way. Spent eight months grinding in California — brutal licensing requirements, sky-high competition, margins thin as paper. Switched to Texas in September. Same exact cold calling scripts through [CallTools](https://www.calltools.com). Same lead qualification process.
+One of our Televista clients learned this the hard way. Spent eight months grinding in California — brutal licensing requirements, sky-high competition, margins thin as paper. Switched to [Texas](/cold-calling-texas.html) in September. Same exact cold calling scripts through [CallTools](https://www.calltools.com). Same lead qualification process.
 
 Three weeks later? **22 contracts signed**.
 
@@ -53,9 +53,9 @@ Here's our four-factor breakdown:
 | **Legal Environment** | Some states require licenses | License required = skip |
 | **Investor Activity** | Need cash buyers ready | Under 12% investor purchases |
 
-Legal environment isn't negotiable. Texas, Florida, Arizona — all wholesaler-friendly. But try wholesaling in Illinois without jumping through licensing hoops? Good luck.
+Legal environment isn't negotiable. Texas, [Florida](/cold-calling-florida.html), Arizona — all wholesaler-friendly. But try wholesaling in Illinois without jumping through licensing hoops? Good luck.
 
-Investor activity matters more than most people realize. We tracked this for a Televista client in Ohio last year. Areas with 15%+ investor purchases moved deals in 8-12 days. Areas under 10%? Deals sat for 6+ weeks.
+Investor activity matters more than most people realize. We tracked this for a Televista client in [Ohio](/cold-calling-ohio.html) last year. Areas with 15%+ investor purchases moved deals in 8-12 days. Areas under 10%? Deals sat for 6+ weeks.
 
 > **Pro tip:** Skip the "hot" markets everyone talks about. Miami sounds sexy but the numbers don't work — median prices hit $500k+ and competition is brutal.
 

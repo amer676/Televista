@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in South Carolina: Coastal and Inland Strategies"
+title: "Cold Calling for Real Estate Investors in [South Carolina](/cold-calling-south-carolina.html): Coastal and Inland Strategies"
 date: 2025-04-03
 description: "A complete guide to cold calling for real estate investors in South Carolina — covering Charleston, Greenville, Columbia, and Myrtle Beach with..."
 target_keyword: "cold calling for real estate investors in South Carolina"

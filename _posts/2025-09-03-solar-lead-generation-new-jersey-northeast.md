@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Lead Generation in New Jersey and the Northeast: High-Rate Markets"
+title: "Solar Lead Generation in [New Jersey](/cold-calling-new-jersey.html) and the Northeast: High-Rate Markets"
 date: 2025-09-03
 description: "A guide to solar lead generation in New Jersey and Northeast states, covering SREC programs, high utility rates, state incentives, and targeting..."
 target_keyword: "solar lead generation New Jersey"
@@ -9,7 +9,7 @@ tags: ["solar lead generation New Jersey", "NJ solar leads", "solar appointment 
 author: "Televista Team"
 ---
 
-If you are looking for US solar markets where the financial case is almost impossible to argue with, New Jersey belongs near the top of every list. The combination of some of the highest residential electricity rates in the country, a history of strong state incentives, and a dense population of homeowners with high electricity consumption creates conditions that make solar conversations more productive per contact than almost any other state. The Northeast broadly — Massachusetts, Connecticut, Rhode Island, New York — shares many of these dynamics. Here is how to work these markets effectively.
+If you are looking for US solar markets where the financial case is almost impossible to argue with, New Jersey belongs near the top of every list. The combination of some of the highest residential electricity rates in the country, a history of strong state incentives, and a dense population of homeowners with high electricity consumption creates conditions that make solar conversations more productive per contact than almost any other state. The Northeast broadly — [Massachusetts](/cold-calling-massachusetts.html), [Connecticut](/cold-calling-connecticut.html), Rhode Island, [New York](/cold-calling-new-york.html) — shares many of these dynamics. Here is how to work these markets effectively.
 
 ## Key Takeaways
 

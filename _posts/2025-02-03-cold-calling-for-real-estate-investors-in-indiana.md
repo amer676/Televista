@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in Indiana: Heartland Market Guide"
+title: "Cold Calling for Real Estate Investors in [Indiana](/cold-calling-indiana.html): Heartland Market Guide"
 date: 2025-02-03
 description: "A comprehensive guide to cold calling for real estate investors across Indiana — Indianapolis, Fort Wayne, Evansville, South Bend, and beyond. Market..."
 target_keyword: "cold calling for real estate investors in Indiana"

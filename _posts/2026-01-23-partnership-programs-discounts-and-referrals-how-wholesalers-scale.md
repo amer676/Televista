@@ -402,5 +402,6 @@ If you want to scale in 2026, partnerships are the simplest path to leverage. Th
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

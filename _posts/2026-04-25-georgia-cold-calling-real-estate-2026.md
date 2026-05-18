@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling Georgia Real Estate: Complete 2026 Guide"
+title: "Cold Calling [Georgia](/cold-calling-georgia.html) Real Estate: Complete 2026 Guide"
 date: 2026-04-25
 description: "Georgia Real Estate Investor Cold Calling Compliance 2026: Navigate TCPA & state laws. Expert playbook from 200+ compliant campaigns."
 target_keyword: "Georgia Real Estate Investor Cold Calling Compliance 2026"
@@ -8,6 +8,22 @@ categories: [blog]
 tags: ["Georgia Real Estate Cold Calling", "TCPA Compliance", "Real Estate Investor Laws", "Cold Calling Compliance", "Georgia Telemarketing Laws"]
 author: "Televista Team"
 ---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [The Real Cost of Non-Compliance: Why Georgia Investors Can't Wing It](#the-real-cost-of-non-compliance-why-georgia-investors-cant-wing-it)
+- [Georgia's Regulatory Market: More Than Just DNC Lists](#georgias-regulatory-market-more-than-just-dnc-lists)
+- [TCPA Compliance [for Real Estate](https://televistaleadgeneration.com/blog/2026/01/17/best-us-states-for-real-estate-cold-calling-in-2026/) Investors: Manual Dial vs. Auto-Dialer Rules](#tcpa-compliance-for-real-estatehttpstelevistaleadgenerationcomblog20260117best-us-states-for-real-estate-cold-calling-in-2026-investors-manual-dial-vs-auto-dialer-rules)
+- [DNC Registry Compliance: The Georgia-Federal Intersection](#dnc-registry-compliance-the-georgia-federal-intersection)
+- [Required Disclosures for Non-Licensee Investors: What to Say in the First 30 Seconds](#required-disclosures-for-non-licensee-investors-what-to-say-in-the-first-30-seconds)
+- [Call Script Templates: Compliant Openers That Actually Work](#call-script-templates-compliant-openers-that-actually-work)
+- [Record Keeping & Documentation: Your Legal Shield](#record-keeping-documentation-your-legal-shield)
+- [Comparison: DIY Compliance vs. Professional [Cold Calling Services](https://televistaleadgeneration.com/blog/2026/03/26/best-real-estate-cold-calling-services/)](#comparison-diy-compliance-vs-professional-cold-calling-serviceshttpstelevistaleadgenerationcomblog20260326best-real-estate-cold-calling-services)
+- [How Televista Simplifies Georgia [Cold Calling Compliance](https://televistaleadgeneration.com/blog/2026/03/18/2026-real-estate-cold-calling-compliance-guide/)](#how-televista-simplifies-georgia-cold-calling-compliancehttpstelevistaleadgenerationcomblog202603182026-real-estate-cold-calling-compliance-guide)
+- [Action Steps: Your 30-Day Compliance Implementation Plan](#action-steps-your-30-day-compliance-implementation-plan)
+- [Related Articles](#related-articles)
+
 
 ## Introduction
 

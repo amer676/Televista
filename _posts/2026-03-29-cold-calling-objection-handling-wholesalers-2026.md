@@ -9,6 +9,20 @@ tags: ["cold calling", "objection handling", "wholesaling", "real estate scripts
 author: "Televista Team"
 ---
 
+## Table of Contents
+
+- [Why 2026 is Make-or-Break for Wholesaler Cold Calling](#why-2026-is-make-or-break-for-wholesaler-cold-calling)
+- [The Psychology Behind Homeowner Objections (What Most Wholesalers Miss)](#the-psychology-behind-homeowner-objections-what-most-wholesalers-miss)
+- [The 8 Wholesaler-Specific Objections You'll Face in Every Campaign](#the-8-wholesaler-specific-objections-youll-face-in-every-campaign)
+- [Advanced Pre-Emptive Strategies: Stopping Objections Before They Start](#advanced-pre-emptive-strategies-stopping-objections-before-they-start)
+- [Battle-Tested Scripts for the Top 5 Wholesaler Objections](#battle-tested-scripts-for-the-top-5-wholesaler-objections)
+- [Objection Handling Framework Comparison: Which Method Works for Wholesalers?](#objection-handling-framework-comparison-which-method-works-for-wholesalers)
+- [Measuring Your Objection Handling Performance: KPIs That Actually Matter](#measuring-your-objection-handling-performance-kpis-that-actually-matter)
+- [AI and Technology Integration for 2026 Objection Handling](#ai-and-technology-integration-for-2026-objection-handling)
+- [How Televista Handles Wholesaler Objections: Our Proven System](#how-televista-handles-wholesaler-objections-our-proven-system)
+- [Your Next Steps: Implementing Advanced Objection Handling in 2026](#your-next-steps-implementing-advanced-objection-handling-in-2026)
+
+
 ## Why 2026 is Make-or-Break for Wholesaler Cold Calling
 
 Three things every wholesaler gets wrong about 2026: **[Cold calling](/blog/2026/03/29/cold-calling-realtors-2026-guide/) is getting easier.** Objection handling is more predictable. The competition's getting lazy.

@@ -217,5 +217,6 @@ Your immediate action: Pick your starting lead source tonight and pull your firs
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

@@ -11,6 +11,21 @@ robots: "noindex, follow"
 canonical_url: "/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/"
 ---
 
+## Table of Contents
+
+- [The Script Is Dead — Long Live the Conversation](#the-script-is-dead-long-live-the-conversation)
+- [Why Most [Real Estate Cold](/blog/2026/03/26/best-real-estate-cold-calling-services/) Calling Scripts Fail in 2026](#why-most-real-estate-coldblog20260326best-real-estate-cold-calling-services-calling-scripts-fail-in-2026)
+- [The Televista Framework: How We Build High-Converting Scripts](#the-televista-framework-how-we-build-high-converting-scripts)
+- [12 High-Converting Scripts [That Actually Work](/blog/2024/07/30/b2b-cold-calling-strategies-that-actually-work/)](#12-high-converting-scripts-that-actually-workblog20240730b2b-cold-calling-strategies-that-actually-work)
+- [AI-Powered Objection Handling: The Game Changer](#ai-powered-objection-handling-the-game-changer)
+- [Script Customization by Property Type & Market Condition](#script-customization-by-property-type-market-condition)
+- [The Follow-Up Cadence That Converts (Step-by-Step)](#the-follow-up-cadence-that-converts-step-by-step)
+- [Legal Compliance & TCPA Guidelines for 2026](#legal-compliance-tcpa-guidelines-for-2026)
+- [How Our Team at Televista Delivers 11.2% Conversion Rates](#how-our-team-at-televista-delivers-112-conversion-rates)
+- [Conclusion: Your Next Steps to Convert More Calls](#conclusion-your-next-steps-to-convert-more-calls)
+- [Related Articles](#related-articles)
+
+
 ## The Script Is Dead — Long Live the Conversation
 
 Three things every wholesaler gets wrong with cold calling: 1) They memorize a script word-for-word, 2) They sound like a telemarketer from 2015, and 3) They wonder why their connect rates are tanking.
@@ -261,7 +276,7 @@ Campaign optimization runs continuously. We A/B test everything from dial times 
 
 **Full-service execution means we handle everything.** Lead research, list building, caller recruitment, script customization, objection handling training, appointment setting, and CRM integration. Our clients focus on closing deals while we manage the pipeline.
 
-[Pricing](/pricing.html) starts at $4,200/month for 300 qualified conversations. Includes dedicated account manager, monthly performance reviews, and script optimization based on your closing data. Most clients see ROI within 60 days — one wholesaler in Fort Worth went from 3 deals/month to 11 after switching to [Televista's](/services.html) system.
+[the full pricing breakdown](/pricing.html) starts at $4,200/month for 300 qualified conversations. Includes dedicated account manager, monthly performance reviews, and script optimization based on your closing data. Most clients see ROI within 60 days — one wholesaler in Fort Worth went from 3 deals/month to 11 after switching to [Televista's](/services.html) system.
 
 Want to see how this works for your market? [Book a strategy call](/contact.html) and we'll walk through your specific numbers.
 

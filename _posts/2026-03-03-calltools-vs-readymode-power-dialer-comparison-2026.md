@@ -161,5 +161,6 @@ The 2026 timing matters because compliance changes are accelerating. Choose the 
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

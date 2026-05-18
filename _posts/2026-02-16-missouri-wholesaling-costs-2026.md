@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Missouri Real Estate Wholesaling Costs 2026: Expert Guide"
+title: "[Missouri](/cold-calling-missouri.html) Real Estate Wholesaling Costs 2026: Expert Guide"
 date: 2026-02-16
 description: "Missouri Real Estate Wholesaling Costs 2026: Lead gen costs up 23%, deals averaging $8-15K. Expert budget strategies from 200+ campaigns."
 target_keyword: "Missouri Real Estate Wholesaling Costs 2026"

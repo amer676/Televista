@@ -105,5 +105,6 @@ You’re not just selecting a tool; you’re choosing the best strategy to close
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

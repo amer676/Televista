@@ -45,7 +45,7 @@ The problem isn't whether cold calling works — it's that most people are doing
 
 > **Key Stat:** 67% of real estate investors still consider cold calling their top lead source, but only 23% execute it properly.
 
-Choosing the right partner matters more than ever. When [SalesRoads](https://salesroads.com/outsourcing/appointment-setting-[pricing](/pricing.html)-models) talks about "different pricing models" in their appointment setting guide, they're missing the point — price doesn't matter if the appointments don't show up or aren't qualified.
+Choosing the right partner matters more than ever. When [SalesRoads](https://salesroads.com/outsourcing/appointment-setting-[our transparent pricing](/pricing.html)-models) talks about "different pricing models" in their appointment setting guide, they're missing the point — price doesn't matter if the appointments don't show up or aren't qualified.
 
 The question isn't whether to cold call. It's who's making the calls.
 

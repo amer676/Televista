@@ -2,19 +2,19 @@
 layout: post
 title: "Solar Appointment Setting in the Midwest: Overlooked Markets with Real Potential"
 date: 2025-09-13
-description: "A guide to solar appointment setting in Midwest states including Ohio, Illinois, Minnesota, and Michigan. Covers utility structures, state..."
+description: "A guide to solar appointment setting in Midwest states including [Ohio](/cold-calling-ohio.html), [Illinois](/cold-calling-illinois.html), [Minnesota](/cold-calling-minnesota.html), and [Michigan](/cold-calling-michigan.html). Covers utility structures, state..."
 target_keyword: "solar appointment setting Midwest"
 categories: [blog]
 tags: ["solar appointment setting Midwest", "Midwest solar leads", "solar lead generation Ohio", "solar cold calling Illinois", "Midwest solar market"]
 author: "Televista Team"
 ---
 
-The solar industry's focus has been so concentrated on California, Texas, Florida, and the Northeast that large swaths of the Midwest have been relatively untouched by aggressive solar sales activity. That oversight is increasingly a missed opportunity. Electricity rates across the Midwest have risen steadily, the federal tax credit applies regardless of how many sunny days a state has, and the competitive density of solar companies calling Midwestern homeowners is a fraction of what it is in the Sun Belt. These factors combine to make Midwest solar appointment setting worth serious attention.
+The solar industry's focus has been so concentrated on [California](/cold-calling-california.html), Texas, Florida, and the Northeast that large swaths of the Midwest have been relatively untouched by aggressive solar sales activity. That oversight is increasingly a missed opportunity. Electricity rates across the Midwest have risen steadily, the federal tax credit applies regardless of how many sunny days a state has, and the competitive density of solar companies calling Midwestern homeowners is a fraction of what it is in the Sun Belt. These factors combine to make Midwest solar appointment setting worth serious attention.
 
 ## Key Takeaways
 
 - Midwest solar markets are underserved by solar sales teams largely due to the misconception that less sunshine means less ROI — but the federal tax credit applies everywhere
-- Ohio, Illinois, Minnesota, Wisconsin, Michigan, and Indiana each have distinct utility structures and incentive environments worth understanding before calling
+- Ohio, Illinois, Minnesota, [Wisconsin](/cold-calling-wisconsin.html), Michigan, and [Indiana](/cold-calling-indiana.html) each have distinct utility structures and incentive environments worth understanding before calling
 - Rising rates from Ameren, ComEd, DTE Energy, and FirstEnergy create genuine financial motivation in these markets
 - Midwestern homeowners tend to be more skeptical and value-oriented than Sun Belt counterparts — the long-term ROI conversation performs better than urgency-based approaches
 - Battery storage for winter power outages is a relevant pitch in the Upper Midwest where ice storms are a recurring reality

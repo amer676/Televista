@@ -16,7 +16,7 @@ Nevada is the fastest-growing state in the country by percentage, and that growt
 - Nevada's no-state-income-tax environment attracts both residents and investors, driving consistent in-migration and transaction volume
 - Las Vegas and Reno are distinct markets — Las Vegas is boom-and-bust driven by hospitality and tourism, Reno is a steadier tech and logistics hub
 - Nevada has landlord-friendly laws that attract out-of-state investors, creating a significant absentee owner population
-- California transplant investors who bought during the 2020-2022 boom are an emerging motivated seller segment in both markets
+- [California](/cold-calling-california.html) transplant investors who bought during the 2020-2022 boom are an emerging motivated seller segment in both markets
 - Nevada's boom-bust history means some investors are holding properties they bought at peak prices with negative or minimal equity
 - The short-term rental market in both Las Vegas and Reno has created investor-landlords who are reconsidering their positions
 

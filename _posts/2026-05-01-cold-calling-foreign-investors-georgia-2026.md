@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Cold Calling Foreign Investors Georgia 2026 Guide"
+title: "Best Cold Calling Foreign Investors [Georgia](/cold-calling-georgia.html) 2026 Guide"
 date: 2026-05-01
 description: "Cold Calling Foreign Real Estate Investors Georgia 2026: Proven strategies to tap $1.6B+ in foreign investment. 23% connect rates. Get the expert playbook."
 target_keyword: "Cold Calling Foreign Real Estate Investors Georgia 2026"
@@ -8,6 +8,21 @@ categories: [blog]
 tags: ["cold calling", "foreign investors", "georgia real estate", "real estate leads", "international investment"]
 author: "Televista Team"
 ---
+
+## Table of Contents
+
+- [Foreign Investment Is Flooding [Georgia Real Estate](https://televistaleadgeneration.com/blog/2026/04/29/cold-calling-georgia-real-estate-2026/) — But Most Agents Don't Know How to Tap It](#foreign-investment-is-flooding-georgia-real-estatehttpstelevistaleadgenerationcomblog20260429cold-calling-georgia-real-estate-2026-but-most-agents-dont-know-how-to-tap-it)
+- [Why Foreign Investors Choose Georgia (And Why Cold Calling Works Better Here)](#why-foreign-investors-choose-georgia-and-why-cold-calling-works-better-here)
+- [The Legal Minefield: Cold Calling Foreign Investors While Staying Compliant](#the-legal-minefield-cold-calling-foreign-investors-while-staying-compliant)
+- [How to Find Foreign Real Estate Investors: The 4-Layer Research Strategy](#how-to-find-foreign-real-estate-investors-the-4-layer-research-strategy)
+- [[Cold Calling Scripts](https://televistaleadgeneration.com/blog/2026/04/17/cold-calling-scripts-advanced-hacks-rei-2026/) That Work for Foreign Investors (With Cultural Adaptations)](#cold-calling-scriptshttpstelevistaleadgenerationcomblog20260417cold-calling-scripts-advanced-hacks-rei-2026-that-work-for-foreign-investors-with-cultural-adaptations)
+- [Technology Stack for Foreign Investor Outreach: Tools That Actually Move the Needle](#technology-stack-for-foreign-investor-outreach-tools-that-actually-move-the-needle)
+- [The Numbers Game: What to Expect When Calling Foreign Investors in Georgia](#the-numbers-game-what-to-expect-when-calling-foreign-investors-in-georgia)
+- [Cold Calling vs Other Channels: Why Phone Wins for High-Value Foreign Deals](#cold-calling-vs-other-channels-why-phone-wins-for-high-value-foreign-deals)
+- [How Televista Delivers Results for Georgia Real Estate Teams Targeting Foreign Capital](#how-televista-delivers-results-for-georgia-real-estate-teams-targeting-foreign-capital)
+- [Your 30-Day Action Plan to Start Capturing Foreign Investment Deals](#your-30-day-action-plan-to-start-capturing-foreign-investment-deals)
+- [Related Articles](#related-articles)
+
 
 ## Foreign Investment Is Flooding [Georgia Real Estate](https://televistaleadgeneration.com/blog/2026/04/29/cold-calling-georgia-real-estate-2026/) — But Most Agents Don't Know How to Tap It
 
@@ -238,7 +253,7 @@ Script development gets granular. British investors expect longer relationship-b
 
 According to our [latest Georgia analysis](https://televistaleadgeneration.com/blog/2026/04/27/cold-calling-outsourcing-georgia-real-estate-2026), you need **1,724 dials per contract** for standard outreach. Foreign investors require more touches but convert at **18.2% appointment-to-contract rates** — higher than domestic.
 
-[Pricing](/pricing.html) starts at $2,400/month for international campaigns. Includes research, compliance review, caller training, and campaign management. [Book a strategy call](/contact.html) — we'll map out your specific market and investor targets.
+[transparent monthly pricing](/pricing.html) starts at $2,400/month for international campaigns. Includes research, compliance review, caller training, and campaign management. [Book a strategy call](/contact.html) — we'll map out your specific market and investor targets.
 
 You close deals. We handle the complexity.
 

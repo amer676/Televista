@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Leads in Memphis, Tennessee: High-Yield Market Guide"
+title: "Cold Calling for Real Estate Leads in Memphis, [Tennessee](/cold-calling-tennessee.html): High-Yield Market Guide"
 date: 2025-04-14
 description: "A complete guide to cold calling for real estate leads in Memphis, Tennessee — covering Shelby County, top neighborhoods, list strategy, and scripts..."
 target_keyword: "cold calling real estate leads Memphis Tennessee"

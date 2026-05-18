@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Solar Appointment Setting in Georgia and the Carolinas: Southeast Solar Markets"
+title: "Solar Appointment Setting in [Georgia](/cold-calling-georgia.html) and the Carolinas: Southeast Solar Markets"
 date: 2025-10-23
-description: "A guide to solar appointment setting in Georgia, South Carolina, and North Carolina. Covers utility structures, net metering, regional script..."
+description: "A guide to solar appointment setting in Georgia, [South Carolina](/cold-calling-south-carolina.html), and [North Carolina](/cold-calling-north-carolina.html). Covers utility structures, net metering, regional script..."
 target_keyword: "solar appointment setting Georgia"
 categories: [blog]
 tags: ["solar appointment setting Georgia", "solar leads Georgia", "solar appointment setting Carolinas", "Southeast solar market", "solar cold calling Georgia Carolina"]

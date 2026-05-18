@@ -93,7 +93,7 @@ Lead Pilot runs a hybrid model. Half cold calling, half SMS campaigns. Works if 
 
 Bottom line? Most investors overthink this. Pick someone who understands your specific strategy (wholesaling vs rentals vs flips), integrates with your existing systems, and doesn't lock you into contracts you can't escape.
 
-## [Pricing](/pricing.html) Breakdown: What Cold Calling Companies Actually Cost
+## Pricing Breakdown: What Cold Calling Companies Actually Cost
 
 Most investors get sticker shock when they first see cold calling prices. Then they do the math.
 
@@ -125,7 +125,7 @@ The sticker shock fades fast when appointments start rolling in.
 
 Let's cut through the BS pricing talk and look at actual returns.
 
-[Our Televista data from Q4 2025](https://televistaleadgeneration.com/blog/2026/05/02/cold-calling-real-estate-investors-georgia-2026) showed Georgia markets averaging **1,724 dials per contract**. Connect rates held steady at 12-15% — about [34% more qualified conversations](https://televistaleadgeneration.com/blog/2026/05/02/cold-calling-real-estate-investors-georgia-2026) per 100 dials than Florida or North Carolina.
+[Our Televista data from Q4 2025](https://televistaleadgeneration.com/blog/2026/05/02/cold-calling-real-estate-investors-georgia-2026) showed [Georgia](/cold-calling-georgia.html) markets averaging **1,724 dials per contract**. Connect rates held steady at 12-15% — about [34% more qualified conversations](https://televistaleadgeneration.com/blog/2026/05/02/cold-calling-real-estate-investors-georgia-2026) per 100 dials than Florida or North Carolina.
 
 Here's what that means for your wallet:
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Lead Generation for Florida Homeowners: Sunshine State Solar Market"
+title: "Solar Lead Generation for [Florida](/cold-calling-florida.html) Homeowners: Sunshine State Solar Market"
 date: 2024-12-08
 description: "A complete guide to solar lead generation for Florida homeowners — covering Duke Energy and FPL rate dynamics, HOA qualification, hurricane and..."
 target_keyword: "solar lead generation Florida"

@@ -9,6 +9,22 @@ tags: ["cold calling", "real estate investors", "lead generation", "sales strate
 author: "Televista Team"
 ---
 
+## Table of Contents
+
+- [The 2026 Reality Check](#the-2026-reality-check)
+- [Why Most Real Estate Investors Are Doing Cold Calling Wrong (The Data Problem)](#why-most-real-estate-investors-are-doing-cold-calling-wrong-the-data-problem)
+- [Hack #1: The 'Reverse Portal' Strategy (44% vs 0.2% Conversion Rates)](#hack-1-the-reverse-portal-strategy-44-vs-02-conversion-rates)
+- [Hack #2: The '0-3 Second Rule' (Using Reptilian Brain Processing)](#hack-2-the-0-3-second-rule-using-reptilian-brain-processing)
+- [Hack #3: Data-Driven Call Timing (When 8.2% Connect Rates Actually Matter)](#hack-3-data-driven-call-timing-when-82-connect-rates-actually-matter)
+- [Hack #4: The 'Loss Aversion Stack' (2.5x More Powerful Than Gain)](#hack-4-the-loss-aversion-stack-25x-more-powerful-than-gain)
+- [Hacks #5-7: The Technology Stack That Actually Moves Needles](#hacks-5-7-the-technology-stack-that-actually-moves-needles)
+- [Hacks #8-10: The Televista 'Scale-First' Methodology](#hacks-8-10-the-televista-scale-first-methodology)
+- [The Complete Data Collection Framework (Your DIY Implementation Guide)](#the-complete-data-collection-framework-your-diy-implementation-guide)
+- [Cold Calling Performance: 2026 Benchmark Comparison](#cold-calling-performance-2026-benchmark-comparison)
+- [Why Teams Trust Televista for Data-Backed Cold Calling](#why-teams-trust-televista-for-data-backed-cold-calling)
+- [Your Next Move: From Hacks to High-Converting Campaigns](#your-next-move-from-hacks-to-high-converting-campaigns)
+
+
 ## The 2026 Reality Check
 
 Two investors walked into a conference last month. Same market, same budget, same "revolutionary" AI prospecting tools. One closed 14 deals. The other closed 2.
@@ -287,7 +303,7 @@ Real-time ROI tracking across every metric that matters. We've built custom dash
 **Trained Callers Who Get Real Estate**
 Here's the thing — [HubSpot](https://www.hubspot.com) can't teach empathy or handle seller objections about probate. Our callers spend 40 hours learning real estate scenarios before they touch a phone.
 
-[Pricing](/pricing.html) starts at $3,500/month for full campaign management (that includes everything — data, callers, reporting, script optimization). Most clients see positive ROI within 45 days, but we typically recommend a 90-day test to dial in the targeting.
+[compare plan tiers](/pricing.html) starts at $3,500/month for full campaign management (that includes everything — data, callers, reporting, script optimization). Most clients see positive ROI within 45 days, but we typically recommend a 90-day test to dial in the targeting.
 
 Want specifics on how this works for your market? [Book a strategy call](/contact.html) and we'll walk through your numbers.
 

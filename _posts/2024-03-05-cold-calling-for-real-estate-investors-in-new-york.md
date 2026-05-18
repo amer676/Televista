@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in New York: Urban and Suburban Strategies"
+title: "Cold Calling for Real Estate Investors in [New York](/cold-calling-new-york.html): Urban and Suburban Strategies"
 date: 2024-03-05
 description: "A comprehensive guide to cold calling for real estate investors in New York, covering NYC boroughs, Long Island, and upstate markets like Buffalo..."
 target_keyword: "cold calling for real estate investors in New York"

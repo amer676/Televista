@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Appointment Setting in Texas: The Emerging Solar Giant"
+title: "Solar Appointment Setting in [Texas](/cold-calling-texas.html): The Emerging Solar Giant"
 date: 2024-11-09
 description: "A complete guide to solar appointment setting in Texas — covering the ERCOT grid story, energy independence messaging, key markets across Dallas-Fort..."
 target_keyword: "solar appointment setting Texas"

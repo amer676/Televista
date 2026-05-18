@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ultimate Cold Calling Compliance Guide Georgia REI 2026"
+title: "Ultimate Cold Calling Compliance Guide [Georgia](/cold-calling-georgia.html) REI 2026"
 date: 2026-04-28
 description: "2026 Cold Calling Compliance Playbook for Georgia Real Estate Investors. Navigate TCPA & state laws, avoid $12K penalties. Expert playbook from Televista."
 target_keyword: "2026 Cold Calling Compliance Playbook for Georgia Real Estate Investors"

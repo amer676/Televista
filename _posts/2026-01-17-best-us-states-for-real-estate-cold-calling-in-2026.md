@@ -19,7 +19,7 @@ Before we dive into our list, it's important to understand the criteria we used 
 
 ## State Spotlight: The Top US States for Real Estate Cold Calling
 
-### 1. Florida
+### 1. [Florida](/cold-calling-florida.html)
 
 Florida has long been a favorite for real estate investors, and it's no exception when it comes to cold calling. The state's large population, transient nature, and favorable regulations make it a prime target for your calling efforts.
 
@@ -39,7 +39,7 @@ Texas is another state that should be on every real estate investor's radar. The
     *   **No State Income Tax:** The lack of a state income tax is a major draw for both residents and investors.
     *   **Helpful resource:** [Use a proven cold calling script framework.](/blog/2026/03/10/2026-real-estate-cold-calling-scripts-guide/)
 
-### 3. Arizona
+### 3. [Arizona](/cold-calling-arizona.html)
 
 Arizona's warm climate and growing job market have made it a popular destination for new residents, which has created a strong demand for housing. The state's landlord-friendly laws also make it an attractive market for buy-and-hold investors.
 
@@ -49,7 +49,7 @@ Arizona's warm climate and growing job market have made it a popular destination
     *   **Affordability:** While home prices have been on the rise, Arizona still offers a relatively affordable cost of living compared to other popular states.
     *   **Helpful resource:** [Dial in your follow-up timing and messaging.](/blog/2024/08/20/the-art-of-the-follow-up-converting-cold-leads/)
 
-### 4. North Carolina
+### 4. [North Carolina](/cold-calling-north-carolina.html)
 
 North Carolina has a diverse economy, a growing population, and a mix of both urban and rural areas, which offers a wide range of investment opportunities. The state's real estate market has been on a steady upward trend in recent years, with no signs of slowing down.
 
@@ -75,5 +75,6 @@ Choosing the right states for your cold calling efforts can have a significant i
   <div class="post-cta-actions">
     <a class="btn btn-primary" href="/contact.html">Book a Call</a>
     <a class="btn btn-outline" href="/services.html">View Services</a>
+    <a class="btn btn-outline" href="/pricing.html">See Pricing</a>
   </div>
 </div>

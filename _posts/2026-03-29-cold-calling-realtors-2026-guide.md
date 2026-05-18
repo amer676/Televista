@@ -9,6 +9,21 @@ tags: ["cold calling", "real estate lead generation", "realtor scripts", "real e
 author: "Televista Team"
 ---
 
+## Table of Contents
+
+- [Is Cold Calling Still Worth It for Realtors in 2026?](#is-cold-calling-still-worth-it-for-realtors-in-2026)
+- [The 2026 [Real Estate](/blog/2026/03/28/wholesale-real-estate-crash-course-2026/) Cold Calling Market: What's Changed](#the-2026-real-estateblog20260328wholesale-real-estate-crash-course-2026-cold-calling-market-whats-changed)
+- [Compliance and Legal Considerations for [Real Estate](/blog/2026/03/26/best-real-estate-cold-calling-services/) Cold Calling in 2026](#compliance-and-legal-considerations-for-real-estateblog20260326best-real-estate-cold-calling-services-cold-calling-in-2026)
+- [Cold Calling Scripts That Actually Work in 2026](#cold-calling-scripts-that-actually-work-in-2026)
+- [The Technology Stack: Power Dialers, CRMs, and AI Integration](#the-technology-stack-power-dialers-crms-and-ai-integration)
+- [Advanced Objection Handling for Modern Buyers and Sellers](#advanced-objection-handling-for-modern-buyers-and-sellers)
+- [Measuring Success: KPIs and Tracking for Cold Calling ROI](#measuring-success-kpis-and-tracking-for-cold-calling-roi)
+- [Virtual Assistants vs In-House Calling: The 2026 Decision Matrix](#virtual-assistants-vs-in-house-calling-the-2026-decision-matrix)
+- [How Televista Transforms Real Estate Cold Calling](#how-televista-transforms-real-estate-cold-calling)
+- [The Pros and Cons: Cold Calling Reality Check for 2026](#the-pros-and-cons-cold-calling-reality-check-for-2026)
+- [Your Next Steps: Building a Cold Calling System That Works](#your-next-steps-building-a-cold-calling-system-that-works)
+
+
 ## Is Cold Calling Still Worth It for Realtors in 2026?
 
 March 2026 completely rewrote the playbook for smart agents. While most realtors chase TikTok leads and pray for [Zillow](https://www.zillow.com) scraps, the smartest ones are quietly building empires with the phone.

@@ -255,7 +255,7 @@ We discovered their connect rates spiked 34% between 2:15-3:45 PM on Tuesdays an
 
 > **Pro tip:** Most investors want to manage their own calling — until they realize advanced psychology requires constant A/B testing, script evolution, and behavioral analysis. That's a full-time job.
 
-**Our service handles the complexity so you focus on closing deals.** We provide dedicated account managers, weekly performance reviews, and transparent reporting. No black box nonsense. [Pricing](/pricing.html) starts at $2,400/month for our basic package — includes everything mentioned in this article plus ongoing optimization.
+**Our service handles the complexity so you focus on closing deals.** We provide dedicated account managers, weekly performance reviews, and transparent reporting. No black box nonsense. [compare plan tiers](/pricing.html) starts at $2,400/month for our basic package — includes everything mentioned in this article plus ongoing optimization.
 
 Want specifics on how we'd implement these strategies for your market? [Book a strategy call](/contact.html) and we'll walk through your current approach.
 

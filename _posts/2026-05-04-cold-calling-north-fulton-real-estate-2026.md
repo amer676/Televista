@@ -31,7 +31,7 @@ Motivated sellers won't stay motivated forever. The math's simple.
 
 Here's the math everyone gets wrong.
 
-**600 targeted dials in North Fulton beat 847 random dials statewide.** We've tested this six ways at [Televista](/services.html), and it's not even close. Connect rates tell the whole story — [statewide cold calling connect rates in Georgia hover around 2.8%, but higher income homeowners in Johns Creek and Alpharetta pick up calls more frequently](https://televistaleadgeneration.com/blog/2026/04/30/cold-calling-real-estate-georgia-2026).
+**600 targeted dials in North Fulton beat 847 random dials statewide.** We've tested this six ways at [Televista](/services.html), and it's not even close. Connect rates tell the whole story — [statewide cold calling connect rates in [Georgia](/cold-calling-georgia.html) hover around 2.8%, but higher income homeowners in Johns Creek and Alpharetta pick up calls more frequently](https://televistaleadgeneration.com/blog/2026/04/30/cold-calling-real-estate-georgia-2026).
 
 Why? Three reasons most people miss.
 

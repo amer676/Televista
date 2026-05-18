@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in Maryland: DMV Market Strategies"
+title: "Cold Calling for Real Estate Investors in [Maryland](/cold-calling-maryland.html): DMV Market Strategies"
 date: 2025-02-24
 description: "A complete guide to cold calling for real estate investors in Maryland, covering Baltimore, the DC suburbs, and the Eastern Shore with..."
 target_keyword: "cold calling for real estate investors in Maryland"

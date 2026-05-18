@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling Georgia Real Estate: Top Hotspots 2026"
+title: "Cold Calling [Georgia](/cold-calling-georgia.html) Real Estate: Top Hotspots 2026"
 date: 2026-04-29
 description: "Cold Calling Georgia Real Estate targeting foreign investors & motivated sellers in 2026. Discover $1.59B FDI hotspots with 3.2x higher connect rates."
 target_keyword: "Cold Calling Georgia Real Estate for Foreign Investors & Motivated Sellers 2026"
@@ -239,7 +239,7 @@ Found their sweet spot: Lilburn and Norcross. Properties averaging $142K with 8.
 
 **Performance optimization happens weekly.** We track by ZIP code, not just overall numbers. Discovered their target demographic (aging homeowners, inherited properties) answered calls 40% more between 10 AM - 2 PM weekdays. Shifted calling windows, boosted connects by 18%.
 
-Our [pricing](/pricing.html) for foreign investment campaigns starts at $4,200/month — includes list building, compliance management, and dedicated account oversight. Most groups need 90-120 days to hit their acquisition targets.
+Our [see what each plan includes](/pricing.html) for foreign investment campaigns starts at $4,200/month — includes list building, compliance management, and dedicated account oversight. Most groups need 90-120 days to hit their acquisition targets.
 
 Want to discuss your foreign investment strategy? [Book a strategy call](/contact.html) and we'll walk through our Georgia playbook.
 
