@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Effective Cold Calling Strategies for Real Estate Investors in [Florida](/cold-calling-florida.html)"
+title: "Effective Cold Calling Strategies for Real Estate Investors in Florida"
 date: 2026-05-03
 description: "Discover expert cold calling strategies tailored for Florida real estate investors."
 target_keyword: "Cold calling strategies for real estate investors in Florida"

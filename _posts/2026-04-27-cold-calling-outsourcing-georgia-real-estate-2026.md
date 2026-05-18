@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Cold Calling Outsourcing [Georgia](/cold-calling-georgia.html) Real Estate 2026"
+title: "Best Cold Calling Outsourcing Georgia Real Estate 2026"
 date: 2026-04-27
 description: "Cold calling outsourcing Georgia real estate 2026 delivers 1,724 dials per contract. Televista's proven system generates more leads when traditional methods fail."
 target_keyword: "cold calling outsourcing Georgia real estate 2026"

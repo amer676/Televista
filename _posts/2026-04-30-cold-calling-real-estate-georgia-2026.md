@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling Real Estate [Georgia](/cold-calling-georgia.html): Best 2026 Guide"
+title: "Cold Calling Real Estate Georgia: Best 2026 Guide"
 date: 2026-04-30
 description: "Cold calling real estate investing Georgia 2026 guide reveals North Fulton County opportunities. Learn from 200+ investor campaigns. Get Televista's expert playbook."
 target_keyword: "cold calling real estate investing Georgia 2026 guide"

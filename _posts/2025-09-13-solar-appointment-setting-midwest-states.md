@@ -2,7 +2,7 @@
 layout: post
 title: "Solar Appointment Setting in the Midwest: Overlooked Markets with Real Potential"
 date: 2025-09-13
-description: "A guide to solar appointment setting in Midwest states including [Ohio](/cold-calling-ohio.html), [Illinois](/cold-calling-illinois.html), [Minnesota](/cold-calling-minnesota.html), and [Michigan](/cold-calling-michigan.html). Covers utility structures, state..."
+description: "A guide to solar appointment setting in Midwest states including Ohio, Illinois, Minnesota, and Michigan. Covers utility structures, state..."
 target_keyword: "solar appointment setting Midwest"
 categories: [blog]
 tags: ["solar appointment setting Midwest", "Midwest solar leads", "solar lead generation Ohio", "solar cold calling Illinois", "Midwest solar market"]

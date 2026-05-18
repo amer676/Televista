@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Cold Calling Foreign Investors [Georgia](/cold-calling-georgia.html) 2026 Guide"
+title: "Best Cold Calling Foreign Investors Georgia 2026 Guide"
 date: 2026-05-01
 description: "Cold Calling Foreign Real Estate Investors Georgia 2026: Proven strategies to tap $1.6B+ in foreign investment. 23% connect rates. Get the expert playbook."
 target_keyword: "Cold Calling Foreign Real Estate Investors Georgia 2026"

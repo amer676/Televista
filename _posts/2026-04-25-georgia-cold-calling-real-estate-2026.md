@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling [Georgia](/cold-calling-georgia.html) Real Estate: Complete 2026 Guide"
+title: "Cold Calling Georgia Real Estate: Complete 2026 Guide"
 date: 2026-04-25
 description: "Georgia Real Estate Investor Cold Calling Compliance 2026: Navigate TCPA & state laws. Expert playbook from 200+ compliant campaigns."
 target_keyword: "Georgia Real Estate Investor Cold Calling Compliance 2026"

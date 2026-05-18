@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Missouri](/cold-calling-missouri.html): Show-Me State Opportunities"
+title: "Cold Calling for Real Estate Investors in Missouri: Show-Me State Opportunities"
 date: 2025-01-14
 description: "A complete guide to cold calling for real estate investors across Missouri — Kansas City, St. Louis, Springfield, Columbia, and beyond. Market..."
 target_keyword: "cold calling for real estate investors in Missouri"

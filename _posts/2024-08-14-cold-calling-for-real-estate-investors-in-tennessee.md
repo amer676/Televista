@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Tennessee](/cold-calling-tennessee.html): Southern State Market Guide"
+title: "Cold Calling for Real Estate Investors in Tennessee: Southern State Market Guide"
 date: 2024-08-14
 description: "A comprehensive guide to cold calling for real estate investors across Tennessee — Nashville, Memphis, Knoxville, Chattanooga, and beyond. Learn..."
 target_keyword: "cold calling for real estate investors in Tennessee"

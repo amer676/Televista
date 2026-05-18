@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solar Appointment Setting in [Arizona](/cold-calling-arizona.html): Desert Sun Market Strategies"
+title: "Solar Appointment Setting in Arizona: Desert Sun Market Strategies"
 date: 2025-01-08
 description: "A complete guide to solar appointment setting in Arizona — covering APS vs. SRP territory differences, Phoenix metro targeting, seasonal bill timing..."
 target_keyword: "solar appointment setting Arizona"

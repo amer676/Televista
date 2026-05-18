@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Georgia](/cold-calling-georgia.html): Finding Motivated Sellers"
+title: "Cold Calling for Real Estate Investors in Georgia: Finding Motivated Sellers"
 date: 2024-02-02
 description: "A complete guide to cold calling for real estate investors in Georgia, covering Atlanta, Savannah, Augusta, and strategies for finding motivated..."
 target_keyword: "cold calling for real estate investors in Georgia"

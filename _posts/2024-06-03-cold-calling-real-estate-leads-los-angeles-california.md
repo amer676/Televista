@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Leads in Los Angeles, [California](/cold-calling-california.html)"
+title: "Cold Calling for Real Estate Leads in Los Angeles, California"
 date: 2024-06-03
 description: "A comprehensive guide to cold calling for real estate leads in Los Angeles, California, covering the Prop 13 equity opportunity, absentee owners, and..."
 target_keyword: "cold calling real estate leads Los Angeles California"

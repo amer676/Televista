@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Virginia](/cold-calling-virginia.html): Mid-Atlantic Market Strategies"
+title: "Cold Calling for Real Estate Investors in Virginia: Mid-Atlantic Market Strategies"
 date: 2024-10-03
 description: "A complete guide to cold calling for real estate investors across Virginia — Northern Virginia, Richmond, Hampton Roads, and beyond. Market-specific..."
 target_keyword: "cold calling for real estate investors in Virginia"

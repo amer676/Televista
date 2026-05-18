@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Leads in Philadelphia, [Pennsylvania](/cold-calling-pennsylvania.html)"
+title: "Cold Calling for Real Estate Leads in Philadelphia, Pennsylvania"
 date: 2024-07-14
 description: "A detailed guide to cold calling for real estate leads in Philadelphia, Pennsylvania, covering neighborhoods, tax abatement dynamics, gentrification..."
 target_keyword: "cold calling real estate leads Philadelphia Pennsylvania"

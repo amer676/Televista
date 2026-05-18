@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Pennsylvania](/cold-calling-pennsylvania.html): A State Market Guide"
+title: "Cold Calling for Real Estate Investors in Pennsylvania: A State Market Guide"
 date: 2024-07-03
 description: "A comprehensive guide to cold calling for real estate investors in Pennsylvania, covering Philadelphia, Pittsburgh, Allentown, and statewide..."
 target_keyword: "cold calling for real estate investors in Pennsylvania"

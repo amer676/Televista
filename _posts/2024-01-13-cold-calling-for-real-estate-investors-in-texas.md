@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Texas](/cold-calling-texas.html): A Complete State Guide"
+title: "Cold Calling for Real Estate Investors in Texas: A Complete State Guide"
 date: 2024-01-13
 description: "A comprehensive guide to cold calling for real estate investors in Texas, covering markets like Dallas, Houston, San Antonio, and Austin with..."
 target_keyword: "cold calling for real estate investors in Texas"

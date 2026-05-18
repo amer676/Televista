@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [California](/cold-calling-california.html): Navigating a High-Price Market"
+title: "Cold Calling for Real Estate Investors in California: Navigating a High-Price Market"
 date: 2024-02-13
 description: "A practical guide to cold calling for real estate investors in California, covering Los Angeles, Sacramento, the Inland Empire, and strategies for..."
 target_keyword: "cold calling for real estate investors in California"

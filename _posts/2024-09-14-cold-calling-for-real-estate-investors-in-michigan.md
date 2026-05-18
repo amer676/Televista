@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Michigan](/cold-calling-michigan.html): Great Lakes Market Guide"
+title: "Cold Calling for Real Estate Investors in Michigan: Great Lakes Market Guide"
 date: 2024-09-14
 description: "A comprehensive guide to cold calling for real estate investors across Michigan — Detroit, Grand Rapids, Ann Arbor, Flint, and beyond..."
 target_keyword: "cold calling for real estate investors in Michigan"

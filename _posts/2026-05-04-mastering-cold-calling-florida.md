@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mastering Cold Calling in [Florida](/cold-calling-florida.html): Strategies for Wholesalers and Real Estate Investors"
+title: "Mastering Cold Calling in Florida: Strategies for Wholesalers and Real Estate Investors"
 date: 2026-05-04
 description: "Unlock proven cold calling strategies for wholesalers and real estate investors in Florida."
 target_keyword: "cold calling strategies for wholesalers in Florida"

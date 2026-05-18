@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling [Georgia](/cold-calling-georgia.html) Real Estate: Top Hotspots 2026"
+title: "Cold Calling Georgia Real Estate: Top Hotspots 2026"
 date: 2026-04-29
 description: "Cold Calling Georgia Real Estate targeting foreign investors & motivated sellers in 2026. Discover $1.59B FDI hotspots with 3.2x higher connect rates."
 target_keyword: "Cold Calling Georgia Real Estate for Foreign Investors & Motivated Sellers 2026"

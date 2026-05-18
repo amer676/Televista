@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Illinois](/cold-calling-illinois.html): State Guide"
+title: "Cold Calling for Real Estate Investors in Illinois: State Guide"
 date: 2024-05-03
 description: "A complete guide to cold calling for real estate investors in Illinois, covering Chicago metro, Rockford, Peoria, Springfield, and downstate..."
 target_keyword: "cold calling for real estate investors in Illinois"

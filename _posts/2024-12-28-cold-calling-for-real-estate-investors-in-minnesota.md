@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling for Real Estate Investors in [Minnesota](/cold-calling-minnesota.html): North Star State Market Guide"
+title: "Cold Calling for Real Estate Investors in Minnesota: North Star State Market Guide"
 date: 2024-12-28
 description: "A comprehensive guide to cold calling for real estate investors across Minnesota — Minneapolis, St. Paul, Rochester, Duluth, and beyond..."
 target_keyword: "cold calling for real estate investors in Minnesota"

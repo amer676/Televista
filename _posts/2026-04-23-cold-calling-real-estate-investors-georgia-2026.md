@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cold Calling Real Estate Investors [Georgia](/cold-calling-georgia.html): 2026 Guide"
+title: "Cold Calling Real Estate Investors Georgia: 2026 Guide"
 date: 2026-04-23
 description: "Master cold calling real estate investors Georgia with our 2026 hyper-local guide. Proven strategies from 200+ campaigns. Get the expert playbook."
 target_keyword: "cold calling real estate investors Georgia 2026 guide"
