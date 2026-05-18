@@ -42,7 +42,7 @@ Here's what makes us different from every other name on this list: we don't just
 
 **What you actually get:**
 - 2-3 qualified appointments per day (not "leads" — actual booked meetings)
-- Trained U.S.-based callers who understand real estate investor language
+- Dedicated, trained callers who understand real estate investor language
 - Full [CallTools](https://calltools.com) dialer management — number rotation, caller ID reputation monitoring, TCPA compliance baked in
 - Daily reporting with call recordings, disposition breakdowns, and pipeline updates pushed directly to your CRM
 - List building and skip tracing included — we don't charge extra for data

@@ -50,7 +50,7 @@ Then open:
 
 - **Phone:** (934) 245-7155
 - **Email:** team@televistaleadgeneration.com
-- **Hours:** Mon-Fri 9:00am - 6:30pm EST
+- **Hours:** Mon-Fri 9:00am - 6:30pm ET
 
 ## 👥 Founders
 
