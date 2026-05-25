@@ -117,6 +117,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/wizard.css" />
 
     <!-- Structured Data: ContactPage -->
     <script type="application/ld+json">
@@ -280,7 +281,7 @@
         </div>
 
         <div class="nav-actions">
-          <a href="contact.html" class="btn btn-primary btn-sm">Get Started</a>
+          <button type="button" data-wizard-trigger class="btn btn-primary btn-sm">Get Started</button>
         </div>
 
         <button
@@ -301,19 +302,63 @@
         <div class="container">
           <div class="contact-layout">
             <div class="contact-content">
+              <div style="display: inline-flex; align-items: center; gap: 8px; padding: 6px 14px; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.18); border-radius: 999px; font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-size: 13px; color: rgba(255,255,255,0.85); margin-bottom: var(--space-5); letter-spacing: 0.02em;">
+                <span style="width: 6px; height: 6px; border-radius: 50%; background: #c89b3c;"></span>
+                Discovery Call · 30 min · Amer + Mahmoud
+              </div>
               <h1 style="color: white; font-size: clamp(2rem, 4vw, 3rem)">
-                Schedule a Discovery Call
+                Meet the team behind <em style="font-family: 'Playfair Display', Georgia, serif; font-style: italic; font-weight: 500; color: #c89b3c;">Televista</em>.
               </h1>
               <p
                 style="
                   color: rgba(255, 255, 255, 0.8);
                   font-size: var(--text-lg);
-                  margin-bottom: var(--space-8);
+                  margin-bottom: var(--space-6);
                 "
               >
-                Let's discuss how we can help grow your pipeline. Pick a time
-                that works for you and we'll connect.
+                A 30-minute Discovery call with Amer (Founder) and Mahmoud (Operations). No pitch — we walk through how a Televista campaign actually runs, look at your market honestly, and tell you whether it's the right fit.
               </p>
+              <div
+                style="
+                  background: rgba(255,255,255,0.06);
+                  border: 1px solid rgba(255,255,255,0.14);
+                  border-radius: 12px;
+                  padding: 16px 18px;
+                  margin-bottom: var(--space-8);
+                  display: flex;
+                  align-items: center;
+                  justify-content: space-between;
+                  gap: 16px;
+                  flex-wrap: wrap;
+                "
+              >
+                <div style="font-family: 'Inter', sans-serif; font-size: 14px; color: rgba(255,255,255,0.85); line-height: 1.5;">
+                  <strong style="display: block; color: #fff; font-weight: 600; margin-bottom: 2px;">Already know you want to start?</strong>
+                  Skip Discovery — answer 5 quick questions and book a focused onboarding call.
+                </div>
+                <button
+                  type="button"
+                  data-wizard-trigger
+                  data-wizard-intent="get_started"
+                  style="
+                    background: #c89b3c;
+                    color: #1a1a1a;
+                    border: none;
+                    padding: 10px 18px;
+                    border-radius: 999px;
+                    font-family: 'Inter', sans-serif;
+                    font-size: 14px;
+                    font-weight: 600;
+                    cursor: pointer;
+                    white-space: nowrap;
+                    transition: transform 280ms cubic-bezier(0.22, 1, 0.36, 1), box-shadow 280ms cubic-bezier(0.22, 1, 0.36, 1);
+                  "
+                  onmouseover="this.style.transform='perspective(600px) translateZ(6px) translateY(-2px)';this.style.boxShadow='0 10px 24px -8px rgba(200,155,60,0.45)';"
+                  onmouseout="this.style.transform='';this.style.boxShadow='';"
+                >
+                  Get started instead →
+                </button>
+              </div>
 
               <div
                 style="
@@ -464,65 +509,78 @@
               </div>
             </div>
 
-            <!-- Google Calendar Appointment Scheduling -->
+            <!-- Calendly Discovery Embed (you + Mahmoud) -->
             <div
               class="contact-form-card"
               id="scheduler-card"
-              style="min-height: 600px; padding: 0; overflow: hidden"
+              style="min-height: 700px; padding: 0; overflow: hidden"
             >
-              <iframe
-                src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ3hlaqjZtEFtHYP6PeE0vl9mkTaNKlum1rMRyExOVEQaxkwmNMVdyT2N0D7YDqF4YaPY-hrijXB?gv=true"
-                title="Schedule a 30-minute strategy call with Televista"
-                style="border: 0; width: 100%; height: 600px; display: block;"
-                frameborder="0"
-                loading="lazy"
-                allow="fullscreen"
-              ></iframe>
+              <div
+                id="contact-calendly-mount"
+                style="width: 100%; height: 700px;"
+              >
+                <div style="display:flex;align-items:center;justify-content:center;height:100%;font-family:Inter,sans-serif;color:#8a8275;font-size:14px;">
+                  Loading your scheduler…
+                </div>
+              </div>
             </div>
-            <p
-              style="
-                margin-top: var(--space-5);
-                text-align: center;
-                color: var(--color-text-secondary);
-                font-size: var(--text-sm);
-              "
-            >
-              After you pick a time, Google Calendar will email you a confirmation with the meeting details.
-              <br />
-              <a
-                href="thank-you.html"
-                class="post-booking-link"
-                style="
-                  display: inline-block;
-                  margin-top: var(--space-3);
-                  color: var(--color-accent-primary);
-                  font-weight: 600;
-                  text-decoration: underline;
-                "
-                onclick="if(window.gtag){gtag('event','schedule_manual_confirm_click',{send_to:'G-ZJN951WF3R'});}"
-              >Just booked your call? Continue to confirmation &rarr;</a>
-            </p>
 
-            <!-- Intent-level GA4 event when the scheduler comes into view -->
+            <!-- Calendly inline init + GA event when scheduler is in view -->
+            <!-- data-cfasync="false" tells Cloudflare Rocket Loader to leave this alone -->
+            <script async data-cfasync="false" src="https://assets.calendly.com/assets/external/widget.js"></script>
             <script>
               (function () {
                 var card = document.getElementById('scheduler-card');
-                if (!card || !('IntersectionObserver' in window)) return;
-                var fired = false;
-                var obs = new IntersectionObserver(function (entries) {
-                  entries.forEach(function (e) {
-                    if (e.isIntersecting && !fired) {
-                      fired = true;
-                      if (window.gtag) {
-                        gtag('event', 'schedule_calendar_view', {
-                          send_to: 'G-ZJN951WF3R'
-                        });
+                var mount = document.getElementById('contact-calendly-mount');
+                if (!card || !mount) return;
+
+                var CALENDLY_URL = 'https://calendly.com/d/cvx4-8n5-rdg/discovery-meeting?primary_color=004643&hide_gdpr_banner=1';
+                var initTries = 0;
+
+                function initCalendly() {
+                  if (window.Calendly && typeof window.Calendly.initInlineWidget === 'function') {
+                    mount.innerHTML = '';
+                    window.Calendly.initInlineWidget({
+                      url: CALENDLY_URL,
+                      parentElement: mount
+                    });
+                  } else if (initTries++ < 25) {
+                    setTimeout(initCalendly, 200);
+                  }
+                }
+                initCalendly();
+
+                // GA4 view event when scheduler scrolls into view
+                if ('IntersectionObserver' in window) {
+                  var fired = false;
+                  var obs = new IntersectionObserver(function (entries) {
+                    entries.forEach(function (e) {
+                      if (e.isIntersecting && !fired) {
+                        fired = true;
+                        if (window.gtag) {
+                          gtag('event', 'schedule_calendar_view', {
+                            send_to: 'G-ZJN951WF3R'
+                          });
+                        }
+                        obs.disconnect();
                       }
-                      obs.disconnect();
-                    }
-                  });
-                }, { threshold: 0.4 });
-                obs.observe(card);
+                    });
+                  }, { threshold: 0.4 });
+                  obs.observe(card);
+                }
+
+                // Listen for Calendly's booking-confirmed event and redirect
+                // the parent page to thank-you.html (which fires the Google
+                // Ads conversion pixel on pageview).
+                window.addEventListener('message', function (e) {
+                  if (!e.origin || !/^https?:\/\/([a-z0-9-]+\.)?calendly\.com$/.test(e.origin)) return;
+                  var data = e.data || {};
+                  if (data.event === 'calendly.event_scheduled') {
+                    setTimeout(function () {
+                      window.location.href = '/thank-you.html?source=contact';
+                    }, 600);
+                  }
+                });
               })();
             </script>
           </div>
@@ -930,5 +988,6 @@
       });
     })();
   </script>
+  <script src="assets/js/wizard.js" defer></script>
 </body>
 </html>

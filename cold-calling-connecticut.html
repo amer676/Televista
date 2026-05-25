@@ -62,6 +62,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/wizard.css" />
 
     <!-- Structured Data: BreadcrumbList -->
     <script type="application/ld+json">
@@ -150,7 +151,7 @@
           <a href="case-studies.html" class="nav-link">Case Studies</a>
           <a href="contact.html" class="nav-link">Contact</a>
         </div>
-        <div class="nav-actions"><a href="contact.html" class="btn btn-primary btn-sm">Get Started</a></div>
+        <div class="nav-actions"><button type="button" data-wizard-trigger class="btn btn-primary btn-sm">Get Started</button></div>
         <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation"><span></span><span></span><span></span></button>
       </div>
     </nav>
@@ -421,5 +422,6 @@
       document.getElementById('cookie-decline').addEventListener('click', function(){ localStorage.setItem('cookie-consent', 'declined'); banner.classList.remove('visible'); window['ga-disable-G-ZJN951WF3R'] = true; });
     })();
   </script>
+  <script src="assets/js/wizard.js" defer></script>
 </body>
 </html>

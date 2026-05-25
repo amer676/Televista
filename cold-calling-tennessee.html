@@ -72,6 +72,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/wizard.css" />
 
     <!-- Structured Data: BreadcrumbList -->
     <script type="application/ld+json">
@@ -202,7 +203,7 @@
         </div>
 
         <div class="nav-actions">
-          <a href="contact.html" class="btn btn-primary btn-sm">Get Started</a>
+          <button type="button" data-wizard-trigger class="btn btn-primary btn-sm">Get Started</button>
         </div>
 
         <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation">
@@ -645,5 +646,6 @@
       });
     })();
   </script>
+  <script src="assets/js/wizard.js" defer></script>
 </body>
 </html>

@@ -1,0 +1,814 @@
+/* ==========================================================================
+   TELEVISTA WIZARD — modal overlay
+   "The concierge" — refined editorial B2B premium.
+   Inherits the site's design tokens (defined in main.css), adds:
+     - ivory inner surface for warmth against the deep-teal brand
+     - Roman-numeral step counter (Playfair italic) as the visual signature
+     - slow, deliberate cubic-bezier transitions (no SaaS bounce)
+     - 3D perspective lifts matching the site's existing button physics
+   ========================================================================== */
+
+:root {
+  --tv-w-ivory:       #fcfaf2;
+  --tv-w-ivory-dim:   #f4f0e3;
+  --tv-w-line:        #e6e0cd;
+  --tv-w-ink:         #1a1a1a;
+  --tv-w-ink-soft:    #3d4744;
+  --tv-w-ink-muted:   #8a8275;
+  --tv-w-teal:        #004643;
+  --tv-w-teal-deep:   #003533;
+  --tv-w-teal-glow:   rgba(0, 102, 99, 0.18);
+  --tv-w-gold:        #c89b3c;
+  --tv-w-error:       #b14a3a;
+
+  --tv-w-ease-slow:   cubic-bezier(0.22, 1, 0.36, 1);
+  --tv-w-ease-soft:   cubic-bezier(0.4, 0, 0.2, 1);
+  --tv-w-ease-snap:   cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  --tv-w-z-backdrop:  9000;
+  --tv-w-z-modal:     9010;
+}
+
+/* ─── Backdrop ────────────────────────────────────────────────────────── */
+
+.tv-w-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: var(--tv-w-z-backdrop);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: clamp(0px, 4vw, 32px);
+  background:
+    radial-gradient(ellipse at 30% 20%, rgba(0, 102, 99, 0.35) 0%, transparent 55%),
+    radial-gradient(ellipse at 70% 80%, rgba(0, 53, 51, 0.45) 0%, transparent 60%),
+    rgba(0, 25, 24, 0.78);
+  backdrop-filter: blur(8px) saturate(120%);
+  -webkit-backdrop-filter: blur(8px) saturate(120%);
+  opacity: 0;
+  transition: opacity 380ms var(--tv-w-ease-soft);
+}
+
+.tv-w-backdrop::before {
+  /* fine grain noise overlay — generated SVG, no external asset */
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.18 0'/></filter><rect width='100%25' height='100%25' filter='url(%23n)'/></svg>");
+  background-size: 220px 220px;
+  mix-blend-mode: overlay;
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.tv-w-backdrop.is-open {
+  display: flex;
+  opacity: 1;
+}
+
+.tv-w-backdrop.is-closing {
+  opacity: 0;
+}
+
+/* ─── Modal shell ─────────────────────────────────────────────────────── */
+
+.tv-w-modal {
+  position: relative;
+  width: min(560px, 100%);
+  max-height: min(720px, calc(100vh - 32px));
+  background: var(--tv-w-ivory);
+  border-radius: 20px;
+  box-shadow:
+    0 40px 120px -20px rgba(0, 25, 24, 0.55),
+    0 16px 40px -12px rgba(0, 25, 24, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.6);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  z-index: var(--tv-w-z-modal);
+  transform: translateY(16px) scale(0.96);
+  opacity: 0;
+  transition:
+    transform 560ms var(--tv-w-ease-slow),
+    opacity 360ms var(--tv-w-ease-soft);
+}
+
+.tv-w-backdrop.is-open .tv-w-modal {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+.tv-w-backdrop.is-closing .tv-w-modal {
+  transform: translateY(8px) scale(0.98);
+  opacity: 0;
+  transition:
+    transform 240ms var(--tv-w-ease-soft),
+    opacity 200ms var(--tv-w-ease-soft);
+}
+
+/* fine inner edge — barely visible but adds depth */
+.tv-w-modal::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  box-shadow: inset 0 0 0 1px rgba(0, 25, 24, 0.06);
+}
+
+/* ─── Header (Roman numerals + close) ─────────────────────────────────── */
+
+.tv-w-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 28px 0;
+  flex-shrink: 0;
+}
+
+.tv-w-step-mark {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 22px;
+  color: var(--tv-w-ink-muted);
+  letter-spacing: 0.02em;
+  font-weight: 400;
+  line-height: 1;
+  user-select: none;
+}
+
+.tv-w-step-mark .now {
+  color: var(--tv-w-teal);
+  font-weight: 600;
+  font-size: 26px;
+  transition: color 320ms var(--tv-w-ease-soft);
+}
+
+.tv-w-step-mark .sep {
+  margin: 0 6px;
+  opacity: 0.45;
+}
+
+.tv-w-close {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid var(--tv-w-line);
+  color: var(--tv-w-ink-soft);
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition:
+    transform 280ms var(--tv-w-ease-snap),
+    background 220ms var(--tv-w-ease-soft),
+    border-color 220ms var(--tv-w-ease-soft);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tv-w-close:hover {
+  background: var(--tv-w-ivory-dim);
+  border-color: var(--tv-w-ink-muted);
+  transform: rotate(90deg);
+}
+
+.tv-w-close svg {
+  width: 14px;
+  height: 14px;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  fill: none;
+}
+
+/* ─── Body (step content area) ─────────────────────────────────────────── */
+
+.tv-w-body {
+  position: relative;
+  flex: 1;
+  padding: 18px 28px 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+  scrollbar-color: var(--tv-w-line) transparent;
+}
+
+.tv-w-body::-webkit-scrollbar {
+  width: 6px;
+}
+.tv-w-body::-webkit-scrollbar-thumb {
+  background: var(--tv-w-line);
+  border-radius: 999px;
+}
+
+.tv-w-step {
+  display: none;
+  flex-direction: column;
+  gap: 18px;
+  padding-bottom: 8px;
+}
+
+.tv-w-step.is-active {
+  display: flex;
+  animation: tvWStepIn 540ms var(--tv-w-ease-slow);
+}
+
+.tv-w-step.is-leaving {
+  animation: tvWStepOut 240ms var(--tv-w-ease-soft) forwards;
+}
+
+@keyframes tvWStepIn {
+  0%   { opacity: 0; transform: translateX(24px); }
+  100% { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes tvWStepOut {
+  0%   { opacity: 1; transform: translateX(0); }
+  100% { opacity: 0; transform: translateX(-32px); }
+}
+
+/* ─── Step intro (eyebrow + headline + sub) ───────────────────────────── */
+
+.tv-w-eyebrow {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 15px;
+  color: var(--tv-w-teal);
+  letter-spacing: 0.01em;
+  margin: 0;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: tvWFadeUp 600ms var(--tv-w-ease-slow) forwards;
+  animation-delay: 80ms;
+}
+
+.tv-w-headline {
+  font-family: 'Plus Jakarta Sans', var(--font-primary), sans-serif;
+  font-weight: 700;
+  font-size: clamp(24px, 4.5vw, 30px);
+  line-height: 1.18;
+  letter-spacing: -0.015em;
+  color: var(--tv-w-ink);
+  margin: 0;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: tvWFadeUp 600ms var(--tv-w-ease-slow) forwards;
+  animation-delay: 160ms;
+}
+
+.tv-w-headline em {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-weight: 500;
+  color: var(--tv-w-teal);
+}
+
+.tv-w-sub {
+  font-family: 'Inter', sans-serif;
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--tv-w-ink-soft);
+  margin: 0;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: tvWFadeUp 600ms var(--tv-w-ease-slow) forwards;
+  animation-delay: 240ms;
+}
+
+@keyframes tvWFadeUp {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── Form fields ─────────────────────────────────────────────────────── */
+
+.tv-w-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: tvWFadeUp 600ms var(--tv-w-ease-slow) forwards;
+  animation-delay: 320ms;
+}
+
+.tv-w-field + .tv-w-field { animation-delay: 380ms; }
+.tv-w-field + .tv-w-field + .tv-w-field { animation-delay: 440ms; }
+
+.tv-w-label {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tv-w-ink-muted);
+}
+
+.tv-w-input,
+.tv-w-textarea,
+.tv-w-select {
+  font-family: 'Inter', sans-serif;
+  font-size: 16px;
+  color: var(--tv-w-ink);
+  background: transparent;
+  border: none;
+  border-bottom: 1.5px solid var(--tv-w-line);
+  padding: 12px 0 14px;
+  width: 100%;
+  outline: none;
+  transition: border-color 280ms var(--tv-w-ease-soft);
+  border-radius: 0;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.tv-w-input::placeholder,
+.tv-w-textarea::placeholder {
+  color: var(--tv-w-ink-muted);
+  opacity: 0.7;
+}
+
+.tv-w-textarea {
+  resize: vertical;
+  min-height: 64px;
+  line-height: 1.5;
+  padding: 12px 0;
+}
+
+.tv-w-select {
+  cursor: pointer;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M1 1l4 4 4-4' stroke='%238a8275' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 4px center;
+  padding-right: 24px;
+}
+
+/* draw-in underline on focus */
+.tv-w-input-wrap {
+  position: relative;
+}
+.tv-w-input-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 1.5px;
+  width: 0;
+  background: var(--tv-w-teal);
+  transition: width 360ms var(--tv-w-ease-slow);
+}
+.tv-w-input-wrap:focus-within::after {
+  width: 100%;
+}
+
+.tv-w-input.has-error,
+.tv-w-select.has-error,
+.tv-w-textarea.has-error {
+  border-bottom-color: var(--tv-w-error);
+}
+
+.tv-w-error-msg {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 13px;
+  color: var(--tv-w-error);
+  min-height: 18px;
+  margin-top: -2px;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition: opacity 220ms var(--tv-w-ease-soft), transform 220ms var(--tv-w-ease-soft);
+}
+
+.tv-w-error-msg.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ─── Intent cards (step 1) ───────────────────────────────────────────── */
+
+.tv-w-intents {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.tv-w-intent {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 20px;
+  background: #fff;
+  border: 1px solid var(--tv-w-line);
+  border-radius: 12px;
+  cursor: pointer;
+  text-align: left;
+  font-family: 'Inter', sans-serif;
+  color: var(--tv-w-ink);
+  transition:
+    transform 320ms var(--tv-w-ease-slow),
+    box-shadow 320ms var(--tv-w-ease-slow),
+    border-color 240ms var(--tv-w-ease-soft);
+  opacity: 0;
+  transform: translateY(12px);
+  animation: tvWFadeUp 600ms var(--tv-w-ease-slow) forwards;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tv-w-intents .tv-w-intent:nth-child(1) { animation-delay: 320ms; }
+.tv-w-intents .tv-w-intent:nth-child(2) { animation-delay: 400ms; }
+.tv-w-intents .tv-w-intent:nth-child(3) { animation-delay: 480ms; }
+
+.tv-w-intent:hover,
+.tv-w-intent:focus-visible {
+  transform: perspective(800px) translateZ(6px) translateY(-2px);
+  border-color: var(--tv-w-teal);
+  box-shadow:
+    0 18px 32px -16px rgba(0, 70, 67, 0.32),
+    0 4px 12px -4px rgba(0, 25, 24, 0.12);
+  outline: none;
+}
+
+.tv-w-intent:active {
+  transform: perspective(800px) translateZ(2px) translateY(-1px) scale(0.99);
+  transition-duration: 80ms;
+}
+
+.tv-w-intent-text {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.tv-w-intent-title {
+  font-weight: 600;
+  font-size: 15.5px;
+  letter-spacing: -0.005em;
+}
+
+.tv-w-intent-sub {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-style: italic;
+  font-size: 13.5px;
+  color: var(--tv-w-ink-muted);
+  font-weight: 400;
+}
+
+.tv-w-intent-arrow {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  stroke: var(--tv-w-teal);
+  stroke-width: 1.6;
+  fill: none;
+  transition: transform 320ms var(--tv-w-ease-slow);
+}
+
+.tv-w-intent:hover .tv-w-intent-arrow,
+.tv-w-intent:focus-visible .tv-w-intent-arrow {
+  transform: translateX(4px);
+}
+
+/* ─── Pill buttons (deals/budget bands) ───────────────────────────────── */
+
+.tv-w-pills {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+  margin-top: 4px;
+}
+
+@media (min-width: 480px) {
+  .tv-w-pills { grid-template-columns: repeat(4, 1fr); }
+}
+
+.tv-w-pill {
+  padding: 12px 8px;
+  background: #fff;
+  border: 1px solid var(--tv-w-line);
+  border-radius: 10px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--tv-w-ink);
+  cursor: pointer;
+  transition:
+    background 220ms var(--tv-w-ease-soft),
+    border-color 220ms var(--tv-w-ease-soft),
+    color 220ms var(--tv-w-ease-soft),
+    transform 260ms var(--tv-w-ease-snap);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tv-w-pill:hover {
+  border-color: var(--tv-w-teal);
+  color: var(--tv-w-teal);
+}
+
+.tv-w-pill.is-selected {
+  background: var(--tv-w-teal);
+  border-color: var(--tv-w-teal);
+  color: #fff;
+  transform: scale(1.02);
+  box-shadow: 0 6px 16px -6px rgba(0, 70, 67, 0.5);
+}
+
+.tv-w-pill:active { transform: scale(0.97); }
+
+/* ─── Footer (back / forward) ─────────────────────────────────────────── */
+
+.tv-w-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 18px 28px 22px;
+  flex-shrink: 0;
+  background: linear-gradient(to bottom, transparent 0%, var(--tv-w-ivory) 30%);
+}
+
+.tv-w-back {
+  background: transparent;
+  border: none;
+  color: var(--tv-w-ink-muted);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  padding: 8px 4px;
+  letter-spacing: 0.01em;
+  transition: color 200ms var(--tv-w-ease-soft);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.tv-w-back:hover { color: var(--tv-w-ink); }
+.tv-w-back:disabled {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.tv-w-next {
+  position: relative;
+  padding: 14px 24px;
+  background: var(--tv-w-teal);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14.5px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  overflow: hidden;
+  transition:
+    transform 320ms var(--tv-w-ease-slow),
+    background 220ms var(--tv-w-ease-soft),
+    box-shadow 320ms var(--tv-w-ease-slow);
+  -webkit-tap-highlight-color: transparent;
+  white-space: nowrap;
+}
+
+.tv-w-next:hover {
+  background: var(--tv-w-teal-deep);
+  transform: perspective(600px) translateZ(8px) translateY(-2px);
+  box-shadow: 0 14px 32px -10px rgba(0, 70, 67, 0.55), 0 4px 12px rgba(0, 25, 24, 0.16);
+}
+
+.tv-w-next:active {
+  transform: perspective(600px) translateZ(2px) translateY(-1px) scale(0.98);
+  transition-duration: 80ms;
+}
+
+.tv-w-next:disabled {
+  background: var(--tv-w-ivory-dim);
+  color: var(--tv-w-ink-muted);
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.tv-w-next svg {
+  width: 14px;
+  height: 14px;
+  stroke: currentColor;
+  stroke-width: 2;
+  fill: none;
+  transition: transform 280ms var(--tv-w-ease-slow);
+}
+
+.tv-w-next:hover:not(:disabled) svg {
+  transform: translateX(3px);
+}
+
+/* shimmer accent on the final ("Find a Time") button */
+.tv-w-next.is-final::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 60%;
+  height: 100%;
+  background: linear-gradient(
+    100deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.15) 50%,
+    transparent 100%
+  );
+  animation: tvWShimmer 2.4s ease-in-out infinite;
+  pointer-events: none;
+}
+
+@keyframes tvWShimmer {
+  0%   { left: -100%; }
+  60%  { left: 110%; }
+  100% { left: 110%; }
+}
+
+/* ─── Summary step (review before booking) ────────────────────────────── */
+
+.tv-w-summary {
+  background: #fff;
+  border: 1px solid var(--tv-w-line);
+  border-radius: 12px;
+  padding: 18px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.tv-w-summary-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  font-family: 'Inter', sans-serif;
+}
+
+.tv-w-summary-row + .tv-w-summary-row {
+  padding-top: 10px;
+  border-top: 1px solid var(--tv-w-line);
+}
+
+.tv-w-summary-key {
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--tv-w-ink-muted);
+  flex-shrink: 0;
+}
+
+.tv-w-summary-val {
+  font-size: 14.5px;
+  color: var(--tv-w-ink);
+  text-align: right;
+  font-weight: 500;
+}
+
+/* ─── Calendly embed step ─────────────────────────────────────────────── */
+
+.tv-w-calendly-wrap {
+  margin: 0 -28px -22px;
+  background: #fff;
+  border-top: 1px solid var(--tv-w-line);
+}
+
+.tv-w-calendly-inline {
+  min-width: 320px;
+  height: 640px;
+  width: 100%;
+}
+
+/* When the calendar is showing, the footer hides itself */
+.tv-w-step.has-calendly + .tv-w-foot {
+  display: none;
+}
+
+/* ─── Success step (exploring path, if no booking) ────────────────────── */
+
+.tv-w-success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 14px;
+  padding: 12px 0 4px;
+}
+
+.tv-w-success-mark {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--tv-w-teal);
+  display: grid;
+  place-items: center;
+  animation: tvWPop 600ms var(--tv-w-ease-snap);
+}
+
+.tv-w-success-mark svg {
+  width: 26px;
+  height: 26px;
+  stroke: #fff;
+  stroke-width: 2.5;
+  fill: none;
+}
+
+@keyframes tvWPop {
+  0%   { transform: scale(0.6); opacity: 0; }
+  60%  { transform: scale(1.08); }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* ─── Submitting indicator ────────────────────────────────────────────── */
+
+.tv-w-modal.is-submitting .tv-w-next {
+  color: transparent;
+  pointer-events: none;
+}
+
+.tv-w-modal.is-submitting .tv-w-next::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 18px;
+  height: 18px;
+  margin: -9px 0 0 -9px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: tvWSpin 720ms linear infinite;
+}
+
+@keyframes tvWSpin {
+  to { transform: rotate(360deg); }
+}
+
+/* ─── Body scroll lock when modal open ────────────────────────────────── */
+
+body.tv-w-scroll-lock {
+  overflow: hidden;
+  /* avoid layout shift from scrollbar disappearing */
+  padding-right: var(--tv-w-scrollbar-comp, 0);
+}
+
+/* ─── Mobile refinements ──────────────────────────────────────────────── */
+
+@media (max-width: 560px) {
+  .tv-w-backdrop { padding: 0; align-items: flex-end; }
+
+  .tv-w-modal {
+    width: 100%;
+    max-height: 92vh;
+    border-radius: 20px 20px 0 0;
+    transform: translateY(100%);
+  }
+
+  .tv-w-backdrop.is-open .tv-w-modal { transform: translateY(0); }
+  .tv-w-backdrop.is-closing .tv-w-modal { transform: translateY(20%); }
+
+  .tv-w-head { padding: 18px 22px 0; }
+  .tv-w-body { padding: 16px 22px 0; }
+  .tv-w-foot { padding: 14px 22px 18px; }
+
+  .tv-w-calendly-wrap { margin: 0 -22px -18px; }
+  .tv-w-calendly-inline { height: 580px; }
+
+  .tv-w-intent { padding: 16px 18px; }
+  .tv-w-intent-title { font-size: 15px; }
+
+  .tv-w-headline { font-size: 22px; }
+}
+
+/* ─── Reduced motion ──────────────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  .tv-w-backdrop,
+  .tv-w-modal,
+  .tv-w-step.is-active,
+  .tv-w-eyebrow,
+  .tv-w-headline,
+  .tv-w-sub,
+  .tv-w-field,
+  .tv-w-intent,
+  .tv-w-next svg,
+  .tv-w-intent-arrow,
+  .tv-w-input-wrap::after {
+    animation: none !important;
+    transition-duration: 1ms !important;
+  }
+  .tv-w-eyebrow,
+  .tv-w-headline,
+  .tv-w-sub,
+  .tv-w-field,
+  .tv-w-intent {
+    opacity: 1;
+    transform: none;
+  }
+  .tv-w-next.is-final::before { display: none; }
+}

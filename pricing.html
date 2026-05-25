@@ -72,6 +72,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.min.css" />
+    <link rel="stylesheet" href="assets/css/wizard.css" />
 
     <!-- Structured Data: WebPage -->
     <script type="application/ld+json">
@@ -338,7 +339,7 @@
         </div>
 
         <div class="nav-actions">
-          <a href="contact.html" class="btn btn-primary btn-sm">Get Started</a>
+          <button type="button" data-wizard-trigger class="btn btn-primary btn-sm">Get Started</button>
         </div>
 
         <button class="navbar-toggle" id="navbar-toggle" aria-label="Toggle navigation">
@@ -416,7 +417,7 @@
               <p style="font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-4);">
                 Best for: testing markets or single-market investors.
               </p>
-              <a href="contact.html" class="btn btn-secondary btn-full">Pick Starter Plan</a>
+              <button type="button" data-wizard-trigger data-wizard-intent="get_started" data-wizard-plan="2to3k" class="btn btn-secondary btn-full">Pick Starter Plan</button>
             </div>
 
             <div class="pricing-card featured fade-in">
@@ -458,7 +459,7 @@
               <p style="font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-4);">
                 Best for: scaling investors and multi-market operations.
               </p>
-              <a href="contact.html" class="btn btn-primary btn-full">Get Started</a>
+              <button type="button" data-wizard-trigger data-wizard-intent="get_started" data-wizard-plan="3to5k" class="btn btn-primary btn-full">Get Started</button>
             </div>
 
             <div class="pricing-card fade-in">
@@ -533,7 +534,7 @@
                   Multi-market campaigns
                 </li>
               </ul>
-              <a href="contact.html" class="btn btn-enterprise btn-full">Contact Sales</a>
+              <button type="button" data-wizard-trigger data-wizard-intent="talk_to_sales" data-wizard-plan="gt5k" class="btn btn-enterprise btn-full">Contact Sales</button>
             </div>
 
           </div>
@@ -899,5 +900,6 @@
       });
     })();
   </script>
+  <script src="assets/js/wizard.js" defer></script>
 </body>
 </html>
