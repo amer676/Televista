@@ -43,13 +43,19 @@
       talk_to_sales: "sales",
     },
 
-    // n8n webhook for wizard submissions. Receives the full payload at the
-    // final step. Should respond 2xx; we don't block the Calendly load on it.
-    submitEndpoint: "/api/wizard-submit", // placeholder — point at n8n when live
-
-    // Whether to also POST partial step data (one POST per step) for
-    // mid-funnel attribution. Adds load on n8n; turn off if not needed.
-    submitPartials: false,
+    // n8n webhook receiving every funnel signal. Same URL fires three
+    // distinct events keyed by the `stage` field in the payload:
+    //   - "email_captured"     fires when user advances past the email step
+    //                          (even if they bail at the Calendly step)
+    //   - "wizard_complete"    fires on entering the Summary step
+    //   - "booking_confirmed"  fires when Calendly emits event_scheduled
+    // pagehide also fires a sendBeacon partial if email is set and we
+    // haven't already submitted it (catches tab-close before Continue click).
+    //
+    // n8n workflow "Televista Wizard → Google Sheets" (id 8IIL56D2rgMfFdrW).
+    // Idempotent upsert by session_id; one row per lead, three stages roll
+    // forward into the same row.
+    submitEndpoint: "https://n8n.televistaleadgeneration.com/webhook/televista-wizard",
 
     // Light analytics — fires gtag events if gtag is available.
     fireGtagEvents: true,
@@ -450,6 +456,11 @@
     state.email = "";
     state.phone = "";
     state.submitting = false;
+    // Track the email we've already fired the "email_captured" webhook for,
+    // so we don't spam n8n if the user edits the email and clicks Continue
+    // multiple times. Same value → no re-fire. New value → fire again.
+    state.lastFiredEmail = "";
+    state.bookingConfirmed = false;
     modal.classList.remove("is-submitting");
 
     // Compensate for scrollbar hiding
@@ -525,6 +536,20 @@
       return;
     }
     clearStepError();
+
+    // Partial capture: the moment the user advances past an email-collecting
+    // step with a valid email, fire to n8n with everything we know so far.
+    // This is what makes the funnel forgiving — even if they bail at the
+    // Calendly step, we already have their email and qualifying answers.
+    if (
+      EMAIL_CAPTURE_STEPS.indexOf(step.key) !== -1 &&
+      state.email &&
+      isValidEmail(state.email) &&
+      state.email !== state.lastFiredEmail
+    ) {
+      state.lastFiredEmail = state.email;
+      submitToN8n("email_captured");
+    }
 
     // Submit on entering Calendly step (the booking is the conversion event)
     const flow = getFlow();
@@ -1020,45 +1045,91 @@
     );
   }
 
+  // Step keys at which we have a valid email — fire the partial capture
+  // when the user advances past one of these. Order matters: exploringEmail
+  // is the exploring path's email step, contact is the get_started/sales
+  // path's email+phone step.
+  const EMAIL_CAPTURE_STEPS = ["exploringEmail", "contact"];
+
+  /**
+   * Generic fire-and-forget POST to the n8n webhook. Used for every stage:
+   *   - "email_captured"     — partial, the moment we have a valid email
+   *   - "wizard_complete"    — user reached the Calendly step
+   *   - "booking_confirmed"  — Calendly fired event_scheduled
+   * Never blocks the UI. Always uses keepalive so the request survives
+   * page unload (important for redirects to thank-you.html).
+   */
+  function submitToN8n(stage, extra) {
+    // No endpoint configured yet — silently no-op so dev works without n8n.
+    if (!CONFIG.submitEndpoint || CONFIG.submitEndpoint === "/api/wizard-submit") {
+      fireEvent("wizard_" + stage, { intent: state.intent, vertical: state.vertical });
+      return Promise.resolve();
+    }
+    const payload = buildPayload(Object.assign({ stage: stage }, extra || {}));
+    let timeoutId = null;
+    let ctrl = null;
+    try {
+      ctrl = window.AbortController ? new AbortController() : null;
+      timeoutId = setTimeout(() => { if (ctrl) ctrl.abort(); }, 8000);
+    } catch (e) {}
+    const p = fetch(CONFIG.submitEndpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+      signal: ctrl ? ctrl.signal : undefined,
+      keepalive: true,
+    }).catch(() => { /* swallow — never block the user */ })
+      .finally(() => { if (timeoutId) clearTimeout(timeoutId); });
+    fireEvent("wizard_" + stage, { intent: state.intent, vertical: state.vertical });
+    return p;
+  }
+
+  /**
+   * sendBeacon fallback for users who close the tab between entering email
+   * and advancing the step. Fires exactly once per session, only if we have
+   * a valid email and haven't already submitted it.
+   */
+  function setupExitBeacon() {
+    function maybeFire() {
+      if (!state.email || !isValidEmail(state.email)) return;
+      if (state.lastFiredEmail === state.email) return;
+      if (!CONFIG.submitEndpoint || CONFIG.submitEndpoint === "/api/wizard-submit") return;
+      state.lastFiredEmail = state.email;
+      const payload = buildPayload({ stage: "email_captured", exit: true });
+      try {
+        if (navigator.sendBeacon) {
+          const blob = new Blob([JSON.stringify(payload)], { type: "application/json" });
+          navigator.sendBeacon(CONFIG.submitEndpoint, blob);
+        } else {
+          fetch(CONFIG.submitEndpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(payload),
+            keepalive: true,
+          }).catch(() => {});
+        }
+      } catch (e) {}
+    }
+    // pagehide is more reliable than beforeunload on mobile (Safari especially)
+    window.addEventListener("pagehide", maybeFire);
+    window.addEventListener("beforeunload", maybeFire);
+  }
+
   function submit() {
     if (state.submitting) return;
     state.submitting = true;
     modal.classList.add("is-submitting");
 
-    const payload = buildPayload({ stage: "wizard_complete" });
-
-    // Fire-and-forget: don't block the Calendly load on this network call.
-    // If the endpoint is the placeholder, just skip.
-    if (CONFIG.submitEndpoint && CONFIG.submitEndpoint !== "/api/wizard-submit") {
-      const ctrl = (window.AbortController) ? new AbortController() : null;
-      const tid = setTimeout(() => { if (ctrl) ctrl.abort(); }, 8000);
-      fetch(CONFIG.submitEndpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-        signal: ctrl ? ctrl.signal : undefined,
-        keepalive: true,
-      })
-        .catch(() => { /* swallow — Calendly is the real conversion */ })
-        .finally(() => {
-          clearTimeout(tid);
-          state.submitting = false;
-          modal.classList.remove("is-submitting");
-        });
-    } else {
-      // Placeholder endpoint — just clear the spinner after a beat so UX
-      // doesn't feel broken in dev
-      setTimeout(() => {
-        state.submitting = false;
-        modal.classList.remove("is-submitting");
-      }, 400);
-    }
-
-    fireEvent("wizard_complete", {
-      intent: state.intent,
-      vertical: state.vertical,
-      deals_band: state.deals,
+    submitToN8n("wizard_complete").finally(() => {
+      state.submitting = false;
+      modal.classList.remove("is-submitting");
     });
+    // Hard cap on the spinner — if n8n is slow or the placeholder endpoint
+    // returns instantly, the UX still feels right.
+    setTimeout(() => {
+      state.submitting = false;
+      modal.classList.remove("is-submitting");
+    }, 1200);
   }
 
   /* ─── Trigger attachment ──────────────────────────────────────────────── */
@@ -1104,6 +1175,14 @@
       var eventName = data.event || "";
 
       if (eventName === "calendly.event_scheduled") {
+        // Fire the booking_confirmed webhook to n8n with all wizard data +
+        // any scheduling payload Calendly included in the postMessage. This
+        // is the third and final funnel signal (email_captured →
+        // wizard_complete → booking_confirmed).
+        state.bookingConfirmed = true;
+        var calendlyPayload = (data && data.payload) ? data.payload : null;
+        submitToN8n("booking_confirmed", calendlyPayload ? { calendly: calendlyPayload } : {});
+
         fireEvent("wizard_booking_confirmed", {
           intent: state.intent,
           vertical: state.vertical,
@@ -1137,6 +1216,7 @@
   };
 
   setupCalendlyListener();
+  setupExitBeacon();
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", attachTriggers);
