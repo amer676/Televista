@@ -11,11 +11,11 @@ author: "Televista Team"
 
 ## The TCPA Enforcement Surge That's Catching [Real Estate Investor](https://televistaleadgeneration.com/blog/2026/02/11/colorado-real-estate-investor-financing-2026/)s Off Guard
 
-Picture this: a wholesaler cranking out 200 calls a day to distressed property owners. Routine, right? Well, not anymore. The [FCC is ramping up its enforcement efforts](https://www.[nar.realtor](https://www.nar.realtor/magazine/real-estate-news/law-and-ethics/more-telemarketing-lawsuits-ensnare-agents-brokerages)/magazine/real-estate-news/law-and-ethics/more-telemarketing-lawsuits-ensnare-agents-brokerages) on TCPA violations and National Do Not Call Registry infractions, putting real estate folks directly in the spotlight.
+Picture this: a wholesaler cranking out 200 calls a day to distressed property owners. Routine, right? Well, not anymore. The [FCC is ramping up its enforcement efforts](https://www.nar.realtor/magazine/real-estate-news/law-and-ethics/more-telemarketing-lawsuits-ensnare-agents-brokerages) on TCPA violations and National Do Not Call Registry infractions, putting real estate folks directly in the spotlight.
 
 > **Key Stat:** The surge in telemarketing lawsuits is hitting agents and brokerages harder than ever before.
 
-Wholesalers, agents, [investment](/pricing.html) firms — they've been doing the same thing for years but are now facing class-action suits. Damages? They add up quickly — $500 to $1,500 per violation. That wholesaler's daily calls? If just 20 of those hit registered numbers without consent, it's serious money.
+Wholesalers, agents, investment firms — they've been doing the same thing for years but are now facing class-action suits. Damages? They add up quickly — $500 to $1,500 per violation. That wholesaler's daily calls? If just 20 of those hit registered numbers without consent, it's serious money.
 
 And the kicker? **The rules aren't just stricter — they're more complex.** State mini-TCPAs layer extra requirements on top of federal law. In Texas, [amended mini-TCPA rules](https://www.eversheds-sutherland.com/en/estonia/insights/amended-texas-mini-tcpa-will-go-into-effect-on-september-1-2025) kick in on September 1, 2025.
 
