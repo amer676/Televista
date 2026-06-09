@@ -234,7 +234,7 @@ Here's the thing — while most investors are arguing about whether to drive or 
 
 **The Math That Ends the Argument**
 
-Starting at **$1,250/month**, Televista handles the entire cold calling operation. No dialer setup. No list management headaches. No training new VAs every six weeks when they quit.
+Starting at **$1,750/month**, Televista handles the entire cold calling operation. No dialer setup. No list management headaches. No training new VAs every six weeks when they quit.
 
 Compare that to DIY cold calling costs: [BatchLeads](https://batchleads.io) runs $497/month, skip tracing adds $200-300, dialer subscriptions cost another $150-200. You're already at $850+ before paying anyone to actually make calls. And that's assuming you can find decent callers (spoiler: you can't).
 

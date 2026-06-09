@@ -58,7 +58,7 @@ Most AI tools still think it's 2019. The best ones understand that cold calling 
 
 ## #1: [Televista Lead Generation](https://televistaleadgeneration.com/blog/2025/11/25/televista-lead-generation-real-estate-competitor-comparison/) — The Cold Calling Specialist's Choice
 
-**Starting at $1,250/month** for full campaign management, [Televista](https://televistaleadgeneration.com) isn't just another AI tool you'll need to learn.
+**Starting at $1,750/month** for full campaign management, [Televista](https://televistaleadgeneration.com) isn't just another AI tool you'll need to learn.
 
 We're the team that dials for you.
 
@@ -145,7 +145,7 @@ Einstein works best for teams already living in Salesforce who can feed it quali
 
 | Tool | Cold Calling Score (1-10) | Monthly Cost | Phone Data Quality | Real-time Scoring | Setup Time |
 |------|---------------------------|--------------|-------------------|------------------|------------|
-| **Televista Lead Generation** | 9.5 | $1,250+ (full service) | Excellent | Yes | 1-2 days |
+| **Televista Lead Generation** | 9.5 | $1,750+ (full service) | Excellent | Yes | 1-2 days |
 | **HubSpot Sales Hub** | 7.2 | $90-$3,600 | Good | Limited | 1-2 weeks |
 | **Outreach** | 8.1 | $150+ per user | Very Good | Yes | 2-3 weeks |
 | **Salesforce Einstein** | 6.8 | $50+ per user | Good | Limited | 3-4 weeks |

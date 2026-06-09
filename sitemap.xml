@@ -236,6 +236,21 @@ permalink: /sitemap.xml
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://televistaleadgeneration.com/televista-vs-call-savvys.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://televistaleadgeneration.com/televista-vs-leadsharks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://televistaleadgeneration.com/televista-vs-power-isa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://televistaleadgeneration.com/appointment-setting.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

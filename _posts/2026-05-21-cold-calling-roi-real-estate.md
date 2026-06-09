@@ -211,7 +211,7 @@ Second pillar: systematic A/B testing. We're constantly testing openers, follow-
 
 Third component: advanced analytics through [HubSpot](https://www.hubspot.com) integration. We track everything — not just dials and connects, but which lists convert better, which times of day work, even seasonal patterns. Data drives decisions, not gut feelings.
 
-Starting at $1,250/month, we handle the entire operation. You get the appointments, we manage everything else. [Book a strategy call](/contact.html) if you're tired of managing callers who don't understand your business.
+Starting at $1,750/month, we handle the entire operation. You get the appointments, we manage everything else. [Book a strategy call](/contact.html) if you're tired of managing callers who don't understand your business.
 
 ## Your Next Move: Implementing ROI-Driven Cold Calling
 

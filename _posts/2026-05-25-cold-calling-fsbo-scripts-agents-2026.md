@@ -67,7 +67,7 @@ The framework has three phases: **Question** (not pitch), **Validate** (their de
 
 We tested this against five different "industry standard" scripts last quarter — you know, the ones floating around real estate Facebook groups. Our approach generated 34% more appointments per conversation. The difference? We're not trying to overcome objections. We're preventing them.
 
-[Real estate lead generation](https://therealestatetrainer.com/prospecting-conversion-rates-for-real-estate-agents) conversion rates vary wildly, but consistent execution matters more than perfect scripts. That's why Televista handles the entire campaign — data sourcing, caller training, follow-up sequences. **$1,250+ per month** gets you trained callers, fresh FSBO data, and full campaign management.
+[Real estate lead generation](https://therealestatetrainer.com/prospecting-conversion-rates-for-real-estate-agents) conversion rates vary wildly, but consistent execution matters more than perfect scripts. That's why Televista handles the entire campaign — data sourcing, caller training, follow-up sequences. **$1,750+ per month** gets you trained callers, fresh FSBO data, and full campaign management.
 
 No babysitting dialers. No training new VAs every six weeks when they quit.
 
