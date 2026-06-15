@@ -195,7 +195,7 @@ And once your list quality improves, your callers' output improves with it. If y
 <div class="post-cta" style="background: linear-gradient(135deg, #1e3a5f 0%, #2563eb 100%); color: white; padding: 2.5rem; border-radius: 12px; text-align: center; margin: 2rem 0;">
   <h2 style="color: white; margin-bottom: 0.5rem;">Stop Guessing. Start Closing.</h2>
   <p style="font-size: 1.1rem; opacity: 0.95; max-width: 600px; margin: 0 auto 1.5rem;">
-    Televista runs managed cold calling and appointment-setting campaigns across comparison — we handle the prospecting, dialing, and appointment setting so you can focus on what you do best: closing deals.
+    Televista runs managed cold calling and appointment-setting campaigns across real estate, solar, roofing, and B2B — we handle the prospecting, dialing, and appointment setting so you can focus on what you do best: closing deals.
   </p>
   <div class="post-cta-actions" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
     <a class="btn btn-primary" href="/contact.html" style="background: white; color: #2563eb; padding: 0.75rem 2rem; border-radius: 8px; font-weight: bold; text-decoration: none;">Book a Free Strategy Call</a>
