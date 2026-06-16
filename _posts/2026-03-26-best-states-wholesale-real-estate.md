@@ -187,7 +187,7 @@ The secret sauce? **Trained callers who actually understand wholesale.** Not som
 
 > **Pro tip:** Skip the robocalls and SMS blasts. With [new Oregon registration requirements](https://www.oregon.gov/rea/newsroom/pages/2024-oren-j/property-wholesaling-law-rule-overview.aspx) and similar regulations spreading, compliance matters more than volume.
 
-**Full campaign management starts at $1,750 monthly.** Data included. No setup fees. You get a dedicated campaign manager who knows your local market — whether that's Dallas wholesaling or Cleveland fix-and-flips. We handle everything from list building to appointment setting while you focus on what actually makes money: closing deals.
+**Full campaign management starts at $1,750 monthly.** Data lists billed separately at cost. No setup fees. You get a dedicated campaign manager who knows your local market — whether that's Dallas wholesaling or Cleveland fix-and-flips. We handle everything from list building to appointment setting while you focus on what actually makes money: closing deals.
 
 Most wholesalers waste 20 hours weekly on lead gen that our team handles in their sleep.
 

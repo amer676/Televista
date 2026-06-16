@@ -225,7 +225,7 @@ Here's what separates us from typical call centers. Our reps see the full data p
 One of our clients in Phoenix was stuck at 6 appointments per month using generic investor lists. We switched him to our scored leads with custom call approaches. **First month: 23 appointments.** Second month: 31. He's now closing 8-12 deals per month and wondering why he wasted two years doing it the hard way.
 
 **How We Handle the Heavy Lifting**
-Most agents get overwhelmed trying to manage multiple data sources, lead scoring, and caller training. That's exactly why [Televista](/services.html) exists. We handle the entire pipeline—from data integration to appointment setting—starting at $1,250 monthly.
+Most agents get overwhelmed trying to manage multiple data sources, lead scoring, and caller training. That's exactly why [Televista](/services.html) exists. We handle the entire pipeline—from data integration to appointment setting—starting at $1,750 monthly.
 
 You wake up to qualified appointments in your calendar. We handle everything else.
 

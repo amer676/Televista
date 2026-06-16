@@ -35,7 +35,7 @@ Let's see which services actually move the needle versus which ones just sound g
 ## #1 Televista Lead Generation — The ROI King
 We're biased, obviously. But the numbers don't lie.
 
-**$1,750 monthly gets you 2-3 qualified appointments daily.** Complete campaign management. Data included. Trained callers who actually understand real estate — not some random VA reading scripts about "motivated sellers" without knowing what a short sale is.
+**$1,750 monthly gets you 2-3 qualified appointments daily.** Complete campaign management. Data lists billed separately at cost. Trained callers who actually understand real estate — not some random VA reading scripts about "motivated sellers" without knowing what a short sale is.
 
 Most [real estate cold calling services](https://www.realtor.com/advice/sell/cold-calling-real-estate/) charge similar rates but deliver half the appointments. I've seen competitors promise 50 dials daily then deliver 23. We log everything in [HubSpot](https://www.hubspot.com) — you get real-time dashboards showing exactly who we called, when, and what they said.
 

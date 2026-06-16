@@ -7,6 +7,8 @@ target_keyword: "AI lead scoring for motivated sellers 2026"
 categories: [blog]
 tags: ["AI lead scoring for motivated sellers 2026", "list stacking real estate", "motivated seller leads", "real estate lead generation", "AI real estate tools"]
 author: "Televista Team"
+robots: "noindex, follow"
+canonical_url: "/blog/2026/06/15/ai-propensity-scoring-vs-list-stacking/"
 ---
 
 ## Introduction

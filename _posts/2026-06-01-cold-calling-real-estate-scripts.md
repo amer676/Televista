@@ -215,7 +215,7 @@ The guy was burning through leads like crazy — spending $800/month on data, an
 
 We took over his entire campaign. Our trained callers handle the rejection, the compliance headaches, the follow-up sequences that actually convert. He focuses on what agents should focus on — meeting with qualified prospects and closing deals.
 
-**Full campaign management starts at $1,250/month.** That includes the callers, the scripts we've tested across thousands of dials, [HubSpot](https://www.hubspot.com) CRM setup, and compliance handling. No more wondering if you're violating DNC rules or sounding like a robot.
+**Full campaign management starts at $1,750/month.** That includes the callers, the scripts we've tested across thousands of dials, [HubSpot](https://www.hubspot.com) CRM setup, and compliance handling. No more wondering if you're violating DNC rules or sounding like a robot.
 
 The Phoenix agent? He's now booking 2-3 qualified appointments daily. Consistent pipeline. Predictable income.
 

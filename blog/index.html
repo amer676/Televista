@@ -10,7 +10,7 @@ title: Blog
     {% assign meta_description = "Cold calling, lead generation, and outbound sales playbooks for real estate investors, solar, roofing, insurance, and B2B." %}
     {% assign canonical_url = page.url | absolute_url %}
     {% assign og_image = "/assets/images/og-image.png" | absolute_url %}
-    <meta name="robots" content="index,follow" />
+    <meta name="robots" content="{% if paginator.page > 1 %}noindex,follow{% else %}index,follow{% endif %}" />
     <link rel="canonical" href="{{ canonical_url }}" />
     <link
       rel="alternate"

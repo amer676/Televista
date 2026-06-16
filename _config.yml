@@ -11,6 +11,7 @@ plugins:
   - jekyll-sitemap
 
 exclude:
+  - SEO-DEFERRED-WORK.md
   - TelevistaDashboardForReference/
   - node_modules/
   - vendor/

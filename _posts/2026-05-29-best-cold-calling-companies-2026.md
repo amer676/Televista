@@ -57,7 +57,7 @@ Compliance standards, industry specialization, onboarding speed — we scored ev
 
 Here's why [Televista](https://televistaleadgeneration.com) consistently outperforms the other 46 agencies we audited.
 
-Full campaign ownership. We don't just hand you a list and wish you luck — [our team](/about.html) manages everything from data sourcing to CRM integration. Starts at $1,250/month, which honestly beats most agencies charging double for half the service.
+Full campaign ownership. We don't just hand you a list and wish you luck — [our team](/about.html) manages everything from data sourcing to CRM integration. Starts at $1,750/month, which honestly beats most agencies charging double for half the service.
 
 **The numbers speak for themselves.** Our clients average 2-3 qualified appointments daily within 30 days. One solar client in Arizona went from 4 leads per week to 23 qualified appointments in their first month. (Took us 3 weeks to dial in their specific messaging, but worth every iteration.)
 
@@ -81,7 +81,7 @@ Here's how the top players stack up. No fluff — just the data that matters whe
 
 | Company | Monthly Cost | Specialization | Connect Rate | Pros | Cons |
 |---------|-------------|----------------|--------------|------|------|
-| **Televista** | $1,250-$3,500 | Full-service campaigns | 12-18% | Complete ownership, proven ROI | Higher investment |
+| **Televista** | $1,750-$4,050 | Full-service campaigns | 12-18% | Complete ownership, proven ROI | Higher investment |
 | **SalesRoads** | $2,800-$5,200 | Enterprise B2B | 8-14% | Great for large deals | Expensive, slow ramp |
 | **Belkins** | $1,800-$4,000 | Tech/SaaS focus | 10-15% | Strong email sequences | Limited phone focus |
 | **Martal Group** | $2,200-$4,800 | Multi-channel | 9-13% | Good tech integration | Inconsistent quality |
