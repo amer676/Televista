@@ -7,3 +7,6 @@ TelevistaDashboardForReference/
 *.pdf
 *.doc
 
+# Free-resource downloads are intentional site assets — keep them tracked
+!assets/downloads/*.pdf
+
