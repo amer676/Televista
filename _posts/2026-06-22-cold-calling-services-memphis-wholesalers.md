@@ -19,7 +19,7 @@ Finding the **best [cold calling services](/services.html) for real estate whole
 
 > **Key Stat:** REI wholesaling companies operating in Tennessee face [$10,000 per-violation penalties](https://tcpaguide.org/states/tennessee/rei-wholesaling) for non-compliance under the Tennessee Telephone Solicitation Act.
 
-We've evaluated eight [cold calling agencies](https://televistaleadgeneration.com/blog/2026/03/17/best-b2b-cold-calling-agencies-top-10/) across 200+ real estate campaigns — the [full breakdown is here](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html). This guide narrows it down for the Memphis market specifically: what works, what doesn't, and which services are actually worth your money in 2026.
+We've evaluated eight [cold calling agencies](https://televistaleadgeneration.com/blog/2026/03/17/best-b2b-cold-calling-agencies-top-10/) across numerous campaigns — the [full breakdown is here](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html). This guide narrows it down for the Memphis market specifically: what works, what doesn't, and which services are actually worth your money in 2026.
 
 [Televista](/services.html) sits at the top of our list. Here's why.
 
@@ -46,7 +46,7 @@ So what does a proper review like this actually evaluate? A few things:
 
 > **Pro tip:** Before you sign anything, ask if your caller is dedicated to your campaign or shared. Shared callers sound cheaper until your leads start getting confused about who called them last week.
 
-[Televista](/services.html) evaluated **8 cold calling agencies across 200+ real estate campaigns** — the findings from that research (updated April 2026, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) form the backbone of this review. Starting at **$1,750/mo** for a dedicated caller, with native integrations into [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com), Televista's built specifically for this kind of campaign.
+[Televista](/services.html) evaluated **8 cold calling agencies across numerous campaigns** — the findings from that research (updated April 2026, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) form the backbone of this review. Starting at **$1,750/mo** for a dedicated caller, with native integrations into [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com), Televista's built specifically for this kind of campaign.
 
 Most people get this backwards — they shop on price first, compliance last. Don't do that in Tennessee.
 
