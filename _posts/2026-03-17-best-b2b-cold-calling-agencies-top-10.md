@@ -51,7 +51,7 @@ Here's what makes us different from every other name on this list: we don't just
 
 **Pricing:** Packages start at $1,750/month. Data costs discussed per campaign since list sizes vary wildly between markets.
 
-**Real results:** One Dallas-based wholesaling team went from 4 contracts/month doing their own calling to 11 contracts/month within 60 days of onboarding with Televista. A solar company in Phoenix saw their appointment-to-close rate jump from 8% to 14% because our callers actually qualified prospects instead of booking anyone with a pulse.
+**Real results:** In one documented case, a Tampa wholesaler on our Growth plan went from inconsistent referrals to 90+ qualified seller leads/month, generating $12–15K/month in revenue on a $2,950/month spend — a 407–508% ROI. See the transparent math in the [full case study](/case-studies.html).
 
 > **Pro tip:** Most agencies charge separately for data, skip tracing, and dialer software. At Televista, the campaign management fee covers everything except the raw data pull — which we help you source at wholesale rates anyway.
 
