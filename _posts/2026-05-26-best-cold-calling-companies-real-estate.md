@@ -21,7 +21,7 @@ After switching to professional cold calling services, [Marcus secured 11 deals 
 
 The problem isn't the strategy — it's the amateur hour approach most investors take. You're competing against seasoned professionals who've dialed 50,000+ homeowners, not your cousin's friend who "sounds good on the phone."
 
-Professional [real estate cold calling services](https://televistaleadgeneration.com/blog/2026/05/14/best-cold-calling-companies-real-estate-2026) start around $1,750/month. Sounds expensive until you realize it's less than what you'll waste trying to figure it out yourself.
+Professional [real estate cold calling services](https://televistaleadgeneration.com/blog/2026/05/14/best-cold-calling-companies-real-estate-2026) start around $1,500/month. Sounds expensive until you realize it's less than what you'll waste trying to figure it out yourself.
 
 Our team at [Televista](/services.html) sees this pattern constantly — investors who burn through months of leads with poor execution before switching to a proven system. The math is brutal when you factor in opportunity cost.
 
@@ -30,7 +30,7 @@ Our team at [Televista](/services.html) sees this pattern constantly — investo
 ## Key Takeaways
 
 - Cold calling is still the fastest way to get motivated sellers.
-- Professional services start around $1,750/month and save you money in the long run.
+- Professional services start around $1,500/month and save you money in the long run.
 - Execution and expertise are what separate successful wholesalers from the rest.
 
 ## What Makes a Cold Calling Company Actually Good for Wholesalers
@@ -55,7 +55,7 @@ The difference between a call center and a real estate cold calling service? One
 
 We've run 856 cold calling campaigns since 2019. Yeah, I keep track.
 
-When wholesalers ask what makes [Televista](https://televistaleadgeneration.com) different, I point to one number: **$1,750/month flat rate** — no hidden fees, no per-lead charges, no contract traps. Most companies hit you with surprise costs after month two. We don't play that game.
+When wholesalers ask what makes [Televista](https://televistaleadgeneration.com) different, I point to one number: **$1,500/month flat rate** — no hidden fees, no per-lead charges, no contract traps. Most companies hit you with surprise costs after month two. We don't play that game.
 
 > **Key Stat:** Our clients average 12.3 qualified leads per week within 90 days
 
@@ -75,7 +75,7 @@ One of our Orlando clients was getting 40 callbacks weekly but only 2 appointmen
 
 [According to our internal data](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), 73% of cold calling failures happen because nobody's optimizing the campaign after week one. We assign a dedicated campaign manager to every client. Not a chatbot. Not a shared inbox. An actual human who reviews your numbers weekly and tweaks scripts, calling times, and list criteria.
 
-No contracts either — we earn your business every month. Start at $1,750, scale up as you grow, pause anytime. Simple.
+No contracts either — we earn your business every month. Start at $1,500, scale up as you grow, pause anytime. Simple.
 
 Want to see how [Televista's approach](/services.html) would work for your market? [Book a strategy call](/contact.html) and we'll break down exactly what this would look like for your wholesaling operation.
 
@@ -105,7 +105,7 @@ Here's the breakdown that matters. We've tested most of these ourselves.
 
 | Company | Starting Price | Contract Terms | CRM Integrations | Lead Qualification | Compliance Features | Overall Rating |
 |---------|----------------|----------------|------------------|-------------------|-------------------|----------------|
-| **Televista** | $1,750/mo | Month-to-month | HubSpot, Podio, REsimpli, Custom | AI-powered scoring + dedicated QA | TCPA compliant, DNC scrubbing, call recording | 9.4/10 |
+| **Televista** | $1,500/mo | Month-to-month | HubSpot, Podio, REsimpli, Custom | AI-powered scoring + dedicated QA | TCPA compliant, DNC scrubbing, call recording | 9.4/10 |
 | REVA Global | $1,500/mo | 3-month minimum | Salesforce, basic CRM | Manual review only | Basic DNC compliance | 7.2/10 |
 | CallPorter | $2,200/mo | 6-month contract | Limited integrations | Script-based only | TCPA training included | 6.8/10 |
 | Lead Scout | $1,950/mo | Month-to-month | [Zapier](https://zapier.com) connections | Mixed quality control | Self-reported compliance | 6.5/10 |
@@ -133,7 +133,7 @@ Most wholesalers get burned by per-lead pricing — sounds great until you're pa
 
 **Hourly rates** ($15-$25/hour) seem predictable but aren't. VAs slow down when they hit obstacles. Training weeks drag out. One of our Televista clients switched from an hourly model after burning $800 on a VA who spent three days "learning the script." Painful.
 
-**Flat-rate pricing** wins because you know exactly what you're spending. [Televista's flat-rate pricing with no long-term contracts](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) eliminates surprise bills. Budget $1,750 monthly — that's it.
+**Flat-rate pricing** wins because you know exactly what you're spending. [Televista's flat-rate pricing with no long-term contracts](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) eliminates surprise bills. Budget $1,500 monthly — that's it.
 
 [REVA Global's starting price at approximately $1,500/mo](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html) looks competitive until you add their per-appointment fees and CRM charges. We've seen clients pay $2,300+ by month three.
 
@@ -243,7 +243,7 @@ The guy who answers your calls? He knows what ARV means. He understands why you 
 
 **Flat-Rate Pricing Works**
 
-No surprise fees, no per-lead charges that spiral out of control. **$1,750/month** covers everything — caller wages, dialer costs, compliance monitoring, weekly reporting calls. 
+No surprise fees, no per-lead charges that spiral out of control. **$1,500/month** covers everything — caller wages, dialer costs, compliance monitoring, weekly reporting calls. 
 
 One of our Televista clients in Phoenix went from spending $3,200/month on a DIY setup (remember that Dallas wholesaler from earlier?) to closing 3 more deals per month at a lower cost. Simple math.
 
@@ -257,7 +257,7 @@ Most wholesalers spend three weeks "researching" and lose five deals while they'
 
 **First, get a real assessment.** Don't trust your current numbers — I've seen too many investors think they're doing fine with 2 deals a month when they should be closing 6. [Book a strategy call with our Televista team](/contact.html) for a free 15-minute campaign audit. We'll show you exactly where you're bleeding money.
 
-**Second, budget correctly.** Quality real estate cold calling services start around **$1,750 monthly** — anything cheaper and you're buying headaches, not leads. [REVA Global starts at $1,500/mo](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), but that's their entry-level package without the specialized real estate training you actually need.
+**Second, budget correctly.** Quality real estate cold calling services start around **$1,500 monthly** — anything cheaper and you're buying headaches, not leads. [REVA Global starts at $1,500/mo](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), but that's their entry-level package without the specialized real estate training you actually need.
 
 Skip the DIY route. Seriously.
 

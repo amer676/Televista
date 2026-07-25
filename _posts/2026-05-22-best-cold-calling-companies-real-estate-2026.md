@@ -50,7 +50,7 @@ Take our Dallas wholesaler case study. Guy was burning $800/month on [Mojo Diale
 | CRM Integration | Native [HubSpot](https://www.hubspot.com) + custom workflows | Manual data entry |
 | Campaign Management | Dedicated account manager | Rotating support team |
 
-**Pricing transparency** — we start at $1,750/month, which includes 40 hours of calling, lead research, and CRM setup. Most agencies hide their rates or lowball you upfront (then hit you with add-ons). We don't play that game.
+**Pricing transparency** — we start at $1,500/month, which includes 40 hours of calling, lead research, and CRM setup. Most agencies hide their rates or lowball you upfront (then hit you with add-ons). We don't play that game.
 
 The onboarding process takes 2 weeks max. First week is market research and script customization based on your specific niche — whether you're flipping, wholesaling, or buy-and-hold. Second week is dialer setup and team training on your investment criteria.
 
@@ -220,7 +220,7 @@ First question for any agency — what's your **real estate connect rate**? If t
 
 Ask about number warming strategies. Spam filters killed more deals in 2025 than bad scripts. Any agency still bulk-dialing from fresh numbers will torch your reputation faster than you can say "cash offer."
 
-Budget reality check — quality starts around **$1,750/month** minimum. [According to our analysis](https://televistaleadgeneration.com/blog/2026/05/14/best-cold-calling-companies-real-estate-2026), anything cheaper usually means overseas VAs reading generic scripts. Works about as well as you'd expect.
+Budget reality check — quality starts around **$1,500/month** minimum. [According to our analysis](https://televistaleadgeneration.com/blog/2026/05/14/best-cold-calling-companies-real-estate-2026), anything cheaper usually means overseas VAs reading generic scripts. Works about as well as you'd expect.
 
 Most importantly? Test their CRM integration before signing anything. I've watched deals die in data transfer limbo because agencies couldn't sync with [PropStream](https://www.propstream.com) or [REsimpli](https://www.resimpli.com).
 

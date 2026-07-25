@@ -46,7 +46,7 @@ So what does a proper review like this actually evaluate? A few things:
 
 > **Pro tip:** Before you sign anything, ask if your caller is dedicated to your campaign or shared. Shared callers sound cheaper until your leads start getting confused about who called them last week.
 
-[Televista](/services.html) evaluated **8 cold calling agencies across numerous campaigns** — the findings from that research (updated April 2026, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) form the backbone of this review. Starting at **$1,750/mo** for a dedicated caller, with native integrations into [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com), Televista's built specifically for this kind of campaign.
+[Televista](/services.html) evaluated **8 cold calling agencies across numerous campaigns** — the findings from that research (updated April 2026, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html)) form the backbone of this review. Starting at **$1,500/mo** for a dedicated caller, with native integrations into [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://www.resimpli.com), and [Podio](https://podio.com), Televista's built specifically for this kind of campaign.
 
 Most people get this backwards — they shop on price first, compliance last. Don't do that in Tennessee.
 
@@ -116,7 +116,7 @@ If you're comparing managed calling services rather than building in-house, the 
 
 | Service | Starting Price |
 |---|---|
-| [Televista](/services.html) | **$1,750/mo** (dedicated caller, CRM integration included) |
+| [Televista](/services.html) | **$1,500/mo** (dedicated caller, CRM integration included) |
 | REVA Global | ~$1,500/mo |
 | Call Motivated Sellers | ~$1,800/mo |
 
@@ -144,7 +144,7 @@ Non-negotiable. Tennessee operates under the [Tennessee Telephone Solicitation A
 
 **Week 3: Onboard callers with a Memphis-specific script.**
 
-Generic scripts don't land here. Train on local neighborhoods, common seller objections around probate delays, and how to handle the "I'm not interested" wall without immediately hanging up. If you're outsourcing — [Televista](/services.html) starts at **$1,750/mo** for a dedicated caller and integrates directly with GoHighLevel, [HubSpot](https://www.hubspot.com), and REsimpli — the onboarding call is where you transfer this local context.
+Generic scripts don't land here. Train on local neighborhoods, common seller objections around probate delays, and how to handle the "I'm not interested" wall without immediately hanging up. If you're outsourcing — [Televista](/services.html) starts at **$1,500/mo** for a dedicated caller and integrates directly with GoHighLevel, [HubSpot](https://www.hubspot.com), and REsimpli — the onboarding call is where you transfer this local context.
 
 **Week 4: Dial, track, and adjust.**
 
@@ -184,7 +184,7 @@ Here's the honest take: most wholesalers don't need a fancy 10-person call cente
 
 > **Pro tip:** Before you sign any contract with a calling service, ask them directly how they handle Tennessee's Mini-TCPA requirements. If they hesitate — or look it up while you're asking — walk away.
 
-[Televista](/services.html) starts at **$1,750/mo** for a dedicated caller and integrates with [REsimpli](https://resimpli.com), [GoHighLevel](https://gohighlevel.com), and [HubSpot](https://www.hubspot.com) out of the box — which means your pipeline doesn't break when calls start coming in.
+[Televista](/services.html) starts at **$1,500/mo** for a dedicated caller and integrates with [REsimpli](https://resimpli.com), [GoHighLevel](https://gohighlevel.com), and [HubSpot](https://www.hubspot.com) out of the box — which means your pipeline doesn't break when calls start coming in.
 
 **Your actual next step:** [book a strategy call](/contact.html) and get your first list segment built before the end of the week. Don't wait until next quarter.
 

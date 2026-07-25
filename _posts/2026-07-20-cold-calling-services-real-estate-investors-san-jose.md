@@ -19,7 +19,7 @@ The problem? Most investors either can't staff a consistent outbound operation t
 
 > **Pro tip:** Don't just hire a caller — hire a *system*. The list, the dialer, the scripts, the follow-up cadence — if any one piece is missing, your connect-to-appointment rate tanks fast.
 
-[Televista](/services.html) is our top pick for real estate investors in San Jose who want a fully-managed service: trained callers, list data, a [CallTools](https://www.calltools.com) power dialer, AI-powered lead scoring, and **exclusive leads never shared with competing investors**, starting at **$1,750/mo** on flat-rate, no-long-term-contract terms — per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
+[Televista](/services.html) is our top pick for real estate investors in San Jose who want a fully-managed service: trained callers, list data, a [CallTools](https://www.calltools.com) power dialer, AI-powered lead scoring, and **exclusive leads never shared with competing investors**, starting at **$1,500/mo** on flat-rate, no-long-term-contract terms — per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
 
 We'll cover the full field of options below. [Book a strategy call](/contact.html) if you want to skip straight to what fits your market.
 
@@ -42,7 +42,7 @@ At the basic end, you've got virtual assistant services: someone overseas readin
 - **Handle the whole workflow** — dialing, objection handling, follow-up, and appointment setting, not just "talk to strangers until someone says yes"
 - **Deliver leads that feed your pipeline** — integrated with tools like [REsimpli](https://resimpli.com), [GoHighLevel](https://www.gohighlevel.com), or [HubSpot](https://www.hubspot.com) so nothing falls through
 
-[Televista](/services.html) is built around this model — trained callers, a [CallTools](https://www.calltools.com) power dialer, list data, AI-powered lead scoring, and weekly reporting. Exclusive leads (never shared with competing investors), CRM integration, and flat-rate pricing starting at **$1,750/mo** with no long-term contract. You can see how it stacks up against the field in our [full comparison of 9 cold calling agencies](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), last updated July 2026.
+[Televista](/services.html) is built around this model — trained callers, a [CallTools](https://www.calltools.com) power dialer, list data, AI-powered lead scoring, and weekly reporting. Exclusive leads (never shared with competing investors), CRM integration, and flat-rate pricing starting at **$1,500/mo** with no long-term contract. You can see how it stacks up against the field in our [full comparison of 9 cold calling agencies](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), last updated July 2026.
 
 > **Pro tip:** Before you evaluate any service, ask one question — "are my leads exclusive?" If they can't answer yes immediately, keep walking. Shared leads in a hyper-competitive market like San Jose are basically worthless by the time you call them.
 
@@ -56,7 +56,7 @@ Cold calling is how you get there first. But here's the part most people skip ov
 
 That's why [real estate cold](https://televistaleadgeneration.com/blog/2026/07/13/fresno-real-estate-cold-calling-services/) calling services built specifically for investors perform differently than generic telemarketing. Night and day, honestly.
 
-**The business case is straightforward.** You're not paying for calls. You're paying for pipeline. A fully-managed service like [Televista](/services.html) handles trained callers, list data, and a [CallTools](https://www.calltools.com) power dialer — all under one roof, starting at [**$1,750/mo on flat-rate, no-contract terms**](/pricing.html). No hiring, no managing, no scrambling to pull your own skip-traced lists from [BatchLeads](https://www.batchleads.io) or [PropStream](https://www.propstream.com).
+**The business case is straightforward.** You're not paying for calls. You're paying for pipeline. A fully-managed service like [Televista](/services.html) handles trained callers, list data, and a [CallTools](https://www.calltools.com) power dialer — all under one roof, starting at [**$1,500/mo on flat-rate, no-contract terms**](/pricing.html). No hiring, no managing, no scrambling to pull your own skip-traced lists from [BatchLeads](https://www.batchleads.io) or [PropStream](https://www.propstream.com).
 
 > **Pro tip:** Don't just ask a cold calling service how many dials they make. Ask what their qualification criteria looks like — how they identify a motivated seller vs. someone who's mildly curious. That's where the real filter happens.
 
@@ -96,7 +96,7 @@ For list-building, [BatchLeads](https://batchleads.io) and [PropStream](https://
 
 Now, if you're going the outsourced route, the tech stack should already come with the service — and that's one area where a lot of agencies fall short.
 
-[Televista](/services.html) runs [CallTools](https://www.calltools.com) as its power dialer and includes AI-powered lead scoring with weekly reporting, so you're not just getting a call log at the end of the month — you're getting actual intelligence on which leads are worth following up on. Leads are exclusive, never shared with other investors. The service integrates directly with [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://resimpli.com), and [Podio](https://podio.com) — so whatever CRM you're already using, you're not rebuilding your workflow. Pricing starts at **$1,750/mo** on flat-rate, no long-term contract terms, per [Televista's comparison guide](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
+[Televista](/services.html) runs [CallTools](https://www.calltools.com) as its power dialer and includes AI-powered lead scoring with weekly reporting, so you're not just getting a call log at the end of the month — you're getting actual intelligence on which leads are worth following up on. Leads are exclusive, never shared with other investors. The service integrates directly with [GoHighLevel](https://www.gohighlevel.com), [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://resimpli.com), and [Podio](https://podio.com) — so whatever CRM you're already using, you're not rebuilding your workflow. Pricing starts at **$1,500/mo** on flat-rate, no long-term contract terms, per [Televista's comparison guide](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
 
 > **Pro tip:** Before you sign with any service, ask them what dialer they run and how leads get passed to your CRM. If they can't answer that clearly in 60 seconds, their ops are probably held together with duct tape.
 
@@ -114,7 +114,7 @@ Getting a cold calling operation running in San Jose isn't complicated — but t
 
 **Step 4: Set up your CRM before anyone dials.** Seriously — I've seen teams get their first leads with nowhere to put them. [REsimpli](https://resimpli.com) is built for real estate investors specifically. [GoHighLevel](https://www.gohighlevel.com) works great if you want more automation. Get your pipeline stages mapped before the first call goes out.
 
-**Step 5: Decide who's calling.** DIY if you have time. Outsource if you don't — and if you outsource, make sure your callers actually know the San Jose market, not just how to read a script. [Televista](/services.html) handles this as a fully-managed service starting at **$1,750/mo**, including trained callers, list data, a [CallTools](https://www.calltools.com) power dialer, AI-powered lead scoring, and weekly reporting — with exclusive leads that don't get shared with other investors, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
+**Step 5: Decide who's calling.** DIY if you have time. Outsource if you don't — and if you outsource, make sure your callers actually know the San Jose market, not just how to read a script. [Televista](/services.html) handles this as a fully-managed service starting at **$1,500/mo**, including trained callers, list data, a [CallTools](https://www.calltools.com) power dialer, AI-powered lead scoring, and weekly reporting — with exclusive leads that don't get shared with other investors, per [Televista Lead Generation](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
 
 **Step 6: Review, adjust, repeat.** Look at your weekly reports. What's your connect rate? What's converting to appointments? Cold calling isn't set-and-forget — you're tuning it every week.
 
@@ -144,7 +144,7 @@ San Jose's off-market opportunity isn't shrinking — but the window to reach mo
 
 Don't overthink the build-out. Pick a dialer ([CallTools](https://www.calltools.com) or [Mojo Dialer](https://www.mojosells.com)), pull a targeted list from [BatchLeads](https://batchleads.io) or [PropStream](https://propstream.com), and route leads into a CRM that actually fits your workflow — [REsimpli](https://resimpli.com) if you're a wholesaler, [HubSpot](https://www.hubspot.com) if you want more flexibility.
 
-If you'd rather skip the setup entirely, [Televista](/services.html) handles the whole stack — trained callers, list data, a CallTools power dialer, AI-powered lead scoring, weekly reporting, and exclusive leads that don't get shared with competing investors — starting at **$1,750/mo**, flat-rate, no long-term contract, with native integrations into GoHighLevel, [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://resimpli.com), and Podio. Full breakdown is in the [Televista comparison guide](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
+If you'd rather skip the setup entirely, [Televista](/services.html) handles the whole stack — trained callers, list data, a CallTools power dialer, AI-powered lead scoring, weekly reporting, and exclusive leads that don't get shared with competing investors — starting at **$1,500/mo**, flat-rate, no long-term contract, with native integrations into GoHighLevel, [HubSpot](https://www.hubspot.com), [Salesforce](https://www.salesforce.com), [REsimpli](https://resimpli.com), and Podio. Full breakdown is in the [Televista comparison guide](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html).
 
 > **Pro tip:** Don't launch a cold calling campaign the same week you're closing a deal. Your follow-up speed will suffer and that's exactly where leads die.
 

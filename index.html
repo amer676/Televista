@@ -10,7 +10,7 @@
     </title>
     <meta
       name="description"
-      content="Fully managed outbound calling for real estate, solar, roofing, insurance & home improvement. 2-3 appointments/day per caller. From $1,750/mo."
+      content="Fully managed outbound calling for real estate, solar, roofing, insurance & home improvement. 2-3 appointments/day per caller. From $1,500/mo."
     />
 
     <!-- Open Graph -->
@@ -120,6 +120,7 @@
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/main.min.css" />
     <link rel="stylesheet" href="assets/css/wizard.css" />
+    <link rel="stylesheet" href="assets/css/revamp.css" />
 
     <!-- Structured Data: Organization -->
     <script type="application/ld+json">
@@ -264,7 +265,7 @@
             "name": "Do you work with startups or only established companies?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We work with real estate investors, wholesalers, solar and roofing contractors, insurance agents, home improvement companies, and B2B and SaaS sellers — from first-time operators to established teams. Plans scale with you, starting at $1,750/month."
+              "text": "We work with real estate investors, wholesalers, solar and roofing contractors, insurance agents, home improvement companies, and B2B and SaaS sellers — from first-time operators to established teams. Plans scale with you, starting at $1,500/month."
             }
           },
           {
@@ -398,6 +399,7 @@
         </div>
 
         <div class="nav-actions">
+          <a href="https://dashboard.televistaleadgeneration.com" class="btn btn-outline btn-sm" rel="noopener">Client Login</a>
           <button type="button" data-wizard-trigger class="btn btn-primary btn-sm">Get Started</button>
         </div>
 
@@ -415,32 +417,20 @@
 
     <main id="main-content">
       <!-- Hero Section -->
-      <section class="hero section">
-        <div class="container">
-          <div class="text-center">
-            <h1 class="hero-title fade-in">
-              <em>Outbound</em> calling.<br />
-              <em>Real</em> conversations.<br />
-              <em>Managed</em> at scale.
-            </h1>
-            <p
-              class="section-description mx-auto fade-in"
-              style="max-width: 620px; margin-top: var(--space-6)"
-            >
-              A dedicated caller running your dedicated campaign — the equivalent of an in-house SDR team, fully trained and managed for you. Focus on closing while we fill the pipeline.
-            </p>
-            <div class="fade-in" style="margin-top: var(--space-8); display: flex; gap: var(--space-3); justify-content: center; flex-wrap: wrap;">
-              <button type="button" data-wizard-trigger class="btn btn-primary btn-lg">
-                Get Started
-              </button>
-              <a href="contact.html" class="btn btn-outline btn-lg">
-                Book a Discovery Call
-              </a>
-            </div>
-            <p class="urgency-note fade-in" style="margin-top: var(--space-4)">
-              Client spots available — launches in 5 business days
-            </p>
+      <section class="hero-v2" id="hero">
+        <canvas id="heroWaves" aria-hidden="true"></canvas>
+        <div class="hero-v2-inner container">
+          <p class="hero-v2-kicker">Cold calling · Appointment setting · All 50 states</p>
+          <h1 class="hero-v2-title">Lead generation,<br /><em>revolutionized.</em></h1>
+          <p class="hero-v2-sub">
+            Dedicated callers. 10,000+ dials a day. Qualified appointments landing on your
+            calendar — while you focus on closing.
+          </p>
+          <div class="hero-v2-ctas">
+            <button type="button" data-wizard-trigger class="btn btn-light-v2 btn-lg">Get Started</button>
+            <a href="#dashboard" class="btn btn-ghost-v2 btn-lg">See the live dashboard</a>
           </div>
+          <p class="hero-v2-trust">35 trained callers · 1,500+ leads delivered monthly · Launch in 5 business days</p>
         </div>
       </section>
 
@@ -482,11 +472,89 @@
         </div>
       </section>
 
+      <!-- Live Dashboard Demo -->
+      <section class="demo-section section" id="dashboard">
+        <div class="container">
+          <div class="text-center mb-10">
+            <h2 class="section-title fade-in">Your command center. <em class="demo-em">Live.</em></h2>
+            <p class="section-description mx-auto fade-in" style="max-width: 640px">
+              Every Televista client gets a real-time dashboard — dials, contact rates, pace against
+              target, call recordings, and honest ROI math — synced from the dialer floor every
+              30 minutes. This is a live demo. Click around.
+            </p>
+          </div>
+
+          <div class="demoCard fade-in">
+            <div class="demoBar" aria-hidden="true">
+              <i></i><i></i><i></i>
+              <span class="demoUrl">dashboard.televistaleadgeneration.com</span>
+              <span class="demoLive"><i></i>LIVE</span>
+            </div>
+            <div class="demoTabs" role="tablist" aria-label="Dashboard demo tabs">
+              <button class="on" data-tab="overview" role="tab">Overview</button>
+              <button data-tab="leads" role="tab">Leads</button>
+              <button data-tab="roi" role="tab">ROI</button>
+            </div>
+
+            <div class="demoPane" data-pane="overview">
+              <div class="demoTiles">
+                <div class="demoTile"><span>Leads this week</span><b>8</b><small>2 ahead of pace</small></div>
+                <div class="demoTile"><span>Leads today</span><b>3</b><small>latest 41 min ago</small></div>
+                <div class="demoTile"><span>Appointments this week</span><b>2</b><small>next: Tue 2:30 PM</small></div>
+              </div>
+              <div class="demoStrip">
+                <div class="demoStat"><b id="demoDials">3,412</b><span>dials today</span></div>
+                <div class="demoStat"><b>7.9h</b><span>campaign ran today</span></div>
+                <div class="demoStat"><b>13.2%</b><span>contact rate today</span></div>
+                <span class="demoSync">synced 8 min ago</span>
+              </div>
+              <div class="demoPaceCard">
+                <span class="demoPaceLabel">This week's pace</span>
+                <div class="demoPaceRow">Leads <span><strong>8</strong> / 10 target</span></div>
+                <div class="demoBarTrack"><span class="demoBarFill" id="demoPaceFill"></span></div>
+              </div>
+            </div>
+
+            <div class="demoPane" data-pane="leads" hidden>
+              <div class="demoLeadRow">
+                <button class="demoPlay" aria-label="Play recording" aria-pressed="false"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z"/></svg></button>
+                <span class="demoWave" aria-hidden="true"><i style="height:30%"></i><i style="height:62%"></i><i style="height:45%"></i><i style="height:80%"></i><i style="height:55%"></i><i style="height:70%"></i><i style="height:38%"></i><i style="height:66%"></i><i style="height:88%"></i><i style="height:52%"></i><i style="height:40%"></i><i style="height:72%"></i></span>
+                <div class="demoLeadWho"><b>3br/2ba · Mesa, AZ</b><span>"Wants a cash offer, closing inside 30 days." — QA review</span></div>
+                <span class="demoBadge hot">HOT</span>
+              </div>
+              <div class="demoLeadRow">
+                <button class="demoPlay" aria-label="Play recording" aria-pressed="false"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z"/></svg></button>
+                <span class="demoWave" aria-hidden="true"><i style="height:44%"></i><i style="height:58%"></i><i style="height:35%"></i><i style="height:76%"></i><i style="height:50%"></i><i style="height:64%"></i><i style="height:42%"></i><i style="height:70%"></i><i style="height:33%"></i><i style="height:57%"></i><i style="height:80%"></i><i style="height:48%"></i></span>
+                <div class="demoLeadWho"><b>Absentee owner · Tulsa, OK</b><span>"Inherited property, motivated to sell as-is." — QA review</span></div>
+                <span class="demoBadge">QUALIFIED</span>
+              </div>
+              <div class="demoLeadRow">
+                <button class="demoPlay" aria-label="Play recording" aria-pressed="false"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z"/></svg></button>
+                <span class="demoWave" aria-hidden="true"><i style="height:36%"></i><i style="height:68%"></i><i style="height:52%"></i><i style="height:84%"></i><i style="height:47%"></i><i style="height:73%"></i><i style="height:40%"></i><i style="height:61%"></i><i style="height:78%"></i><i style="height:44%"></i><i style="height:55%"></i><i style="height:69%"></i></span>
+                <div class="demoLeadWho"><b>Pre-foreclosure · Tampa, FL</b><span>"Confirmed timeline and price flexibility." — QA review</span></div>
+                <span class="demoBadge">BOOKED</span>
+              </div>
+            </div>
+
+            <div class="demoPane" data-pane="roi" hidden>
+              <div class="demoRoi">
+                <div class="demoRoiCell"><span>Projected pipeline</span><b class="win">$20,000</b></div>
+                <div class="demoRoiCell"><span>Actually closed · 3 won</span><b class="closed">$88,500</b></div>
+                <div class="demoRoiCell"><span>Your monthly investment</span><b class="spend">$2,500</b></div>
+              </div>
+              <p class="demoRoiNote">Projected pipeline from booked appointments, next to what actually closed — measured against what you invest per cycle. No vanity math.</p>
+            </div>
+          </div>
+
+          <p class="demoFoot fade-in">Already a client? <a href="https://dashboard.televistaleadgeneration.com" rel="noopener">Log in to your dashboard &rarr;</a></p>
+        </div>
+      </section>
+
       <!-- About strip (subtle AEO definition) -->
       <section class="about-strip" style="padding: var(--space-8) 0; background: var(--color-bg-primary); border-top: 1px solid var(--color-border);">
         <div class="container">
           <p style="max-width: 780px; margin: 0 auto; text-align: center; color: var(--color-text-secondary); font-size: var(--text-sm); line-height: 1.7;">
-            Televista is a fully-managed cold calling and appointment setting agency serving real estate investors, solar, roofing, insurance, and B2B companies across all 50 US states. Plans start at $1,750/month, campaigns launch in 5 business days, and our team of 35 trained callers places 10,000+ dials per day — delivering 1,500+ qualified leads to client pipelines every month.
+            Televista is a fully-managed cold calling and appointment setting agency serving real estate investors, solar, roofing, insurance, and B2B companies across all 50 US states. Plans start at $1,500/month (add Televista-sourced data for $250 per caller), campaigns launch in 5 business days, and our team of 35 trained callers places 10,000+ dials per day — delivering 1,500+ qualified leads to client pipelines every month.
           </p>
         </div>
       </section>
@@ -1380,13 +1448,20 @@
             </h2>
           </div>
 
+          <div class="priceToggle" role="group" aria-label="Data source">
+            <button class="on" data-mode="base" aria-pressed="true">Bring your own data</button>
+            <button data-mode="data" aria-pressed="false">Televista data · +$250/caller</button>
+          </div>
+          <p class="priceToggleNote">Month to month. No contracts. Cancel on a week's notice.</p>
+
           <div class="pricing-grid stagger-children">
             <div class="pricing-card fade-in">
               <div class="pricing-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -2px; margin-right: 6px;" aria-hidden="true"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="M12 15l-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"/><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></svg>Starter</div>
               <div class="pricing-price">
-                <span class="amount">$1,750</span>
+                <span class="amount" data-base="1500" data-with="1750">$1,500</span>
                 <span class="period">/month</span>
               </div>
+              <p class="dataDelta">+ $250/caller for Televista data</p>
               <p class="pricing-description">
                 Get a trained, fluent caller running outbound conversations on
                 your behalf. We handle dialing, QA, reporting, and CRM delivery.
@@ -1470,9 +1545,10 @@
             <div class="pricing-card featured fade-in">
               <div class="pricing-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style="vertical-align: -2px; margin-right: 6px;" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>Growth</div>
               <div class="pricing-price">
-                <span class="amount">$2,950</span>
+                <span class="amount" data-base="2500" data-with="2950">$2,500</span>
                 <span class="period">/month</span>
               </div>
+              <p class="dataDelta">+ $250/caller for Televista data</p>
               <p class="pricing-description">
                 Scale your outreach with a dedicated team. Perfect for
                 businesses ready to accelerate their pipeline.
@@ -1556,9 +1632,10 @@
             <div class="pricing-card fade-in">
               <div class="pricing-badge"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -2px; margin-right: 6px;" aria-hidden="true"><rect x="4" y="2" width="16" height="20" rx="2" ry="2"/><line x1="9" y1="6" x2="9" y2="6"/><line x1="15" y1="6" x2="15" y2="6"/><line x1="9" y1="10" x2="9" y2="10"/><line x1="15" y1="10" x2="15" y2="10"/><line x1="9" y1="14" x2="9" y2="14"/><line x1="15" y1="14" x2="15" y2="14"/><line x1="10" y1="22" x2="10" y2="18"/><line x1="14" y1="22" x2="14" y2="18"/></svg>Scale</div>
               <div class="pricing-price">
-                <span class="amount">$4,050</span>
+                <span class="amount" data-base="3300" data-with="4050">$3,300</span>
                 <span class="period">/month</span>
               </div>
+              <p class="dataDelta">+ $250/caller for Televista data</p>
               <p class="pricing-description">
                 Enterprise-level outbound without enterprise overhead. Full
                 team, full management, full results.
@@ -1713,7 +1790,8 @@
             </div>
           </div>
 
-          <p style="text-align:center;color:var(--color-text-muted);font-size:var(--text-sm);margin-top:var(--space-6);">* Data lists are not included in the above pricing. Data costs are discussed and customized per campaign criteria.</p>
+          <p id="extraCallerNote" style="text-align:center;color:var(--color-text-muted);font-size:var(--text-sm);margin-top:var(--space-6);">Additional callers: $1,100/mo each. Add Televista data for +$250/caller.</p>
+          <p style="text-align:center;color:var(--color-text-muted);font-size:var(--text-sm);margin-top:var(--space-2);">Add-ons: SMS campaigns $900/mo · VA lead manager $800/mo · Live client dashboard included with every plan.</p>
 
           <div class="text-center mt-8">
             <a
@@ -1792,7 +1870,7 @@
                 <tr class="total-row">
                   <td>Total Monthly</td>
                   <td>~$8,000+</td>
-                  <td class="tv-col tv-total">$2,950</td>
+                  <td class="tv-col tv-total">$2,500</td>
                 </tr>
               </tbody>
             </table>
@@ -2015,7 +2093,7 @@
             <div class="case-study-right">
               <div class="case-study-metrics">
                 <div class="case-study-metric">
-                  <span class="metric-value">$2,950</span>
+                  <span class="metric-value">$2,500</span>
                   <span class="metric-label">Monthly investment</span>
                 </div>
                 <div class="case-study-metric">
@@ -2726,7 +2804,7 @@
                     We work with real estate investors, wholesalers, solar and
                     roofing contractors, insurance agents, home improvement
                     companies, and B2B sellers — from first-time operators to
-                    established teams. Plans scale with you, starting at $1,750/month.
+                    established teams. Plans scale with you, starting at $1,500/month.
                   </p>
                 </div>
               </div>
@@ -3047,5 +3125,6 @@
     })();
   </script>
   <script src="assets/js/wizard.js" defer></script>
-</body>
+    <script src="assets/js/revamp.js" defer></script>
+  </body>
 </html>

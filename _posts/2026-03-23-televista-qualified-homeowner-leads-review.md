@@ -57,7 +57,7 @@ Most lead generation companies comparison studies miss this: it's not about volu
 ## Televista's Cost Per Lead Analysis: The Real Numbers
 Let's cut through the marketing fluff and do the actual math.
 
-Our Televista Starter package runs $1,750/month and typically delivers 45 qualified homeowner leads. That's **$38.89 per lead**. Growth package? $2,950 monthly for 90 leads — drops to **$32.78 per lead**. 
+Our Televista Starter package runs $1,500/month and typically delivers 45 qualified homeowner leads. That's **$38.89 per lead**. Growth package? $2,500 monthly for 90 leads — drops to **$32.78 per lead**. 
 
 Most people's jaws hit the floor when they see those numbers.
 
@@ -77,8 +77,8 @@ Here's what that looks like in real money:
 
 | Package | Monthly Cost | Leads Delivered | Cost Per Lead | Industry Average |
 |---------|-------------|----------------|---------------|------------------|
-| Starter | $1,750 | 45 | $38.89 | $89 |
-| Growth | $2,950 | 90 | $32.78 | $89 |
+| Starter | $1,500 | 45 | $38.89 | $89 |
+| Growth | $2,500 | 90 | $32.78 | $89 |
 
 The ROI gap isn't even close. But here's the catch — [cost per lead varies widely depending on provider, market, and lead quality](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/). Cheap leads from sketchy sources will burn your reputation faster than you can dial them.
 
@@ -141,19 +141,19 @@ Most companies talk about lead quality. We actually measure it.
 
 ## Real ROI Analysis: Tampa Wholesaler Case Study Breakdown
 
-Marcus paid $2,950 monthly for our Growth package. Here's the exact breakdown that turned him into our biggest advocate.
+Marcus paid $2,500 monthly for our Growth package. Here's the exact breakdown that turned him into our biggest advocate.
 
 Month one: 90 leads delivered through [CallTools](https://www.calltools.com) and tracked in [HubSpot](https://www.hubspot.com). His team converted 18 of those into actual appointments. That's a **20% appointment rate** — way above the industry standard 0.8% that [traditional cold calling methods deliver](/blog/2026/03/13/televista-advanced-cold-calling-strategies-real-estate-investors-wholesalers).
 
 The math gets interesting fast.
 
-Of those 18 appointments, Marcus closed 4 deals. Average wholesale fee? $3,200 per contract. **Total revenue: $12,800** against that $2,950 investment. That's 4.3x ROI in month one alone.
+Of those 18 appointments, Marcus closed 4 deals. Average wholesale fee? $3,200 per contract. **Total revenue: $12,800** against that $2,500 investment. That's 4.3x ROI in month one alone.
 
 But here's the real kicker (and why most people get lead gen completely wrong): lifetime value. Each homeowner lead who converts doesn't just buy once. Marcus tracked his closed clients for six months after our [Televista](https://televistaleadgeneration.com) team generated the initial contact. Three of those four deals referred additional properties. One guy became a repeat seller.
 
 > **Key Stat:** Average lifetime value per converted lead: $8,400
 
-The compounding effect is where qualified leads separate from garbage leads. Those 4 initial deals generated 11 total transactions over six months. Marcus cleared $35,200 in wholesale fees from that single $2,950 monthly investment.
+The compounding effect is where qualified leads separate from garbage leads. Those 4 initial deals generated 11 total transactions over six months. Marcus cleared $35,200 in wholesale fees from that single $2,500 monthly investment.
 
 Most contractors focus on the wrong metrics — they obsess over cost per lead instead of revenue per lead. [Cost per lead varies wildly depending on provider and market](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/), but revenue per lead? That's what pays the bills.
 
@@ -181,13 +181,13 @@ Real estate investors? Different conversation entirely. They need motivated sell
 
 Straight up — we've got two tiers at [Televista](https://televistaleadgeneration.com). No confusing packages or hidden fees.
 
-**Starter Plan: $1,750/month**
+**Starter Plan: $1,500/month**
 - 45+ qualified homeowner leads
 - $38.89 cost per lead
 - [CallTools](https://www.calltools.com) and [HubSpot](https://www.hubspot.com) integration included
 - Two dedicated callers on your account
 
-**Growth Plan: $2,950/month**
+**Growth Plan: $2,500/month**
 - 90+ qualified homeowner leads  
 - $32.78 cost per lead (16% savings per lead)
 - Same tech stack, but four callers working your lists
@@ -239,8 +239,8 @@ You'd need to convert at least 15% of leads to appointments and close 3 out of 1
 
 **My recommendation based on business size:**
 
-- **$75K+/month:** Start with our Growth package ($2,950). You can handle 90 leads monthly.
-- **$35-75K/month:** Begin with Starter ($1,750). Scale up after 90 days if you're converting well.
+- **$75K+/month:** Start with our Growth package ($2,500). You can handle 90 leads monthly.
+- **$35-75K/month:** Begin with Starter ($1,500). Scale up after 90 days if you're converting well.
 - **Under $35K/month:** Focus on perfecting your sales process first. Come back when you're ready to scale.
 
 [Cost per lead can vary widely depending on the provider, market, and quality](/blog/2026/02/02/are-pay-per-lead-models-worth-it-for-investors/) — we're transparent about our pricing because it works.

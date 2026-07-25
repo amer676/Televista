@@ -67,7 +67,7 @@ Expected response on a cold prospect list: 0.5–0.8% = **5–8 interested repli
 
 | Line item | Cost (managed plan) |
 |---|---|
-| Dedicated caller + dialer + 100 local numbers + QA | $1,750/mo on Starter, $2,950/mo on Growth ([see plans](/pricing.html)) |
+| Dedicated caller + dialer + 100 local numbers + QA | $1,500/mo on Starter, $2,500/mo on Growth ([see plans](/pricing.html)) |
 | Skip trace / list data | $150–$300 per active campaign |
 | Per-dial: ~$0.16–$0.25 (math: 200 dials/day × 20 days = 4,000 dials/mo on $1,000 caller cost share) | |
 | Per 1,000 dials direct cost | ~$200–$300 |
@@ -137,7 +137,7 @@ If you built your direct mail budget in 2022, run it through 2025 USPS rates bef
 
 If you're starting from zero (no prior mail program, no caller team), three honest paths:
 
-**1. Cold calling first.** Faster feedback, lower carrying cost, easier to test markets. Start on a [Starter plan](/pricing.html) at $1,750/mo for a single market test.
+**1. Cold calling first.** Faster feedback, lower carrying cost, easier to test markets. Start on a [Starter plan](/pricing.html) at $1,500/mo for a single market test.
 
 **2. If you have $5K+/mo already in mail, layer calling on top.** Don't replace — augment. Calling-after-mail produces the 287% multi-channel lift.
 

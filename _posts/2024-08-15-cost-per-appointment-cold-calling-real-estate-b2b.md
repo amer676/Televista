@@ -30,7 +30,7 @@ The cleanest 2025 number comes from [Leads at Scale's pricing guide](https://lea
 | Enterprise B2B | $500–$800 |
 | Healthcare / finance / legal | +45–70% premium for compliance overhead |
 
-For real estate investors and wholesalers, public benchmarks are messier — the industry tends to talk in "deals per month" rather than cost per appointment. But the underlying math is similar: a trained caller dialing a clean list books roughly 2–3 qualified meetings per day, which works out to **$30–$50 per appointment** on a $1,750/month plan with one full-time caller, or **$22–$35** on the [Growth plan](/pricing.html).
+For real estate investors and wholesalers, public benchmarks are messier — the industry tends to talk in "deals per month" rather than cost per appointment. But the underlying math is similar: a trained caller dialing a clean list books roughly 2–3 qualified meetings per day, which works out to **$30–$50 per appointment** on a $1,500/month plan with one full-time caller, or **$22–$35** on the [Growth plan](/pricing.html).
 
 That's an order of magnitude cheaper than B2B SaaS because:
 - The list density is higher (every property owner is a potential lead vs. fewer qualified accounts in B2B)
@@ -77,7 +77,7 @@ So you pay for ~16 months but get ~12 productive months. Per productive month, t
 - Hourly: $35–$75/hr US-based
 - Launch in **4–6 weeks** vs 3–6 months in-house
 
-A Televista Growth plan with two dedicated callers is **[$2,950/month](/pricing.html)** all-in with dialer, data scrubbing, CRM integration, and QA. That's roughly $1,475 per caller per month — below the bottom of the outsourced retainer range because we bundle infrastructure that most agencies bill separately.
+A Televista Growth plan with two dedicated callers is **[$2,500/month](/pricing.html)** all-in with dialer, data scrubbing, CRM integration, and QA. That's roughly $1,475 per caller per month — below the bottom of the outsourced retainer range because we bundle infrastructure that most agencies bill separately.
 
 ### Offshore VA (Philippines)
 
@@ -138,7 +138,7 @@ The formula that actually tells you something:
 
 Note "at least one second touch" — that filters out the soft "send me info" appointments that look like wins on a dashboard but produce zero pipeline.
 
-For a Televista Growth client running our [appointment-setting service](/appointment-setting.html) on $2,950/month, hitting 80 qualified appointments/month (4 per day × 20 working days), with ~$300 in data: real cost is roughly **$40 per appointment**, before opportunity cost. Subtract the soft appointments and you're at $55–$60 per "real" appointment that produces follow-ups.
+For a Televista Growth client running our [appointment-setting service](/appointment-setting.html) on $2,500/month, hitting 80 qualified appointments/month (4 per day × 20 working days), with ~$300 in data: real cost is roughly **$40 per appointment**, before opportunity cost. Subtract the soft appointments and you're at $55–$60 per "real" appointment that produces follow-ups.
 
 That's the number to negotiate against.
 
@@ -155,7 +155,7 @@ We're transparent about every number on [our pricing page](/pricing.html) — in
 <div class="post-cta">
   <h2>Want to know what your campaign would really cost?</h2>
   <p>
-    Televista's plans start at $1,750/month — one dedicated caller running your dedicated campaign,
+    Televista's plans start at $1,500/month — one dedicated caller running your dedicated campaign,
     with dialer, list scrubbing, QA, and weekly reporting included. Data lists are sourced separately
     per campaign.
   </p>

@@ -86,7 +86,7 @@ The honest math:
 
 ### Cold calling (same list, dedicated caller)
 
-- Caller + dialer + local numbers + QA: $1,750–$2,950/mo on a managed plan
+- Caller + dialer + local numbers + QA: $1,500–$2,500/mo on a managed plan
 - Dials: ~200/day × 20 days = 4,000/mo
 - Connect rate ~16%: 640 conversations/mo
 - Qualified conversations: ~80–120/mo
