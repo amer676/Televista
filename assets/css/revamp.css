@@ -295,3 +295,8 @@
 }
 .official-partner-divider { width: 1px; height: 34px; background: var(--color-border); margin: 0 6px; }
 .landvoice-logo { object-fit: contain; }
+
+/* Landvoice partner backlink layout */
+.landvoice-link { display: inline-flex; align-items: center; gap: 12px; text-decoration: none; }
+.landvoice-link:hover .official-partner-name-inline { color: var(--color-accent-primary); }
+a.partner-logo-card { text-decoration: none; color: inherit; }
