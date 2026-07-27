@@ -46,7 +46,7 @@ So what separates good services from forgettable ones? A few things:
 - **Reporting** — weekly visibility into what's actually happening
 - **CRM integration** — does it sync with [REsimpli](https://resimpli.com), [HubSpot](https://www.hubspot.com), [Podio](https://www.podio.com), or whatever you're running?
 
-[Televista](/services.html) checks all of those boxes as a fully managed service — starting at **$1,750/month**, flat-rate, no long-term contract, with exclusive leads that don't get recycled to other investors in your market. That last part matters more than most people realize.
+[Televista](/services.html) checks all of those boxes as a fully managed service — starting at **$1,500/month**, flat-rate, no long-term contract, with exclusive leads that don't get recycled to other investors in your market. That last part matters more than most people realize.
 
 Most "lead gen" services quietly resell the same leads to five buyers. Yours included, probably.
 
@@ -132,7 +132,7 @@ Here's the actual sequence.
 
 > **Pro tip:** Don't judge a campaign in week one. The first two weeks are calibration — caller familiarity with your market, script refinement, list scrubbing. Week three is where you start seeing real signal.
 
-If you'd rather skip the setup entirely, [Televista's](/services.html) fully-managed model includes list data, trained callers, a CallTools power dialer, AI-powered lead scoring, and CRM integration — starting at [$1,750/month on flat-rate, no-contract terms](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html). Worth considering if your time's better spent closing than configuring.
+If you'd rather skip the setup entirely, [Televista's](/services.html) fully-managed model includes list data, trained callers, a CallTools power dialer, AI-powered lead scoring, and CRM integration — starting at [$1,500/month on flat-rate, no-contract terms](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html). Worth considering if your time's better spent closing than configuring.
 
 ## Common Mistakes to Avoid
 
@@ -158,7 +158,7 @@ Cold calling still works. But the margin for sloppiness is gone.
 
 > **Key Stat:** The [average cold call conversion rate sits at 1–2%](https://www.reddit.com/r/sales/comments/1gdao8q/multiple_sources_indicate_that_the_average_cold) across industries — which means your list quality, caller training, and follow-up system aren't optional. They're what separate a profitable campaign from an expensive experiment.
 
-Most investors overcomplicate the decision, honestly. Pick a service that runs the whole operation — callers, data, dialer, CRM sync — so you're reviewing leads, not babysitting a campaign. [Televista](/services.html) starts at [$1,750/month flat-rate, no long-term contract](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), integrates with [REsimpli](https://resimpli.com), [HubSpot](https://www.hubspot.com), and [GoHighLevel](https://www.gohighlevel.com), and delivers exclusive leads — never shared with competing investors.
+Most investors overcomplicate the decision, honestly. Pick a service that runs the whole operation — callers, data, dialer, CRM sync — so you're reviewing leads, not babysitting a campaign. [Televista](/services.html) starts at [$1,500/month flat-rate, no long-term contract](https://televistaleadgeneration.com/best-cold-calling-companies-real-estate.html), integrates with [REsimpli](https://resimpli.com), [HubSpot](https://www.hubspot.com), and [GoHighLevel](https://www.gohighlevel.com), and delivers exclusive leads — never shared with competing investors.
 
 **Your next move:** don't research this for another two weeks. [Book a strategy call](/contact.html) and figure out if outsourced cold calling fits your current deal volume. That's the actual decision.
 
